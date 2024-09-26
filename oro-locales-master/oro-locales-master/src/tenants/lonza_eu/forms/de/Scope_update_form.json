@@ -1,0 +1,110 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Formular zur Aktualisierung des Anwendungsbereichs",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Aktueller GMP-Status",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 5,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 17,
+    "fieldName": "supplierUsedFor",
+    "name": "<p><strong>Was soll vom Lieferanten beschafft werden?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Equipment/Software": "Geräte/Software",
+      "Services": "Dienstleistungen",
+      "Materials": "Materialien"
+    },
+    "type": "field"
+  },
+  {
+    "id": 20,
+    "fieldName": "materialCategory",
+    "name": "<p><strong style=\"color: rgb(62, 68, 86);\">Bitte wählen Sie die zutreffende(n) Kategorie(n) gemäß GROUP-99350</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 23,
+    "fieldName": "latestDatetoPlacePO",
+    "name": "<p><strong style=\"color: rgb(62, 68, 86);\">Spätester Termin zum Abschluss der Qualifizierung für die fristgerechte Erteilung der Bestellung</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "> 6 months": "> 6 Monate",
+      "< 3 months": "< 3 Monate",
+      "3 to 6 months": "3 bis 6 Monate"
+    },
+    "type": "field"
+  },
+  {
+    "id": 14,
+    "fieldName": "requestorSite",
+    "name": "<p><strong>Wählen Sie den Standort des Anforderers aus</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 8,
+    "fieldName": "setGMPFlag",
+    "name": "<p><strong>Möchten Sie diesen Lieferanten als GMP-relevant klassifizieren?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 11,
+    "fieldName": "unsetGMP",
+    "name": "<p><strong>Möchten Sie diesen Lieferanten als nicht-GMP-relevant klassifizieren?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "isGMP",
+    "name": "<p><strong>GMP-Kennzeichnung für diesen Lieferanten aktiviert?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

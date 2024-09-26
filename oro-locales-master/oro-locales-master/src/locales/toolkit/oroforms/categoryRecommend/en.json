@@ -1,0 +1,10 @@
+{
+  "--selectCategory--": "Select a category based on the request summary",
+  "--hereAreSomeRecommendations--": "Here are some recommendations",
+  "--youCanSelectOptionOrManually--": "You can select an option below or search manually",
+  "--searchManually--": "Search manually",
+  "--pleaseSelectCategory--": "Please select a category",
+  "--category--": "Category",
+  "--categoryPlaceholder--": "Category",
+  "--requestSummary--": "Request Summary"
+}

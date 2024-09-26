@@ -1,0 +1,50 @@
+[
+  {
+    "id": null,
+    "name": "Création du fournisseur",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 12,
+    "name": "Gérer les problèmes de données",
+    "type": null,
+    "description": "Une erreur a été déclenchée dans le RPA"
+  },
+  {
+    "id": 15,
+    "name": "Mise à jour du fournisseur dans Syniti",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 14,
+    "name": "Créer un fournisseur dans Syniti",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 6,
+    "name": "Prolonger un fournisseur dans Syniti",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 19,
+    "name": "Mise à jour du fournisseur dans la confirmation SAP",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 18,
+    "name": "Mise à jour du fournisseur réussie ! ",
+    "type": null,
+    "description": "Mise à jour du fournisseur réussie !"
+  },
+  {
+    "id": 13,
+    "name": "Mise à jour du fournisseur réussie ! ",
+    "type": null,
+    "description": null
+  }
+]

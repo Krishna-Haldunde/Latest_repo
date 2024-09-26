@@ -1,0 +1,13 @@
+{
+  "Personal Identifiable Information (PII)": "Идентифицируемая информация (PII)",
+  "DATA PRIVACY": "КОНФИДЕНЦИАЛЬНОСТЬ ДАННЫХ",
+  "GDPR compliance check for EU": "Проверка соблюдения правил GDPR для стран ЕС",
+  "PII compliance check for California": "Проверка соблюдения правил работы с PII для Калифорнии",
+  "Yes": "Да",
+  "Response is required.": "Требуется ответ.",
+  "No": "Нет",
+  "Is there any planned or potential use of personal identifiable information (PII) data being used in this project going to / coming from California?": "Возможно ли, что в данном проекте будет использоваться идентифицируемая информация (PII), поступающая из Калифорнии или в Калифорнию?",
+  "Is there any planned or potential use of personal identifiable information (PII) data being used in this project going to / coming from the European Union?": "Возможно ли, что в данном проекте будет использоваться идентифицируемая информация (PII), поступающая из Европейского союза или в Европейский союз?",
+  "(e.g. Name, Address, Email, Phone Number, any data that can identify an individual)": "(Это может быть, например, имя, адрес, электронная почта, номер телефона или любые другие данные, которые позволяют идентифицировать личность.)",
+  "Does your current project or planned future use of this supplier’s product and/or services involve access to personal identifiable information(PII) that can be used to identify an individual ‘natural’ person?": "Предполагает ли ваш текущий проект или планируемое в будущем использование продукта или услуг этого поставщика доступ к идентифицируемой информации (PII), то есть к данным, которые могут быть использованы для идентификации того или иного физического лица?"
+}

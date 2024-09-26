@@ -1,0 +1,107 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "QA Early Review Summary",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "QA Early Review Summary",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 25,
+    "fieldName": "proceedOnboarding",
+    "name": "<p>Can supplier be onboarded?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 33,
+    "fieldName": "isClientQualifiedSupplier",
+    "name": "<p>Is Client Qualified Supplier</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 36,
+    "fieldName": "clientQualifiedHelpText",
+    "name": null,
+    "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>The assessment outcome you selected isn’t in alignment with GROUP-99350. The requestor selected client qualified and you are choosing a different qualification type. Review before proceeding.</em></strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 38,
+    "fieldName": "globalQualificationHelpText",
+    "name": "null(1)",
+    "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>The assessment outcome you selected isn’t in alignment with GROUP-99350. The requestor selected a class within M01-M06, M20, M50, M51, S01-S06, S50, S51, E03-E06</em></strong> <strong style=\\\"color: rgb(230, 0, 0);\\\"><em>which is applicable to Global supplier qualification. Review before proceeding.</em></strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 42,
+    "fieldName": "helpTextForNoQualification",
+    "name": "null(1)",
+    "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>The assessment outcome you selected isn’t in alignment with GROUP-99350. The requestor selected a class within M07, M99, S07, S99, E07 which is applicable to Local Supplier Qualification or No Qualification. Review before proceeding.</em></strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 22,
+    "fieldName": "localSupQAForms",
+    "name": "<p><strong>Upload Local Supplier Qualification Forms</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 19,
+    "fieldName": "qualificationType",
+    "name": "<p><strong>QA request assessment outcome</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "No Qualification Required": "No Qualification Required",
+      "Local Supplier Qualification": "Local Supplier Qualification",
+      "Client Supplier Qualification": "Client Supplier Qualification",
+      "Global Supplier Qualification": "Global Supplier Qualification"
+    },
+    "type": "field"
+  },
+  {
+    "id": 30,
+    "fieldName": "selectedClass",
+    "name": "<p><strong>Selected Class of Material/Services/Equipment</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

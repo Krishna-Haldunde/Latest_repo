@@ -1,0 +1,211 @@
+[
+  {
+    "id": "Supplier Extension Workflow",
+    "requestName": "Prolongation du fournisseur",
+    "shortDescription": "Permettre à un fournisseur GRT existant d'accéder à des sociétés GRT supplémentaires",
+    "stepTitles": {
+      "Procurement": "Achats",
+      "Need": "Besoin",
+      "Details": "Détails",
+      "Compliance": "Conformité",
+      "Quality": "Qualité",
+      "Legal": "Juridique",
+      "Review Process": "Processus d'examen",
+      "Supplier": "Fournisseur",
+      "IT": "Informatique"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Supplier data update",
+    "requestName": "Mise à jour du fournisseur",
+    "shortDescription": "Modifier les données des fournisseurs existants (données bancaires, contacts, conditions de paiement, adresse ou nom de l'entreprise)",
+    "stepTitles": {
+      "Procurement": "Achats",
+      "Details": "Détails",
+      "Applicable Updates": "Mises à jour applicables",
+      "Compliance": "Conformité",
+      "Quality": "Qualité",
+      "Legal": "Juridique",
+      "Review Process": "Processus d'examen",
+      "Supplier": "Fournisseur",
+      "IT": "Informatique"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Fast Lane Onboarding",
+    "requestName": "Procédure d’intégration accélérée",
+    "shortDescription": "Utilisé uniquement pour l'équipe de matériel direct\nFournisseurs critiques pour l'entreprise avec un accord de niveau de service (SLA) de 24 heures - test add",
+    "stepTitles": {
+      "Need": "Besoin",
+      "Details": "Détails",
+      "Quality": "Qualité",
+      "Legal": "Juridique",
+      "Review Process": "Processus d'examen",
+      "Choose Category": "Choisir une catégorie",
+      "Summary": "Résumé",
+      "Supplier": "Fournisseur",
+      "Review": "Examen"
+    },
+    "engagementAttributes": {
+      "priority": "priorité"
+    }
+  },
+  {
+    "id": "Supplier Onboarding Workflow",
+    "requestName": "Intégration d’un nouveau fournisseur",
+    "shortDescription": "Créer un nouveau fournisseur avec ou sans TPDD",
+    "stepTitles": {
+      "Additional Categories": "Catégories supplémentaires",
+      "Need": "Besoin",
+      "Details": "Détails",
+      "Quality": "Qualité",
+      "Review Process": "Processus d'examen",
+      "Choose Category": "Choisir une catégorie",
+      "Summary": "Résumé",
+      "Supplier": "Fournisseur",
+      "IT": "Informatique"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Test category suggestion",
+    "requestName": "Tester la suggestion de catégorie",
+    "shortDescription": "Suggestion de catégorie de test (Test Add)",
+    "stepTitles": {
+      "Procurement": "Achats",
+      "Choose category": "Choisir une catégorie",
+      "Compliance": "Conformité",
+      "Quality": "Qualité",
+      "Documents": "Documents",
+      "Legal": "Juridique",
+      "Review Process": "Processus d'examen",
+      "Onboarding details": "Informations sur l'intégration",
+      "IT": "Informatique"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "TPDD Renewal",
+    "requestName": "Renouvellement de la diligence raisonnable à l’égard des tiers",
+    "shortDescription": "Renouveler ou réaliser un TPDD pour un fournisseur existant",
+    "stepTitles": {
+      "Details": "Détails",
+      "Compliance": "Conformité",
+      "Review Process": "Processus d'examen",
+      "Info": "Infos"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Sanction and Adverse Media Check",
+    "requestName": "Vérification concernant les sanctions et les couvertures médiatiques défavorables",
+    "shortDescription": "Vérification concernant les sanctions et les couvertures médiatiques défavorables par lexisnexis",
+    "stepTitles": {
+      "Compliance": "Conformité",
+      "Documents": "Documents",
+      "Review Process": "Processus d'examen",
+      "Info": "Infos"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Test supplier notification",
+    "requestName": "Tester la notification aux fournisseurs",
+    "shortDescription": "Tester le contenu de l'e-mail de notification aux fournisseurs",
+    "stepTitles": {
+      "Procurement": "Achats",
+      "Compliance": "Conformité",
+      "Quality": "Qualité",
+      "Documents": "Documents",
+      "Legal": "Juridique",
+      "Review Process": "Processus d'examen",
+      "Supplier": "Fournisseur",
+      "Onboarding details": "Informations sur l'intégration",
+      "IT": "Informatique"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Test TPDD form",
+    "requestName": "Test du formulaire de devoir de diligence et de gestion des risques de la chaîne d'approvisionnement",
+    "shortDescription": "",
+    "stepTitles": {
+      "Procurement": "Achats",
+      "Compliance": "Conformité",
+      "Quality": "Qualité",
+      "Documents": "Documents",
+      "Legal": "Juridique",
+      "Review Process": "Processus d'examen",
+      "Supplier": "Fournisseur",
+      "Onboarding details": "Informations sur l'intégration",
+      "IT": "Informatique"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Test SIv2",
+    "requestName": "Test SIv2",
+    "shortDescription": "test supplier id v2",
+    "stepTitles": {
+      "Procurement": "Achats",
+      "Compliance": "Conformité",
+      "Quality": "Qualité",
+      "Documents": "Documents",
+      "Legal": "Juridique",
+      "Review Process": "Processus d'examen",
+      "Supplier": "Fournisseur",
+      "Onboarding details": "Informations sur l'intégration",
+      "IT": "Informatique"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Supplier onboarding request",
+    "requestName": "Demandes de fournisseur",
+    "shortDescription": "Pour les fournisseurs nouveaux et existants (prolongation)",
+    "stepTitles": {
+      "Guidance": "Orientations",
+      "Procurement": "Achats",
+      "Basic": "Simple",
+      "Compliance": "Conformité",
+      "Individual": "Individuel",
+      "Old": "Ancien",
+      "Quality": "Qualité",
+      "Legal": "Juridique",
+      "Supplier": "Fournisseur",
+      "IT": "Informatique"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Supplier Data Maintenance",
+    "requestName": "Maintenance des données des fournisseurs",
+    "shortDescription": "Maintenance des données des fournisseurs",
+    "stepTitles": {
+      "Details": "Détails",
+      "Review Process": "Processus d'examen",
+      "Type of Update": "Type de mise à jour",
+      "Supplier": "Fournisseur"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Supplier Updates",
+    "requestName": "Mise à jour des informations sur le fournisseur",
+    "shortDescription": "Mises à jour du fournisseur",
+    "stepTitles": {
+      "Procurement": "Achats",
+      "Compliance": "Conformité",
+      "Quality": "Qualité",
+      "Documents": "Documents",
+      "Legal": "Juridique",
+      "Review Process": "Processus d'examen",
+      "Supplier": "Fournisseur",
+      "Onboarding details": "Informations sur l'intégration",
+      "IT": "Informatique"
+    },
+    "engagementAttributes": null
+  }
+]

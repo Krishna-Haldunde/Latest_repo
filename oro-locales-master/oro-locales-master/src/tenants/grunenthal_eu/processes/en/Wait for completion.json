@@ -1,0 +1,14 @@
+[
+  {
+    "id": null,
+    "name": "Wait for completion",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 2,
+    "name": "Wait for Fastlane Vendor Creation",
+    "type": null,
+    "description": null
+  }
+]

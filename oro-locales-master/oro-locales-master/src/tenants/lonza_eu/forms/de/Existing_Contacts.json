@@ -1,0 +1,192 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Bestehende Kontakte",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 27,
+    "fieldName": null,
+    "name": "Kontakt für Bestellungen",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 5,
+    "fieldName": null,
+    "name": "Kontakt Finanzen",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 8,
+    "fieldName": null,
+    "name": "Kontakt Kundendienst",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 11,
+    "fieldName": null,
+    "name": "Kontakt Vertrieb",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 17,
+    "fieldName": null,
+    "name": "Kontakte Qualität",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 24,
+    "fieldName": null,
+    "name": "Kontakt Nachhaltigkeit",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 42,
+    "fieldName": null,
+    "name": "Kontakt SAP Ariba",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 30,
+    "fieldName": null,
+    "name": "Weitere Kontakte",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 32,
+    "fieldName": "otherContacts",
+    "name": "<p><strong>Weiterer Kontakt</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "Kontakt",
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 19,
+    "fieldName": "qualityQuestionnaireContact",
+    "name": "<p><strong>Kontakt Qualitätsfragebogen</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "Kontakt",
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 21,
+    "fieldName": "auditContacts",
+    "name": "<p><strong>Kontakt Qualitäts-Compliance-Audit</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "Kontakt",
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 23,
+    "fieldName": "qualityAgreementContact",
+    "name": "<p><strong>Kontakt Qualitätsvereinbarung</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "Kontakt",
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 26,
+    "fieldName": "sustainabilityContactPerson",
+    "name": "<p><strong>Kontakt Nachhaltigkeit</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "Kontakt",
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 13,
+    "fieldName": "salesContact",
+    "name": "<p><strong>Bitte geben Sie die Kontaktdaten für den Vertrieb an</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "Kontakt",
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 45,
+    "fieldName": "saparibacontact",
+    "name": "<p><strong>Kontakt SAP Ariba</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "Kontakt",
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 10,
+    "fieldName": "custServiceCobntact",
+    "name": "<p><strong>Bestehende Kontaktdaten des Kundenservice</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "Kontakt",
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 38,
+    "fieldName": "poEmail",
+    "name": "<p><strong style=\"color: rgb(62, 68, 86);\">Bestehende Kontakt-E-Mail für Bestellungen</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 41,
+    "fieldName": "financeContact",
+    "name": "<p><strong style=\"color: rgb(62, 68, 86);\">Bestehende E-Mail-Adresse für Kontakt Finanzen</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

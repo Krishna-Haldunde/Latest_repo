@@ -1,0 +1,232 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Supplier Qualification Data",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Supplier Qualification Related Data",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 25,
+    "fieldName": null,
+    "name": "Supply Chain Declaration",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 34,
+    "fieldName": null,
+    "name": "Client Qualification Form",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 47,
+    "fieldName": "supplierAddress",
+    "name": "<p><strong>Please provide the Supplier Address</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 53,
+    "fieldName": "q53__p__strong_Need_QA_assessment_",
+    "name": "<p><strong>Need QA assessment</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": "materialName",
+    "name": "<p><strong>Supplier Material Name/Description</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 9,
+    "fieldName": "materialNumber",
+    "name": "<p><strong>Supplier Material Number</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 13,
+    "fieldName": "genericName",
+    "name": "<p><strong>Generic Name(s)-(If Unknown, enter N/A)</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 15,
+    "fieldName": "casNumber",
+    "name": "<p><strong>CAS Number</strong><strong style=\"color: rgb(62, 68, 86);\">-(If Unknown, enter N/A)</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 11,
+    "fieldName": "sapMatNumber",
+    "name": "<p><strong>Lonza SAP Material Number</strong><strong style=\"color: rgb(62, 68, 86);\">-(If Unknown, enter N/A)</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 58,
+    "fieldName": "serviceDescription",
+    "name": "<p>Service Description</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 60,
+    "fieldName": "equipmentDescription",
+    "name": "<p>Equipment/Software Description</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 24,
+    "fieldName": "scdAttachment",
+    "name": "<p><strong>Upload Supply Chain Declaration Form</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 38,
+    "fieldName": "clientQualificationForm",
+    "name": "<p><strong>Upload the completed Client Qualification Form</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "classtype",
+    "name": "<p><strong>What will be the supplier used for?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Equipment/Software": "Equipment/Software",
+      "Services": "Services",
+      "Materials": "Materials"
+    },
+    "type": "field"
+  },
+  {
+    "id": 62,
+    "fieldName": "q62__p__strong_Selected_category_p",
+    "name": "<p><strong>Selected category per GROUP-99350</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 44,
+    "fieldName": "uploadCSD",
+    "name": "<p><strong>Do you want to upload SCD (supply chain declaration) form?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 82,
+    "fieldName": "qualificationType",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Global Supplier Qualification</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Global Supplier Qualification": "Global Supplier Qualification"
+    },
+    "type": "field"
+  },
+  {
+    "id": 28,
+    "fieldName": "isclientQualified",
+    "name": "<p><strong>Is this a client qualified supplier?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 41,
+    "fieldName": "poDate",
+    "name": "<p><strong>Latest date to complete qualification for placing PO on time</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "> 6 months": "> 6 months",
+      "< 3 months": "< 3 months",
+      "3 to 6 months": "3 to 6 months"
+    },
+    "type": "field"
+  },
+  {
+    "id": 18,
+    "fieldName": "materialCategory",
+    "name": "<p><strong>Please select the applicable category(ies) per GROUP-99350</strong></p>",
+    "description": "At least one category for each selected use type must be included.",
+    "helpText": "<p><strong style=\"color: rgb(230, 0, 0);\"><em>At least one category for each selected use type must be included.</em></strong></p>",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

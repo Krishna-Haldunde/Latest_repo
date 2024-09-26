@@ -1,0 +1,16 @@
+{
+  "--requiredField--": "{{field}} es un campo obligatorio.",
+  "--title--": "Título",
+  "--regionCountrySupplierUsed--": "Se utiliza el proveedor de la región o el país",
+  "--chooseRegionCountry--": "Elija región/país",
+  "--servicesOfferedBySupplier--": "Servicios ofrecidos por el proveedor",
+  "--chooseServiceCategory--": "Elegir servicio/categoría",
+  "--primaryBusinessEntity--": "Entidad comercial principal",
+  "--chooseBusinessEntity--": "Elegir entidad comercial",
+  "--additionalBusinessEntity--": "Entidad comercial adicional",
+  "--chooseAdditionalBusinessEntities--": "Elegir otras entidades de la empresa",
+  "--user--": "Usuario",
+  "--department--": "Departamento",
+  "--commentDetails--": "Comentarios/Detalles",
+  "--addDetailsAboutBusinessNeed--": "Añadir detalles sobre la necesidad empresarial y el alcance del proyecto para esta solicitud de proveedor"
+}

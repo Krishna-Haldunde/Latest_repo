@@ -1,0 +1,137 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Due Diligence Summary",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Applied Third Party Due Diligence Process",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 23,
+    "fieldName": null,
+    "name": "Sanction List & Adverse Media",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 34,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><strong>Note</strong>: Enhanced TPDD may also get applied as the Light TPDD results is High risk.</p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 31,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p>Status of the automated sanction list and adverse media checks: <strong style=\\\"color: rgb(0, 138, 0);\\\">No matches</strong><strong> </strong><strong style=\\\"color: rgb(0, 138, 0);\\\">were found</strong>. </p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 22,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><span style=\\\"color: rgb(62, 68, 86);\\\">Status of the automated sanction list check</span><strong style=\\\"color: rgb(230, 0, 0);\\\">: Matches were found</strong><span style=\\\"color: rgb(230, 0, 0);\\\">.</span></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 27,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p>Status of the automated adverse media checks: <strong style=\\\"color: rgb(230, 0, 0);\\\">Matches were found</strong><span style=\\\"color: rgb(230, 0, 0);\\\">.</span></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 88,
+    "fieldName": "q88__p_Please_add_your_comments___",
+    "name": "<p>Procurement Center Comment</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 13,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><strong style=\\\"color: rgb(0, 138, 0);\\\">Enhanced Third Party Due Diligence </strong>was applied to this vendor based on the details</p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 16,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><strong style=\\\"color: rgb(0, 138, 0);\\\">Environment, Social, Governance Third Party Due Diligence</strong><strong> </strong>was applied to this vendor based on the details</p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><strong style=\\\"color: rgb(0, 138, 0);\\\">Light Third Party Due Diligence</strong> was applied to this vendor based on the details.</p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 91,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p>Based on the details, <strong style=\\\"color: rgb(0, 138, 0);\\\">Third Party Due Dilligence is not applicable. </strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 48,
+    "fieldName": "q48__p__span_style__color__rgb_62_",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Please manually confirm if there were any adverse media hits found?</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "False hits": "False hits",
+      "Found hits that are directly impacting the business relationship": "Found hits that are directly impacting the business relationship",
+      "Found hits that are not impacting the business relationship directly": "Found hits that are not impacting the business relationship directly",
+      "No hits": "No hits"
+    },
+    "type": "field"
+  }
+]

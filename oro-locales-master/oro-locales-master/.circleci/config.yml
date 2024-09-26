@@ -1,0 +1,323 @@
+version: 2.1
+orbs:
+  aws-cli: circleci/aws-cli@1.3.1
+  slack: circleci/slack@4.9.3
+commands:
+  create_aws_config:
+    steps:
+      - run:
+          name: Create AWS credentials manually
+          command: |
+            mkdir ~/.aws
+            touch ~/.aws/config
+            chmod 600 ~/.aws/config
+            echo "[default]" > ~/.aws/config
+            echo "region=$AWS_DEFAULT_REGION" >>  ~/.aws/config
+
+            touch ~/.aws/credentials
+            chmod 600 ~/.aws/credentials
+            echo "[default]" > ~/.aws/credentials
+            echo "aws_access_key_id=$AWS_ACCESS_KEY_ID" >> ~/.aws/credentials
+            echo "aws_secret_access_key=$AWS_SECRET_ACCESS_KEY" >>  ~/.aws/credentials
+
+  create_npmrc:
+    steps:
+      - run:
+          name: Add npmrc
+          command: |
+              echo "//npm.pkg.github.com/:_authToken=${GITHUB_AUTH_TOKEN_NPM}" > ~/.npmrc
+              echo "@orolabs:registry=https://npm.pkg.github.com/orolabs" >> ~/.npmrc
+              echo "//npm.pkg.github.com/:_authToken=${GITHUB_AUTH_TOKEN_NPM}" > ~/project/.npmrc
+              echo "@orolabs:registry=https://npm.pkg.github.com/orolabs" >> ~/project/.npmrc
+
+jobs:
+  build:
+    docker:
+      - image: cimg/node:18.16.0
+    resource_class: xlarge 
+    parallelism: 1
+    working_directory: ~/project
+    parameters:
+      script_name:
+        description: Name of the build script
+        type: string
+        default: build
+
+    steps:
+      - checkout
+      - create_npmrc
+
+      #If triggered by tag, verify that it is for latest release
+      - when:
+          condition:
+            matches: { pattern: "^v.*", value: << pipeline.git.tag >> }
+          steps:
+            - run:
+                name: tagcheck
+                command: |
+                  commitlog=$(git --no-pager log --no-color -n 1 HEAD..origin/release)
+                  if [[ -z $commitlog ]] ; then
+                    echo latest release
+                  else
+                    echo "****** NOT at release head *****"
+                    echo $commitlog
+                    exit 1
+                  fi
+      - run:
+          name: Current branch / tag
+          command: echo ${CIRCLE_BRANCH} / ${CIRCLE_TAG}
+      - attach_workspace:
+          at: ~/project
+      - restore_cache:
+          key: v1-dependencies-{{ checksum "package-lock.json" }}
+      - run:
+          name: Updating browser list
+          command: npx browserslist@latest --update-db
+      - run:
+          name: Installing local dependencies
+          command: npm install
+      - save_cache:
+          key: v1-dependencies-{{ checksum "package-lock.json" }}
+          paths:
+            - ./node_modules
+      #- run:
+      #    name: Running tests
+      #    command: npm run test:all
+      - run:
+          name: Building
+          command: |
+              export NODE_OPTIONS=--max-old-space-size=8192
+              export CI=false #to prevent: Treating warnings as errors
+              npm run <<parameters.script_name>>
+              export CI=true
+      - persist_to_workspace:
+          root: /home/circleci/project
+          paths:
+            - build
+      - slack/notify:
+          branch_pattern: master
+          channel: C01NQFTFHUY  #circleci
+          event: fail
+          template: basic_fail_1
+
+  deploy:
+    docker:
+      - image: cimg/python:3.9.1
+    working_directory: ~/project
+    parameters:
+      env_suffix:
+        description: Suffix for the environment, such as -dev, -staging or blank for production
+        type: string
+        default: ""
+
+    steps:
+      - attach_workspace:
+          at: /home/circleci/project
+      - create_npmrc
+      - run:
+          name: Install awscli
+          command: |
+            echo | python --version
+            echo pip install awscli --upgrade --user
+            pip install awscli --upgrade --user
+      - create_aws_config
+
+      #- run:
+      #    name: Setting Signature Version 4 for S3 Request Authentication
+      #    command: |
+      #        aws configure set profile.eb-cli.s3.signature_version s3v4        
+      #        aws configure set profile.eb-cli-dev.s3.signature_version s3v4        
+      - run:
+          name: Deploy to S3
+          command: |
+            aws s3 sync /home/circleci/project/build/locales s3://oro-process-runner<<parameters.env_suffix>>/locales/ --delete 
+            #TODO: when designer or supplierdev is localized, have to sync to those buckets as well.
+            if [[ -n "$DR_REGION" ]]; then
+              echo 
+              echo Also syncing to DR bucket 
+              aws s3 sync /home/circleci/project/build/locales s3://oro-process-runner<<parameters.env_suffix>>-dr1/locales/ --delete 
+            fi
+
+      #TODO: Invalidating cloudfront cache for now. Not sure if this is efficient (bandwidth wise). Perhaps, build should include some versioning.
+      - run:
+          name: Invalidate cdn cache
+          command: |
+            if [[ "$DNSPrefix" == \"\" ]]; then
+              DNSPrefix=""
+            fi
+            DIST_ID=$(aws cloudfront list-distributions --query "DistributionList.Items[?Aliases.Items[?@==\`app.${DNSPrefix}orolabs.ai\`]].Id" --output text)
+            echo Invalidting $DIST_ID
+            INVALIDATION_ID=$(aws cloudfront create-invalidation --distribution-id $DIST_ID --paths "/*" --query "Invalidation.Id" --output text)
+            echo Started invalidation $INVALIDATION_ID and waiting for completion
+            #We occasionally encounter transient&retried 503: https://stackoverflow.com/questions/72287326/aws-cloudfront-error-invalidation-max-times-while-deploying
+            # Wait upto 30m for invalidation to complete
+            for (( a=1; a <= 180 ; a++))
+              do
+                STATUS=$(aws cloudfront get-invalidation --distribution-id $DIST_ID --id $INVALIDATION_ID --query "Invalidation.Status" --output text)
+                echo $STATUS
+                if [[ $STATUS != 'InProgress' ]]; then
+                  break
+                fi
+                echo sleeping for 10s
+                sleep 10
+              done
+
+            aws cloudfront get-invalidation --distribution-id $DIST_ID --id $INVALIDATION_ID 
+            if [[ $STATUS != 'Completed' ]]; then
+              echo Failed to complete
+              exit 1
+            fi
+      - slack/notify:
+          branch_pattern: master
+          channel: C01NQFTFHUY  #circleci
+          event: fail
+          template: basic_fail_1
+
+workflows:
+  version: 2
+  #Dev - use DEV aws envars, build on any branch but not on tags. Deploy only if master/develop branch.
+  dev:
+    jobs:
+      - build:
+          script_name: build-dev
+          context:
+            - ORO-GLOBAL
+            - DEV
+          filters:
+            branches:
+              ignore:
+                - circle_test
+                - /.*release.*/
+                - /.*hotfix.*/
+                - /.*staging.*/
+            tags:
+              ignore: /.*/
+
+      - deploy:
+          env_suffix: -dev
+          context:
+            - ORO-GLOBAL
+            - DEV
+          requires:
+            - build
+          filters:
+            branches:
+              only: [master, develop]
+            tags:
+              ignore: /.*/
+  #production - use PRODUCTION aws envars, build on branch names *release* or *hotfix*. 
+  production:
+    jobs:
+      - build:
+          script_name: build-prod
+          context:
+            - ORO-GLOBAL
+            - PRODUCTION
+          filters:
+            branches:
+              only:
+                - /.*release.*/
+                - /.*hotfix.*/
+            tags:
+              only: /^v.*/
+      - proceed:
+          type: approval
+          requires:
+            - build
+          filters: &filters-production
+            branches:
+              ignore: /.*/
+            tags:
+              only: /^v.*/
+      - deploy:
+          requires:
+            - proceed
+          context:
+            - ORO-GLOBAL
+            - PRODUCTION
+          filters:
+            <<: *filters-production
+  #prodedu - use PRODEU aws envars, build on branch names *release* or *hotfix*. 
+  prodedu:
+    jobs:
+      - build:
+          script_name: build-prodeu
+          context:
+            - ORO-GLOBAL
+            - PRODEU
+          filters:
+            branches:
+              only:
+                - /.*release.*/
+                - /.*hotfix.*/
+            tags:
+              only: 
+                - /^v.*/
+                - /^e.*/
+      - proceed:
+          type: approval
+          requires:
+            - build
+          filters: &filters-prodedu
+            branches:
+              ignore: /.*/
+            tags:
+              only: 
+                - /^v.*/
+                - /^e.*/
+      - deploy:
+          env_suffix: -eu
+          requires:
+            - proceed
+          context:
+            - ORO-GLOBAL
+            - PRODEU
+          filters:
+            <<: *filters-prodedu
+  #Staging - use DEV aws envars, and override a few with those from STAGING. Deploy only if master branch.
+  staging:
+    jobs:
+      - build:
+          script_name: build-stage
+          context: [ ORO-GLOBAL, DEV, STAGING ]
+          filters:
+            branches:
+              only:
+                - /.*staging.*/
+            tags:
+              only: /^s.*/
+
+      - deploy:
+          env_suffix: -staging
+          context: [ ORO-GLOBAL, DEV, STAGING ]
+          requires:
+            - build
+          filters:
+            branches:
+              ignore: /.*/
+            tags:
+              only: /^s.*/
+  #Demo - use DEMO aws envars, Deploy only if master branch.
+  demo:
+    jobs:
+      - build:
+          script_name: build-demo
+          context: [ ORO-GLOBAL, DEMO ]
+          filters:
+            branches:
+              only:
+                - /.*demo.*/
+            tags:
+              only: /^d.*/
+
+      - deploy:
+          env_suffix: -demo
+          context: [ ORO-GLOBAL, DEMO ]
+          requires:
+            - build
+          filters:
+            branches:
+              ignore: /.*/
+            tags:
+              only: /^d.*/
+

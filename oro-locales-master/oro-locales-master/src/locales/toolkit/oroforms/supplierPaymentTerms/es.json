@@ -1,0 +1,15 @@
+{
+  "--paymentTerms--": "Condiciones de pago",
+  "--select--": "Seleccionar",
+  "--existingPaymentTerms--": "Condiciones de pago existentes",
+  "--recommendedPaymentTerms--": "Condiciones de pago recomendadas",
+  "--newPaymentTerms--": "Condiciones de pago nuevas",
+  "--recommendedPaymentTerm--": "Condiciones de pago recomendadas",
+  "--purchaseOrganisations--": "Organizaciones de compras",
+  "--companyEntity--": "Entidad empresarial",
+  "--thisWillBeCommonPaymentTermForSupplier--": "Este será el plazo de pago común para el proveedor",
+  "--supplierEnabledWithMultiplePaymentTerms--": "El proveedor dispone de múltiples condiciones de pago",
+  "--applicableForPurchaseOrgAndCompanyEntities--": "Aplicable a todas las organizaciones de compras y entidades empresariales siguientes",
+  "--applicableForPurchasOrg--": "Aplicable a todas las organizaciones de compras siguientes",
+  "--applicableForCompanyEntities--": "Aplicable a todas las entidades empresariales siguientes"
+}

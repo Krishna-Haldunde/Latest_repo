@@ -1,0 +1,75 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Details zur Freistellungsbescheinigung vom Finanzamt",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 12,
+    "fieldName": "taxCert",
+    "name": "<p>Freistellungsbescheinigung vom Finanzamt hochladen</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 14,
+    "fieldName": "noTaxCertReas",
+    "name": "<p>Bitte wählen Sie den zutreffenden Grund aus.</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "I dont have a certificate": "Ich habe keine Freistellungsbescheinigung",
+      "This is not applicable to me": "Dies gilt nicht für mich"
+    },
+    "type": "field"
+  },
+  {
+    "id": 25,
+    "fieldName": null,
+    "name": null,
+    "description": "<p>Aufgrund deutscher Vorschriften müssen Lieferanten, die Bauleistungen in unseren Einrichtungen erbringen, eine <u style=\\\"color: rgb(34, 34, 34);\\\">Freistellungsbescheinigung vom Finanzamt</u><span style=\\\"color: rgb(34, 34, 34);\\\"> vorlegen.</span></p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 28,
+    "fieldName": "noTaxCertReason",
+    "name": "<p>Begründen Sie Ihre Antwort</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 16,
+    "fieldName": "taxCertAttach",
+    "name": "<p>Bitte laden Sie die Freistellungsbescheinigung vom Finanzamt hoch</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

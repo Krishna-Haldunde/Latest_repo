@@ -1,0 +1,62 @@
+[
+  {
+    "id": null,
+    "name": "Syniti Request",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 4,
+    "name": "Collect summary",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 8,
+    "name": null,
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 2,
+    "name": "Vendor master data review",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 7,
+    "name": "IT Assessment Confirmation",
+    "type": null,
+    "description": "Please confirm that the Status of IT Supplier based on Information Security Assessment result is 'Approved' as it was put on Hold. "
+  },
+  {
+    "id": 5,
+    "name": "Handle Data Issues",
+    "type": null,
+    "description": "An error has been triggered in RPA"
+  },
+  {
+    "id": 13,
+    "name": null,
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 12,
+    "name": "Create Vendor in Syniti",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 3,
+    "name": "Update Vendor in Syniti",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 6,
+    "name": "Vendor Update in SAP confirmation",
+    "type": null,
+    "description": null
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Eingabe des Antragstellers zur Lieferanten-Aktualisierung",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 43,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 56,
+    "fieldName": "q56__p_If_Bank_Update_needed__hidd",
+    "name": "<p>Falls Bank-Aktualisierung erforderlich (ausgeblendet)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "q4__p_Which_of_the_following__str",
+    "name": "<p>Welche der folgenden <strong>Lieferanteninformationen</strong> möchten Sie aktualisieren?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Payment Term": "Zahlungsbedingung",
+      "Bank information": "Bankverbindung",
+      "Company Name/Address": "Name/Adresse des Unternehmens",
+      "Supplier Contacts": "Lieferantenkontakte"
+    },
+    "type": "field"
+  },
+  {
+    "id": 96,
+    "fieldName": "purchaseEntities",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Einkaufsorganisation (ausgeblendet)</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 99,
+    "fieldName": "enabledCompanyEntities",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Aktivierte Geschäftseinheiten (ausgeblendet)</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 77,
+    "fieldName": "companyEntities",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Wählen Sie die</span> Geschäftseinheit(en)<span style=\"color: rgb(62, 68, 86);\"> aus, die für die Aktualisierung in Frage kommt.</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 102,
+    "fieldName": "suppDocs",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Unterstützende Dokumente</span></p>",
+    "description": null,
+    "helpText": "<p><span style=\"color: rgb(62, 68, 86);\">Bitte laden Sie ein Dokument wie z.B. ein Angebot, ein Firmenschreiben oder ein offizielles Dokument hoch. Mit allen erforderlichen Informationen ausgestattet, können wir Ihren Antrag besser prüfen.</span></p>",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

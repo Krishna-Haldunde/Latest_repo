@@ -1,0 +1,146 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Details zur Due Diligence für Geschäftspartner",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Lieferantendetails zum Prüfungs- und Analyseprozess für Dritte",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 30,
+    "fieldName": "nextDueDilligenceDate",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Ablaufdatum der Due Diligence für Geschäftspartner</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 10,
+    "fieldName": "tpddRequired",
+    "name": "<p>Due Diligence für Geschäftspartner erforderlich</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 18,
+    "fieldName": "originalRiskLevel",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Errechnete Risikobewertung</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 27,
+    "fieldName": "previousRiskLevel",
+    "name": "<p>Vorherige<span style=\"color: rgb(62, 68, 86);\"> Risikobewertung</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 32,
+    "fieldName": "previousTPDDType",
+    "name": "<p>Vorherige Art des Due Diligence Prozesses</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Light": "Einfach",
+      "Enhanced": "Erweitert",
+      "ESG": "ESG",
+      "None": "Keine"
+    },
+    "type": "field"
+  },
+  {
+    "id": 12,
+    "fieldName": "tpddType",
+    "name": "<p>Errechnete Art des Due Diligence Prozesses</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Light": "Einfach",
+      "Enhanced": "Erweitert",
+      "ESG": "ESG",
+      "None": "Keine"
+    },
+    "type": "field"
+  },
+  {
+    "id": 38,
+    "fieldName": "primaryCompanyEntity",
+    "name": "<p>Primäre Geschäftseinheit (WA)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 15,
+    "fieldName": "changedTPDDType",
+    "name": "<p>Abgeschlossene Art des Due Diligence Prozesses</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Light": "Einfach",
+      "Enhanced": "Erweitert",
+      "ESG": "ESG"
+    },
+    "type": "field"
+  },
+  {
+    "id": 41,
+    "fieldName": "country",
+    "name": "<p>Land</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 47,
+    "fieldName": "lastYearAnnualSpend",
+    "name": "<p>Gesamtausgaben in den letzten 12 Monaten</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 44,
+    "fieldName": "primaryCategory",
+    "name": "<p>Hauptkategorie</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

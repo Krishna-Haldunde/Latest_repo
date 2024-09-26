@@ -1,0 +1,92 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Purchasing data update form",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Existing data",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 11,
+    "fieldName": null,
+    "name": "Change data",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 4,
+    "fieldName": "existingIncoTerms",
+    "name": "<p><strong>Existing Incoterm</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": "existingOrderingCurrency",
+    "name": "<p><strong>Existing Ordering currency</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 10,
+    "fieldName": "existingPartnerFunction",
+    "name": "<p><strong>Existing Partner function</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 20,
+    "fieldName": "changedPartnerFunction",
+    "name": "<p><strong>Select the Partner function for the change</strong></p>",
+    "description": null,
+    "helpText": "<p><span style=\"color: rgb(62, 68, 86);\">Please provide the SAP vendor number of the supplier to be linked as the partner function.</span></p>",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 14,
+    "fieldName": "changedIncoTerm",
+    "name": "<p><strong>Select the Incoterm for the change</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 17,
+    "fieldName": "changedOrderingCurrency",
+    "name": "<p><strong>Select the ordering currency for change</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

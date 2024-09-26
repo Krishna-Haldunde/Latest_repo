@@ -1,0 +1,22 @@
+{
+  "--addSupplierDocsYouHave--": "Add supplier docs you already have",
+  "--helpsSpeedTheProcess--": "This helps speed up the process",
+  "--supplierQuote--": "Supplier quote",
+  "--uploading--": "Uploading...",
+  "--cancel--": "Cancel",
+  "--sowProposal--": "Sow / Proposal",
+  "--additionalDocs--": "Additional docs",
+  "--additionalQuote--": "Additional quote",
+  "--additionalDoc--": "Additional doc",
+  "--pleaseSelectAFile--": "Please select a file",
+  "--file--": "File",
+  "--fileName--": "File name",
+  "--additionalNote--": "Additional note <1>(optional)</1>",
+  "--askForLegalReview--": "Ask for legal review",
+  "--yes--": "Yes",
+  "--no--": "No",
+  "--supplierPaymentTerm--": "Supplier payment term",
+  "--supplierDoc--": "Supplier doc",
+  "--upload--": "Upload",
+  "--download--": "Download"
+}

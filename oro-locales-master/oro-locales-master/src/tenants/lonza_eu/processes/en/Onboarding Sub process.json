@@ -1,0 +1,104 @@
+[
+  {
+    "id": null,
+    "name": "Onboarding Sub process",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 144,
+    "name": "Update Company information - DUNS",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 97,
+    "name": null,
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 132,
+    "name": "Regulatory category update by requestor",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 122,
+    "name": "Lonza Customer Document Update by Requestor",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 96,
+    "name": "One Time Vendor Document Update By Requestor",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 45,
+    "name": "Collect Onboarding Related Documents",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 70,
+    "name": "Validate Bank Key",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 71,
+    "name": "Create Bank Key in SAP",
+    "type": null,
+    "description": "Please if non standard bank is existing in SAP use that or create a new bank in SAP with Standard bank code."
+  },
+  {
+    "id": 119,
+    "name": "Default Payment Method",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 34,
+    "name": "Pre Approval Group",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 145,
+    "name": "Payment Terms Approval by Global P2P",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 146,
+    "name": "Direct Debit Approval by Global Treasury",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 147,
+    "name": "Direct Debit Approval by AP",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 36,
+    "name": "Global Master Data Management Approval",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 148,
+    "name": "Payment term rejected notification",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 149,
+    "name": "Direct debit rejected notification",
+    "type": null,
+    "description": null
+  }
+]

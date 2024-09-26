@@ -1,0 +1,47 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Test TPDD form",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 10,
+    "fieldName": "newQuestion",
+    "name": "<p>Calculated TPDD type</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Light": "Light",
+      "Enhanced": "Enhanced",
+      "ESG": "ESG",
+      "None": "None"
+    },
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": "previousRiskLevel",
+    "name": "<p>Calculated risk level</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

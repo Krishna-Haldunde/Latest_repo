@@ -1,0 +1,21 @@
+{
+  "--department--": "Departamento:",
+  "--companyEntity--": "Entidad empresarial:",
+  "--startDate--": "Fecha de inicio:",
+  "--endDate--": "Fecha de finalización:",
+  "--poTotal--": "Total de la orden de compra:",
+  "--expenseItem--": "Partidas de gastos",
+  "--requiredField--": "{{field}} es un campo obligatorio.",
+  "--purchaseOrder--": "Orden de compra",
+  "--selectPurchaseOrder--": "Seleccionar orden de compra",
+  "--reasonForAmendment--": "Motivo de la modificación",
+  "--whatDoYouWantToChange--": "¿Qué quiere cambiar?",
+  "--extendTimeline--": "Ampliar cronología",
+  "--currentTimeline--": "Cronología actual:",
+  "--additionalAmount--": "Importe adicional",
+  "--updateTimeline--": "Actualizar cronología",
+  "--currentPoTotal--": "Total de la orden de compra actual:",
+  "--attachments--": "Archivos adjuntos",
+  "--addAmountUpdateTimelines--": "Añadir importe/actualizar cronología",
+  "--editPoLineItems--": "Editar partidas de pedido de la orden de compra"
+}

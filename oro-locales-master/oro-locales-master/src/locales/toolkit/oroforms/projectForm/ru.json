@@ -1,0 +1,23 @@
+{
+  "--marketingProgram--": "Маркетинговая программа",
+  "--allocadiaId--": "Идентификатор Allocadia",
+  "--targetRegion--": "Целевой регион",
+  "--timeline--": "Временная шкала",
+  "--service--": "Услуги",
+  "--budgetDetails--": "Детали бюджета",
+  "--estimatedTotalCost--": "План. общая стоимость",
+  "--businessEntity--": "Юридическое лицо",
+  "--accountCode--": "Код счета",
+  "--user--": "Пользователь",
+  "--department--": "Отдел",
+  "--briefProjectSummary--": "Краткое описание проекта",
+  "--global--": "Глобальный",
+  "--isRequiredField--": "{{field}} — обязательное поле",
+  "--chooseProgram--": "Выберите программу",
+  "--activityName--": "Название деятельности",
+  "--servicesNeeded--": "Необходимые услуги",
+  "--chooseService--": "Выберите услугу",
+  "--chooseBusinessEntity--": "Выберите предприятие",
+  "--estimatedProjectCost--": "План. стоимость проекта",
+  "--describeProjectScopeGoal--": "Опишите масштаб и цель проекта"
+}

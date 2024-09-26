@@ -1,0 +1,188 @@
+[
+  {
+    "id": null,
+    "name": "GMP-Unterprozess",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 3,
+    "name": "Erheben qualitätsrelevanter Dokumente",
+    "type": null,
+    "description": "Bitte füllen Sie das beigefügte Formular aus, unterschreiben Sie es und laden Sie das ausgefüllte Formular als PDF hoch"
+  },
+  {
+    "id": 71,
+    "name": "Verpflichtungen des Lieferanten zur Qualität",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 85,
+    "name": "Zu unterschreibende Qualitätsdokumente",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 87,
+    "name": "Überprüfung und Bestätigung (Qualität)",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 6,
+    "name": "Standort-QA-Bewertung von SCD",
+    "type": null,
+    "description": "Bitte überprüfen Sie die beigefügte Supply-Chain-Erklärung (SCD) und füllen Sie das Formular für den beantragten Lieferanten und die zugehörigen Supply-Chain-Partner aus. Fordern Sie bei Bedarf Bewertungen und/oder Qualitätsvereinbarungen (Aktualisierungen) an, um die Standards von GROUP-99350 zu erfüllen. Bitte beantragen Sie auch die Anlage von SAP-Lieferantennummern für SC-Partner, die noch nicht in SAP angelegt sind"
+  },
+  {
+    "id": 53,
+    "name": "Bewertung und QAA-Formularerstellung",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 88,
+    "name": null,
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 54,
+    "name": "Überprüfung und Zuweisung von Bewertungen durch GQCSC",
+    "type": null,
+    "description": "Bitte überprüfen Sie die von Site QA gestellten Anträge anhand der bereitgestellten SCD, den Anforderungen gemäß Gruppe 99350 und des Status in TrackWise. \nWenn Sie mit den Anforderungen der Standort-QA nicht einverstanden sind, können Sie entsprechende Änderungen vornehmen. Zuvor sollte jedoch eine Abstimmung und Klärung mit der Standort-QA erfolgen.\nAlle zur Vervollständigung durch den beantragten Lieferanten und/oder Supply-Chain-Partner hochgeladenen Dokumente sollten entsprechend vorab ausgefüllt sein.\nDie Aufgabenzuweisung erfolgt in einem separaten Schritt."
+  },
+  {
+    "id": 55,
+    "name": "Überprüfung und Zuweisung von QAA/SCL durch GQCSC",
+    "type": null,
+    "description": "Bitte überprüfen Sie die von Site QA gestellten Anfragen anhand der bereitgestellten SCD, den Anforderungen gemäß Gruppe 99350 und den Status im DMS und im dynamischen QAA-Plan. \nWenn Sie mit den Anforderungen der Standort-QA nicht einverstanden sind, können Sie entsprechende Änderungen vornehmen. Zuvor sollte jedoch eine Abstimmung und Klärung mit der Standort-QA erfolgen.\nAlle zur Vervollständigung durch den beantragten Lieferanten und/oder Supply-Chain-Partner hochgeladenen Dokumente sollten entsprechend vorab ausgefüllt sein.\nDie Aufgabenzuweisung erfolgt in einem separaten Schritt."
+  },
+  {
+    "id": 92,
+    "name": "Formular für die Zuweisung der Bewertung erstellen",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 93,
+    "name": "Formular für die QAA-Zuweisung erstellen",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 96,
+    "name": null,
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 94,
+    "name": "Bewertungsaufgaben zuweisen",
+    "type": null,
+    "description": "Für eine korrekte Zuweisung verwenden Sie bitte die Informationen aus den Abschnitten „Standortinformationen“ (Identifizierung der Standortadresse) und „Bewertung für VSCI-Lieferant“ (benötigte Art der Bewertung)."
+  },
+  {
+    "id": 95,
+    "name": "QAA-Aufgaben zuweisen",
+    "type": null,
+    "description": "Für eine korrekte Zuweisung verwenden Sie bitte die Informationen aus den Abschnitten „Standortinformationen“ (Identifizierung der Standortadresse) und „Bewertung für VSCI-Lieferant“ (benötigte Art der Bewertung)."
+  },
+  {
+    "id": 56,
+    "name": "Formularerstellung für Lieferanten herunter- und hochladen",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 42,
+    "name": "Erheben von Bewertungs- und QAA-Dokumenten",
+    "type": null,
+    "description": "In den einzelnen Abschnitten finden Sie die auszufüllenden Dokumente. Stellen Sie sicher, dass sie von qualifizierten und autorisierten Mitarbeitern für das entsprechende Unternehmen/den entsprechenden Standort heruntergeladen, bearbeitet und unterzeichnet werden (Wet Inc. oder E-Signatur).\nLöschen Sie keine heruntergeladenen Dokumente.\nWenn Sie Fragen zur Bearbeitung der Anfrage haben, wenden Sie sich bitte über die bereitgestellte Funktion „Informationen anfordern“ an uns.“\nLaden Sie das endgültige Dokument als PDF hoch."
+  },
+  {
+    "id": 100,
+    "name": "Bewertung für Hauptanbieter - Lieferant",
+    "type": null,
+    "description": "In den einzelnen Abschnitten finden Sie die auszufüllenden Dokumente. Stellen Sie sicher, dass sie von qualifizierten und autorisierten Mitarbeitern für das entsprechende Unternehmen/den entsprechenden Standort heruntergeladen, bearbeitet und unterzeichnet werden (Wet Inc. oder E-Signatur).\nLöschen Sie keine heruntergeladenen Dokumente.\nWenn Sie Fragen zur Bearbeitung der Anfrage haben, wenden Sie sich bitte über die bereitgestellte Funktion „Informationen anfordern“ an uns.“\nLaden Sie das endgültige Dokument als PDF hoch."
+  },
+  {
+    "id": 102,
+    "name": "Bewertung für VSCI-Anbieter - Lieferant",
+    "type": null,
+    "description": "In den einzelnen Abschnitten finden Sie die auszufüllenden Dokumente. Stellen Sie sicher, dass sie von qualifizierten und autorisierten Mitarbeitern für das entsprechende Unternehmen/den entsprechenden Standort heruntergeladen, bearbeitet und unterzeichnet werden (Wet Inc. oder E-Signatur).\nLöschen Sie keine heruntergeladenen Dokumente.\nWenn Sie Fragen zur Bearbeitung der Anfrage haben, wenden Sie sich bitte über die bereitgestellte Funktion „Informationen anfordern“ an uns.“\nLaden Sie das endgültige Dokument als PDF hoch."
+  },
+  {
+    "id": 104,
+    "name": "QAA für Hauptanbieter - Lieferant",
+    "type": null,
+    "description": "In den einzelnen Abschnitten finden Sie die auszufüllenden Dokumente. Stellen Sie sicher, dass sie von qualifizierten und autorisierten Mitarbeitern für das entsprechende Unternehmen/den entsprechenden Standort heruntergeladen, bearbeitet und unterzeichnet werden (Wet Inc. oder E-Signatur).\nLöschen Sie keine heruntergeladenen Dokumente.\nWenn Sie Fragen zur Bearbeitung der Anfrage haben, wenden Sie sich bitte über die bereitgestellte Funktion „Informationen anfordern“ an uns.“\nLaden Sie das endgültige Dokument als PDF hoch."
+  },
+  {
+    "id": 106,
+    "name": "QAA für VSCI-Anbieter - Lieferant",
+    "type": null,
+    "description": "In den einzelnen Abschnitten finden Sie die auszufüllenden Dokumente. Stellen Sie sicher, dass sie von qualifizierten und autorisierten Mitarbeitern für das entsprechende Unternehmen/den entsprechenden Standort heruntergeladen, bearbeitet und unterzeichnet werden (Wet Inc. oder E-Signatur).\nLöschen Sie keine heruntergeladenen Dokumente.\nWenn Sie Fragen zur Bearbeitung der Anfrage haben, wenden Sie sich bitte über die bereitgestellte Funktion „Informationen anfordern“ an uns.“\nLaden Sie das endgültige Dokument als PDF hoch."
+  },
+  {
+    "id": 127,
+    "name": "Anweisungen zum Herunterladen und Hochladen der Bewertungs- und QAA-Formulare",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 109,
+    "name": "Benutzerzuweisung",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 115,
+    "name": null,
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 110,
+    "name": "Bewertungen für beantragten Lieferanten und Supply-Chain-Partner",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 111,
+    "name": "Beantragter Lieferanten-QAA durch Standort und GQCSC",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 118,
+    "name": "QAA Supply-Chain-Partner1 durch Standort und GQCSC",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 120,
+    "name": "QAA Supply-Chain-Partner2 durch Standort und GQCSC",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 122,
+    "name": "QAA Supply-Chain-Partner3 durch Standort und GQCSC",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 124,
+    "name": "QAA Supply-Chain-Partner4 durch Standort und GQCSC",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 9,
+    "name": "Abschließende Standort-Qualitätssicherungsprüfung",
+    "type": null,
+    "description": null
+  }
+]

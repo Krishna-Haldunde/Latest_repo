@@ -1,0 +1,14 @@
+{
+  "--category--": "Categoría",
+  "--select--": "Seleccionar",
+  "--failedToGenerateRecommendations--": "No podemos recomendar categorías basándonos en la descripción actual. <linkbutton>Ver todas las opciones</linkbutton>.",
+  "--viewAllOptions--": "Ver todas las opciones",
+  "--recommendedOptions--": "Opciones recomendadas",
+  "--pleaseSelectBestCategory--": "Seleccione la categoría que mejor se adapte a su solicitud",
+  "--requiredField--": "Campo obligatorio",
+  "--notTheResultYouLooking--": "¿No es el resultado que busca?",
+  "--hideRecommendations--": "Ocultar recomendaciones",
+  "--viewAllRecommendations--": "Ver todas las recomendaciones",
+  "--readMore--": "Seguir leyendo",
+  "--readLess--": "leer menos"
+}

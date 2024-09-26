@@ -1,0 +1,102 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Warnsignale bezüglich Menschenrechten, Umwelt, Gesundheit oder Sicherheit",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 13,
+    "fieldName": "q13_policyHumanRightsAndEnv_redFla",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Verfügt Ihr Unternehmen über eine Grundsatzerklärung zu Umwelt- und Menschenrechten, die über einen Standard-Verhaltenskodex hinausgeht&nbsp;(z. B. zu Themen wie Verbot von Kinderarbeit, Zwangsarbeit oder Sklaverei, Vereinigungsfreiheit, Nichtdiskriminierung, Nichtbelästigung, Löhne&nbsp;und Sozialleistungen, Standardarbeitszeit und Überstunden, Bekämpfung des Menschenhandels, Unfälle/medizinische Notfälle am Arbeitsplatz, Arbeitsschutz&amp;Standards, Umgang mit und Entsorgung von Abfällen, Umgang mit persistenten organischen Schadstoffen, Umgang mit Quecksilber usw.)?</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 19,
+    "fieldName": "offiHumanAndEnvRights_redFlag",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Hat Ihr Unternehmen einen verantwortlichen Beauftragten benannt,&amp;der für Menschen- und Umweltrechte in Ihrem Unternehmen zuständig ist?</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 16,
+    "fieldName": "rmsHumanAndEnvReport_redFlag",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Beinhaltet Ihr Menschenrechts- und Umweltrisikomanagementsystem einen Prozess, der die Durchsetzung der Due Diligence&amp;für indirekte Anbieter,&amp;die Umsetzung von Präventivmaßnahmen, einen Prozess zur Durchführung und Dokumentation von Abhilfemaßnahmen und die&amp;Berichterstattung über all diese Bemühungen sicherstellt?</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 21,
+    "fieldName": "humanRightsAndEnviron_redFlag",
+    "name": "<p><span style=\"color: rgb(68, 68, 68);\">Sind Ihnen nach bestem Wissen und Gewissen Warnsignale oder Risiken in Bezug auf Menschenrechte, Umwelt&nbsp;oder Gesundheit und Sicherheit&nbsp;in Ihrem Unternehmen oder in Ihrer&nbsp;Lieferkette bekannt (einschließlich aller indirekten Händler&nbsp;deren Lieferungen für die Herstellung des Produkts&nbsp;oder die Erbringung und Nutzung der&nbsp;betreffenden Dienstleistung erforderlich&nbsp;sind)?</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 10,
+    "fieldName": "rmsHumanRightsAndEnv_redFlag",
+    "name": "<p><span style=\"color: rgb(40, 40, 40);\">Hat Ihr Unternehmen ein spezielles Risikomanagementsystem für den Umgang mit menschenrechts- und umweltbezogenen Risiken eingerichtet?</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 24,
+    "fieldName": null,
+    "name": null,
+    "description": "<p><span style=\\\"color: rgb(68, 68, 68);\\\">Bitte erwägen Sie, gegebenenfalls geeignete Maßnahmen zu ergreifen.</span></p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 27,
+    "fieldName": "expectedSpend",
+    "name": "<p><span style=\"color: rgb(34, 34, 34);\">Erwartete Ausgaben </span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 30,
+    "fieldName": "suppliCountry",
+    "name": "<p>Land des Lieferanten</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "Personal Identifiable Information (PII)": "Personenbezogene Daten (PII)",
+  "DATA PRIVACY": "DATENSCHUTZ",
+  "GDPR compliance check for EU": "DSGVO-Konformitätsprüfung für die EU",
+  "PII compliance check for California": "PII-Konformitätsprüfung für Kalifornien",
+  "Yes": "Ja",
+  "Response is required.": "Eine Antwort ist erforderlich.",
+  "No": "Nein",
+  "Is there any planned or potential use of personal identifiable information (PII) data being used in this project going to / coming from California?": "Ist die Verwendung von personenbezogenen Daten (PII), die nach Kalifornien gehen oder von dort kommen, im Rahmen dieses Projekts geplant oder möglich?",
+  "Is there any planned or potential use of personal identifiable information (PII) data being used in this project going to / coming from the European Union?": "Ist im Rahmen dieses Projekts die Verwendung von personenbezogenen Daten (PII), die in die Europäische Union gehen oder von dort kommen, geplant oder möglich?",
+  "(e.g. Name, Address, Email, Phone Number, any data that can identify an individual)": "(Z. B. Name, Adresse, E-Mail, Telefonnummer, alle Daten, die eine Person identifizieren können)",
+  "Does your current project or planned future use of this supplier’s product and/or services involve access to personal identifiable information(PII) that can be used to identify an individual ‘natural’ person?": "Beinhaltet Ihr aktuelles Projekt oder Ihre geplante künftige Nutzung der Produkte und/oder Dienstleistungen dieses Anbieters den Zugang zu personenbezogenen Daten (PII), die zur Identifizierung einer einzelnen „natürlichen“ Person verwendet werden können?"
+}

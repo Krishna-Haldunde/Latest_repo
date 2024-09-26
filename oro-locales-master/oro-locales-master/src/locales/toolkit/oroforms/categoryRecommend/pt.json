@@ -1,0 +1,10 @@
+{
+  "--selectCategory--": "Selecionar uma categoria com base no resumo do pedido",
+  "--hereAreSomeRecommendations--": "Eis algumas recomendações",
+  "--youCanSelectOptionOrManually--": "Pode selecionar uma das opções abaixo ou pesquisar manualmente",
+  "--searchManually--": "Pesquisa manual",
+  "--pleaseSelectCategory--": "Selecione uma categoria",
+  "--category--": "Categoria",
+  "--categoryPlaceholder--": "Categoria",
+  "--requestSummary--": "Resumo do pedido"
+}

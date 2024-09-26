@@ -1,0 +1,18 @@
+{
+  "--howToCreateVendorRecord--": "ベンダーレコードの作成方法",
+  "--vendorRecordInfo--": "ベンダーレコード情報",
+  "--primaryBusinessEntity--": "主要事業体",
+  "--choose--": "選択",
+  "--additionalBusinessEntity--": "追加事業体",
+  "--eligible--": "1099の対象",
+  "--no--": "いいえ",
+  "--yes--": "はい",
+  "--syncToProcurify--": "同期して調達",
+  "--paymentTerms--": "支払条件",
+  "--primaryCurrency--": "主要通貨",
+  "--defaultExpenseAccount--": "デフォルトの経費口座",
+  "--supplierClassification--": "サプライヤーの分類",
+  "--vendorID--": "ベンダーID",
+  "--requiredField--": "{{name}}は必須です。",
+  "--apReviewOutcome--": "APレビュー結果"
+}

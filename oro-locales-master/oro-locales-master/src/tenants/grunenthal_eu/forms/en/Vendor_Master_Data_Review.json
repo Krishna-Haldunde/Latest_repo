@@ -1,0 +1,44 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Vendor Master Data Review",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 7,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p>Note : The vendor will be <strong style=\\\"color: rgb(0, 138, 0);\\\">updated</strong><strong style=\\\"color: rgb(102, 185, 102);\\\"> </strong>once the details are submitted. </p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "q4__p_Is_all_the_information_corr",
+    "name": "<p>Please confirm that the Information is correct</p>",
+    "description": "Note: Please request info from the appropriate person if the information is incorrect before confirming",
+    "helpText": "<p>Note: Please request info from the appropriate person if the information is incorrect before confirming</p>",
+    "listItemPrefix": null,
+    "choices": {
+      "Confirmed": "Confirmed"
+    },
+    "type": "field"
+  }
+]

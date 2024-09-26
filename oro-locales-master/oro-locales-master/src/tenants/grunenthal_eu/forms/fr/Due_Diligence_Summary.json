@@ -1,0 +1,137 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Synthèse de la diligence raisonnable",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Processus appliqué en matière de diligence raisonnable à l’égard des tiers",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 23,
+    "fieldName": null,
+    "name": "Liste des sanctions et couvertures médiatiques défavorables",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 34,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><strong>Remarque</strong> : Une diligence raisonnable approfondie à l’égard des tiers peut également être appliquée si les résultats de la diligence raisonnable des tiers allégée révèle un risque élevé.</p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 31,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p>État des vérifications automatisées concernant les listes des sanctions et les couvertures médiatiques défavorables : <strong style=\\\"color: rgb(0, 138, 0);\\\">Aucune correspondance</strong><strong> </strong><strong style=\\\"color: rgb(0, 138, 0);\\\">n'a été trouvée</strong>. </p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 22,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><span style=\\\"color: rgb(62, 68, 86);\\\">État des vérifications automatisées concernant les listes des sanctions</span><strong style=\\\"color: rgb(230, 0, 0);\\\"> : Des correspondances ont été trouvées</strong><span style=\\\"color: rgb(230, 0, 0);\\\">.</span></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 27,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p>État des vérifications automatisées des couvertures médiatiques défavorables : <strong style=\\\"color: rgb(230, 0, 0);\\\">Des correspondances ont été trouvées.</strong><span style=\\\"color: rgb(230, 0, 0);\\\">.</span></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 88,
+    "fieldName": "q88__p_Please_add_your_comments___",
+    "name": "<p>Commentaire de la centrale d'achat</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 13,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><strong style=\\\"color: rgb(0, 138, 0);\\\">Une diligence raisonnable approfondie à l’égard des tiers </strong>a été appliquée à ce fournisseur sur la base des informations</p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 16,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><strong style=\\\"color: rgb(0, 138, 0);\\\">Une diligence raisonnable à l’égard des tiers sur les questions environnementales, sociales et de gouvernance</strong><strong> </strong> a été appliquée à ce fournisseur sur la base des informations</p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><strong style=\\\"color: rgb(0, 138, 0);\\\">Une diligence raisonnable allégée à l’égard des tiers </strong> a été appliquée à ce fournisseur sur la base des informations.</p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 91,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p>Sur la base des informations, <strong style=\\\"color: rgb(0, 138, 0);\\\">la diligence raisonnable à l’égard des tiers n'est pas applicable. </strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 48,
+    "fieldName": "q48__p__span_style__color__rgb_62_",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Veuillez confirmer manuellement si des résultats ont été trouvés concernant des couvertures médiatiques défavorables.</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "False hits": "Faux positifs",
+      "Found hits that are directly impacting the business relationship": "Résultats trouvés qui ont un impact direct sur la relation commerciale",
+      "Found hits that are not impacting the business relationship directly": "Résultats trouvés qui n'ont pas d'impact direct sur la relation commerciale",
+      "No hits": "Aucun résultat"
+    },
+    "type": "field"
+  }
+]

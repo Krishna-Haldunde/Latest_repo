@@ -1,0 +1,62 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "ProcessSummary",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 10,
+    "fieldName": "null_1__1__1_",
+    "name": "null(1)(1)(1)",
+    "description": "<h3>Sie sind fast am Ziel! Bitte klicken Sie „Senden“ an, um Ihre Anfrage abzuschließen. </h3><p> </p><p><strong>Nach Ihrer Einreichung wird der Anbieter direkt über ORO eingeladen und erhält einen Link, über den er die Formulare aufrufen und ausfüllen kann. </strong></p><p><br></p><p><strong>Sie können den Fortschritt der Anfrage jederzeit auf der Startseite unter „Meine Anträge“ überprüfen.</strong></p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": null,
+    "name": null,
+    "description": "<h3><strong>Sie sind fast am Ziel! Bitte klicken Sie „Senden“ an, um Ihre Anfrage abzuschließen. </strong></h3><p><br></p><p><strong>Nachdem Sie Ihre Anfrage eingereicht haben, wird diese vor Weiterleitung an den Lieferanten vom Procurement Center Team geprüft. </strong></p><p><strong>Der Lieferant wird direkt über ORO eingeladen und erhält einen Link, über den er die Formulare aufrufen und ausfüllen kann. </strong></p><p><br></p><p><strong>Sie können den Fortschritt der Anfrage jederzeit auf der Startseite unter „Meine Anträge“ überprüfen.</strong></p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 6,
+    "fieldName": "null_1_",
+    "name": "null(1)",
+    "description": "<h3><strong>Sie sind fast am Ziel! Bitte klicken Sie „Senden“ an, um Ihre Anfrage abzuschließen. </strong></h3><p><br></p><p><strong>Nach der Übermittlung Ihrer Anfrage wird diese vom Procurement Center Team geprüft, bevor sie bearbeitet wird.</strong></p><p><br></p><ul><li><strong>Falls Sie <u>Kontaktdaten aktualisieren</u> ausgewählt haben, erhalten Sie direkt nach der Übermittlung eine Aufgabe zur Aktualisierung der Kontaktdaten des Lieferanten.</strong></li><li><strong>Wenn Sie <u>Bankdaten aktualisieren</u> ausgewählt haben, wird der Lieferant </strong><strong style=\\\"color: rgb(62, 68, 86);\\\">direkt über ORO eingeladen und erhält einen Link, um die Zahlungsinformationen zu überprüfen/aktualisieren.</strong></li></ul><p><br></p><p><strong>Sie können den Fortschritt der Anfrage jederzeit auf der Homepage</strong></p> unter „Meine Anträge“ überprüfen.",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 8,
+    "fieldName": "null_1__1_",
+    "name": "null(1)(1)",
+    "description": "<h3>Sie sind fast am Ziel! Bitte klicken Sie „Senden“ an, um Ihre Anfrage abzuschließen. </h3><p><br></p><p><strong>Nach der Übermittlung Ihrer Anfrage wird diese vom Procurement Center Team geprüft, bevor sie bearbeitet wird.</strong></p><p><br></p><ul><li><strong>Falls Sie <u>Kontaktdaten aktualisieren</u> ausgewählt haben, erhalten Sie direkt nach der Übermittlung eine Aufgabe zur Aktualisierung der Kontaktdaten des Lieferanten.</strong></li><li><strong>Wenn Sie <u>Bankdaten aktualisieren</u> ausgewählt haben, wird der Lieferant </strong><strong style=\\\"color: rgb(62, 68, 86);\\\">direkt über ORO eingeladen und erhält einen Link, um die Zahlungsinformationen zu überprüfen/aktualisieren.</strong></li></ul><p><br></p><p><br></p><p><strong>Sie können den Fortschritt der Anfrage jederzeit auf der Homepage</strong></p> unter „Meine Anträge“ überprüfen.",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

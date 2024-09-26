@@ -1,0 +1,37 @@
+[
+  {
+    "id": null,
+    "name": "Maintenance des données des fournisseurs",
+    "type": "processTitle"
+  },
+  {
+    "id": 4,
+    "name": "Questionnaire pour les fournisseurs ",
+    "type": null
+  },
+  {
+    "id": 6,
+    "name": "Modalités de paiement",
+    "type": null
+  },
+  {
+    "id": 8,
+    "name": "Informations sur l'entreprise",
+    "type": null
+  },
+  {
+    "id": 10,
+    "name": "Coordonnées pour la prolongation du fournisseur",
+    "type": null
+  },
+  {
+    "id": 2,
+    "name": "Examen par la centrale d'achat",
+    "type": null
+  },
+  {
+    "id": 3,
+    "name": "Examen des données de base des fournisseurs",
+    "type": null
+  }
+]

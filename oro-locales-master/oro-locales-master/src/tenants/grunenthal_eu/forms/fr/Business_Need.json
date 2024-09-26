@@ -1,0 +1,206 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Besoin opérationnel",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 54,
+    "fieldName": null,
+    "name": "Informations sur le demandeur",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Catégorie et informations sur le fournisseur",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 96,
+    "fieldName": "businessOwner",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Propriétaire de l’entreprise</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 100,
+    "fieldName": "onBehalf",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Veuillez indiquer le nom de la personne pour laquelle vous faites la demande</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 102,
+    "fieldName": "productDescription",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Brève description du produit / service fourni à Grünenthal</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 114,
+    "fieldName": "categoryNonNull",
+    "name": "<p>La catégorie n'est pas invalide (question masquée fictive pour la condition)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 57,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<pre class=\\\"ql-syntax\\\" spellcheck=\\\"false\\\">Remarque : Cela peut nécessiter l'approbation du responsable de l'approvisionnement.\\n</pre>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 116,
+    "fieldName": "isExtensionWorkflow",
+    "name": "<p>S'agit-il d'un processus de prolongation du fournisseur (masqué) ?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 121,
+    "fieldName": "estimatedSpend",
+    "name": "<p>Estimation des dépenses</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 110,
+    "fieldName": "primaryCategory",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Catégorie principale du service proposé par le </span>fournisseur</p>",
+    "description": null,
+    "helpText": "<p><span style=\"color: rgb(68, 68, 68);\">Catégorie dont les dépenses annuelles auprès du fournisseur devraient être les plus élevées</span></p>",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 94,
+    "fieldName": "applicableNaceCode",
+    "name": "<p>Code NACE applicable</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 108,
+    "fieldName": "additionalCompanyEntities",
+    "name": "<p>Autres<span style=\"color: rgb(62, 68, 86);\"> entités commerciales Grünenthal</span> à inclure, le cas échéant ? (facultatif)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 129,
+    "fieldName": "fastLaneReason",
+    "name": "<p>Veuillez indiquer la raison de la mise en place d'une procédure d'intégration accélérée (fast lane onboarding)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Option 1": "Option 1",
+      "Option 2": "Option 2",
+      "Option 3": "Option 3"
+    },
+    "type": "field"
+  },
+  {
+    "id": 104,
+    "fieldName": "totalYearlySpend",
+    "name": "<p>Estimation des dépenses annuelles totales avec le fournisseur</p>",
+    "description": null,
+    "helpText": "<p>Dépenses prévues avec ce fournisseur au cours des 12 prochains mois</p>",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 127,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><em style=\\\"background-color: rgb(255, 255, 0); color: rgb(62, 68, 86);\\\">Remarque :</em><em style=\\\"color: rgb(62, 68, 86);\\\"> Ce processus ne doit être utilisé que dans les cas critiques pour l'activité. Après avoir été soumise, la demande devra recevoir l’aval du chef du service des achats</em></p>\".",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 98,
+    "fieldName": "isOnBehalf",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">La demande est-elle faite au nom de quelqu’un d’autre ?</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 141,
+    "fieldName": "supportDocs",
+    "name": "<p>Documents à l’appui de la demande</p>",
+    "description": null,
+    "helpText": "<p>Veuillez télécharger un document tel qu'une proposition ou un devis, une lettre d'entreprise ou un document officiel. Cela nous permettra de mieux examiner votre demande avec toutes les informations nécessaires.</p>",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 144,
+    "fieldName": "_p_Priority__p_",
+    "name": "<p>Priorité</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 106,
+    "fieldName": "primaryEntity",
+    "name": "<p>Entité commerciale Grünenthal principale</p>",
+    "description": null,
+    "helpText": "<p><span style=\"color: rgb(68, 68, 68);\">Entité commerciale dont les dépenses annuelles auprès du fournisseur devraient être les plus élevées</span></p>",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

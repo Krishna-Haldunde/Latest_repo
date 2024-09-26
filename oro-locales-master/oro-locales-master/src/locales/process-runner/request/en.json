@@ -1,0 +1,13 @@
+{
+  "--requestedOn--": "Requested on",
+  "--estimatedCompletion--": "Estimated Completion",
+  "--completedOn--": "Completed on",
+  "--deniedOn--": "Denied on",
+  "--cancelledOn--": "Cancelled on",
+  "--cardView--": "Card View",
+  "--listView--": "List View",
+  "--listIsEmpty--": "No requests to display",
+  "--addToList--": "Add to List",
+  "--deleteList--": "Delete list",
+  "--areYouSureYouWantToPermanentlyDeleteThisList--": "Are you sure you want to permanently delete this list?"
+}

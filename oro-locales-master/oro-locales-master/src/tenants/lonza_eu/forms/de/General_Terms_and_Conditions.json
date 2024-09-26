@@ -1,0 +1,44 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Allgemeine Geschäftsbedingungen",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 44,
+    "fieldName": null,
+    "name": "",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 9,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><strong><em>Sofern in einer individuellen Vereinbarung nichts anderes angegeben ist, gelten die jeweiligen Allgemeinen Geschäftsbedingungen von Lonza. Diese können bei Lonza angefordert oder unter „</em></strong><a href=\\\"https://www.lonza.com/conditions\\\" rel=\\\"noopener noreferrer\\\" target=\\\"_blank\\\"><strong><em>Allgemeine Geschäftsbedingungen</em></strong></a><strong><em>\\\"</em></strong></p> heruntergeladen werden\"",
+    "helpText": "<p><a href=\"https://www.lonza.com/conditions\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.lonza.com/conditions</a></p>",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 31,
+    "fieldName": "acceptTerms",
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Accept": "Akzeptieren"
+    },
+    "type": "field"
+  }
+]

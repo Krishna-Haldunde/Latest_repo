@@ -1,0 +1,20 @@
+[
+  {
+    "id": null,
+    "name": "Bank Key Validation",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 2,
+    "name": "Validate Bank Key",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 3,
+    "name": "Create bank key in SAP",
+    "type": null,
+    "description": "Please if non standard bank is existing in SAP use that or create a new bank in SAP with Standard bank code."
+  }
+]

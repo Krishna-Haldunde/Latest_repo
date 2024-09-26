@@ -1,0 +1,256 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Buchhaltungsdaten",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 18,
+    "fieldName": null,
+    "name": "Zahlungsdaten",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 53,
+    "fieldName": "directDebitAmount",
+    "name": "<p><strong>Lastschriftbetrag</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 59,
+    "fieldName": "directDebitFrequency",
+    "name": "<p><strong>Häufigkeit der Lastschrift</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Monthly": "Monatlich",
+      "Yearly": "Jährlich",
+      "Other": "Sonstige"
+    },
+    "type": "field"
+  },
+  {
+    "id": 62,
+    "fieldName": "DebitFrequencyIfOther",
+    "name": "<p><strong>Häufigkeit der Lastschrift (falls „Sonstige“ gewählt wurde)</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 68,
+    "fieldName": "annualExpenditure",
+    "name": "<p><strong>Jährliche Ausgaben</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 77,
+    "fieldName": "isdirectDebit",
+    "name": "<p><strong>Sollen die Rechnungen per Lastschrift bezahlt werden?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 74,
+    "fieldName": "justificationForPaymentTerm",
+    "name": "<p><strong>Sie haben eine Zahlungsfrist ausgewählt, die kürzer ist als die Standardzahlungsfrist von Lonza. Bitte fügen Sie eine klare Begründung hinzu, warum die Zahlungsfrist für diesen Lieferanten weniger als 60 Tage betragen muss.</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 83,
+    "fieldName": "incoTerms",
+    "name": "<p><strong>IncoTerms</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 88,
+    "fieldName": "incoTermsLocation1",
+    "name": "<p><strong>IncoTerms-Standort (optional)</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 91,
+    "fieldName": "accountGroup",
+    "name": "<p>Kontogruppe</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 93,
+    "fieldName": "_p_CompanyEntity__p_",
+    "name": "<p>Firmeneinheit</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 115,
+    "fieldName": "country",
+    "name": "<p>Land</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 106,
+    "fieldName": "paymentMethods",
+    "name": "<p><strong>Zahlungsmethode</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 117,
+    "fieldName": "reconAccountException",
+    "name": "<p>Ausnahme Abstimmungskonto</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 95,
+    "fieldName": "reconAccount",
+    "name": "<p>Abstimmungskonto</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 97,
+    "fieldName": "sortKey",
+    "name": "<p>Sortierschlüssel</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 99,
+    "fieldName": "planningGroup",
+    "name": "<p>Planungsgruppe</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 101,
+    "fieldName": "clerkAbbr",
+    "name": "<p>Abkürzung für Sachbearbeiter</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 103,
+    "fieldName": "checkDoubleInv",
+    "name": "<p>Dublettenprüfung Rechnung</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 120,
+    "fieldName": "orderingCurrency",
+    "name": "<p><strong>Bitte wählen Sie die Bestellwährung aus</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 48,
+    "fieldName": "directDebitCategory",
+    "name": "<p><strong>Lastschriftkategorie</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 50,
+    "fieldName": "directDebitSubCategory",
+    "name": "<p><strong>Unterkategorie Lastschrift</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 65,
+    "fieldName": "DirectDebitDate",
+    "name": "<p><strong>Lastschriftdatum</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 21,
+    "fieldName": "paymentTerms",
+    "name": "<p><strong>Wie lauten die vereinbarten Zahlungsbedingungen?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

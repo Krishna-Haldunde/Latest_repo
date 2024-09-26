@@ -1,0 +1,144 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Détails des conditions de paiement",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Conditions de paiement",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 61,
+    "fieldName": null,
+    "name": "",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 62,
+    "fieldName": null,
+    "name": "Classification des fournisseurs",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 28,
+    "fieldName": "nonStandardPaymentTermReason",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Quelle est la raison du choix de conditions de paiement non standard ?</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 26,
+    "fieldName": "nonStandardPaymentTerm",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Saisir les conditions de paiement applicables</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><strong style=\\\"background-color: rgb(255, 255, 0);\\\">Remarque : </strong><strong>en raison de la sélection de conditions de paiement non standard, ORO déclenchera une approbation auprès du responsable du secteur des achats/du responsable de la facturation.</strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 24,
+    "fieldName": "requesterPaymentTerm",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Conditions de paiement applicables au fournisseur </span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 50,
+    "fieldName": "isStandardPaymentTerm",
+    "name": "<p>Selon la politique d'achat, les conditions de paiement standard recommandées sont de 60 jours. Toute condition de paiement inférieure à 60 jours devra être approuvée par le responsable du secteur des achats/facturation.</p><p>Souhaitez-vous appliquer les conditions de paiement standard ?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Other": "Autre"
+    },
+    "type": "field"
+  },
+  {
+    "id": 55,
+    "fieldName": "nonStandardPTNo",
+    "name": "<p>Délai de paiement standard par défaut (caché)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 53,
+    "fieldName": "nonStandardPTYes",
+    "name": "<p>Oui par défaut pour le délai de paiement standard (caché)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 65,
+    "fieldName": "fastLanePayTerm",
+    "name": "<p>Veuillez sélectionner le délai de paiement approprié dans la liste ci-dessous</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 71,
+    "fieldName": "fastLaneProcess",
+    "name": "<p>Le processus fait l’objet d’une démarche accélérée (caché)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 68,
+    "fieldName": "fastLaneVendClassification",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Sélectionnez la classification du fournisseur applicable</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

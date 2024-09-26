@@ -1,0 +1,349 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Company Code and Purchasing Org Data",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 28,
+    "fieldName": null,
+    "name": "Purchasing Org Data",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Company code data",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 20,
+    "fieldName": null,
+    "name": "Company code accounting data",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 27,
+    "fieldName": null,
+    "name": "Clerk data",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 68,
+    "fieldName": null,
+    "name": "Qualification related data",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 31,
+    "fieldName": "incoTerms",
+    "name": "<p><strong>Incoterms</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 49,
+    "fieldName": "directDebitAmount",
+    "name": "<p><strong>Please enter the direct debit amount</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 52,
+    "fieldName": "directDebitFrequency",
+    "name": "<p><strong>Please select the direct debit frequency</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Monthly": "Monthly",
+      "Yearly": "Yearly",
+      "Other": "Other"
+    },
+    "type": "field"
+  },
+  {
+    "id": 55,
+    "fieldName": "otherfrequency",
+    "name": "<p><strong style=\"color: rgb(62, 68, 86);\">Direct Debit Frequency(If Chosen \"Other\")</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 58,
+    "fieldName": "directDebitDate",
+    "name": "<p><strong style=\"color: rgb(62, 68, 86);\">Direct Debit Date</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 61,
+    "fieldName": "annualExpenditure",
+    "name": "<p><strong style=\"color: rgb(62, 68, 86);\">Annual Expenditure</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 34,
+    "fieldName": "orderingCurrency",
+    "name": "<p><strong>Ordering Currency</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 37,
+    "fieldName": "incoTermLocation",
+    "name": "<p><strong>Incoterm Location</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 64,
+    "fieldName": "helptextcompanycode",
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 43,
+    "fieldName": "companyCodeCountry",
+    "name": "<p><strong>Company Code Country</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 67,
+    "fieldName": "paymentMethodHelptext",
+    "name": null,
+    "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>If you choose to pay via direct debit , please add Direct Debit from the list of payment methods.</em></strong></p><p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>You will not see the direct debit option if it does not exist for the selected company code. In this case, pay via direct debit should be selected as \\\"No\\\"</em></strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 71,
+    "fieldName": "isGMPRelevant",
+    "name": "<p><strong>Is the supplier GMP relevant?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 23,
+    "fieldName": "reconcilliationAccount",
+    "name": "<p><strong style=\"color: rgb(106, 106, 106);\">Reconciliation account</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "sortkey",
+    "name": "<p><strong>Sort Key</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": "cashmgmtgroup",
+    "name": "<p><strong>Cash management Group(Planning Group)</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 40,
+    "fieldName": "popaymentterm",
+    "name": "<p><strong>Default Payment Term </strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 81,
+    "fieldName": "changedpopaymentterm",
+    "name": "<p><strong>Payment Term  </strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 26,
+    "fieldName": "paymentTerms",
+    "name": "<p><strong>Default Payment Term</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 83,
+    "fieldName": "changedccpaymentterm",
+    "name": "<p><strong>Payment Term   </strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 10,
+    "fieldName": "checkDoubleInv",
+    "name": "<p><strong>Check Double Inv</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 46,
+    "fieldName": "isDirectDebit",
+    "name": "<p><strong style=\"color: rgb(62, 68, 86);\">Should the invoices be paid via direct debit?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 13,
+    "fieldName": "paymentMethod",
+    "name": "<p><strong>Payment Method</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 19,
+    "fieldName": "clerkEmail",
+    "name": "<p><strong style=\"color: rgb(87, 95, 112);\">Clerk's internet</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 79,
+    "fieldName": "vcnattachment",
+    "name": "<p><strong>Attach the VCN or any supporting document</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 86,
+    "fieldName": "requestorSite",
+    "name": "<p><strong>Select the requestor's site</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 95,
+    "fieldName": "companyCodeExists",
+    "name": "<p>Is company company code existing</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 74,
+    "fieldName": "willBecomeGMPRelevant",
+    "name": "<p><strong style=\"color: rgb(62, 68, 86);\">Will the supplier be used within or support of manufacturing of a regulated product after extension?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "No": "No",
+      "Yes": "Yes"
+    },
+    "type": "field"
+  },
+  {
+    "id": 16,
+    "fieldName": "clerkabbreviation",
+    "name": "<p><strong>Clerk Abbreviation</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "--uploadQuoteProposal--": "Carica il preventivo/proposta",
+  "--ifYouHaveProposalQuoteAttachmentPleaseUploadHere--": "Se hai un allegato alla proposta/preventivo, caricalo qui.",
+  "--supportedFormats--": "Formati supportati:",
+  "--upload--": "Carica",
+  "--proposalDetails--": "Dettagli della proposta",
+  "--pleaseEnsureTheDetailsAreCorrect--": "Verifica che i dati inseriti siano corretti e corrispondano al documento caricato",
+  "--supplierLegalName--": "Ragione sociale del fornitore",
+  "--description--": "Descrizione della proposta",
+  "--deliveryDate--": "Data di consegna",
+  "--totalAmount--": "Importo totale",
+  "--supplierCountry--": "Paese del fornitore",
+  "--paymentTerm--": "Termini di pagamento",
+  "--edit--": "Modifica",
+  "--save--": "Salva",
+  "--confirm--": "Conferma",
+  "--proposal--": "Proposta",
+  "--weExtractedFollowingDetailsFromYourProposal--": "Abbiamo estratto i seguenti dettagli dalla tua proposta",
+  "--previewNotAvailable--": "Anteprima non disponibile",
+  "--thereAreSomeErrorsInForm--": "Ci sono alcuni errori nel modulo. Controlla"
+}

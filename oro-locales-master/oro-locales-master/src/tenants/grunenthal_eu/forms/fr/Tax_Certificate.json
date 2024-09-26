@@ -1,0 +1,75 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Détails du certificat fiscal",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 12,
+    "fieldName": "taxCert",
+    "name": "<p>Télécharger le certificat fiscal</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 14,
+    "fieldName": "noTaxCertReas",
+    "name": "<p>Veuillez sélectionner la raison adéquate.</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "I dont have a certificate": "Je n'ai pas de certificat",
+      "This is not applicable to me": "Ceci n'est pas applicable à mon cas"
+    },
+    "type": "field"
+  },
+  {
+    "id": 25,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p>Conformément à la réglementation allemande, les prestataires qui fournissent des services de construction dans nos installations doivent fournir un certificat fiscal (<u style=\\\"color: rgb(34, 34, 34);\\\">Freistellungsbescheinigung vom Finanzamt</u><span style=\\\"color: rgb(34, 34, 34);\\\">).</span></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 28,
+    "fieldName": "noTaxCertReason",
+    "name": "<p>Justifiez votre réponse.</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 16,
+    "fieldName": "taxCertAttach",
+    "name": "<p>Veuillez télécharger le certificat fiscal</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

@@ -1,0 +1,179 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Update Company Name/Address",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Address",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 11,
+    "fieldName": null,
+    "name": "International Address",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 27,
+    "fieldName": null,
+    "name": "Communication",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 42,
+    "fieldName": "nameOrAddress",
+    "name": "<p><strong>Do you wish to change the name or address of the company?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Address": "Address",
+      "Both": "Both",
+      "Name": "Name"
+    },
+    "type": "field"
+  },
+  {
+    "id": 17,
+    "fieldName": "internationalLanguage",
+    "name": "<p><strong>Select language</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": "companyAddress",
+    "name": "<p><strong>Company address</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 20,
+    "fieldName": "companyNameIntLang",
+    "name": "<p><strong>Company name </strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 26,
+    "fieldName": "addressIntLang",
+    "name": "<p><strong>Company address </strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 30,
+    "fieldName": "telephoneNumber",
+    "name": "<p><strong>Telephone</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 33,
+    "fieldName": "fax",
+    "name": "<p><strong>Fax</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 46,
+    "fieldName": "existingName",
+    "name": "<p><strong>Existing company name</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "companyName",
+    "name": "<p><strong>Company name</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 49,
+    "fieldName": "requestorSite",
+    "name": "<p><strong>Select the requestor's site</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 39,
+    "fieldName": "typeofAddresssChange",
+    "name": "<p><strong>Please select the type of address change?</strong></p>",
+    "description": null,
+    "helpText": "<p><strong>Address change w/o relocation</strong> should be used in the below scenarios:</p><p>Street was renamed</p><p>City was renamed</p><p>New postal code</p>",
+    "listItemPrefix": null,
+    "choices": {
+      "Address change w/o relocation": "Address change w/o relocation",
+      "Relocation": "Relocation"
+    },
+    "type": "field"
+  },
+  {
+    "id": 51,
+    "fieldName": "existingCompanyAddress",
+    "name": "<p><strong>Company address-From variable</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 44,
+    "fieldName": "existingaddress",
+    "name": "<p><strong>Existing company address</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

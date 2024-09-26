@@ -1,0 +1,153 @@
+{
+  "--oroAI--": "ORO AI",
+  "--guidingYouToRightChannels--": "İş ihtiyaçlarınız için yardım alın",
+  "--describeYourBusinessNeed--": "İş ihtiyacınızı açıklayın...",
+  "--describeYourNeed--": "İhtiyacınızı tarif edin",
+  "--startNewRequest--": "Yeni bir talep başlatın",
+  "--enrichYourDescription--": "Açıklamanızı tahmini harcama ve tedarikçiler gibi ayrıntılarla (varsa) zenginleştirin.",
+  "--generating--": "Üretiliyor",
+  "--searching--": "Aranıyor",
+  "--capturingResponse--": "Yanıtınızı inceliyorum",
+  "--close--": "Çık",
+  "--describeYourBusinessNeedAi--": "Hadi başlayalım! Lütfen bütçe, teknik özellikler ve zaman çizelgesi dahil olmak üzere iş ihtiyaçlarınızı açıklayın. (Ne kadar çok ayrıntı verilirse tavsiyeler o kadar iyi olacaktır)",
+  "--uploadProposal--": "Teklif yükleyin",
+  "--uploadDocumentAi--": "Zaten bir teklifiniz mi var? Tüm ayrıntıları dışarı aktarmak için yükleyin ve işin zor kısmını yapay zekaya bırakın",
+  "--uploadDocument--": "Değerleri dışa aktarmak için belge yükleyin",
+  "--attach--": "Ekle",
+  "--skipQuestion--": "Soruyu atla",
+  "--notSure--": "Ne cevap vereceğinizden emin değil misiniz?",
+  "--comingSoon--": {
+    "--comingSoon--": "Çok Yakında!",
+    "--primaryMessage--": "Size en iyi deneyimi sunmak için şu anda bu talep üzerinde çalışıyoruz.",
+    "--secondaryMessage--": "Kritik bir durum söz konusuysa lütfen uzmanlara ulaşın."
+  },
+  "--tips--": {
+    "--hereAreExamples--": "Başlamanıza yardımcı olacak birkaç örnek:",
+    "--tip1--": "Tahmini 20.000 $ bütçe ile Ar-Ge için ilaç numuneleri yapmak üzere 3D Yazıcı satın alın",
+    "--tip2--": "Bir konferans etkinliği için 1000 adet özelleştirilmiş tişört satın alın; bütçe 10.000$",
+    "--tip3--": "Moving Brands ile sonbahar kampanyası için yaratıcı bir çalışma yapmak üzere 125000 $ değerinde PO oluşturun"
+  },
+  "--category--": {
+    "--classifyingYourNeed--": "Seçilen kategori",
+     "--classifyYouNeedSoWeCanGuide--": "Sizin için doğru çözümleri hızlıca bulmak için ihtiyaçlarınıza en uygun kategoriyi seçin."
+  },
+  "--supplier--": {
+    "--showMore--": "Daha Fazla Göster",
+    "--showLess--": "Daha Az Göster",
+    "--supplier--": "Tedarikçi",
+    "--duns--": "DUNS:",
+    "--select--": "Seç",
+    "--selectedSupplier--": "Seçilen Tedarikçi",
+    "--skipSupplierSelection--": "Tedarikçi seçimini şimdilik atlayın",
+    "--selectSupplier--": "Tedarikçi seçimi gereklidir",
+    "--foundSomeSuppliers--": "İşte iş ihtiyacınıza uygun birkaç önerilen tercih edilen tedarikçi Bunları kullanmak siparişinizi hızlı bir şekilde takip edecektir.",
+    "--recentlyUsedFor--": "Yakın zamanda kullanıldı:",
+    "--productUsedBy--": "{{product}} / {{user}} ({{department}})",
+    "--preferredFor--": "Şunun için tercih edilir:",
+    "--multiple--": "Çoklu",
+    "--enterSupplierName--": "Tedarikçi adını girin",
+    "--weFoundMatches--": "'{{name}}' için bazı eşleşmeler bulduk - Lütfen birini seçin",
+    "--looksLikeNewSupplier--": "Görünüşe göre yeni bir tedarikçiyle çalışıyorsunuz.",
+    "--shareSupplierDetails--": "Lütfen aşağıdaki tedarikçi bilgilerini paylaşın",
+    "--supplierName--": "Tedarikçi Adı",
+    "--enterName--": "İsim girin",
+    "--nameIsRequired--": "İsim gereklidir",
+    "--supplierContact--": "Tedarikçi İletişim Kişisi",
+    "--contractRequired--": "İletişim kişisi gereklidir",
+    "--enterEmail--": "E-posta kimliğini girin",
+    "--continue--": "Devam et",
+    "--searchSupplier--": "Hangi tedarikçi ile çalışmak istiyorsunuz?",
+    "--searchAnotherSupplier--": "Başka bir tedarikçi arayın",
+    "--skipSelection--": "Tedarikçi seçimini atla",
+    "--skipSuggestions--": "Önerileri atla",
+    "--viewRecommendations--": "Önerileri Görüntüle",
+    "--pleaseCompleteDetails--": "Lütfen ayrıntıları doldurun",
+    "--youAreWorkingWith--": "Görünüşe göre <1>yeni bir tedarikçiyle</1> çalışıyorsunuz.",
+    "--recentTransaction--": "Son İşlemler",
+    "--vendorId--": "KİMLİK:",
+    "--wouldYouConsider--": "Bu görev için tercih edilen tedarikçileri kullanmayı düşünmek ister misiniz?",
+    "--usingThemSaveTime--": "Bunları kullanmak size zaman ve paradan tasarruf sağlayacaktır.",
+    "--skippedSupplierSelection--": "- Tedarikçi seçimi atlandı -",
+    "--haveAnotherSupplier--": "Aklınızda bir tedarikçi var mı?",
+    "--search--": "Ara"
+  },
+  "--estimate--": {
+    "--estimateSpend--": "Tahmini Harcamanız",
+    "--pleaseConfirmEstimateSpend--": "Lütfen tahmini harcamanızı onaylayın. Bu, bütçenize uygun çözümler bulmamıza yardımcı olur.",
+    "--continue--": "Devam et"
+  },
+  "--buyingChannel--": {
+    "--basedOnNeedYouCanStartWith--": "Neredeyse bitti! İhtiyacınıza göre, sonraki adımlar olarak şunları öneriyoruz",
+    "--select--": "Seç"
+  },
+  "--buyingChannelForm--": {
+    "--close--": "Kapat",
+    "--cancel--": "İptal",
+    "--submit--": "Gönder",
+    "--home--":"Ana Sayfa",
+    "--somethingWentWrong--": "Bir şeyler ters gitti...",
+    "--notAbleToSubmit--": "Şu anda talep gönderilemiyor. Manuel olarak deneyebilirsiniz:",
+    "--clickHereToStart--": "Talebi başlatmak için buraya tıklayın",
+    "--submittedSuccessfully--": "Talebiniz gönderildi.",
+    "--submittingYourRequest--": "Talebiniz gönderiliyor. Lütfen bekleyin...",
+    "--loading--": "Yükleniyor. Lütfen bekleyin...",
+    "--keepYouUpdated--": "Sonraki adımlar konusunda sizi bilgilendirmeye devam edeceğiz."
+  },
+  "--punchout--": {
+    "--basedOnNeedYouCanStartWith--": "İhtiyacınıza bağlı olarak potansiyel olarak şunlarla başlayabilirsiniz",
+    "--continueExploring--": "Keşfetmeye devam edin",
+    "--notTheResultYouLooking--": "Aradığınız sonucu bulamadınız mı?"
+  },
+  "--compliance--": {
+    "--continue--": "Devam et",
+    "--ComplianceQuestionnaire--": "Uyum anketi"
+  },
+  "--transactions--": {
+    "--details--": "AYRINTILAR",
+    "--requester--": "TALEP EDEN",
+    "--date--": "TARİH",
+    "--spend--": "HARCAMA"
+  },
+  "--catalog--": {
+    "--weFoundSomeRecommendations--": "Neredeyse bitti! İhtiyacınıza göre, sonraki adımlar olarak şunları öneriyoruz",
+    "--spendLimit--": "Harcama Limiti:",
+    "--foundMatchingItems--": "Eşleşen Öğeler Bulundu",
+    "--couldNotFindMatchingItems--": "Eşleşen öğe bulunamadı",
+    "--noImageAvailable--": "Resim Mevcut Değil",
+    "--seeMore--": "Daha fazlasını görün",
+    "--inMarketplace--": "{{marketplaceName}} içerisinde",
+    "--notTheResultYouLooking--": "Aradığınız sonucu bulamadınız mı?",
+    "--notApplicableContinueExploring--": "Keşfetmeye devam edin",
+    "--searchingForMatching--": "Eşleşen öğeleri arama",
+    "--goTo--": "Şuraya git: {{name}}"
+  },
+  "--proposal--": {
+    "--capturedDetails--": "Ayrıntılar ekten alınmıştır:",
+    "--reviewAndConfirmExtractedDetail--": "Teklifinizi yükledikten sonra aktarılan ayrıntıların doğruluğunu gözden geçirin ve onaylayın.",
+    "--title--": "Başlık",
+    "--description--": "Açıklama",
+    "--agreementType--": "Anlaşma türü",
+    "--contact--": "İletişim",
+    "--region--": "Bölge",
+    "--paymentTerms--": "Ödeme koşulları",
+    "--amount--": "Tutar",
+    "--supplier--": "Tedarikçi",
+    "--continue--": "Devam et",
+    "--unableToExtractDetails--":"Şu anda belgenin içeriğini çıkaramıyoruz.",
+    "--continueToProceed--":"Devam etmek için lütfen 'Devam' üzerine tıklayın"
+  },
+  "--po--": {
+    "--purchaseOrder--": "SATIN ALMA SİPARİŞİ",
+    "--supplier--": "TEDARİKÇİ",
+    "--requestor--": "TALEP SAHİBİ",
+    "--status--": "DURUM",
+    "--created--": "Oluşturulma:",
+    "--viewAll--": "Tümünü Görüntüle",
+    "--overview--": "İşte satın alma siparişine genel bir bakış",
+    "--foundList--": "İşte bulduğumuz satın alma siparişlerinin listesi"
+  },
+  "--generalchat--": {
+    "--note--": "PROFESYONEL İPUCU",
+    "--tip--": "Daha iyi sonuçlar için tedarikçi / malzeme numarası / taslak sözleşme numarası ile ilgili ayrıntıları ekleyin"
+  }
+}

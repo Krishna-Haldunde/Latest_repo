@@ -1,0 +1,153 @@
+{
+  "--oroAI--": "IA ORO",
+  "--guidingYouToRightChannels--": "Obtenga ayuda guiada para sus necesidades empresariales",
+  "--describeYourBusinessNeed--": "Describa las necesidades de su empresa...",
+  "--describeYourNeed--": "Describa su necesidad",
+  "--startNewRequest--": "Iniciar una nueva solicitud",
+  "--enrichYourDescription--": "Amplíe su descripción con detalles como el gasto estimado y los proveedores (si los hay).",
+  "--generating--": "Generando",
+  "--searching--": "Buscando",
+  "--capturingResponse--": "Registrando su respuesta",
+  "--close--": "Salir",
+  "--describeYourBusinessNeedAi--": "¡Empecemos! Describa las necesidades de su empresa, incluido el presupuesto, las especificaciones y los plazos. (Cuantos más detalles se faciliten, mejores serán las recomendaciones)",
+  "--uploadProposal--": "Subir propuesta",
+  "--uploadDocumentAi--": "¿Ya tiene una propuesta? Cargue para extraer todos los detalles y deje que la IA haga el trabajo pesado",
+  "--uploadDocument--": "Cargar documento para extraer valores",
+  "--attach--": "Adjuntar",
+  "--skipQuestion--": "Saltar pregunta",
+  "--notSure--": "¿No sabe qué contestar?",
+  "--comingSoon--": {
+    "--comingSoon--": "Próximamente",
+    "--primaryMessage--": "Actualmente estamos trabajando en esta solicitud para ofrecerte la mejor experiencia.",
+    "--secondaryMessage--": "Por favor, póngase en contacto con los expertos si es crítico."
+  },
+  "--tips--": {
+    "--hereAreExamples--": "A continuación se muestran algunos ejemplos para comenzar.",
+    "--tip1--": "Comprar impresora 3D para fabricar muestras de medicamentos para I+D con un presupuesto estimado de 20 000 USD",
+    "--tip2--": "Comprar 1000 camisetas personalizadas para un acto de una conferencia; presupuesto de 10 000 USD",
+    "--tip3--": "Crear una orden de compra de 125 000 USD con Moving Brands para trabajar en un proyecto creativo para la campaña de otoño"
+  },
+  "--category--": {
+    "--classifyingYourNeed--": "Categoría seleccionada",
+     "--classifyYouNeedSoWeCanGuide--": "Seleccione la categoría que mejor se adapte a sus necesidades para encontrar rápidamente las soluciones adecuadas para usted."
+  },
+  "--supplier--": {
+    "--showMore--": "Ver más",
+    "--showLess--": "Ver menos",
+    "--supplier--": "Proveedor",
+    "--duns--": "Número DUNS:",
+    "--select--": "Seleccionar",
+    "--selectedSupplier--": "Proveedor seleccionado",
+    "--skipSupplierSelection--": "Omitir por ahora la selección de proveedores",
+    "--selectSupplier--": "Se requiere la selección de proveedores",
+    "--foundSomeSuppliers--": "A continuación le recomendamos algunos proveedores preferentes que se ajustan a las necesidades de su empresa. Al usarlos se acelerará su pedido.",
+    "--recentlyUsedFor--": "Utilizado recientemente para:",
+    "--productUsedBy--": "{{product}} de {{user}} ({{department}})",
+    "--preferredFor--": "Preferido para:",
+    "--multiple--": "Múltiples",
+    "--enterSupplierName--": "Introduzca el nombre del proveedor",
+    "--weFoundMatches--": "Hemos encontrado coincidencias para '{{name}}' - Por favor, seleccione una",
+    "--looksLikeNewSupplier--": "Parece que está trabajando con un nuevo proveedor.",
+    "--shareSupplierDetails--": "Comparta los siguientes datos del proveedor",
+    "--supplierName--": "Nombre del proveedor",
+    "--enterName--": "Introduzca el nombre",
+    "--nameIsRequired--": "Se requiere el nombre",
+    "--supplierContact--": "Contactos de proveedores",
+    "--contractRequired--": "El contacto es obligatorio",
+    "--enterEmail--": "Introduzca ID de correo electrónico",
+    "--continue--": "Continuar",
+    "--searchSupplier--": "¿Con qué proveedor desea trabajar?",
+    "--searchAnotherSupplier--": "Buscar otro proveedor",
+    "--skipSelection--": "Saltar la selección de proveedores",
+    "--skipSuggestions--": "Saltar sugerencias",
+    "--viewRecommendations--": "Ver recomendaciones",
+    "--pleaseCompleteDetails--": "Por favor, complete los datos",
+    "--youAreWorkingWith--": "Parece que está trabajando con un <1>nuevo proveedor</1>.",
+    "--recentTransaction--": "Transacciones recientes",
+    "--vendorId--": "ID:",
+    "--wouldYouConsider--": "¿Le gustaría considerar el uso de proveedores preferentes para este compromiso?",
+    "--usingThemSaveTime--": "Utilizarlos le ahorrará tiempo y dinero.",
+    "--skippedSupplierSelection--": "- Omisión de la selección de proveedores -",
+    "--haveAnotherSupplier--": "¿Tiene algún proveedor en mente?",
+    "--search--": "Buscar"
+  },
+  "--estimate--": {
+    "--estimateSpend--": "Su gasto estimado",
+    "--pleaseConfirmEstimateSpend--": "Confirme su gasto estimado. Esto nos ayuda a encontrar soluciones que se ajusten a su presupuesto.",
+    "--continue--": "Continuar"
+  },
+  "--buyingChannel--": {
+    "--basedOnNeedYouCanStartWith--": "Ya casi estamos. En función de sus necesidades, le recomendamos los siguientes pasos",
+    "--select--": "Seleccionar"
+  },
+  "--buyingChannelForm--": {
+    "--close--": "Cerrar",
+    "--cancel--": "Cancelar",
+    "--submit--": "Enviar",
+    "--home--":"Inicio",
+    "--somethingWentWrong--": "Algo salió mal...",
+    "--notAbleToSubmit--": "No se puede enviar la solicitud en este momento. Puede intentarlo manualmente:",
+    "--clickHereToStart--": "Haga clic aquí para iniciar la solicitud",
+    "--submittedSuccessfully--": "Se ha enviado su solicitud.",
+    "--submittingYourRequest--": "Enviando su solicitud. Por favor espere...",
+    "--loading--": "Cargando. Por favor, espere...",
+    "--keepYouUpdated--": "Le mantendremos informado de los próximos pasos."
+  },
+  "--punchout--": {
+    "--basedOnNeedYouCanStartWith--": "En función de sus necesidades, puede empezar con",
+    "--continueExploring--": "Seguir explorando",
+    "--notTheResultYouLooking--": "¿No es el resultado que busca?"
+  },
+  "--compliance--": {
+    "--continue--": "Continuar",
+    "--ComplianceQuestionnaire--": "Cuestionario de cumplimiento"
+  },
+  "--transactions--": {
+    "--details--": "DETALLES",
+    "--requester--": "SOLICITANTE",
+    "--date--": "FECHA",
+    "--spend--": "GASTO"
+  },
+  "--catalog--": {
+    "--weFoundSomeRecommendations--": "Ya casi estamos. En función de sus necesidades, le recomendamos los siguientes pasos",
+    "--spendLimit--": "Límite de gasto:",
+    "--foundMatchingItems--": "Artículos coincidentes encontrados",
+    "--couldNotFindMatchingItems--": "No se han encontrado artículos coincidentes",
+    "--noImageAvailable--": "No hay imagen disponible",
+    "--seeMore--": "Más información",
+    "--inMarketplace--": "en {{marketplaceName}}",
+    "--notTheResultYouLooking--": "¿No es el resultado que busca?",
+    "--notApplicableContinueExploring--": "Seguir explorando",
+    "--searchingForMatching--": "Búsqueda de artículos coincidentes",
+    "--goTo--": "Ir a {{name}}"
+  },
+  "--proposal--": {
+    "--capturedDetails--": "Detalles extraídos del archivo adjunto:",
+    "--reviewAndConfirmExtractedDetail--": "Revise y confirme la exactitud de los detalles extraídos después de cargar su presupuesto.",
+    "--title--": "Título",
+    "--description--": "Descripción",
+    "--agreementType--": "Tipo de acuerdo",
+    "--contact--": "Contacto",
+    "--region--": "Región",
+    "--paymentTerms--": "Condiciones de pago",
+    "--amount--": "Importe",
+    "--supplier--": "Proveedor",
+    "--continue--": "Continuar",
+    "--unableToExtractDetails--":"En este momento no podemos extraer el contenido del documento.",
+    "--continueToProceed--":"Haga clic en \"Continuar\" para seguir"
+  },
+  "--po--": {
+    "--purchaseOrder--": "ORDEN DE COMPRA",
+    "--supplier--": "PROVEEDOR",
+    "--requestor--": "SOLICITANTE",
+    "--status--": "ESTADO",
+    "--created--": "Creado:",
+    "--viewAll--": "Ver todo",
+    "--overview--": "Aquí puede ver un resumen de la orden de compra",
+    "--foundList--": "Esta es la lista de órdenes de compra que hemos encontrado"
+  },
+  "--generalchat--": {
+    "--note--": "DATO ÚTIL",
+    "--tip--": "Incluya detalles sobre el proveedor / número de material / número de contrato marco para obtener mejores resultados"
+  }
+}

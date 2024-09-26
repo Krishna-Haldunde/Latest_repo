@@ -1,0 +1,75 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "TPDD Renewal _ Sourcing Manager Review",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 13,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p>The <span style=\\\"color: rgb(62, 68, 86);\\\">Third Party Due Diligence (</span>TPDD) Renewal has been started for this supplier as the TPDD expiration is approaching. As part of this process, the supplier would be required to answer Third Party Due Diligence questionnaire.</p><p> </p><p>However, it is recommended to stop this process, if the supplier is not planned to be used for any purchase of service or goods. </p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": "q7__p_Please_justify_your_answer_",
+    "name": "<p>Please justify your answer.</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 16,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><strong style=\\\"color: rgb(0, 102, 204);\\\">Since you have opted to 'Stop' the TPDD renewal process, the Procurement centre will review it further.</strong><strong style=\\\"color: rgb(230, 0, 0);\\\"> </strong></p><p><br></p><p><strong style=\\\"color: rgb(0, 102, 204);\\\">If you plan to work with this supplier again at a later point, you can start the TPDD renewal process again manually. </strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 10,
+    "fieldName": "tpddDenial",
+    "name": "<p>TPDD Denial (Hidden)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "q4__p__span_style__color__rgb_62_",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Do you wish to </span>continue<span style=\"color: rgb(62, 68, 86);\"> the TPDD renewal for this Supplier?</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Deny": "Deny",
+      "Approve": "Approve"
+    },
+    "type": "field"
+  }
+]

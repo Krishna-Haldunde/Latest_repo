@@ -1,0 +1,72 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Potential Supplier Screening Review Form",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 7,
+    "fieldName": "financialScreeningNeeded",
+    "name": "<p><strong>Would you like to initiate the Financial Screening of this supplier?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 21,
+    "fieldName": "null_1_",
+    "name": "null(1)",
+    "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>Note: You will be informed of the results of the financial screening as before by the ServiceNow notification.</em></strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 24,
+    "fieldName": "isRiskAvailable",
+    "name": "<p><strong>Is Risk Available?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 19,
+    "fieldName": "assessmentRiskLevel",
+    "name": "<p>Assessment Risk Level</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 26,
+    "fieldName": "null_1__1_",
+    "name": "null(1)(1)",
+    "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>This supplier displays a high ESG risk. Please consider sourcing from another supplier or&nbsp;be aware that the supplier will be invited to an Integrity Next assessment during onboarding.​</em></strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

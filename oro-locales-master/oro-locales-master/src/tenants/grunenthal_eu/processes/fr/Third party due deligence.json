@@ -1,0 +1,104 @@
+[
+  {
+    "id": null,
+    "name": "Diligence raisonnable à l’égard des tiers",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 9,
+    "name": "Trouver le processus de diligence raisonnable applicable",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 96,
+    "name": "Charger le contact principal",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 181,
+    "name": "Recueillir les questionnaires des fournisseurs",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 168,
+    "name": "Collecter les documents du fournisseur",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 157,
+    "name": "Collecter les documents du fournisseur",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 192,
+    "name": "Formulaires du fournisseur par demandeur",
+    "type": null,
+    "description": "Le fournisseur n'ayant pas répondu, le demandeur devra communiquer les informations du fournisseur. "
+  },
+  {
+    "id": 194,
+    "name": "Informations sur l'entreprise",
+    "type": null,
+    "description": "Le fournisseur n'ayant pas répondu, le demandeur devra communiquer les informations du fournisseur. "
+  },
+  {
+    "id": 196,
+    "name": "Modalités de paiement",
+    "type": null,
+    "description": "Le fournisseur n'ayant pas répondu, le demandeur devra communiquer les informations du fournisseur. "
+  },
+  {
+    "id": 198,
+    "name": "Coordonnées",
+    "type": null,
+    "description": "Le fournisseur n'ayant pas répondu, le demandeur devra communiquer les informations du fournisseur. "
+  },
+  {
+    "id": 201,
+    "name": null,
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 199,
+    "name": "Les documents du fournisseur ont été soumis !",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 200,
+    "name": "Diligence raisonnable à l'égard des tiers ORO - Signaux d’alerte en matière d’ESG",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 2,
+    "name": "Diligence raisonnable à l’égard des tiers et score de risque",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 95,
+    "name": "Approbation de la conformité des fournisseurs à risque",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 38,
+    "name": "Notifier le demandeur lorsque le risque fournisseur est élevé ",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 66,
+    "name": "Notifier la centrale d'achat en cas de risque fournisseur élevé  ",
+    "type": null,
+    "description": null
+  }
+]

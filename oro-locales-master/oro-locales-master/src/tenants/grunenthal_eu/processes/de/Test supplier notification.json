@@ -1,0 +1,47 @@
+[
+  {
+    "id": null,
+    "name": "Test Lieferantenbenachrichtigung",
+    "type": "processTitle"
+  },
+  {
+    "id": 11,
+    "name": null,
+    "type": null
+  },
+  {
+    "id": 2,
+    "name": "Test Onboarding-E-Mails",
+    "type": null
+  },
+  {
+    "id": 10,
+    "name": "Test Verlängerungs-E-Mails",
+    "type": null
+  },
+  {
+    "id": 14,
+    "name": "Test Due Diligence für Geschäftspartner",
+    "type": null
+  },
+  {
+    "id": 6,
+    "name": "Überprüfung durch Beschaffungsstelle",
+    "type": null
+  },
+  {
+    "id": 9,
+    "name": "Überprüfung der Sanktionsliste",
+    "type": null
+  },
+  {
+    "id": 7,
+    "name": "Überprüfung der Compliance",
+    "type": null
+  },
+  {
+    "id": 8,
+    "name": "MDM-Überprüfung",
+    "type": null
+  }
+]

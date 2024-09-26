@@ -1,0 +1,62 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "ProcessSummary",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 10,
+    "fieldName": "null_1__1__1_",
+    "name": "null(1)(1)(1)",
+    "description": "\"<h3>Your are almost there! Please click on submit to complete your request. </h3><p> </p><p><strong>After your submission, the supplier will be invited directly via ORO and will get a link to access and complete the forms. </strong></p><p><br></p><p><strong>You can check the progress of the request any time, it will be visible in \\\"my engagements\\\" at the home page.</strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<h3><strong>Your are almost there! Please click on submit to complete your request. </strong></h3><p><br></p><p><strong>After submitting your request this will be reviewed by the Procurement Center Team before going to the supplier. </strong></p><p><strong>The supplier will be invited directly via ORO and will get a link to access and complete the forms. </strong></p><p><br></p><p><strong>You can check the progress of the request any time, it will be visible in \\\"my engagements\\\" at the home page.</strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 6,
+    "fieldName": "null_1_",
+    "name": "null(1)",
+    "description": "\"<h3><strong>Your are almost there! Please click on submit to complete your request. </strong></h3><p><br></p><p><strong>After submitting your request this will be reviewed by the Procurement Center Team before being processed.</strong></p><p><br></p><ul><li><strong>In case you have selected to <u>update contact details</u>, you will get a task right after submission to update the contacts of the supplier.</strong></li><li><strong>In case you have selected to <u>update bank details</u>, supplier </strong><strong style=\\\"color: rgb(62, 68, 86);\\\">will be invited directly via ORO and will get a link to access review/update the payment information.</strong></li></ul><p><br></p><p><strong>You can check the progress of the request any time, it will be visible in \\\"my engagements\\\" at the home page</strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 8,
+    "fieldName": "null_1__1_",
+    "name": "null(1)(1)",
+    "description": "\"<h3>Your are almost there! Please click on submit to complete your request. </h3><p><br></p><p><strong>After submitting your request this will be reviewed by the Procurement Center Team before being processed.</strong></p><p><br></p><ul><li><strong>In case you have selected to <u>update contact details</u>, you will get a task right after submission to update the contacts of the supplier.</strong></li><li><strong>In case you have selected to <u>update bank details</u>, supplier </strong><strong style=\\\"color: rgb(62, 68, 86);\\\">will be invited directly via ORO and will get a link to access review/update the payment information.</strong></li></ul><p><br></p><p><br></p><p><strong>You can check the progress of the request any time, it will be visible in \\\"my engagements\\\" at the home page</strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

@@ -1,0 +1,115 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Formular Lieferantenrückruf",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 4,
+    "fieldName": "callbackDate",
+    "name": "<p>Rückrufdatum</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 22,
+    "fieldName": "_p_Notes__p_",
+    "name": "<p>Anmerkungen</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": "callbackOutcome",
+    "name": "<p>Rückrufstatus</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 19,
+    "fieldName": "contactSource",
+    "name": "<p>Quelle der Kontaktdaten</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 10,
+    "fieldName": "validationData",
+    "name": "<p>Validierungsdetails</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Invoices older than 90 days are validated": "Rechnungen, die älter als 90 Tage sind, werden validiert",
+      "Previous account number is validated": "Vorherige Kontonummer wird validiert"
+    },
+    "type": "field"
+  },
+  {
+    "id": 31,
+    "fieldName": "accountNumber",
+    "name": "<p>Bankkonto</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 39,
+    "fieldName": "attachments",
+    "name": "<p>Zusätzliche Dokumentation</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 37,
+    "fieldName": "contacts",
+    "name": "<p>Lieferantenkontakte</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "Kontakt",
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 16,
+    "fieldName": "contact",
+    "name": "<p>Rückrufkontakt</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "Kontakt",
+    "choices": null,
+    "type": "field"
+  }
+]

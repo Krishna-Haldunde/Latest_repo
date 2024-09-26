@@ -1,0 +1,15 @@
+{
+  "--paymentTerms--": "Payment terms",
+  "--select--": "Select",
+  "--existingPaymentTerms--": "Existing payment terms",
+  "--recommendedPaymentTerms--": "Recommended payment terms",
+  "--newPaymentTerms--": "New payment terms",
+  "--recommendedPaymentTerm--": "Recommended payment terms",
+  "--purchaseOrganisations--": "Purchase organisations",
+  "--companyEntity--": "Company entity",
+  "--thisWillBeCommonPaymentTermForSupplier--": "This will be the common payment term for the supplier",
+  "--supplierEnabledWithMultiplePaymentTerms--": "Supplier is enabled with multiple payment terms",
+  "--applicableForPurchaseOrgAndCompanyEntities--": "Applicable to all the following purchase organizations and company entities",
+  "--applicableForPurchasOrg--": "Applicable for all the following purchase organizations",
+  "--applicableForCompanyEntities--": "Applicable for all the following company entities"
+}

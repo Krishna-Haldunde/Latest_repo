@@ -1,0 +1,13 @@
+{
+  "Personal Identifiable Information (PII)": "Kişisel Kimlik Bilgileri (PII)",
+  "DATA PRIVACY": "VERİ GİZLİLİĞİ",
+  "GDPR compliance check for EU": "AB için GDPR uyum kontrolü",
+  "PII compliance check for California": "Kaliforniya için PII uyum kontrolü",
+  "Yes": "Evet",
+  "Response is required.": "Yanıt verilmesi gerekmektedir.",
+  "No": "Hayır",
+  "Is there any planned or potential use of personal identifiable information (PII) data being used in this project going to / coming from California?": "Bu projede kullanılan kişisel kimlik bilgileri (PII) verilerinin Kaliforniya'ya giden / Kaliforniya'dan gelen herhangi bir planlı veya potansiyel kullanımı var mı?",
+  "Is there any planned or potential use of personal identifiable information (PII) data being used in this project going to / coming from the European Union?": "Bu projede kullanılmakta olan kişisel kimlik bilgileri (PII) verilerinin Avrupa Birliği'ne giden / Avrupa Birliği'nden gelen herhangi bir planlanmış veya potansiyel kullanımı var mı?",
+  "(e.g. Name, Address, Email, Phone Number, any data that can identify an individual)": "(örn. İsim, Adres, E-posta, Telefon Numarası, bir kişiyi tanımlayabilecek herhangi bir veri)",
+  "Does your current project or planned future use of this supplier’s product and/or services involve access to personal identifiable information(PII) that can be used to identify an individual ‘natural’ person?": "Mevcut projeniz veya bu tedarikçinin ürün ve/veya hizmetlerinin gelecekte planlanan kullanımı, bireysel bir 'gerçek' kişiyi tanımlamak için kullanılabilecek kişisel kimlik bilgilerine (PII) erişimi içeriyor mu?"
+}

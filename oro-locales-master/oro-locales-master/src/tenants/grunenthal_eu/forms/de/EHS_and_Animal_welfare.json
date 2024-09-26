@@ -1,0 +1,62 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Bestätigung des Antragstellers – Onboarding Prozess",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 12,
+    "fieldName": null,
+    "name": null,
+    "description": "<p><span style=\\\"background-color: rgb(255, 255, 0);\\\">Hinweis</span>: Bitte beachten Sie, dass der Onboarding Prozess mit Bezug auf <strong style=\\\"color: rgb(62, 68, 86);\\\">Umwelt, Gesundheit und Sicherheit</strong><span style=\\\"color: rgb(62, 68, 86);\\\"> abgeschlossen sein muss, bevor der Anbieter aufgenommen werden kann.</span></p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 15,
+    "fieldName": null,
+    "name": null,
+    "description": "<p><span style=\\\"color: rgb(62, 68, 86); background-color: rgb(255, 255, 0);\\\">Hinweis</span><span style=\\\"color: rgb(62, 68, 86);\\\">: Bitte beachten Sie, dass der Onboarding Prozess mit Bezug auf </span><strong style=\\\"color: rgb(62, 68, 86);\\\">Tierschutz</strong><span style=\\\"color: rgb(62, 68, 86);\\\"> abgeschlossen sein muss, bevor der Anbieter aufgenommen werden kann.</span></p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": "q7__p_Have_you_completed_required",
+    "name": "<p>Haben Sie den erforderlichen Onboarding Prozess mit Bezug auf Umwelt, Gesundheit und Sicherheit abgeschlossen, um den Anbieter aufzunehmen?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 9,
+    "fieldName": "q9__p_Have_you_completed_required",
+    "name": "<p>Haben Sie den erforderlichen Onboarding Prozess mit Bezug auf Tierschutz abgeschlossen, um den Anbieter aufzunehmen?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

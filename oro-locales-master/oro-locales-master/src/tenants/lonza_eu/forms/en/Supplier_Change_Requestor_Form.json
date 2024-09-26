@@ -1,0 +1,385 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Supplier Change Requestor Form",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 15,
+    "fieldName": null,
+    "name": "Company and Purchasing Org Data",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 8,
+    "fieldName": null,
+    "name": "Change Details",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 81,
+    "fieldName": null,
+    "name": "Payment Terms Change",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 82,
+    "fieldName": null,
+    "name": "Direct Debit Change",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 90,
+    "fieldName": null,
+    "name": "Payment method change",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 106,
+    "fieldName": null,
+    "name": "Accounting data change",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 110,
+    "fieldName": null,
+    "name": "Purchasing data change",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 97,
+    "fieldName": null,
+    "name": "",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 4,
+    "fieldName": "requestor",
+    "name": "<p><strong>Requested by</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": "businessJustification",
+    "name": "<p><strong>Business Justification</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 40,
+    "fieldName": "lonzaSites",
+    "name": "<p><strong>Lonza Sites</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 14,
+    "fieldName": "bankInforHelpText",
+    "name": null,
+    "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>Please note that the bank information change would require supplier to update the  bank details and hence a document collection task would be assigned to the supplier.</em></strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 72,
+    "fieldName": "helptextvendorhierarchy",
+    "name": null,
+    "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>To change Vendor Hierarchy – please submit a request in the</em></strong><span style=\\\"color: rgb(209, 52, 56);\\\"> </span><a href=\\\"https://app.powerbi.com/groups/me/apps/862cab98-ee54-4f5d-8135-d51dd6ccff1a/reports/d6905b9e-c1e8-4f3a-bd94-df74109e068e/ReportSection24e19d1caa5d77216700?ctid=44a3f7ad-8e4c-406b-9d15-d4ee6477c700\\\" rel=\\\"noopener noreferrer\\\" target=\\\"_blank\\\" style=\\\"color: rgb(209, 52, 56);\\\">Spend Cube</a></p><p><strong style=\\\"color: rgb(209, 52, 56);\\\">Please unselect \\\"Change Vendor Hierarchy\\\" to proceed with other changes.</strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 100,
+    "fieldName": "updateNeeded",
+    "name": "<p><strong>Is SAP update needed?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 103,
+    "fieldName": "directDebitNotificationNeeded",
+    "name": "<p><strong>Is Direct Debit notification needed?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 105,
+    "fieldName": "paymentTermNotificationNeeded",
+    "name": "<p><strong>Is Payment Term notification needed?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 96,
+    "fieldName": "requestorUpdateNeeded",
+    "name": "<p><strong>Is Requestor Update Needed?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 26,
+    "fieldName": "companyCodeSelected",
+    "name": "<p><strong>Please select the company code for the payment term change</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 31,
+    "fieldName": "purchasingOrgSelected",
+    "name": "<p><strong>Please select the Purchasing Org for the change request</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 75,
+    "fieldName": "directDebitCompanyCode",
+    "name": "<p><strong>Select the company code for the direct debit change</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 93,
+    "fieldName": "paymentMethodcc",
+    "name": "<p><strong style=\"color: rgb(62, 68, 86);\">Select the company code for the payment method change</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 109,
+    "fieldName": "companycodeforAccountingdata",
+    "name": "<p><strong>Select the company code for accounting data change</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 113,
+    "fieldName": "porgsforpurchasingdata",
+    "name": "<p><strong>Select the purchasing org for the purchasing data change</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 118,
+    "fieldName": "taxinfomessage",
+    "name": "null(1)",
+    "description": "\"<p><strong style=\\\"color: rgb(209, 52, 56); background-color: rgba(0, 0, 0, 0);\\\"><em>No changes of tax information permitted, only completing missing details</em></strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 125,
+    "fieldName": "existingAccountGroup",
+    "name": "<p><strong>Account Group</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 127,
+    "fieldName": "vscierror",
+    "name": "null(1)(1)",
+    "description": "\"<p><strong style=\\\"background-color: rgba(0, 0, 0, 0); color: rgb(209, 52, 56);\\\"><em>Only company name/address can be updated for supplier created with account group 0002</em></strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 18,
+    "fieldName": "companyCode",
+    "name": "<p><strong>Existing company codes</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 37,
+    "fieldName": "existingPurchsingOrg",
+    "name": "<p><strong>Existing Purchasing Orgs</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 85,
+    "fieldName": "updatedBy",
+    "name": "<p><strong>Who will provide the updated bank information?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Supplier": "Supplier",
+      "Requestor": "Requestor"
+    },
+    "type": "field"
+  },
+  {
+    "id": 88,
+    "fieldName": "changestwo",
+    "name": "<p><strong>Select the change at company code/Purchase Org level</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "",
+    "choices": {
+      "Payment Terms": "Payment Terms",
+      "Accounting data": "Accounting data",
+      "Payment Method": "Payment Method",
+      "None": "None",
+      "Purchasing data": "Purchasing data"
+    },
+    "type": "field"
+  },
+  {
+    "id": 29,
+    "fieldName": "paymentTermLevel",
+    "name": "<p><strong>Select the Level at which you want to change the payment term?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Purchasing Org": "Purchasing Org",
+      "Company Code": "Company Code",
+      "Both": "Both"
+    },
+    "type": "field"
+  },
+  {
+    "id": 130,
+    "fieldName": "OtherChangeComments",
+    "name": "<p><strong>Please elaborate on the change</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 116,
+    "fieldName": "isMasterDataApprovalNeeded",
+    "name": "<p><strong>Is Master data approval needed?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 11,
+    "fieldName": "changeOptions",
+    "name": "<p><strong>Select the change(s) you want to make at general level</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Contact details": "Contact details",
+      "Bank information": "Bank information",
+      "Change vendor hierarchy": "Change vendor hierarchy",
+      "Scope": "Scope",
+      "Company name/Address": "Company name/Address",
+      "Reference data": "Reference data",
+      "Tax information": "Tax information",
+      "None": "None",
+      "Other": "Other"
+    },
+    "type": "field"
+  }
+]

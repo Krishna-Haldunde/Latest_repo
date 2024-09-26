@@ -1,0 +1,222 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Documentation relative à l'approbation pour la conformité",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 60,
+    "fieldName": null,
+    "name": "Score de risque initial",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Documentation relative aux fournisseurs présentant un risque élevé",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 7,
+    "fieldName": null,
+    "name": "Documentation relative aux fournisseurs présentant un risque moyen",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 26,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p>Le risque fournisseur a été validé comme étant un <strong style=\\\"color: rgb(230, 0, 0);\\\">Risque élevé</strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 40,
+    "fieldName": "null_1_",
+    "name": "invalide(1)",
+    "description": "\"<p>Le risque fournisseur a été validé comme présentant un <strong style=\\\"color: rgb(255, 153, 0);\\\">Risque moyen</strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 35,
+    "fieldName": "q35__p_Medium_risk_vendor_denied__",
+    "name": "<p>Fournisseur à risque moyen refusé (masqué)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 38,
+    "fieldName": "q38__p_High_risk_vendor_denied__hi",
+    "name": "<p>Fournisseur à risque élevé refusé (masqué)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 59,
+    "fieldName": "null_2_",
+    "name": "invalide(2)",
+    "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\">Le processus d'intégration de ce fournisseur s'arrête ici. </strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "q4__p_Please_add_Documentation_of",
+    "name": "<p>Veuillez ajouter la documentation d'approbation.</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 57,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\">Le processus d'intégration de ce fournisseur s'arrête ici. Vous pouvez cliquer sur « X » dans le coin supérieur droit, puis sur « Refuser »!</strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 69,
+    "fieldName": "_p_Please_justify__p_",
+    "name": "<p>Veuillez justifier</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 71,
+    "fieldName": "_p_Please_justify___p_",
+    "name": "<p>Veuillez justifier !</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 65,
+    "fieldName": "_p_Comments__p_",
+    "name": "<p>Veuillez fournir des détails sur les mesures d'atténuation supplémentaires.</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 76,
+    "fieldName": "_p_Please_clarify___p_",
+    "name": "<p>Veuillez préciser !</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 14,
+    "fieldName": "q14__p_Would_you_like_to_approve_t",
+    "name": "<p>Souhaitez-vous approuver l'intégration de ce fournisseur présentant un <strong style=\"color: rgb(230, 0, 0);\">risque élevé ?</strong><span style=\"color: rgb(230, 0, 0);\"></span></p><p><span style=\"color: rgb(136, 136, 136);\">Remarque : Vous devez ajouter la documentation pour approuver la demande.</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Reject": "Rejeter",
+      "Approve": "Approuver"
+    },
+    "type": "field"
+  },
+  {
+    "id": 74,
+    "fieldName": "q74__p_Please_select_the_appropria",
+    "name": "<p>Veuillez sélectionner l'option appropriée </p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Please apply additional mitigation measures": "Veuillez appliquer des mesures d'atténuation supplémentaires",
+      "Please ask vendor to sign the Grünenthal Code of Conduct": "Veuillez demander au fournisseur de signer le code de conduite de Grünenthal.",
+      "Please use Grünenthal contract template": "Veuillez utiliser le modèle de contrat de Grünenthal"
+    },
+    "type": "field"
+  },
+  {
+    "id": 79,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><span style=\\\"background-color: rgb(255, 255, 0);\\\">Remarque :</span> Le fournisseur n'a pas répondu au questionnaire TPDD. La notation du risque a été calculée en tenant compte des autres critères. </p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 12,
+    "fieldName": "q12__p_Would_you_like_to_approve_t",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Souhaitez-vous approuver l'intégration de ce fournisseur présentant un </span><span style=\"color: rgb(230, 0, 0);\">risque moyen</span><span style=\"color: rgb(62, 68, 86);\"> ?</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Reject": "Rejeter",
+      "Approve": "Approuver"
+    },
+    "type": "field"
+  },
+  {
+    "id": 102,
+    "fieldName": "originalRiskScore",
+    "name": "<p>Score de risque initial</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 105,
+    "fieldName": "lastUpdatedTpddDate",
+    "name": "<p>Dernière mise à jour TPDD Date</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

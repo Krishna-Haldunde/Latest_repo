@@ -1,0 +1,163 @@
+{
+  "--oroAI--": "ORO AI",
+  "--guidingYouToRightChannels--": "Get guided help for your business need",
+  "--describeYourBusinessNeed--": "Describe your business need...",
+  "--describeYourNeed--": "Describe your need",
+  "--startNewRequest--": "Start a new request",
+  "--enrichYourDescription--": "Enrich your description with details such as estimated spend and suppliers (if any).",
+  "--generating--": "Generating",
+  "--searching--": "Searching",
+  "--capturingResponse--": "Capturing your response",
+  "--close--": "Exit",
+  "--describeYourBusinessNeedAi--": "Let's get started! Please describe your business needs, including budget, specifications and timeline. (The more details provided, the better the recommendations will be)",
+  "--uploadProposal--": "Upload proposal",
+  "--uploadDocumentAi--": "Already have a proposal? Upload to extract all details, and let AI do the heavy lifting",
+  "--uploadDocument--": "Upload document to extract values",
+  "--attach--": "Attach",
+  "--skipQuestion--": "Skip question",
+  "--notSure--": "Not sure what to answer?",
+  "--comingSoon--": {
+    "--comingSoon--": "Coming Soon!",
+    "--primaryMessage--": "We are currently working on this request to give you the best experience.",
+    "--secondaryMessage--": "Please reach out to experts if its critical."
+  },
+  "--tips--": {
+    "--hereAreExamples--": "Here are a few examples to get you started",
+    "--tip1--": "Buy 3D Printer for making drug samples for R&D with an estimated budget of $20,000",
+    "--tip2--": "Buy 1000 customised t-shirts for a conference event; budget of $10,000",
+    "--tip3--": "Create $125000 PO with Moving Brands to work on a creative work for fall campaign"
+  },
+  "--category--": {
+    "--classifyingYourNeed--": "Selected category",
+     "--classifyYouNeedSoWeCanGuide--": "Select the category that best fits your needs to quickly find the right solutions for you."
+  },
+  "--supplier--": {
+    "--name--":"Name",
+    "--newSupplier--":"New supplier",
+    "--contact--": "Contact",
+    "--showMore--": "Show More",
+    "--showLess--": "Show Less",
+    "--supplier--": "Supplier",
+    "--duns--": "DUNS:",
+    "--select--": "Select",
+    "--selectedSupplier--": "Selected supplier",
+    "--skipSupplierSelection--": "Skip supplier selection for now",
+    "--selectSupplier--": "Supplier selection is required",
+    "--foundSomeSuppliers--": "Here are a few recommended preffered suppliers that match your business need.Using them will fast track your order.",
+    "--recentlyUsedFor--": "Recently used for:",
+    "--productUsedBy--": "{{product}} by {{user}} ({{department}})",
+    "--preferredFor--": "Preferred for:",
+    "--multiple--": "Multiple",
+    "--enterSupplierName--": "Enter supplier name",
+    "--weFoundMatches--": "We found some matches for ‘{{name}}’ - Please select one",
+    "--looksLikeNewSupplier--": "Looks like you are working with a new supplier.",
+    "--shareSupplierDetails--": "Please share the following supplier details",
+    "--supplierName--": "Supplier Name",
+    "--enterName--": "Enter name",
+    "--nameIsRequired--": "Name is required",
+    "--supplierContact--": "Supplier Contact",
+    "--contractRequired--": "Contact is required",
+    "--enterEmail--": "Enter email id",
+    "--continue--": "Continue",
+    "--searchSupplier--": "Which supplier do you wish to work with?",
+    "--searchAnotherSupplier--": "Search another supplier",
+    "--skipSelection--": "Skip supplier selection",
+    "--skipSuggestions--": "Skip suggestions",
+    "--viewRecommendations--": "View Recommendations",
+    "--pleaseCompleteDetails--": "Please complete the details",
+    "--youAreWorkingWithNewSupplier--": "Looks like you are working with a <newSupplier>new supplier</newSupplier>.",
+    "--recentTransaction--": "Recent Transactions",
+    "--vendorId--": "ID:",
+    "--wouldYouConsider--": "Would you like to consider using preferred suppliers for this engagement?",
+    "--usingThemSaveTime--": "Using them will save you time and money.",
+    "--skippedSupplierSelection--": "- Skipped supplier selection -",
+    "--haveAnotherSupplier--": "Do you have a supplier in mind?",
+    "--search--": "Search"
+  },
+  "--estimate--": {
+    "--estimateSpend--": "Your Estimated Spend",
+    "--pleaseConfirmEstimateSpend--": "Please confirm your estimated spend. This helps us find solutions that fit your budget.",
+    "--continue--": "Continue"
+  },
+  "--buyingChannel--": {
+    "--basedOnNeedYouCanStartWith--": "We are almost there! Based on your need, here’s what we recommend as the next steps",
+    "--select--": "Select"
+  },
+  "--buyingChannelForm--": {
+    "--close--": "Close",
+    "--cancel--": "Cancel",
+    "--submit--": "Submit",
+    "--home--":"Home",
+    "--somethingWentWrong--": "Something went wrong...",
+    "--notAbleToSubmit--": "Not able to submit request at this moment. You can try manually:",
+    "--clickHereToStart--": "Click here to start request",
+    "--submittedSuccessfully--": "Your request has been submitted.",
+    "--submittingYourRequest--": "Submitting your request. please wait...",
+    "--loading--": "Loading. Please wait...",
+    "--keepYouUpdated--": "We will keep you updated on the next steps."
+  },
+  "--punchout--": {
+    "--basedOnNeedYouCanStartWith--": "Based on your need, you can potentially get started with",
+    "--continueExploring--": "Continue exploring",
+    "--notTheResultYouLooking--": "Not the result you are looking for?"
+  },
+  "--compliance--": {
+    "--continue--": "Continue",
+    "--ComplianceQuestionnaire--": "Compliance questionnaire"
+  },
+  "--transactions--": {
+    "--details--": "DETAILS",
+    "--requester--": "REQUESTER",
+    "--date--": "DATE",
+    "--spend--": "SPEND",
+    "--recentTransaction--":"Recent Transactions"
+  },
+  "--catalog--": {
+    "--weFoundSomeRecommendations--": "We are almost there! Based on your need, here’s what we recommend as the next steps",
+    "--spendLimit--": "Spend Limit:",
+    "--foundMatchingItems--": "Found matching Items",
+    "--couldNotFindMatchingItems--": "No matching items found",
+    "--noImageAvailable--": "No Image Available",
+    "--seeMore--": "See more",
+    "--inMarketplace--": "in {{marketplaceName}}",
+    "--notTheResultYouLooking--": "Not the result you are looking for?",
+    "--notApplicableContinueExploring--": "Continue exploring",
+    "--searchingForMatching--": "Searching for matching items",
+    "--goTo--": "Go to {{name}}"
+  },
+  "--proposal--": {
+    "--capturedDetails--": "Extracted details from attachment:",
+    "--reviewAndConfirmExtractedDetail--": "Review and confirm the extracted details for accuracy after uploading your quote.",
+    "--title--": "Title",
+    "--description--": "Description",
+    "--agreementType--": "Agreement type",
+    "--contact--": "Contact",
+    "--region--": "Region",
+    "--paymentTerms--": "Payment terms",
+    "--amount--": "Amount",
+    "--supplier--": "Supplier",
+    "--continue--": "Continue",
+    "--unableToExtractDetails--":"We’re unable to extract the contents of the document at the moment.",
+    "--continueToProceed--":"Please click ‘Continue’ to proceed"
+  },
+  "--po--": {
+    "--purchaseOrder--": "PURCHASE ORDER",
+    "--supplier--": "SUPPLIER",
+    "--requestor--": "REQUESTOR",
+    "--status--": "STATUS",
+    "--created--": "Created:",
+    "--viewAll--": "View All",
+    "--overview--": "Here’s an overview of the purchase order",
+    "--foundList--": "Here’s the list of purchase orders we found"
+  },
+  "--generalchat--": {
+    "--note--": "PRO TIP",
+    "--tip--": "Include details about supplier / material number / outline agreement number for better results"
+  },
+  "--onBehalfOf--":{
+     "--requestingOnBehalfOf--": "Requesting on behalf of",
+     "--pleaseConfirmTheUser--":"Please confirm the user for whom you are requesting on behalf of",
+     "--requestingForMyself--":"I am requesting for myself",
+     "--select--":"Select"
+  }
+}

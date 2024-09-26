@@ -1,0 +1,32 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Direct Debit Approval Form",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 4,
+    "fieldName": "directDebitUpdateNeeded",
+    "name": "<p><strong>Do you approve the direct debit change as requested by requestor?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": null,
+    "name": "Diligence raisonnable à l’égard des tiers allégée",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 71,
+    "name": "Correspondance entre le nom, le pays et la banque",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 64,
+    "name": "Vérification concernant les sanctions et les couvertures médiatiques défavorables",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 59,
+    "name": "Examen des données fournisseurs - Centrale d’achat",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 65,
+    "name": "Approbation de la conformité mondiale - Sanctions",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 66,
+    "name": "Détermination du score de risque de la diligence raisonnable à l’égard des tiers",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 67,
+    "name": "Mise à jour de la diligence raisonnable à l’égard des tiers et des risques",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 72,
+    "name": "Déclenchement des contrôles de conformité",
+    "type": null,
+    "description": null
+  }
+]

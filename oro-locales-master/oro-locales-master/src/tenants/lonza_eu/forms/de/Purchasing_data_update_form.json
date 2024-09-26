@@ -1,0 +1,92 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Formular zur Aktualisierung der Einkaufsdaten",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Aktuelle Daten",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 11,
+    "fieldName": null,
+    "name": "Änderungsdaten",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 4,
+    "fieldName": "existingIncoTerms",
+    "name": "<p><strong>Aktuelle Incoterms</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": "existingOrderingCurrency",
+    "name": "<p><strong>Aktuelle Bestellwährung</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 10,
+    "fieldName": "existingPartnerFunction",
+    "name": "<p><strong>Aktuelle Partnerfunktion</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 20,
+    "fieldName": "changedPartnerFunction",
+    "name": "<p><strong>Wählen Sie die Partnerfunktion für die Änderung</strong></p>",
+    "description": null,
+    "helpText": "<p><span style=\"color: rgb(62, 68, 86);\">Bitte geben Sie die SAP-Lieferantennummer des Lieferanten an, der mit der Partnerfunktion verknüpft werden soll.</span></p>",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 14,
+    "fieldName": "changedIncoTerm",
+    "name": "<p><strong>Wählen Sie den Incoterm für die Änderung aus</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 17,
+    "fieldName": "changedOrderingCurrency",
+    "name": "<p><strong>Wählen Sie die Bestellwährung für die Änderung aus</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

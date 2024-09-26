@@ -1,0 +1,62 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Réponses du fournisseur concernant les signaux d’alerte en matière d’EHS",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Objet du courriel",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 2,
+    "fieldName": null,
+    "name": "Corps du courriel",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 3,
+    "fieldName": null,
+    "name": "Instruction du courriel",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 4,
+    "fieldName": null,
+    "name": "Pied de page du courriel",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 10,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><span style=\\\"color: rgb(68, 68, 68);\\\">Bonjour,</span></p><p><br></p><p><span style=\\\"color: rgb(68, 68, 68);\\\">Nous vous informons qu'un tiers concerné par l’ESG - ${supplierName} - fait l'objet d'un processus d'intégration/de renouvellement via ORO, pour lequel un ou plusieurs signaux d'alerte en matière d’ESG ont été identifiés (voir liste ci-dessous).</span></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

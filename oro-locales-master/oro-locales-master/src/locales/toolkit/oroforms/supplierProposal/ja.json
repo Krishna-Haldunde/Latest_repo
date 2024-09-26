@@ -1,0 +1,21 @@
+{
+  "--uploadQuoteProposal--": "見積書/提案書のアップロード",
+  "--ifYouHaveProposalQuoteAttachmentPleaseUploadHere--": "提案書/見積書の添付ファイルがある場合は、ここにアップロードしてください。",
+  "--supportedFormats--": "対応フォーマット：",
+  "--upload--": "アップロード",
+  "--proposalDetails--": "提案の詳細",
+  "--pleaseEnsureTheDetailsAreCorrect--": "記入した内容が正確で、アップロードされた書類と一致していることを確認してください",
+  "--supplierLegalName--": "サプライヤーの正式名称",
+  "--description--": "提案内容",
+  "--deliveryDate--": "配達日",
+  "--totalAmount--": "総額",
+  "--supplierCountry--": "サプライヤーの国",
+  "--paymentTerm--": "支払条件",
+  "--edit--": "編集",
+  "--save--": "保存",
+  "--confirm--": "確認",
+  "--proposal--": "提案",
+  "--weExtractedFollowingDetailsFromYourProposal--": "ご提案書から以下の詳細を抽出しました",
+  "--previewNotAvailable--": "プレビュー不可",
+  "--thereAreSomeErrorsInForm--": "フォームに若干の誤りがあります。ご確認ください"
+}

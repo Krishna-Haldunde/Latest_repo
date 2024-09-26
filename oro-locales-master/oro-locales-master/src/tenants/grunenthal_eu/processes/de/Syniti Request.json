@@ -1,0 +1,62 @@
+[
+  {
+    "id": null,
+    "name": "Syniti-Anfrage",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 4,
+    "name": "Zusammenfassung abrufen",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 8,
+    "name": null,
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 2,
+    "name": "Überprüfung der Lieferantenstammdaten",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 7,
+    "name": "Bestätigung der IT-Bewertung",
+    "type": null,
+    "description": "Bitte bestätigen Sie, dass der Status des IT-Lieferanten auf der Grundlage des Ergebnisses der Bewertung der Informationssicherheit „Genehmigt“ lautet, da er auf „Ausgesetzt“ gesetzt wurde. "
+  },
+  {
+    "id": 5,
+    "name": "Umgang mit Datenproblemen",
+    "type": null,
+    "description": "Es wurde ein Fehler in RPA ausgelöst"
+  },
+  {
+    "id": 13,
+    "name": null,
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 12,
+    "name": "Lieferanten in Syniti anlegen",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 3,
+    "name": "Lieferanten in Syniti aktualisieren",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 6,
+    "name": "Anbieteraktualisierung in der SAP-Bestätigung",
+    "type": null,
+    "description": null
+  }
+]

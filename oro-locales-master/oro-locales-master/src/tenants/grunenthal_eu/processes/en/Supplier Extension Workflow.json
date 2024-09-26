@@ -1,0 +1,86 @@
+[
+  {
+    "id": null,
+    "name": "Supplier Extension Workflow",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 37,
+    "name": "Load Review Items",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 47,
+    "name": "Load contacts",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 45,
+    "name": "Supplier Contact Details",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 10,
+    "name": "Procurement center review",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 32,
+    "name": "Non-standard Payment term process_Extension",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 21,
+    "name": "Collect supplier documents",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 42,
+    "name": "Payment details",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 49,
+    "name": "Contact details for extension",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 51,
+    "name": "Supplier Submitted Documents",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 38,
+    "name": "Supplier data review - Procurement Center",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 50,
+    "name": "Collect summary",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 16,
+    "name": "Vendor master data review",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 3,
+    "name": "Vendor Extension",
+    "type": null,
+    "description": null
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": null,
+    "name": "Pflege von Lieferantendaten",
+    "type": "processTitle"
+  },
+  {
+    "id": 4,
+    "name": "Lieferantenfragebogen ",
+    "type": null
+  },
+  {
+    "id": 6,
+    "name": "Zahlungsdetails",
+    "type": null
+  },
+  {
+    "id": 8,
+    "name": "Informationen zum Unternehmen",
+    "type": null
+  },
+  {
+    "id": 10,
+    "name": "Kontaktdetails Lieferantenverlängerung",
+    "type": null
+  },
+  {
+    "id": 2,
+    "name": "Überprüfung durch Beschaffungsstelle",
+    "type": null
+  },
+  {
+    "id": 3,
+    "name": "Überprüfung der Lieferantenstammdaten",
+    "type": null
+  }
+]

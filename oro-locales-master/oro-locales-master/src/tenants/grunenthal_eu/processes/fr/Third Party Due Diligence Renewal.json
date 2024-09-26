@@ -1,0 +1,116 @@
+[
+  {
+    "id": null,
+    "name": "Renouvellement de la diligence raisonnable à l’égard des tiers",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 2,
+    "name": "Obtenir les données sur les fournisseurs",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 3,
+    "name": "Examen du responsable de l'approvisionnement",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 4,
+    "name": "Examen par la centrale d'achat",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 7,
+    "name": "Notification d'approbation de la diligence raisonnable à l’égard des tiers",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 5,
+    "name": "Au responsable de l'approvisionnement ",
+    "type": null,
+    "description": "Le renouvellement de votre TPDD a été approuvé"
+  },
+  {
+    "id": 6,
+    "name": "Au demandeur ",
+    "type": null,
+    "description": "Le renouvellement de votre TPDD a été approuvé"
+  },
+  {
+    "id": 10,
+    "name": "Trouver le devoir de diligence et de gestion des risques de la chaîne d'approvisionnement applicable",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 11,
+    "name": "Informations sur l’entreprise et diligence raisonnable à l’égard des tiers",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 13,
+    "name": "Modalités de paiement",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 15,
+    "name": "Information sur les actionnaires",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 17,
+    "name": "Coordonnées",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 19,
+    "name": "Questionnaire de diligence raisonnable à l’égard des tiers",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 21,
+    "name": "Déclaration",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 22,
+    "name": "Diligence raisonnable et score de risque",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 23,
+    "name": "Gérer les fournisseurs à risque élevé_moyen",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 24,
+    "name": "Bloquer le fournisseur",
+    "type": null,
+    "description": "L'équipe de conformité mondiale ne souhaitant pas procéder à la vérification préalable d'un fournisseur à haut risque, veuillez bloquer le fournisseur dans SAP."
+  },
+  {
+    "id": 25,
+    "name": "Examen des données de base des fournisseurs",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 26,
+    "name": "Mise à jour du dossier d'évaluation dans Syniti ",
+    "type": null,
+    "description": null
+  }
+]

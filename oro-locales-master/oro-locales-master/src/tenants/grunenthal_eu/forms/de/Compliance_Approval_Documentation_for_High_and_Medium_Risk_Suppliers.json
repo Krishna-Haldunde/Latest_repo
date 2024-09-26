@@ -1,0 +1,222 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Compliance Dokumentation für Genehmigung",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 60,
+    "fieldName": null,
+    "name": "Ursprüngliche Risikobewertung",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Dokumentation für Anbieter mit hohem Risiko",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 7,
+    "fieldName": null,
+    "name": "Dokumentation für Anbieter mit mittlerem Risiko",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 26,
+    "fieldName": null,
+    "name": null,
+    "description": "<p>Anbieter-Risiko wurde als <strong style=\\\"color: rgb(230, 0, 0);\\\">Hohes Risiko</strong></p> eingestuft",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 40,
+    "fieldName": "null_1_",
+    "name": "null(1)",
+    "description": "<p>Anbieter-Risiko wurde als <strong style=\\\"color: rgb(255, 153, 0);\\\">Mittleres Risiko</strong></p> eingestuft",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 35,
+    "fieldName": "q35__p_Medium_risk_vendor_denied__",
+    "name": "<p>Anbieter mit mittlerem Risiko abgelehnt (ausgeblendet)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 38,
+    "fieldName": "q38__p_High_risk_vendor_denied__hi",
+    "name": "<p>Anbieter mit hohem Risiko abgelehnt (ausgeblendet)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 59,
+    "fieldName": "null_2_",
+    "name": "null(2)",
+    "description": "<p><strong style=\\\"color: rgb(230, 0, 0);\\\">Dieser Lieferanten-Onboarding-Prozess endet hier. </strong></p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "q4__p_Please_add_Documentation_of",
+    "name": "<p>Bitte fügen Sie die Dokumentation für die Genehmigung hinzu.</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 57,
+    "fieldName": null,
+    "name": null,
+    "description": "<p><strong style=\\\"color: rgb(230, 0, 0);\\\">Dieser Lieferanten-Onboarding-Prozess endet hier. Sie können rechts oben auf „X“ und dann auf „Ablehnen“' klicken!</strong></p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 69,
+    "fieldName": "_p_Please_justify__p_",
+    "name": "<p>Bitte begründen Sie dies</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 71,
+    "fieldName": "_p_Please_justify___p_",
+    "name": "<p>Bitte begründen Sie dies!</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 65,
+    "fieldName": "_p_Comments__p_",
+    "name": "<p>Bitte geben Sie Einzelheiten zu zusätzlichen Minderungsmaßnahmen an.</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 76,
+    "fieldName": "_p_Please_clarify___p_",
+    "name": "<p>Bitte erläutern Sie dies!</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 14,
+    "fieldName": "q14__p_Would_you_like_to_approve_t",
+    "name": "<p>Möchten Sie das Onboarding dieses <strong style=\"color: rgb(230, 0, 0);\"></strong>Anbieters<span style=\"color: rgb(230, 0, 0);\"></span></p> mit hohem Risiko<p><span style=\"color: rgb(136, 136, 136);\"> genehmigen? Hinweis: Zur Genehmigung müssen Sie Dokumentation beifügen.</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Reject": "Ablehnen",
+      "Approve": "Genehmigen"
+    },
+    "type": "field"
+  },
+  {
+    "id": 74,
+    "fieldName": "q74__p_Please_select_the_appropria",
+    "name": "<p>Bitte das Zutreffende wählen </p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Please apply additional mitigation measures": "Bitte ergreifen Sie zusätzliche Minderungsmaßnahmen",
+      "Please ask vendor to sign the Grünenthal Code of Conduct": "Bitte fordern Sie den Anbieter auf, den Grünenthal-Verhaltenskodex zu unterzeichnen.",
+      "Please use Grünenthal contract template": "Bitte verwenden Sie die Grünenthal-Vertragsvorlage"
+    },
+    "type": "field"
+  },
+  {
+    "id": 79,
+    "fieldName": null,
+    "name": null,
+    "description": "<p><span style=\\\"background-color: rgb(255, 255, 0);\\\">Hinweis:</span> Der Lieferant hat den TPDD (Due Diligence für Dritte)-Fragebogen nicht beantwortet. Die Risikoeinstufung wurde unter Berücksichtigung der anderen Kriterien berechnet. </p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 12,
+    "fieldName": "q12__p_Would_you_like_to_approve_t",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Möchten Sie die Aufnahme dieses </span><span style=\"color: rgb(230, 0, 0);\">Anbieters </span>mit mittlerem Risiko<span style=\"color: rgb(62, 68, 86);\"> genehmigen?</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Reject": "Ablehnen",
+      "Approve": "Genehmigen"
+    },
+    "type": "field"
+  },
+  {
+    "id": 102,
+    "fieldName": "originalRiskScore",
+    "name": "<p>Ursprüngliche Risikobewertung</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 105,
+    "fieldName": "lastUpdatedTpddDate",
+    "name": "<p>Zuletzt aktualisiertes TPDD-Datum</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

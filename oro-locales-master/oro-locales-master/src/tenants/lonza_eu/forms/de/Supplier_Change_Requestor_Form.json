@@ -1,0 +1,385 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Antragsformular auf Lieferantenänderung",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 15,
+    "fieldName": null,
+    "name": "Unternehmens- und Einkaufsorganisationsdaten",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 8,
+    "fieldName": null,
+    "name": "Änderungsdetails",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 81,
+    "fieldName": null,
+    "name": "Änderung der Zahlungsbedingungen",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 82,
+    "fieldName": null,
+    "name": "Lastschriftänderung",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 90,
+    "fieldName": null,
+    "name": "Änderung der Zahlungsmethode",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 106,
+    "fieldName": null,
+    "name": "Änderung der Buchhaltungsdaten",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 110,
+    "fieldName": null,
+    "name": "Änderung der Einkaufsdaten",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 97,
+    "fieldName": null,
+    "name": "",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 4,
+    "fieldName": "requestor",
+    "name": "<p><strong>Angefordert von</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": "businessJustification",
+    "name": "<p><strong>Geschäftliche Begründung</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 40,
+    "fieldName": "lonzaSites",
+    "name": "<p><strong>Lonza Standorte</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 14,
+    "fieldName": "bankInforHelpText",
+    "name": null,
+    "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>Bitte beachten Sie, dass die Änderung der Bankverbindung eine Aktualisierung der Bankdaten durch den Lieferanten erforderlich macht und dem Lieferanten deshalb ein Dokumentenerhebungsauftrag zugewiesen werden wird.</em></strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 72,
+    "fieldName": "helptextvendorhierarchy",
+    "name": null,
+    "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>Um die Lieferantenhierarchie zu ändern, senden Sie bitte einen Antrag im</em></strong><span style=\\\"color: rgb(209, 52, 56);\\\"> </span><a href=\\\"https://app.powerbi.com/groups/me/apps/862cab98-ee54-4f5d-8135-d51dd6ccff1a/reports/d6905b9e-c1e8-4f3a-bd94-df74109e068e/ReportSection24e19d1caa5d77216700?ctid=44a3f7ad-8e4c-406b-9d15-d4ee6477c700\\\" rel=\\\"noopener noreferrer\\\" target=\\\"_blank\\\" style=\\\"color: rgb(209, 52, 56);\\\">Spend Cube</a></p><p><strong style=\\\"color: rgb(209, 52, 56);\\\"> Bitte deaktivieren Sie \\\"Lieferantenhierarchie ändern\\\", um mit den anderen Änderungen fortzufahren.</strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 100,
+    "fieldName": "updateNeeded",
+    "name": "<p><strong>Ist ein SAP-Update erforderlich?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 103,
+    "fieldName": "directDebitNotificationNeeded",
+    "name": "<p><strong>Ist eine Lastschriftbenachrichtigung erforderlich?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 105,
+    "fieldName": "paymentTermNotificationNeeded",
+    "name": "<p><strong>Ist eine Benachrichtigung über die Zahlungsbedingungen erforderlich?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 96,
+    "fieldName": "requestorUpdateNeeded",
+    "name": "<p><strong>Ist eine Aktualisierung des Antragstellers erforderlich?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 26,
+    "fieldName": "companyCodeSelected",
+    "name": "<p><strong>Bitte wählen Sie den Buchungskreis für die Änderung der Zahlungsbedingungen aus</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 31,
+    "fieldName": "purchasingOrgSelected",
+    "name": "<p><strong>Bitte wählen Sie die Einkaufsorganisation für den Änderungsantrag aus</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 75,
+    "fieldName": "directDebitCompanyCode",
+    "name": "<p><strong>Wählen Sie den Buchungskreis für die Lastschriftänderung aus</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 93,
+    "fieldName": "paymentMethodcc",
+    "name": "<p><strong style=\"color: rgb(62, 68, 86);\">Wählen Sie den Buchungskreis für die Änderung der Zahlungsmethode aus</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 109,
+    "fieldName": "companycodeforAccountingdata",
+    "name": "<p><strong>Wählen Sie den Buchungskreis für die Änderung der Buchhaltungsdaten aus</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 113,
+    "fieldName": "porgsforpurchasingdata",
+    "name": "<p><strong>Wählen Sie die Einkaufsorganisation für die Änderung der Einkaufsdaten aus</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 118,
+    "fieldName": "taxinfomessage",
+    "name": "null(1)",
+    "description": "\"<p><strong style=\\\"color: rgb(209, 52, 56); background-color: rgba(0, 0, 0, 0);\\\"><em>Keine Änderung der Steuerdaten möglich, nur Ergänzung fehlender Angaben</em></strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 125,
+    "fieldName": "existingAccountGroup",
+    "name": "<p><strong>Kontogruppe</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 127,
+    "fieldName": "vscierror",
+    "name": "null(1)(1)",
+    "description": "\"<p><strong style=\\\"background-color: rgba(0, 0, 0, 0); color: rgb(209, 52, 56);\\\"><em>Für Lieferanten, die mit der Kontogruppe 0002 angelegt wurden, können nur Firmenname und Adresse aktualisiert werden.</em></strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 18,
+    "fieldName": "companyCode",
+    "name": "<p><strong>Aktuelle Buchungskreise</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 37,
+    "fieldName": "existingPurchsingOrg",
+    "name": "<p><strong>Aktuelle Einkaufsorganisationen</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 85,
+    "fieldName": "updatedBy",
+    "name": "<p><strong>Wer stellt die aktualisierten Bankdaten zur Verfügung?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Supplier": "Lieferant",
+      "Requestor": "Antragsteller"
+    },
+    "type": "field"
+  },
+  {
+    "id": 88,
+    "fieldName": "changestwo",
+    "name": "<p><strong>Wählen Sie die Änderung auf Buchungskreis-/Einkaufsorganisationsebene aus</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "",
+    "choices": {
+      "Payment Terms": "Zahlungsbedingungen",
+      "Accounting data": "Buchhaltungsdaten",
+      "Payment Method": "Zahlungsmethode",
+      "None": "Keine",
+      "Purchasing data": "Einkaufsdaten"
+    },
+    "type": "field"
+  },
+  {
+    "id": 29,
+    "fieldName": "paymentTermLevel",
+    "name": "<p><strong>Wählen Sie die Ebene aus, auf der Sie die Zahlungsbedingungen ändern möchten.</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Purchasing Org": "Einkaufsorganisation",
+      "Company Code": "Buchungskreis",
+      "Both": "Beide"
+    },
+    "type": "field"
+  },
+  {
+    "id": 130,
+    "fieldName": "OtherChangeComments",
+    "name": "<p><strong>Bitte erläutern Sie die Änderung</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 116,
+    "fieldName": "isMasterDataApprovalNeeded",
+    "name": "<p><strong>Ist eine Stammdatengenehmigung erforderlich?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 11,
+    "fieldName": "changeOptions",
+    "name": "<p><strong>Wählen Sie die Änderung(en) aus, die Sie auf allgemeiner Ebene vornehmen möchten</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Contact details": "Kontaktdaten",
+      "Bank information": "Bankverbindung",
+      "Change vendor hierarchy": "Lieferantenhierarchie ändern",
+      "Scope": "Umfang",
+      "Company name/Address": "Name/Adresse des Unternehmens",
+      "Reference data": "Referenzdaten",
+      "Tax information": "Steuerliche Informationen",
+      "None": "Keine",
+      "Other": "Sonstige"
+    },
+    "type": "field"
+  }
+]

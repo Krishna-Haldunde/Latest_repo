@@ -1,0 +1,32 @@
+[
+  {
+    "id": null,
+    "name": "Mise à jour de l'évaluation",
+    "type": "processTitle"
+  },
+  {
+    "id": 2,
+    "name": "Gérer les problèmes de données",
+    "type": null
+  },
+  {
+    "id": 3,
+    "name": "Mise à jour du dossier d'évaluation dans Syniti ",
+    "type": null
+  },
+  {
+    "id": 6,
+    "name": "Mise à jour du fournisseur dans SAP Confirmation",
+    "type": null
+  },
+  {
+    "id": 4,
+    "name": "Mise à jour du fournisseur réussie ! ",
+    "type": null
+  },
+  {
+    "id": 5,
+    "name": "Mise à jour du fournisseur réussie ! ",
+    "type": null
+  }
+]

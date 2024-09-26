@@ -1,0 +1,206 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Geschäftlicher Bedarf",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 54,
+    "fieldName": null,
+    "name": "Angaben zum Antragsteller",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Angaben zu Kategorie und Anbieter",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 96,
+    "fieldName": "businessOwner",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Antragssteller</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 100,
+    "fieldName": "onBehalf",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Bitte geben Sie die Person an, in deren Namen Sie den Antrag stellen</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 102,
+    "fieldName": "productDescription",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Kurze Beschreibung des Produkts/der Dienstleistung, die Grünenthal angeboten wird</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 114,
+    "fieldName": "categoryNonNull",
+    "name": "<p>Kategorie ist nicht null (Dummy verdeckte Frage für Bedingung)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 57,
+    "fieldName": null,
+    "name": null,
+    "description": "<pre class=\\\"ql-syntax\\\" spellcheck=\\\"false\\\">Hinweis: Dies könnte die Zustimmung des Beschaffungsmanagers erfordern.\\n</pre>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 116,
+    "fieldName": "isExtensionWorkflow",
+    "name": "<p>Workflow für Anbieterverlängerung (ausgeblendet)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 121,
+    "fieldName": "estimatedSpend",
+    "name": "<p>Geschätzte Ausgaben</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 110,
+    "fieldName": "primaryCategory",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Hauptkategorie der vom </span>Anbieter</p> angebotenen Dienstleistung",
+    "description": null,
+    "helpText": "<p><span style=\"color: rgb(68, 68, 68);\">Kategorie mit den voraussichtlich höchsten jährlichen Ausgaben an den Lieferanten</span></p>",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 94,
+    "fieldName": "applicableNaceCode",
+    "name": "<p>Geltende NACE Warengruppennummer</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 108,
+    "fieldName": "additionalCompanyEntities",
+    "name": "<p>Zusätzliche <span style=\"color: rgb(62, 68, 86);\">Grünenthal </span>Geschäftseinheiten, die einbezogen werden sollten (sofern zutreffend)? (optional)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 129,
+    "fieldName": "fastLaneReason",
+    "name": "<p>Bitte geben Sie den Grund für die Durchführung eines Anlege-Prozesses im Schnellverfahren an</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Option 1": "Option 1",
+      "Option 2": "Option 2",
+      "Option 3": "Option 3"
+    },
+    "type": "field"
+  },
+  {
+    "id": 104,
+    "fieldName": "totalYearlySpend",
+    "name": "<p>Geschätzte jährliche Gesamtausgaben an den Anbieter</p>",
+    "description": null,
+    "helpText": "<p>Voraussichtliche Ausgaben bei diesem Anbieter in den nächsten 12 Monaten</p>",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 127,
+    "fieldName": null,
+    "name": null,
+    "description": "<p><em style=\\\"background-color: rgb(255, 255, 0); color: rgb(62, 68, 86);\\\">Hinweis:</em><em style=\\\"color: rgb(62, 68, 86);\\\"> Dieses Verfahren sollte nur in geschäftskritischen Fällen angewendet werden. Nach der Einreichung wird der Antrag durch den Leiter des Beschaffungsbereichs</em></p> genehmigt.",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 98,
+    "fieldName": "isOnBehalf",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Stellen Sie den Antrag im Namen einer anderen Person?</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 141,
+    "fieldName": "supportDocs",
+    "name": "<p>Unterstützende Dokumente</p>",
+    "description": null,
+    "helpText": "<p>Bitte laden Sie ein Dokument wie z.B. ein Angebot, ein Firmenschreiben oder ein offizielles Dokument hoch. Mit allen erforderlichen Informationen ausgestattet, können wir Ihren Antrag besser prüfen.</p>",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 144,
+    "fieldName": "_p_Priority__p_",
+    "name": "<p>Priorität</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 106,
+    "fieldName": "primaryEntity",
+    "name": "<p>Primäre Grünenthal-Geschäftseinheit</p>",
+    "description": null,
+    "helpText": "<p><span style=\"color: rgb(68, 68, 68);\">Geschäftseinheit, die voraussichtlich die höchsten jährlichen Ausgaben an den Lieferanten tätigt</span></p>",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Formular zur Bewertung von verantwortungsvoller Beschaffung",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 7,
+    "fieldName": "isecoScoreAvailable",
+    "name": "<p><strong>Ist eine EcoVadis-Bewertung verfügbar?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 22,
+    "fieldName": "isecovadisIDNULL",
+    "name": "<p>Ist EcovadisIDNULL</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 24,
+    "fieldName": "isDUNSNULL",
+    "name": "<p>Ist DUNSNULL</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 17,
+    "fieldName": "dunsNumber",
+    "name": "<p>DUNS-Nummer</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "ecoVadisID",
+    "name": "<p>Ecovadis-ID</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 10,
+    "fieldName": "ecoScore",
+    "name": "<p><strong>Bitte geben Sie die Ecovadis-Bewertung an</strong></p>",
+    "description": null,
+    "helpText": "<p>Bitte geben Sie eine Bewertung zwischen 1 und 100 ein</p>",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 13,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>Vom Lieferanten wurde keine EcoVadis-ID bereitgestellt. Die D&B-Bewertung wird abgerufen, wenn der Lieferant eine DUNS-Nummer zur Verfügung stellt.</em></strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 15,
+    "fieldName": "null_1_",
+    "name": "null(1)",
+    "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>Der Lieferant hat keine DUNS-Nummer zur Verfügung gestellt.</em></strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 19,
+    "fieldName": "null_1__1_",
+    "name": "null(1)(1)",
+    "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>Es wurden keine Ecovadis- oder DUNS-Nummer angegeben. Wenn Sie diesen Schritt abschließen und es sich bei dem Lieferantenunternehmen nicht um ein Kleinstunternehmen handelt, wird der Prozess „Integrity Next“ gestartet.</em></strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

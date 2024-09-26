@@ -1,0 +1,152 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Business Need - Supply Chain Partner",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Business Details",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 70,
+    "fieldName": null,
+    "name": "Additional Details",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 89,
+    "fieldName": null,
+    "name": "Plant/Site Info",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 156,
+    "fieldName": null,
+    "name": "",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 4,
+    "fieldName": "_p_Describe_business_need__p_",
+    "name": "<p><strong>Business Justification</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 92,
+    "fieldName": "siteLonza",
+    "name": "<p><strong>Which Lonza Sites are affected?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": "_p_Category___Commodity__p_",
+    "name": "<p><strong>Please select the commodity</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 155,
+    "fieldName": "isVSCiVendor",
+    "name": "<p>Is VSCI Vendor</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 159,
+    "fieldName": "canVendorBeCreated",
+    "name": "<p><strong style=\"color: rgb(62, 68, 86);\">Can supply chain vendor be created in SAP?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 88,
+    "fieldName": "requestor",
+    "name": "<p><strong>Requested by</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 152,
+    "fieldName": "requestorSite",
+    "name": "<p><strong>Requestor's Lonza Site</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 166,
+    "fieldName": "q166__p__strong_AccountGroup__stron",
+    "name": "<p><strong>AccountGroup</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 169,
+    "fieldName": "errorInfo",
+    "name": null,
+    "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>Supplier created with account group 0001 or 0005 cannot be onboarded as a supply chain partner.</em></strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 79,
+    "fieldName": "accountGroup",
+    "name": "<p><strong>Account Group</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

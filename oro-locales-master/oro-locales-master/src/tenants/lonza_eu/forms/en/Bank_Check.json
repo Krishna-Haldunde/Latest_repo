@@ -1,0 +1,42 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Bank Check",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Bank Details",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 13,
+    "fieldName": "isbankreviewneeded",
+    "name": "<p>Is review needed</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": "bankitems",
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "Item",
+    "choices": null,
+    "type": "field"
+  }
+]

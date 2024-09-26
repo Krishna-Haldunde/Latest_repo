@@ -1,0 +1,158 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Standart-QA-Überprüfung für beantragten Lieferanten",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 25,
+    "fieldName": "dmsDocumentID",
+    "name": "<p><strong>Bitte fügen Sie die Lonza DMS-Dokument-ID hinzu:</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "isClientQualificationCompleted",
+    "name": "<p><strong>Ist die Lieferanten-Kundenqualifizierung erfolgreich abgeschlossen?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 8,
+    "fieldName": "isChangeNotification",
+    "name": "<p><strong>Werden Änderungsmitteilungen vom Lieferanten bereitgestellt?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 10,
+    "fieldName": "isSCDReviewComplete",
+    "name": "<p><strong>Wurde SCD (oder eine gleichwertige Lieferantendokumentation) überprüft und als vollständig und richtig eingestuft?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 6,
+    "fieldName": "q6_isLocalSupplierQualificationCo",
+    "name": "<p><strong>Ist die Qualifizierung gemäß lokalem Verfahren erfolgreich abgeschlossen?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 42,
+    "fieldName": "errorInstruction",
+    "name": null,
+    "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>Ohne genaue und vollständige SCD können Sie nicht fortfahren.</em></strong></p><p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>Wenden Sie sich bitte erneut an den Lieferanten, damit dieser die korrekten Informationen bereitstellt.</em></strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 16,
+    "fieldName": "q16_isServiceProviderAssessmentReq",
+    "name": "<p><strong>Ist ein Lieferanten-/Dienstleisterbewertungsantrag erforderlich (neu, Neubewertung oder Aktualisierung)?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 19,
+    "fieldName": "isServiceProvideQAARequired",
+    "name": "<p><strong>Ist eine QAA/SCL des Lieferanten/Dienstleisters erforderlich (neu, Neubewertung oder Aktualisierung)?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 33,
+    "fieldName": "complianceCategory",
+    "name": "<p><strong>Wählen Sie die Konformitätsklassifizierung gemäß GROUP-125419:</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "N/A": "K.A.",
+      "Distributor Level 1": "Vertriebshändler Level 1",
+      "Distributor Level 2": "Vertriebshändler Level 2",
+      "Service Provider to Lonza": "Dienstleister für Lonza",
+      "Legal Manufacturer": "Rechtlicher Hersteller"
+    },
+    "type": "field"
+  },
+  {
+    "id": 22,
+    "fieldName": "sclExists",
+    "name": "<p><strong>Existiert Ihres Wissens nach irgendeine Art von QAA oder SCL für das Unternehmen/den Standort bzw. dessen Holding/Muttergesellschaft?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 31,
+    "fieldName": "activity",
+    "name": "<p><strong>Wählen Sie die Tätigkeit des beantragten Lieferanten laut SDC gemäß GROUP-125419 aus:</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Distribution Center": "Vertriebszentrum",
+      "Agent": "Vertreter",
+      "N/A": "K.A.",
+      "Original Manufacturer": "Originalhersteller",
+      "Software Development": "Softwareentwicklung",
+      "Sales Office": "Vertriebsbüro",
+      "Equipment Assembly": "Gerätemontage",
+      "Material Sterilizer": "Materialsterilisator",
+      "Packer / Re-packer": "Verpacker/Umverpacker"
+    },
+    "type": "field"
+  },
+  {
+    "id": 36,
+    "fieldName": "trackwiseSMR",
+    "name": "<p><strong>Wenn TrackWise SMR vorhanden ist, fügen Sie bitte die SMR-Nummer hinzu:</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

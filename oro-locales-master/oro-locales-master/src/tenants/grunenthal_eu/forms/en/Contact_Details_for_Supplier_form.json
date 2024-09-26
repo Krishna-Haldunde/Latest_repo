@@ -1,0 +1,135 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Contact Details",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 50,
+    "fieldName": null,
+    "name": "Main contact person",
+    "description": "Main contact for all the procurement queries.",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 116,
+    "fieldName": null,
+    "name": "Account Receivable (AR) Contact",
+    "description": "Main contact for invoicing queries",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 11,
+    "fieldName": null,
+    "name": "Order Delivery Team (OD) Contact",
+    "description": "Contact to whom POs will be issued",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 21,
+    "fieldName": null,
+    "name": "Environment, Social, Governance (ESG) Specific Contact",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 66,
+    "fieldName": "subcontractorContacts",
+    "name": "<p><strong>﻿﻿</strong>Please provide the following details for every subcontractor in the below format:</p><p><br></p><p>Name: <strong>Company / Individual Name</strong></p><p>Notes: <strong>Details of Service provided</strong></p><p>Address: <strong>Full address or country</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "Contact",
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 106,
+    "fieldName": "primaryContact",
+    "name": "<p>Primary Contact</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "Contact",
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 62,
+    "fieldName": "orderDeliveryContacts",
+    "name": "<p>Contact Name (OD)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "Contact",
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 64,
+    "fieldName": "environmentContact",
+    "name": "<p>Contact Name (Environment, Social, Governance)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "Contact",
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 58,
+    "fieldName": "mainContact",
+    "name": "<p>General Contact(s)</p><p><br></p><p><span style=\"color: rgb(31, 31, 31);\">Please mention the '</span><strong style=\"color: rgb(31, 31, 31);\">Department' </strong><span style=\"color: rgb(31, 31, 31);\">in the Notes.</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "Contact",
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 109,
+    "fieldName": "addGeneralContact",
+    "name": "<p>Add additional General Contact(s)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "No": "No",
+      "Yes": "Yes"
+    },
+    "type": "field"
+  },
+  {
+    "id": 115,
+    "fieldName": "accountPayableContactList",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Account Receivable (AR) Contact</span></p>",
+    "description": "Main contact for invoicing queries",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 122,
+    "fieldName": "accountReceivableContact",
+    "name": "<p>Contact Name (AR)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "Contact",
+    "choices": null,
+    "type": "field"
+  }
+]

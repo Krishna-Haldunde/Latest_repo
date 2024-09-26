@@ -1,0 +1,21 @@
+{
+  "--uploadQuoteProposal--": "Carregar orçamento / proposta",
+  "--ifYouHaveProposalQuoteAttachmentPleaseUploadHere--": "Se tiver uma proposta/orçamento anexo, carregue aqui.",
+  "--supportedFormats--": "Formatos suportados:",
+  "--upload--": "Carregar",
+  "--proposalDetails--": "Detalhes da proposta",
+  "--pleaseEnsureTheDetailsAreCorrect--": "Certifique-se de que os dados preenchidos estão corretos e correspondem ao documento carregado",
+  "--supplierLegalName--": "Nome jurídico do fornecedor",
+  "--description--": "Descrição da proposta",
+  "--deliveryDate--": "Data de entrega",
+  "--totalAmount--": "Montante total",
+  "--supplierCountry--": "País fornecedor",
+  "--paymentTerm--": "Condições de pagamento",
+  "--edit--": "Editar",
+  "--save--": "Guardar",
+  "--confirm--": "Confirmar",
+  "--proposal--": "Proposta",
+  "--weExtractedFollowingDetailsFromYourProposal--": "Extraímos os seguintes pormenores da sua proposta",
+  "--previewNotAvailable--": "Pré-visualização não disponível",
+  "--thereAreSomeErrorsInForm--": "Existem alguns erros. Verificar"
+}

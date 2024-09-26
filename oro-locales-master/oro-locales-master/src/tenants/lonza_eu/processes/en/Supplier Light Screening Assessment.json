@@ -1,0 +1,56 @@
+[
+  {
+    "id": null,
+    "name": "Supplier Light Screening Assessment",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 5,
+    "name": "Get D&B score",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 13,
+    "name": "Update Risk Level in Assessments",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 7,
+    "name": "Potential supplier screening review",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 8,
+    "name": "Update Supplier status",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 10,
+    "name": "Results of Potential Supplier ESG Screening",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 11,
+    "name": "Financial screening",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 15,
+    "name": "Update company information",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 17,
+    "name": "Create vendor",
+    "type": null,
+    "description": null
+  }
+]

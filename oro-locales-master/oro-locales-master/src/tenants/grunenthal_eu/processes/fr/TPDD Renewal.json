@@ -1,0 +1,188 @@
+[
+  {
+    "id": null,
+    "name": "Renouvellement de la diligence raisonnable à l’égard des tiers",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 10,
+    "name": "Charger un fournisseur existant",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 94,
+    "name": "Charger les contacts",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 73,
+    "name": "Trouver le devoir de diligence et de gestion des risques de la chaîne d'approvisionnement applicable",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 57,
+    "name": "Collecter les documents du fournisseur",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 100,
+    "name": "Informations sur l'entreprise",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 122,
+    "name": "Modalités de paiement",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 124,
+    "name": "Coordonnées",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 126,
+    "name": "Information sur les actionnaires",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 128,
+    "name": "Questionnaire de diligence raisonnable à l’égard des tiers",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 132,
+    "name": "Code de conduite pour les Partenaires commerciaux de Grünenthal",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 134,
+    "name": "Déclaration",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 135,
+    "name": "Collecter les documents du fournisseur",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 140,
+    "name": "Informations sur l'entreprise",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 142,
+    "name": "Modalités de paiement",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 144,
+    "name": "Coordonnées",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 146,
+    "name": "Information sur les actionnaires",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 148,
+    "name": "Questionnaire de diligence raisonnable à l’égard des tiers",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 150,
+    "name": "Code de conduite pour les Partenaires commerciaux de Grünenthal",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 152,
+    "name": "Déclaration",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 153,
+    "name": "Documents soumis par le fournisseur",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 7,
+    "name": "Diligence raisonnable et score de risque",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 55,
+    "name": "Approbation de la conformité des fournisseurs à risque",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 78,
+    "name": "Bloquer le fournisseur",
+    "type": null,
+    "description": "L'équipe de conformité mondiale ne souhaitant pas procéder à la vérification préalable d'un fournisseur à haut risque, veuillez bloquer le fournisseur dans SAP."
+  },
+  {
+    "id": 111,
+    "name": "Refuser la demande en raison du risque",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 159,
+    "name": "Attendre la voie accélérée de création d'un fournisseur",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 120,
+    "name": "Résumé de la collecte",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 155,
+    "name": null,
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 76,
+    "name": "Examen des données de base des fournisseurs",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 154,
+    "name": "Confirmation de l'évaluation informatique",
+    "type": null,
+    "description": "Veuillez confirmer que le statut du fournisseur informatique basé sur le résultat de l'évaluation de la sécurité de l'information est \"Approuvé\" car il a été mis en attente. "
+  },
+  {
+    "id": 83,
+    "name": "Mise à jour de l'évaluation",
+    "type": null,
+    "description": null
+  }
+]

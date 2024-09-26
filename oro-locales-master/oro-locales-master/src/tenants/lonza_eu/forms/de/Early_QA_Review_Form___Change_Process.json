@@ -1,0 +1,184 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Formular für die Präliminäre Qualitätssicherungsprüfung - Änderungsprozess",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Zusammenfassung der Präliminären QA-Überprüfung",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 52,
+    "fieldName": null,
+    "name": "Lieferantenqualifizierung zugehörige Daten",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 25,
+    "fieldName": "proceedOnboarding",
+    "name": "<p>Kann Onboarding des Lieferanten erfolgen?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 33,
+    "fieldName": "isClientQualifiedSupplier",
+    "name": "<p>Ist kundenqualifizierter Lieferant</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 30,
+    "fieldName": "selectedClass",
+    "name": "<p><strong>Ausgewählte Klasse von Material/Dienstleistungen/Geräten</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 36,
+    "fieldName": "clientQualifiedHelpText",
+    "name": null,
+    "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>Das von Ihnen ausgewählte Bewertungsergebnis stimmt nicht mit GROUP-99350 überein. Der Antragsteller hat „kundenqualifiziert“ ausgewählt und Sie wählen einen anderen Qualifizierungstyp. Überprüfen Sie dies, bevor Sie fortfahren.</em></strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 38,
+    "fieldName": "globalQualificationHelpText",
+    "name": "null(1)",
+    "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>Das von Ihnen ausgewählte Bewertungsergebnis stimmt nicht mit GROUP-99350 überein. Der Antragsteller hat eine Klasse innerhalb von M01-M06, M20, M50, M51, S01-S06, S50, S51, E03-E06 ausgewählt,</em></strong><strong style=\\\"color: rgb(230, 0, 0);\\\"><em> die für die globale Lieferantenqualifizierung gilt. Überprüfen Sie dies, bevor Sie fortfahren.</em></strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 42,
+    "fieldName": "helpTextForNoQualification",
+    "name": "null(1)",
+    "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>Das von Ihnen ausgewählte Bewertungsergebnis stimmt nicht mit GROUP-99350 überein. Der Antragsteller hat eine Klasse innerhalb von M07, M99, S07, S99, E07 ausgewählt, die für die lokale Lieferantenqualifizierung oder keine Qualifizierung gilt. Überprüfen Sie dies, bevor Sie fortfahren.</em></strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 22,
+    "fieldName": "localSupQAForms",
+    "name": "<p><strong>Hochladen der Formulare zur lokalen Lieferantenqualifizierung</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 48,
+    "fieldName": "SSPARRequestNo",
+    "name": "<p><strong>Bitte geben Sie die SSPAR-Nummer ein:</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 45,
+    "fieldName": "isQualificationRequired",
+    "name": "<p><strong>Ist eine Qualifizierung vor der Aktualisierung der gewünschten Änderungen des Lieferanten in SAP erforderlich?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 19,
+    "fieldName": "qualificationType",
+    "name": "<p><strong>Wählen Sie die Art der Qualifizierung</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Local Supplier Qualification": "Lokale Lieferantenqualifizierung",
+      "Supplier Qualification in scope of GROUP-6173": "Lieferantenqualifizierung im Rahmen von GROUP-6173",
+      "Client Supplier Qualification": "Kunden-Lieferanten-Qualifizierung"
+    },
+    "type": "field"
+  },
+  {
+    "id": 51,
+    "fieldName": "vcnAttachment",
+    "name": "<p><strong>Bitte fügen Sie VCN oder ein anderes unterstützendes Dokument für diese Änderung hinzu</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 55,
+    "fieldName": "classType",
+    "name": "<p><strong style=\"color: rgb(62, 68, 86);\">Was soll vom Lieferanten beschafft werden?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Equipment/Software": "Geräte/Software",
+      "Services": "Dienstleistungen",
+      "Materials": "Materialien"
+    },
+    "type": "field"
+  },
+  {
+    "id": 58,
+    "fieldName": "materialCategory",
+    "name": "<p><strong style=\"color: rgb(62, 68, 86);\">Bitte wählen Sie die zutreffende(n) Kategorie(n) gemäß GROUP-99350</strong></p>",
+    "description": "Es muss mindestens eine Kategorie für jede ausgewählte Nutzungsart enthalten sein.",
+    "helpText": "<p><span style=\"color: rgb(230, 0, 0);\">Es muss mindestens eine Kategorie für jede ausgewählte Nutzungsart enthalten sein.</span></p>",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 61,
+    "fieldName": "poDate",
+    "name": "<p><strong style=\"color: rgb(62, 68, 86);\">Spätester Termin zum Abschluss der Qualifizierung für die fristgerechte Erteilung der Bestellung</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "> 6 months": "> 6 Monate",
+      "< 3 months": "< 3 Monate",
+      "3 to 6 months": "3 bis 6 Monate"
+    },
+    "type": "field"
+  }
+]

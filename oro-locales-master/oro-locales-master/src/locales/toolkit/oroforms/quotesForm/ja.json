@@ -1,0 +1,22 @@
+{
+  "--addSupplierDocsYouHave--": "すでに持っているサプライヤーの文書を追加",
+  "--helpsSpeedTheProcess--": "これはプロセスのスピードアップに役立つ",
+  "--supplierQuote--": "サプライヤー見積もり",
+  "--uploading--": "アップロードしています...",
+  "--cancel--": "キャンセル",
+  "--sowProposal--": "作業範囲記述書／提案",
+  "--additionalDocs--": "追加文書",
+  "--additionalQuote--": "追加見積もり",
+  "--additionalDoc--": "追加文書",
+  "--pleaseSelectAFile--": "ファイルを選択してください",
+  "--file--": "ファイル",
+  "--fileName--": "ファイル名",
+  "--additionalNote--": "追記<1> （オプション）</1>",
+  "--askForLegalReview--": "法的審査を依頼",
+  "--yes--": "はい",
+  "--no--": "いいえ",
+  "--supplierPaymentTerm--": "サプライヤー支払期限",
+  "--supplierDoc--": "サプライヤー文書",
+  "--upload--": "アップロード",
+  "--download--": "ダウンロード"
+}

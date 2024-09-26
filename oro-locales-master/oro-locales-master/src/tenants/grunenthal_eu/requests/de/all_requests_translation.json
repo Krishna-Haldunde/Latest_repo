@@ -1,0 +1,211 @@
+[
+  {
+    "id": "Supplier Extension Workflow",
+    "requestName": "Lieferantenerweiterung",
+    "shortDescription": "Einen bestehenden GRT-Lieferanten für zusätzliche GRT-Buchungskreise freischalten",
+    "stepTitles": {
+      "Procurement": "Beschaffung",
+      "Need": "Bedarf",
+      "Details": "Details",
+      "Compliance": "Compliance",
+      "Quality": "Qualität",
+      "Legal": "Rechtliches",
+      "Review Process": "Überprüfungsprozess",
+      "Supplier": "Lieferant",
+      "IT": "IT"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Supplier data update",
+    "requestName": "Lieferanten-Aktualisierung",
+    "shortDescription": "Daten bestehender Lieferanten ändern (Bankdaten, Ansprechpartner, Zahlungsbedingungen, Adresse oder Firmenname)",
+    "stepTitles": {
+      "Procurement": "Beschaffung",
+      "Details": "Details",
+      "Applicable Updates": "Zutreffende Aktualisierungen",
+      "Compliance": "Compliance",
+      "Quality": "Qualität",
+      "Legal": "Rechtliches",
+      "Review Process": "Überprüfungsprozess",
+      "Supplier": "Lieferant",
+      "IT": "IT"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Fast Lane Onboarding",
+    "requestName": "Anlegen im Schnellverfahren",
+    "shortDescription": "Nur für direktes Materialteam verwendet\nGeschäftskritische Lieferanten mit SLA von 24 - Test hinzufügen",
+    "stepTitles": {
+      "Need": "Bedarf",
+      "Details": "Details",
+      "Quality": "Qualität",
+      "Legal": "Rechtliches",
+      "Review Process": "Überprüfungsprozess",
+      "Choose Category": "Kategorie wählen",
+      "Summary": "Zusammenfassung",
+      "Supplier": "Lieferant",
+      "Review": "Überprüfung"
+    },
+    "engagementAttributes": {
+      "priority": "Priorität"
+    }
+  },
+  {
+    "id": "Supplier Onboarding Workflow",
+    "requestName": "Neuen Lieferanten anlegen",
+    "shortDescription": "Einen neuen Lieferanten mit oder ohne eine TPDD anlegen",
+    "stepTitles": {
+      "Additional Categories": "Zusätzliche Kategorien",
+      "Need": "Bedarf",
+      "Details": "Details",
+      "Quality": "Qualität",
+      "Review Process": "Überprüfungsprozess",
+      "Choose Category": "Kategorie wählen",
+      "Summary": "Zusammenfassung",
+      "Supplier": "Lieferant",
+      "IT": "IT"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Test category suggestion",
+    "requestName": "Test Vorschlag für Kategorie",
+    "shortDescription": "Vorschlag für eine Testkategorie (Test Add)",
+    "stepTitles": {
+      "Procurement": "Beschaffung",
+      "Choose category": "Kategorie wählen",
+      "Compliance": "Compliance",
+      "Quality": "Qualität",
+      "Documents": "Dokumente",
+      "Legal": "Rechtliches",
+      "Review Process": "Überprüfungsprozess",
+      "Onboarding details": "Details zum Onboarding",
+      "IT": "IT"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "TPDD Renewal",
+    "requestName": "Verlängerung der Due Diligence für Geschäftspartner",
+    "shortDescription": "Erneuerung oder Durchführung einer TPDD für einen bestehenden Lieferanten",
+    "stepTitles": {
+      "Details": "Details",
+      "Compliance": "Compliance",
+      "Review Process": "Überprüfungsprozess",
+      "Info": "Info"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Sanction and Adverse Media Check",
+    "requestName": "Prüfung auf Sanktionen und negative Berichterstattung",
+    "shortDescription": "Prüfung auf Sanktionen und negative Berichterstattung durch lexisnexis",
+    "stepTitles": {
+      "Compliance": "Compliance",
+      "Documents": "Dokumente",
+      "Review Process": "Überprüfungsprozess",
+      "Info": "Info"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Test supplier notification",
+    "requestName": "Test Lieferantenbenachrichtigung",
+    "shortDescription": "Test E-Mail-Inhalt der Lieferantenbenachrichtigung",
+    "stepTitles": {
+      "Procurement": "Beschaffung",
+      "Compliance": "Compliance",
+      "Quality": "Qualität",
+      "Documents": "Dokumente",
+      "Legal": "Rechtliches",
+      "Review Process": "Überprüfungsprozess",
+      "Supplier": "Lieferant",
+      "Onboarding details": "Details zum Onboarding",
+      "IT": "IT"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Test TPDD form",
+    "requestName": "Test Formular für die Due Diligence für Geschäftspartner",
+    "shortDescription": "",
+    "stepTitles": {
+      "Procurement": "Beschaffung",
+      "Compliance": "Compliance",
+      "Quality": "Qualität",
+      "Documents": "Dokumente",
+      "Legal": "Rechtliches",
+      "Review Process": "Überprüfungsprozess",
+      "Supplier": "Lieferant",
+      "Onboarding details": "Details zum Onboarding",
+      "IT": "IT"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Test SIv2",
+    "requestName": "Test SIv2",
+    "shortDescription": "Testlieferant id v2",
+    "stepTitles": {
+      "Procurement": "Beschaffung",
+      "Compliance": "Compliance",
+      "Quality": "Qualität",
+      "Documents": "Dokumente",
+      "Legal": "Rechtliches",
+      "Review Process": "Überprüfungsprozess",
+      "Supplier": "Lieferant",
+      "Onboarding details": "Details zum Onboarding",
+      "IT": "IT"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Supplier onboarding request",
+    "requestName": "Lieferantenanfrage",
+    "shortDescription": "Für neue und bestehende Lieferanten (Verlängerung)",
+    "stepTitles": {
+      "Guidance": "Leitfaden",
+      "Procurement": "Beschaffung",
+      "Basic": "Einfach",
+      "Compliance": "Compliance",
+      "Individual": "Einzelperson",
+      "Old": "Alt",
+      "Quality": "Qualität",
+      "Legal": "Rechtliches",
+      "Supplier": "Lieferant",
+      "IT": "IT"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Supplier Data Maintenance",
+    "requestName": "Pflege von Lieferantendaten",
+    "shortDescription": "Pflege von Lieferantendaten",
+    "stepTitles": {
+      "Details": "Details",
+      "Review Process": "Überprüfungsprozess",
+      "Type of Update": "Art der Aktualisierung",
+      "Supplier": "Lieferant"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Supplier Updates",
+    "requestName": "Lieferanteninformationen aktualisieren",
+    "shortDescription": "Lieferanten-Aktualisierungen",
+    "stepTitles": {
+      "Procurement": "Beschaffung",
+      "Compliance": "Compliance",
+      "Quality": "Qualität",
+      "Documents": "Dokumente",
+      "Legal": "Rechtliches",
+      "Review Process": "Überprüfungsprozess",
+      "Supplier": "Lieferant",
+      "Onboarding details": "Details zum Onboarding",
+      "IT": "IT"
+    },
+    "engagementAttributes": null
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "--department--": "Departman:",
+  "--companyEntity--": "Şirket Varlığı:",
+  "--startDate--": "Başlangıç tarihi:",
+  "--endDate--": "Bitiş tarihi:",
+  "--poTotal--": "PO Toplamı:",
+  "--expenseItem--": "Gider Kalemleri",
+  "--requiredField--": "{{field}} zorunlu bir alandır.",
+  "--purchaseOrder--": "Satın Alma Siparişi (PO)",
+  "--selectPurchaseOrder--": "Satın Alma Siparişini (PO) seçin",
+  "--reasonForAmendment--": "Değişiklik nedeni",
+  "--whatDoYouWantToChange--": "Neyi değiştirmek istiyorsunuz?",
+  "--extendTimeline--": "Zaman Çizelgesini Uzat",
+  "--currentTimeline--": "Şu anki zaman çizelgesi:",
+  "--additionalAmount--": "Ek tutar",
+  "--updateTimeline--": "Zaman Çizelgesini Güncelle",
+  "--currentPoTotal--": "Mevcut PO Toplamı:",
+  "--attachments--": "Ekler",
+  "--addAmountUpdateTimelines--": "Miktar ekle / zaman çizelgelerini güncelle",
+  "--editPoLineItems--": "PO satır öğelerini düzenle"
+}

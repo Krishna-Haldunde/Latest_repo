@@ -1,0 +1,50 @@
+[
+  {
+    "id": null,
+    "name": "Supply Chain Partner Onboarding",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 2,
+    "name": "Early Site QA Review",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 6,
+    "name": "Quality Workflow for Supply chain partner onboarding",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 8,
+    "name": "Update supplier status",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 7,
+    "name": "Fix data Errors in Supply chain creation",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 3,
+    "name": "Create Supply Chain Partner",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 10,
+    "name": "Update scope",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 9,
+    "name": "Vendor rejection notification to the requestor",
+    "type": null,
+    "description": "The vendor creation is rejected by Site QA."
+  }
+]

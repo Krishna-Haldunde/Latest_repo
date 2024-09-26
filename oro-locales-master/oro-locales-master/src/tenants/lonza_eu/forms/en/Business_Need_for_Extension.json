@@ -1,0 +1,135 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Business Need for Extension",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Request details",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 8,
+    "fieldName": null,
+    "name": "Company code and Purchasing Org",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 4,
+    "fieldName": "requestor",
+    "name": "<p><strong>Requested by</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": "businessJustification",
+    "name": "<p><strong>Business justification for extension</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 32,
+    "fieldName": "isCompanyCodeOrPurachsingOrg",
+    "name": "<p><strong>Do you want to extend to a company code or purchasing org?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Purchasing Org": "Purchasing Org",
+      "Company Code": "Company Code"
+    },
+    "type": "field"
+  },
+  {
+    "id": 14,
+    "fieldName": "purchasingOrg",
+    "name": "<p><strong>Purchasing Org to extend to</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 43,
+    "fieldName": "q43__p__strong_style__color__rgb_6",
+    "name": "<p><strong style=\"color: rgb(62, 68, 86);\">Can vendor be extended in SAP?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 11,
+    "fieldName": "companyCode",
+    "name": "<p><strong>Company code to extend to</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 34,
+    "fieldName": "existingCompanyCodes",
+    "name": "<p><strong>Existing Company code(s)</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 36,
+    "fieldName": "existingPorg",
+    "name": "<p><strong>Existing Purchasing Org(s)</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 56,
+    "fieldName": "q56_ispaymenttermnotificationNeede",
+    "name": "<p><strong>Is payment term notification needed?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 58,
+    "fieldName": "directDebitNotification",
+    "name": "<p><strong>Is direct debit notification needed?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

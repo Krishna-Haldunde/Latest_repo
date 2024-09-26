@@ -1,0 +1,32 @@
+[
+  {
+    "id": null,
+    "name": "Bewertungsaktualisierung",
+    "type": "processTitle"
+  },
+  {
+    "id": 2,
+    "name": "Umgang mit Datenproblemen",
+    "type": null
+  },
+  {
+    "id": 3,
+    "name": "Bewertungsdatensatz in Syniti aktualisieren ",
+    "type": null
+  },
+  {
+    "id": 6,
+    "name": "Lieferantenaktualisierung im SAP-System - Bestätigung",
+    "type": null
+  },
+  {
+    "id": 4,
+    "name": "Lieferantenaktualisierung erfolgreich! ",
+    "type": null
+  },
+  {
+    "id": 5,
+    "name": "Lieferantenaktualisierung erfolgreich! ",
+    "type": null
+  }
+]

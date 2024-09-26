@@ -1,0 +1,14 @@
+{
+  "--category--": "类别",
+  "--select--": "选择",
+  "--failedToGenerateRecommendations--": "我们无法根据当前描述推荐类别。<linkbutton>查看所有方式</linkbutton>。",
+  "--viewAllOptions--": "查看所有方式",
+  "--recommendedOptions--": "推荐方式",
+  "--pleaseSelectBestCategory--": "请选择请求最匹配的类别",
+  "--requiredField--": "这是必填项",
+  "--notTheResultYouLooking--": "不是您正在寻找的结果？",
+  "--hideRecommendations--": "隐藏推荐",
+  "--viewAllRecommendations--": "查看所有推荐",
+  "--readMore--": "查看全文",
+  "--readLess--": "收起全文"
+}

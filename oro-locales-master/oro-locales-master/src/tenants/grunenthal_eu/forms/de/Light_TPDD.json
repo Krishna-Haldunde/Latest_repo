@@ -1,0 +1,547 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Due Diligence Fragebogen",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 130,
+    "fieldName": null,
+    "name": "Einführung",
+    "description": "Grünenthal betrachtet die Due Diligence als ein Schlüsselelement für das Management von Compliance-, Ethik- und Reputationsrisiken in der Zusammenarbeit mit Geschäftspartnern. Als potenzieller Geschäftspartner von Grünenthal bitten wir Sie, uns die unten aufgeführten Informationen zur Verfügung zu stellen. Die Daten, die Sie in diesem Fragebogen angeben, werden ausschließlich zur Bewertung der Risiken, denen Grünenthal durch diese Beziehung ausgesetzt sein könnte, und zur Durchführung unserer üblichen Betriebs- und Rechnungslegungsprozesse verwendet. \n\n\n\nBitte stellen Sie die Informationen in digitaler Form zur Verfügung.",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Angaben zum Unternehmen und zum Land",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 11,
+    "fieldName": null,
+    "name": "Zusätzliche Hintergrundinformationen",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 56,
+    "fieldName": null,
+    "name": "Finanzielle/rechtliche Informationen",
+    "description": "Bitte stellen Sie die folgenden Finanzinformationen für die letzten drei Geschäftsjahre zur Verfügung.",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 108,
+    "fieldName": null,
+    "name": "Compliance und Verantwortung",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 194,
+    "fieldName": null,
+    "name": "Umwelt und Menschenrechte",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 305,
+    "fieldName": "permitLessReason",
+    "name": "<p>Bitte führen Sie die Gründe für das Fehlen der Registrierungen/Genehmigungen/Zulassungen/Lizenzen usw. auf.</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 255,
+    "fieldName": "employeeNumber",
+    "name": "<p>Wie viele Mitarbeiter hat Ihr Unternehmen, einschließlich der im Ausland tätigen Mitarbeiter?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 275,
+    "fieldName": "conflictInterestExt",
+    "name": "<p><span style=\"color: rgb(31, 31, 31);\">Bitte erläutern Sie die Umstände des Interessenkonflikts.</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 253,
+    "fieldName": "country",
+    "name": "<p>Land des Lieferanten</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 346,
+    "fieldName": "q346__p_Will_your_company_use_subco",
+    "name": "<p>Wird Ihr Unternehmen im Zusammenhang mit der zu erbringenden Dienstleistung Unterauftragnehmer einsetzen?&nbsp;</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 311,
+    "fieldName": "codeOfConductCertificate",
+    "name": "<p><span style=\"color: rgb(31, 31, 31);\">Bitte fügen Sie in Bezug auf oben genannten eine Kopie/Bescheinigung/Richtlinie des geltenden Branchenverhaltenskodex bei.</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 317,
+    "fieldName": "whistleblowingPolicyCopy",
+    "name": "<p><span style=\"color: rgb(31, 31, 31);\">Bitte fügen Sie eine Kopie Ihrer Whistleblowing-Richtlinie bei.</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 355,
+    "fieldName": "q355__p_TPDD_Type_Custom_is_ESG__Hi",
+    "name": "<p>Art des Due Diligence für Geschäftspartner Benutzerdefiniert ist ESG (ausgeblendet)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 238,
+    "fieldName": "q238__p__span_style__color__rgb_31_",
+    "name": "<p>Bitte wählen Sie die Region in Brasilien</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 251,
+    "fieldName": "legalEntity",
+    "name": "<p>Wie lautet der vollständige Name des Unternehmens, in dessen Namen Sie antworten?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 167,
+    "fieldName": "whistleblowingPolicyMediumRisk",
+    "name": "<p>Mittleres Risiko, wenn der Anbieter keine Whistleblowing-Richtlinie hat und wenn die Zahl der Mitarbeiter &gt;50 beträgt (ausgeblendet, zur Risikoberechnung)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 293,
+    "fieldName": "turnoverLastYear",
+    "name": "<p><span style=\"color: rgb(31, 31, 31);\">Umsatz für das Geschäftsjahr – letztes J</span>ahr</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 295,
+    "fieldName": "turnoverTwoYears",
+    "name": "<p><span style=\"color: rgb(31, 31, 31);\">Umsatz für das Geschäftsjahr – zwei J</span><span style=\"color: rgb(62, 68, 86);\">ahre zurück</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 297,
+    "fieldName": "turnoverThreeYears",
+    "name": "<p><span style=\"color: rgb(31, 31, 31);\">Umsatz für das Geschäftsjahr – drei J</span><span style=\"color: rgb(62, 68, 86);\">ahre</span> zurück</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 309,
+    "fieldName": "codeOfConductDetails",
+    "name": "<p><span style=\"color: rgb(31, 31, 31);\">Bitte geben Sie den oben zutreffenden Branchenverhaltenskodex an, falls er öffentlich ist.</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 315,
+    "fieldName": "whistleblowingPolicyDetails",
+    "name": "<p><span style=\"color: rgb(31, 31, 31);\">Bitte machen Sie Angaben zu Ihrer Whistleblowing-Richtlinie.</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 361,
+    "fieldName": "q361__p_Medium_Risk__span_style__co",
+    "name": "<p>Mittleres Risiko <span style=\"color: rgb(62, 68, 86);\">wenn der Verkäufer keine Whistleblowing-Richtlinie hat und das</span>Unternehmen in den Geltungsbereich des ESG-Sorgfaltspflicht-Prozesses fällt</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 291,
+    "fieldName": "isEnhanced",
+    "name": "<p>Ist die Art der Due Diligence für Geschäftspartner Erweitert? (ausgeblendet für Bedingung)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 343,
+    "fieldName": "governmentPublic",
+    "name": "<p>Befindet sich Ihr Unternehmen oder eine seiner Tochtergesellschaften oder einer seiner Unterauftragnehmer nach Ihrem besten Wissen direkt oder indirekt im Besitz oder unter der Leitung von Regierungsbeamten, Amtsträgern oder einer Behörde oder steht mit ihnen in Verbindung?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Denied party list": "Denied-Party-Liste",
+      "Subject to an embargo": "Unterliegt einem Embargo",
+      "EU, US or other applicable local sanction list": "EU, USA oder eine andere geltende lokale Sanktionsliste",
+      "None of the above": "Keiner der oben genannten Punkte"
+    },
+    "type": "field"
+  },
+  {
+    "id": 269,
+    "fieldName": "governmentPublicContact",
+    "name": "<p>Wird Ihr Unternehmen oder eine seiner Tochtergesellschaften oder einer seiner Unterauftragnehmer&nbsp;im Rahmen der Arbeit für unser Unternehmen mit Regierungsbeamten oder Amtsträgern&nbsp; in Kontakt kommen?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 339,
+    "fieldName": "subsidiarySubconSanc",
+    "name": "<p>Steht Ihr Unternehmen, einer seiner Gesellschafter (einschließlich letztbegünstigte Eigentümer) oder eine an dieser Geschäftsbeziehung beteiligte Tochtergesellschaft oder ein Unterauftragnehmer nach Ihrem besten Wissen auf einer Sanktionsliste der EU, der USA oder einer anderen anwendbaren lokalen Liste oder auf einer Denied-Party-Liste oder unterliegt er/sie einem Embargo?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 273,
+    "fieldName": "conflictInterest",
+    "name": "<p>Gibt es nach Ihrem besten Wissen eine Situation, die einen <strong>Interessenkonflikt</strong> zwischen Ihrem Unternehmen, den letztbegünstigten Eigentümern, den Vorstandsmitgliedern, den Geschäftsführern oder den eingesetzten Tochtergesellschaften oder Unterauftragnehmern und Grünenthal oder einem seiner Mitarbeiter darstellt oder als solcher wahrgenommen werden könnte?</p>",
+    "description": null,
+    "helpText": "<p><em style=\"color: rgb(102, 163, 224);\">Der Begriff „Interessenkonflikt“ bezieht sich auf eine Situation, in der: </em></p><p><em style=\"color: rgb(102, 163, 224);\">- Private und geschäftliche Interessen kollidieren</em></p><p><em style=\"color: rgb(102, 163, 224);\">- Professionelle Entscheidungsfindung durch private Interessen, auch von Verwandten oder Freunden, beeinflusst werden kann</em></p><p><em style=\"color: rgb(102, 163, 224);\">- Eine professionelle Entscheidung durch eine Beziehung zu einem Unternehmen oder einer Person beeinflusst werden kann</em></p>",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 277,
+    "fieldName": "prosecutedConvicted",
+    "name": "<p>Wurden nach Ihrem besten Wissen gegen Ihr Unternehmen, seine Tochtergesellschaften oder Unterauftragnehmer, die im Zusammenhang mit dieser Dienstleistung eingesetzt werden sollen, oder einen seiner Geschäftsführer, Vorstandsmitglieder und/oder Eigentümer jemals <strong> von einer Strafverfolgungsbehörde oder einer zentralen/regionalen/kommunalen Behörde wegen einer Straftat&nbsp;</strong> ermittelt, wurden sie strafrechtlich verfolgt oder verurteilt, oder wurde jemals eine Geldstrafe oder Sanktion im Zusammenhang mit Menschenrechts- oder Umweltverstößen gegen sie verhängt?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 283,
+    "fieldName": "antiCorruption",
+    "name": "<p>Ist Ihr Unternehmen mit den Bestimmungen aller geltenden Gesetze vertraut und&nbsp; erklärt sich damit einverstanden, sie zu befolgen, einschließlich (aber nicht beschränkt auf) Antikorruptions-, Geldwäsche-, Datenschutz-, Menschenrechts- und Umweltschutzgesetze, und ist es im Besitz aller gültigen Registrierungen, Genehmigungen, Zulassungen und Lizenzen&nbsp;, um Arbeiten für unser Unternehmen auszuführen?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 303,
+    "fieldName": "validPermits",
+    "name": "<p>Verfügt Ihr Unternehmen über alle gültigen Gewerbeanmeldungen, Steuerregistrierungen, Genehmigungen, Zulassungen, Lizenzen usw. in allen Ländern, in denen die Dienstleistungen für Grünenthal erbracht werden?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 307,
+    "fieldName": "codeOfConduct",
+    "name": "<p>Befolgt Ihr Unternehmen einen Unternehmens- oder Branchenkodex, der allgemeine Compliance-Themen wie Integrität, Gesundheit und Sicherheit, Vertraulichkeit, Korruptionsbekämpfung, Interessenkonflikte, fairen Wettbewerb, Datenschutz, Umweltschutz, Menschenrechte usw. abdeckt?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Human rights": "Menschenrechte",
+      "Fair competition": "Fairer Wettbewerb",
+      "Confidentiality": "Vertraulichkeit",
+      "Data protection": "Datenschutz",
+      "Conflicts of interest": "Interessenkonflikte",
+      "Health & safety": "Gesundheit und Sicherheit",
+      "Environment protection": "Umweltschutz",
+      "Anti-corruption": "Korruptionsbekämpfung",
+      "Integrity": "Integrität"
+    },
+    "type": "field"
+  },
+  {
+    "id": 352,
+    "fieldName": "q352__p_If_subcontractors__subsidia",
+    "name": "<p><span style=\"color: rgb(31, 31, 31);\">Befindet sich der Unterauftragnehmer nach Ihrem besten Wissen direkt oder indirekt im Besitz von oder unter der Leitung von Regierungsbeamten, Amtsträgern oder einer Behörde oder steht er mit diesen in Verbindung, oder wird er im Rahmen seiner Tätigkeit für unser Unternehmen mit Regierungsbeamten oder Amtsträgern in Kontakt kommen? </span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 363,
+    "fieldName": "subconSanction",
+    "name": "<p><span style=\"color: rgb(31, 31, 31);\">Steht Ihr Unternehmen, einer seiner Gesellschafter (einschließlich der letztbegünstigte Eigentümer) oder eine an dieser Geschäftsbeziehung beteiligte Tochtergesellschaft oder ein Unterauftragnehmer nach Ihrem besten Wissen auf einer Sanktionsliste der EU, der USA oder einer anderen geltenden lokalen Liste oder auf einer Denied-Party-Liste oder unterliegt einem Embargo?</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 365,
+    "fieldName": "subconConflictInterest",
+    "name": "<p><span style=\"color: rgb(31, 31, 31);\">Gibt es nach Ihrem besten Wissen eine Situation, die einen Interessenkonflikt zwischen dem Unterauftragnehmer, den letztbegünstigten Eigentümern, den Vorstandsmitgliedern oder den Geschäftsführern und Grünenthal oder einem seiner Mitarbeiter darstellt oder als solcher wahrgenommen werden könnte? </span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 313,
+    "fieldName": "whistleblowingPolicyExist",
+    "name": "<p>Verfügt Ihr Unternehmen über eine Whistleblowing-Richtlinie, die es ermöglicht, mutmaßliche Verstöße (intern und extern) zu melden?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 319,
+    "fieldName": "legalDepartment",
+    "name": "<p><span style=\"color: rgb(31, 31, 31);\">Wird Ihr Unternehmen von einer Rechtsabteilung unterstützt?</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 321,
+    "fieldName": "complianceDepartment",
+    "name": "<p><span style=\"color: rgb(31, 31, 31);\">Wird Ihr Unternehmen von einer Compliance-Abteilung unterstützt?</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 271,
+    "fieldName": "publicRelationship",
+    "name": "<p>Bitte erläutern Sie Ihre obige Antwort.</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 279,
+    "fieldName": "humanRightsBreaches",
+    "name": "<p>Bitte erläutern Sie alle oben genannten Fälle.</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 289,
+    "fieldName": "lightToEnhanced",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Einfache Due Diligence für Geschäftspartner in Erweiterte Due Diligence für Geschäftspartner umwandeln (ausgeblendet, für Bedingung)</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 267,
+    "fieldName": "preferredLanguage",
+    "name": "<p>Bitte wählen Sie die bevorzugte Sprache</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 285,
+    "fieldName": "notAbidingReason",
+    "name": "<p>Bitte beschreiben Sie kurz die Gründe für die Nichteinhaltung der oben genannten Gesetze.</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 327,
+    "fieldName": "rmsHumanRightsAndEnv",
+    "name": "<p><span style=\"background-color: rgba(0, 0, 0, 0); color: rgb(40, 40, 40);\">Verfügt Ihr Unternehmen über ein spezielles Risikomanagementsystem für den Umgang mit menschenrechts- und umweltbezogenen Risiken?</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 329,
+    "fieldName": "policyHumanRightsAndEnv",
+    "name": "<p>Verfügt Ihr Unternehmen über eine Grundsatzerklärung zu Umwelt- und Menschenrechten, die über einen Standard-Verhaltenskodex hinausgeht&nbsp;(z. B. zu Themen wie Verbot von Kinderarbeit, Zwangsarbeit oder Sklaverei, Vereinigungsfreiheit, Nichtdiskriminierung, Nichtbelästigung, Löhne&nbsp;und Sozialleistungen, Standardarbeitszeit und Überstunden, Bekämpfung des Menschenhandels, Unfälle/medizinische Notfälle am Arbeitsplatz, Arbeitsschutz&amp;Standards, Umgang mit und Entsorgung von Abfällen, Umgang mit persistenten organischen Schadstoffen, Umgang mit Quecksilber usw.)?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 331,
+    "fieldName": "rmsHumanAndEnvReport",
+    "name": "<p>Beinhaltet Ihr Menschenrechts- und Umweltrisikomanagementsystem einen Prozess, der die Durchsetzung der Sorgfaltspflicht&amp;für indirekte Anbieter,&amp;die Umsetzung von Präventivmaßnahmen, einen Prozess zur Durchführung und Dokumentation von Abhilfemaßnahmen und die&amp;Berichterstattung über all diese Bemühungen sicherstellt?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 333,
+    "fieldName": "offiHumanAndEnvRights",
+    "name": "<p>Hat Ihr Unternehmen einen verantwortlichen Mitarbeiter ernannt,&amp;der für Menschen- und Umweltrechte in Ihrem Unternehmen zuständig ist?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 325,
+    "fieldName": "humanRightsAndEnviron",
+    "name": "<p>Sind Ihnen nach bestem Wissen und Gewissen in Ihrem Unternehmen oder in Ihrer Lieferkette (einschließlich aller indirekten Lieferanten, deren Lieferungen für die Herstellung des Produkts oder die Erbringung und Nutzung der betreffenden Dienstleistung erforderlich sind) Risiken in Bezug auf Menschenrechte, Umwelt oder Gesundheit und Sicherheit bekannt?</p>",
+    "description": null,
+    "helpText": "<p><span style=\"color: rgb(0, 32, 96);\">Der Begriff „Menschenrechte“ bezieht sich auf Normen, welche die Würde aller Menschen anerkennen und schützen. Menschenrechte regeln, wie einzelne&nbsp;Menschen in der Gesellschaft und miteinander leben (im Unternehmenskontext geht es um Ethik,&nbsp;Arbeit, Gesundheit und Sicherheit). Dazu gehören unter anderem das Verbot der Kinderarbeit&nbsp;, der Schutz vor Sklaverei und Zwangsarbeit&nbsp;, Diskriminierungsfreiheit, der Schutz vor unrechtmäßiger Landbeschlagnahme&nbsp;, der Arbeitsschutz und die damit verbundenen Gesundheitsgefahren, das Verbot der Vorenthaltung eines angemessenen Lohns, das Recht auf Gründung von Gewerkschaften oder Arbeitnehmervertretungen, das Verbot der Verschmutzung von Boden und Wasser und der Schutz vor Folter.</span></p><p><span style=\"color: rgb(0, 32, 96);\">​</span></p><p><span style=\"color: rgb(0, 32, 96);\">Der Begriff „Umweltrisiken“ bezieht sich auf Situationen, in denen Abfälle, Abwasser oder Emissionen die Gesundheit&nbspvon Mensch und Umwelt beeinträchtigen oder die zum Klimawandel beitragen, oder in denen schädliche Stoffe verwendet oder wertvolle Ressourcen verschwendet werden.</span></p>",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 393,
+    "fieldName": "addEmailNoti",
+    "name": "<p>Zusätzliche E-Mail-Benachrichtigung bei EHS-Warnsignalen (versteckt)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 259,
+    "fieldName": "manufacServCountry",
+    "name": "<p>Bitte wählen Sie die Länder aus, in denen die Dienstleistungen/Produkte erbracht/hergestellt werden.</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 349,
+    "fieldName": "q349__p_Please_select_country_of_in",
+    "name": "<p>Bitte wählen Sie das Land aus, in dem der Unterauftragnehmer <span style=\"color: rgb(62, 68, 86);\">ansässig oder tätig ist.</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 390,
+    "fieldName": "enhancedToESG",
+    "name": "<p>Erweiterte Due Diligence für Geschäftspartner in ESG Due Diligence für Geschäftspartner umwandeln (ausgeblendet)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

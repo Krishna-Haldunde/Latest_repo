@@ -1,0 +1,15 @@
+{
+  "--paymentTerms--": "Termini di pagamento",
+  "--select--": "Seleziona",
+  "--existingPaymentTerms--": "Termini di pagamento esistenti",
+  "--recommendedPaymentTerms--": "Termini di pagamento consigliati",
+  "--newPaymentTerms--": "Nuovi termini di pagamento",
+  "--recommendedPaymentTerm--": "Termini di pagamento consigliati",
+  "--purchaseOrganisations--": "Organizzazioni di acquisto",
+  "--companyEntity--": "Entità aziendale",
+  "--thisWillBeCommonPaymentTermForSupplier--": "Questo sarà il termine di pagamento comune per il fornitore",
+  "--supplierEnabledWithMultiplePaymentTerms--": "Il fornitore è abilitato a più termini di pagamento",
+  "--applicableForPurchaseOrgAndCompanyEntities--": "Applicabile a tutte le seguenti organizzazioni di acquisto ed entità aziendali",
+  "--applicableForPurchasOrg--": "Applicabile a tutte le seguenti organizzazioni di acquisto",
+  "--applicableForCompanyEntities--": "Applicabile a tutte le seguenti entità aziendali"
+}

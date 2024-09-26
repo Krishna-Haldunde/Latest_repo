@@ -1,0 +1,22 @@
+{
+  "--addSupplierDocsYouHave--": "Ajouter les documents du fournisseur que vous possédez déjà",
+  "--helpsSpeedTheProcess--": "Cela permet d'accélérer le processus",
+  "--supplierQuote--": "Devis fournisseur",
+  "--uploading--": "Téléchargement en cours...",
+  "--cancel--": "Annuler",
+  "--sowProposal--": "Cahier des charges / Proposition",
+  "--additionalDocs--": "Documents supplémentaires",
+  "--additionalQuote--": "Devis supplémentaire",
+  "--additionalDoc--": "Document supplémentaire",
+  "--pleaseSelectAFile--": "Veuillez sélectionner un fichier",
+  "--file--": "Fichier",
+  "--fileName--": "Nom du fichier",
+  "--additionalNote--": "Note supplémentaire <1>(facultatif)</1>",
+  "--askForLegalReview--": "Demander un examen juridique",
+  "--yes--": "Oui",
+  "--no--": "Non",
+  "--supplierPaymentTerm--": "Conditions de paiement du fournisseur",
+  "--supplierDoc--": "Document du fournisseur",
+  "--upload--": "Téléverser",
+  "--download--": "Télécharger"
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Mise à jour des coordonnées du fournisseur par le demandeur",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Objet du courriel",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 2,
+    "fieldName": null,
+    "name": "Corps du courriel",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 3,
+    "fieldName": null,
+    "name": "Instruction du courriel",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 4,
+    "fieldName": null,
+    "name": "Pied de page du courriel",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 7,
+    "fieldName": null,
+    "name": null,
+    "description": "Mise à jour des coordonnées nécessaires pour le fournisseur",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 10,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p>Vous avez une nouvelle tâche dans ORO pour mettre à jour les coordonnées du fournisseur pour ${supplierName}</p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

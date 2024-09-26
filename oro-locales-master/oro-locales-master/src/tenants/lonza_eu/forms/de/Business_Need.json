@@ -1,0 +1,316 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Geschäftlicher Bedarf",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Unternehmensdaten",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 70,
+    "fieldName": null,
+    "name": "Weitere Angaben",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 89,
+    "fieldName": null,
+    "name": "Werks-/Standortinformationen",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 88,
+    "fieldName": "requestor",
+    "name": "<p><strong>Name des Antragstellers</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "_p_Describe_business_need__p_",
+    "name": "<p><strong>Geschäftliche Begründung</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 135,
+    "fieldName": "travelandexpError",
+    "name": "null(1)",
+    "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\">Bitte stellen Sie sicher, dass Sie die</strong><strong> </strong><a href=\\\"https://dms.lonzagroup.net/D2/servlet/EffectiveDownload?_docbase=DCTMPROD&amp;_locale=en&amp;event_name=d2_view&amp;name=GROUP-98741\\\" rel=\\\"noopener noreferrer\\\" target=\\\"_blank\\\"><strong>Globale Richtlinie für Geschäftsreisen und Spesen</strong></a><strong> </strong><strong style=\\\"color: rgb(230, 0, 0);\\\">und die</strong><strong></strong><a href=\\\"https://dms.lonzagroup.net/D2/servlet/EffectiveDownload?_docbase=DCTMPROD&amp;_locale=en&amp;event_name=d2_view&amp;name=GROUP-89471\\\" rel=\\\"noopener noreferrer\\\" target=\\\"_blank\\\"><strong> P-Card-Richtlinie</strong></a><strong> </strong><strong style=\\\"color: rgb(230, 0, 0);\\\">gelesen haben, bevor Sie den Antrag einreichen</strong></p> \"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 144,
+    "fieldName": "isPOrgExtensionNeeded",
+    "name": "<p>istEinkaufsOrg-Erweiterung erforderlich</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 124,
+    "fieldName": "isNonEuropean",
+    "name": "<p><strong>Werden die Waren physisch aus einem außereuropäischen Land nach Europa transportiert?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 92,
+    "fieldName": "siteLonza",
+    "name": "<p><strong>Welche Lonza-Standorte sind betroffen?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 133,
+    "fieldName": "CBAMErrorInstruction",
+    "name": null,
+    "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>Achtung! Bitte beachten Sie, dass für diesen Lieferanten und die betreffenden Materialien die CBAM-Anforderungen gelten und höhere Kosten anfallen. Wenn der Lieferant über europäische Rechtsträger verfügt, stellen Sie bitte sicher, dass es sich um den Importeur handelt, und er den DDP Incoterm verwendet. Andernfalls sollten Sie eine Beschaffung vor Ort in Betracht ziehen. Bitte stellen Sie außerdem sicher, dass Sie keine internen Übertragungen dieser Materialien von einer Lonza-Einheit außerhalb Europas an eine andere Lonza-Einheit in Europa vornehmen, da dies ebenfalls den CBAM-Anforderungen unterliegen würde.</em></strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 152,
+    "fieldName": "requestorSite",
+    "name": "<p><strong>Lonza-Standort des Antragstellers</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 115,
+    "fieldName": "poVolume",
+    "name": "<p><strong>Wie hoch ist das erwartete Bestellvolumen für diesen Lieferanten?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "HIGH - Above 100": "HOCH - Über 100",
+      "MEDIUM - From 10 to 100": "MITTEL - Von 10 bis 100",
+      "LOW - Up to 10": "NIEDRIG - Bis zu 10"
+    },
+    "type": "field"
+  },
+  {
+    "id": 113,
+    "fieldName": "expectedSpend",
+    "name": "<p><strong>Wie hoch sind die erwarteten Ausgaben für diesen Lieferanten?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "MEDIUM - From 50,000 to 800,000 CHF": "MITTEL - Von 50.000 bis 800.000 CHF",
+      "LOW - From 5,000 CHF to 50,000 CHF": "NIEDRIG - Von 5.000 CHF bis 50.000 CHF",
+      "HIGH - Above 800,000 CHF": "HOCH - Über 800.000 CHF",
+      "VERY LOW - up to 5,000 CHF": "SEHR NIEDRIG - bis zu 5.000 CHF"
+    },
+    "type": "field"
+  },
+  {
+    "id": 79,
+    "fieldName": "accountGroup",
+    "name": "<p><strong>Bitte wählen Sie die entsprechende Kontogruppe aus</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 127,
+    "fieldName": "companyCode",
+    "name": "<p><strong>Bitte wählen Sie den Buchungskreis aus</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 150,
+    "fieldName": "helpTextForOneTimeVendor",
+    "name": "null(1)(1)",
+    "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\"> Bitte stellen Sie sicher, dass Sie die</strong><strong> </strong><a href=\\\"https://dms.lonzagroup.net/D2/servlet/EffectiveDownload?_docbase=DCTMPROD&amp;_locale=en&amp;event_name=d2_view&amp;name=GROUP-98741\\\" rel=\\\"noopener noreferrer\\\" target=\\\"_blank\\\"><strong>Globale Richtlinie für Geschäftsreisen und Spesen</strong></a><strong> </strong><strong style=\\\"color: rgb(230, 0, 0);\\\">und die</strong><strong> </strong><a href=\\\"https://dms.lonzagroup.net/D2/servlet/EffectiveDownload?_docbase=DCTMPROD&amp;_locale=en&amp;event_name=d2_view&amp;name=GROUP-89471\\\" rel=\\\"noopener noreferrer\\\" target=\\\"_blank\\\"><strong>P-Karten-Richtlinie</strong></a><strong> </strong><strong style=\\\"color: rgb(230, 0, 0);\\\">gelesen haben, bevor Sie den Antrag einreichen.</strong></p><p><strong style=\\\"color: rgb(230, 0, 0);\\\">Lieferanten, die bei der Herstellung regulierter Produkte oder zur Unterstützung dieser Herstellung eingesetzt werden, müssen ausreichend qualifiziert sein und sollten nicht als einmaliger Lieferant eingerichtet werden.</strong></p><p><br></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 121,
+    "fieldName": "isCBAMRegulated",
+    "name": "<p><strong>Planen Sie, von diesem Lieferanten eines oder mehrere der folgenden Güter zu kaufen: Zement, Eisen und Stahl, Aluminium, Düngemittel, Strom und/oder Wasserstoff (aufgeführt in Anhang II der CBAM-Verordnung)?</strong></p>",
+    "description": null,
+    "helpText": "<p><a href=\"https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism_en \" rel=\"noopener noreferrer\" target=\"_blank\">Klicken Sie hier</a>, um mehr über CBAM zu erfahren</p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AJOL_2023_228_R_0006#d1e32-113-1\" rel=\"noopener noreferrer\" target=\"_blank\">Klicken Sie hier</a>, um Anhang II der CBAM-Verordnung anzuzeigen (siehe Tabelle 1 - Zuordnung der CN-Codes zu aggregierten Warenkategorien)</p>",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 52,
+    "fieldName": "isGMP",
+    "name": "<p><strong>Wird der Lieferant bei der Herstellung eines regulierten Produkts eingesetzt oder diese unterstützen?</strong></p>",
+    "description": null,
+    "helpText": "<p>Zu den regulierten Produkten gehören unter anderem GMP, Futter- und Lebensmittel, Medizinprodukte sowie die kommerzielle ISO-Produktion.</p>",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 118,
+    "fieldName": "isOneTimeVendor",
+    "name": "<p><strong>Handelt es sich um einen einmaligen Lieferanten?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 164,
+    "fieldName": "isvendorcreationNeeded",
+    "name": "<p><strong>Ist das Anlegen des Lieferanten erforderlich?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 161,
+    "fieldName": "isSAPFormNeeded",
+    "name": "<p>Wird ein SAP Ariba-Formular benötigt?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 176,
+    "fieldName": "isPaymentTermNotification",
+    "name": "<p><strong>Ist eine Benachrichtigung über Zahlungsbedingungen erforderlich?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 178,
+    "fieldName": "directDebitNotification",
+    "name": "<p><strong>Ist eine Benachrichtigung über Lastschrift erforderlich?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 158,
+    "fieldName": "isESGNeeded",
+    "name": "<p>Ist ESG erforderlich</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 76,
+    "fieldName": "purchasingOrg",
+    "name": "<p><strong>Bitte wählen Sie die Einkaufsorganisation</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 155,
+    "fieldName": "division",
+    "name": "<p><strong>Wählen Sie die Abteilung</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "CHI": "CHI",
+      "BIO, C&G": "BIO, C&G",
+      "SM": "SM",
+      "HS": "HS"
+    },
+    "type": "field"
+  },
+  {
+    "id": 167,
+    "fieldName": "isCustomerOfLonza",
+    "name": "<p><strong>Wird dieser Lieferant angelegt, um einem Kunden von Lonza die Bereitstellung von Lonza-CSTM-Materialien (vom Kunden bereitgestellte Rohstoffe) zu ermöglichen?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 170,
+    "fieldName": "isNormalFlow",
+    "name": "<p><strong>Ist normaler Ablauf</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": "_p_Category___Commodity__p_",
+    "name": "<p><strong>Bitte wählen Sie die Ware</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

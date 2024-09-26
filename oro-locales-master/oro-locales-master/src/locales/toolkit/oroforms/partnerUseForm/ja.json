@@ -1,0 +1,18 @@
+{
+  "--isRequiredField--": "{{field}} は必須です",
+  "--title--": "タイトル",
+  "--regionCountryPartnerUsed--": "地域または国のパートナーを使用",
+  "--chooseRegionCountry--": "地域/国を選択",
+  "--regionCountry--": "地域/国",
+  "--servicesOfferedByPartner--": "パートナーが提供するサービス",
+  "--chooseServiceCategory--": "サービス/カテゴリーを選択",
+  "--serviceCategory--": "サービス/カテゴリー",
+  "--businessEntity--": "事業体",
+  "--chooseCompanyEntity--": "企業体を選択",
+  "--additionalSubsidiaries--": "その他の子会社",
+  "--chooseAdditionalCompanyEntities--": "追加の企業体を選択する",
+  "--user--": "ユーザー",
+  "--department--": "部門",
+  "--commentDetails--": "コメント / 詳細",
+  "--businessNeedProjectScopeDetails--": "このパートナーが要求するビジネスニーズとプロジェクト範囲に関する詳細を追加する"
+}

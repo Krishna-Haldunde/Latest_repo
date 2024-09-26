@@ -1,0 +1,112 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Erinnerung Lieferantenanlage",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "emailBetreff",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 2,
+    "fieldName": null,
+    "name": "emailText",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 3,
+    "fieldName": null,
+    "name": "emailAnleitung",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 4,
+    "fieldName": null,
+    "name": "emailFußzeile",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 7,
+    "fieldName": null,
+    "name": null,
+    "description": "Grünenthal: Erinnerung zum Abschluss des Datenvalidierungsprozesses",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 19,
+    "fieldName": null,
+    "name": null,
+    "description": "<h3><span style=\\\"color: rgb(68, 68, 68);\\\">Zugang zu ORO</span></h3><p><span style=\\\"color: rgb(68, 68, 68);\\\">Wenn Sie auf „Online-Fragebogen starten“ klicken, werden Sie zu ORO&nbsp;weitergeleitet, und eine automatische E-Mail mit einem einmaligen Passwort wird an Ihre Email-Adresse gesendet. Verifizieren Sie Ihre E-Mail-Adresse, um Zugang zum Grünenthal Business Partner Collaboration Hub zu erhalten. </span></p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 22,
+    "fieldName": null,
+    "name": null,
+    "description": "<h3><span style=\\\"color: rgb(68, 68, 68);\\\">Ausfüllen und Übermitteln von Formularen</span></h3><p><span style=\\\"color: rgb(68, 68, 68);\\\">Hier finden Sie eine Liste von auszufüllenden Formularen. Geben Sie die erforderlichen Informationen an und übermitteln Sie diese. Bei Bedarf können Sie andere Kollegen von ${supplierName} einladen, die Formulare in Ihrem Namen auszufüllen.</span></p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 25,
+    "fieldName": null,
+    "name": null,
+    "description": "<h3><span style=\\\"color: rgb(68, 68, 68);\\\">Benötigen Sie Hilfe?</span></h3><p><span style=\\\"color: rgb(68, 68, 68);\\\">Falls Sie Hilfe beim Ausfüllen der Formulare benötigen, können Sie diese direkt im Tool über die Schaltfläche „Informationen anfordern“ einholen. Sie können sich auch per E-Mail an&nbsp;</span><a href=\\\"http://suppliermanagement@procurement.grunenthal.com\\\" rel=\\\"noopener noreferrer\\\" target=\\\"_blank\\\" style=\\\"background-color: rgb(255, 255, 255); color: rgb(68, 68, 68);\\\">suppliermanagement@procurement.grunenthal.com</a><span style=\\\"color: rgb(68, 68, 68);\\\">&nbsp;wenden, um weitere Hilfe zu erhalten.</span></p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 13,
+    "fieldName": null,
+    "name": null,
+    "description": "<p><span style=\\\"color: rgb(68, 68, 68);\\\">Vielen Dank für Ihre Kooperation und Ihr Verständnis.</span></p><p><br></p><p><span style=\\\"color: rgb(68, 68, 68);\\\">Mit freundlichen Grüßen,</span></p><p><span style=\\\"color: rgb(68, 68, 68);\\\">${requester}</span></p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 34,
+    "fieldName": null,
+    "name": null,
+    "description": "<p><span style=\\\"color: rgb(68, 68, 68);\\\">Sehr geehrte/r $,</span>{supplierContactName}</p><p><br></p><p><span style=\\\"color: rgb(68, 68, 68);\\\">wir hoffen, es geht Ihnen gut. Wir möchten Sie an unsere kürzliche Bitte um Aktualisierung Ihrer Bankdaten im Grünenthal-System erinnern.</span></p><p><br></p><p><span style=\\\"color: rgb(68, 68, 68);\\\">Die Richtigkeit Ihrer Bankdaten ist entscheidend für die Aufrechterhaltung reibungsloser Transaktionen und einer effektiven Zusammenarbeit zwischen unseren Unternehmen. Wir bitten Sie, sich ein paar Minuten Zeit zu nehmen, um sich bei ORO anzumelden und die Richtigkeit Ihrer Bankdaten sowie aller anderen Angaben in Ihrem Lieferantenprofil zu bestätigen. Wir versichern Ihnen, dass Ihre persönliche Verifizierung ein notwendiger Schritt ist, damit alle Aktualisierungen wirksam werden.</span></p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

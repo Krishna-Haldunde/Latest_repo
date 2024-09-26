@@ -1,0 +1,11 @@
+{
+  "--selectOptions--": "Quelles sont les mises à jour souhaitées ?",
+  "--otherUpdates--": "Veuillez décrire les autres détails que vous souhaitez mettre à jour",
+  "--updateReason--": "Motif de la mise à jour",
+  "--attachments--": "Pièces jointes",
+  "--startType--": "Commencez à saisir...",
+  "--selectedOption--": "Options sélectionnées pour la mise à jour",
+  "--paymentDetails--": "Modalités de paiement",
+  "--paymentTerms--": "Conditions de paiement",
+  "--otherDetails--": "Autres détails"
+}

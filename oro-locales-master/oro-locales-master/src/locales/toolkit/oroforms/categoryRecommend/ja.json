@@ -1,0 +1,10 @@
+{
+  "--selectCategory--": "要求の概要に基づいてカテゴリーを選択する",
+  "--hereAreSomeRecommendations--": "お勧め：",
+  "--youCanSelectOptionOrManually--": "以下のオプションを選択するか、手動で検索することができます。",
+  "--searchManually--": "手動で検索",
+  "--pleaseSelectCategory--": "カテゴリーを選択してください",
+  "--category--": "カテゴリー",
+  "--categoryPlaceholder--": "カテゴリー",
+  "--requestSummary--": "要求の概要"
+}

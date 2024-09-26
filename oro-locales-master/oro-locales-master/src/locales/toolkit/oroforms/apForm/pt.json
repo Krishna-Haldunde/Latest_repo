@@ -1,0 +1,18 @@
+{
+  "--howToCreateVendorRecord--": "Como criar um registo de fornecedor?",
+  "--vendorRecordInfo--": "Informação do registo do fornecedor",
+  "--primaryBusinessEntity--": "Entidade empresarial principal",
+  "--choose--": "Escolher",
+  "--additionalBusinessEntity--": "Entidade empresarial adicional",
+  "--eligible--": "1099 elegível",
+  "--no--": "Não",
+  "--yes--": "Sim",
+  "--syncToProcurify--": "Sincronizar com o procurify",
+  "--paymentTerms--": "Condições de pagamento",
+  "--primaryCurrency--": "Moeda principal",
+  "--defaultExpenseAccount--": "Conta de despesas predefinida",
+  "--supplierClassification--": "Classificação dos fornecedores",
+  "--vendorID--": "ID do fornecedor",
+  "--requiredField--": "{{name}} é um campo obrigatório.",
+  "--apReviewOutcome--": "Resultado da análise AP"
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "id": null,
+    "name": "Change System Tasks",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 2,
+    "name": "Fetch Existing Payment Term",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 3,
+    "name": "Load contacts",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 4,
+    "name": "Load Address",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 5,
+    "name": "Fetch Direct Debit",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 6,
+    "name": "Fetch Payment Method",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 7,
+    "name": "GMP Relavant",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 8,
+    "name": "Fetch accounting data",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 9,
+    "name": "Fetch purchasing data",
+    "type": null,
+    "description": null
+  }
+]

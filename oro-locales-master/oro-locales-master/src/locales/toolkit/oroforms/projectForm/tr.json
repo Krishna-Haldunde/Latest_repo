@@ -1,0 +1,23 @@
+{
+  "--marketingProgram--": "Pazarlama programı",
+  "--allocadiaId--": "Allocadia Kimliği",
+  "--targetRegion--": "Hedef bölge",
+  "--timeline--": "Zaman Çizelgesi",
+  "--service--": "Hizmet",
+  "--budgetDetails--": "Bütçe ayrıntıları",
+  "--estimatedTotalCost--": "Tahmini toplam maliyet",
+  "--businessEntity--": "İşletme tüzel kişiliği",
+  "--accountCode--": "Hesap kodu",
+  "--user--": "Kullanıcı",
+  "--department--": "Departman",
+  "--briefProjectSummary--": "Kısa proje özeti",
+  "--global--": "Küresel",
+  "--isRequiredField--": "{{field}} zorunlu bir alandır",
+  "--chooseProgram--": "Program seçin",
+  "--activityName--": "Faaliyet adı",
+  "--servicesNeeded--": "İhtiyaç duyulan hizmetler",
+  "--chooseService--": "Hizmet seçin",
+  "--chooseBusinessEntity--": "İşletme tüzel kişiliğini seçin",
+  "--estimatedProjectCost--": "Tahmini proje maliyeti",
+  "--describeProjectScopeGoal--": "Proje kapsamını ve hedefini tanımlayın"
+}

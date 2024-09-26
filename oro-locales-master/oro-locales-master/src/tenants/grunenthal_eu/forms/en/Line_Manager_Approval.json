@@ -1,0 +1,102 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Line Manager Approval",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "emailSubject",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 2,
+    "fieldName": null,
+    "name": "emailBody",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 3,
+    "fieldName": null,
+    "name": "emailInstruction",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 4,
+    "fieldName": null,
+    "name": "emailFooter",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 7,
+    "fieldName": null,
+    "name": null,
+    "description": "Approval Required: Onboarding of ${supplierName}",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 34,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p>Kind Regards, </p><p>Compliance team</p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 31,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><span style=\\\"color: rgb(62, 68, 86);\\\">For more information on how to proceed, please consult the</span><a href=\\\"https://my.grunenthal.com/files/852ceb5d-7f35-4d42-95b4-2e40b87bc4d2/49a6d98f-db1c-4fbe-bcf2-778c30748f25/One%20pager-ORO-TPDD-Line%20Manager%20approval%20pdf\\\" rel=\\\"noopener noreferrer\\\" target=\\\"_blank\\\" style=\\\"background-color: rgb(255, 255, 255);\\\"> <u>one-pager guide</u></a><span style=\\\"color: rgb(62, 68, 86);\\\">.</span></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 10,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p>Dear Colleague,</p><p><br></p><p>${requester} has initiated a supplier onboarding or TPDD renewal request for ${supplierName}.</p><p><br></p><p><strong>After evaluation, the supplier has been flagged as Medium Risk</strong>. Your review and appropriate action in ORO is required to move forward.</p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 13,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p>A brief summary of most important red flags has been made available to you under&nbsp;'Oro Risk Score Form' which can be found in 'forms'.</p><p><strong>Please review it by clicking on 'View Details' below and take the appropriate action</strong>.</p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

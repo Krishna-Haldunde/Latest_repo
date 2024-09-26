@@ -1,0 +1,15 @@
+{
+  "--paymentTerms--": "支払条件",
+  "--select--": "選択",
+  "--existingPaymentTerms--": "既存の支払い条件",
+  "--recommendedPaymentTerms--": "推奨支払い条件",
+  "--newPaymentTerms--": "新しい支払い条件",
+  "--recommendedPaymentTerm--": "推奨支払い条件",
+  "--purchaseOrganisations--": "購買組織",
+  "--companyEntity--": "企業体",
+  "--thisWillBeCommonPaymentTermForSupplier--": "これはサプライヤーの一般的な支払い条件となる",
+  "--supplierEnabledWithMultiplePaymentTerms--": "サプライヤーは複数の支払い条件を利用できる",
+  "--applicableForPurchaseOrgAndCompanyEntities--": "以下のすべての購買組織および企業体に適用される",
+  "--applicableForPurchasOrg--": "以下のすべての購入組織に適用される",
+  "--applicableForCompanyEntities--": "以下の企業体すべてに適用される"
+}

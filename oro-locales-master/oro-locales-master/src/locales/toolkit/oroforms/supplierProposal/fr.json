@@ -1,0 +1,21 @@
+{
+  "--uploadQuoteProposal--": "Télécharger le devis / la proposition",
+  "--ifYouHaveProposalQuoteAttachmentPleaseUploadHere--": "Si vous avez une proposition ou un devis en pièce jointe, veuillez le téléverser ici.",
+  "--supportedFormats--": "Formats pris en charge :",
+  "--upload--": "Téléverser",
+  "--proposalDetails--": "Détails de la proposition",
+  "--pleaseEnsureTheDetailsAreCorrect--": "Veuillez vous assurer que les informations fournies sont correctes et correspondent au document téléchargé.",
+  "--supplierLegalName--": "Nom légal du fournisseur",
+  "--description--": "Description de la proposition",
+  "--deliveryDate--": "Date de livraison",
+  "--totalAmount--": "Montant total",
+  "--supplierCountry--": "Pays du fournisseur",
+  "--paymentTerm--": "Conditions de paiement",
+  "--edit--": "Modifier",
+  "--save--": "Enregistrer",
+  "--confirm--": "Confirmer",
+  "--proposal--": "Proposition",
+  "--weExtractedFollowingDetailsFromYourProposal--": "Nous avons extrait les détails suivants de votre proposition",
+  "--previewNotAvailable--": "L'aperçu n'est pas disponible",
+  "--thereAreSomeErrorsInForm--": "Le formulaire présente quelques erreurs. Veuillez vérifier les informations saisies"
+}

@@ -1,0 +1,92 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Benachrichtigung des Antragstellers — Compliance-Prüfung gestartet",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "emailBetreff",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 2,
+    "fieldName": null,
+    "name": "emailText",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 3,
+    "fieldName": null,
+    "name": "emailAnleitung",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 4,
+    "fieldName": null,
+    "name": "emailFußzeile",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 7,
+    "fieldName": null,
+    "name": null,
+    "description": "TPDD-Ergebnisse für ${supplierName} werden vom Compliance-Team überprüft",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 16,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 19,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 10,
+    "fieldName": null,
+    "name": null,
+    "description": "<p>Sehr geehrte Kollegen,</p><p>&nbsp;</p><p>Wir überprüfen derzeit die TPDD-Ergebnisse für <strong>${supplierName}</strong> (ORO Antrags-ID: <strong>${requestId}</strong>) als Teil unseres Compliance-Prozesses. Diese Genehmigung wurde aufgrund eines im Rahmen des TPDD-Prozesses festgestellten Risikos (mittel oder hoch) erteilt.</p><p>&nbsp;</p><p>Für detaillierte Informationen zu den spezifischen Gründen, die diese Risikobewertung ausgelöst haben, und um herauszufinden, welches Mitglied des Compliance-Teams Ihre Anfrage bearbeitet, klicken Sie bitte unten auf „Details anzeigen“.</p><p>&nbsp;</p><p>Wir danken Ihnen für Ihre Mitarbeit und Ihr Verständnis für diesen wichtigen Compliance-Schritt.</p><p>&nbsp;</p><p>Mit freundlichen Grüßen, &nbsp;</p><p>Grünenthal Compliance Team</p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

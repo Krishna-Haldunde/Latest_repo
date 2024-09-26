@@ -1,0 +1,38 @@
+[
+  {
+    "id": null,
+    "name": "Assessment Update",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 2,
+    "name": "Handle Data Issues",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 3,
+    "name": "Update Assessment Record in Syniti ",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 6,
+    "name": "Vendor Update in SAP Confirmation",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 4,
+    "name": "Vendor Update Successful! ",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 5,
+    "name": "Vendor Update Successful! ",
+    "type": null,
+    "description": null
+  }
+]

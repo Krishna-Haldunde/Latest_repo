@@ -1,0 +1,256 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Accounting Data",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 18,
+    "fieldName": null,
+    "name": "Payment Data",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 53,
+    "fieldName": "directDebitAmount",
+    "name": "<p><strong>Direct Debit Amount</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 59,
+    "fieldName": "directDebitFrequency",
+    "name": "<p><strong>Direct Debit Frequency</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Monthly": "Monthly",
+      "Yearly": "Yearly",
+      "Other": "Other"
+    },
+    "type": "field"
+  },
+  {
+    "id": 62,
+    "fieldName": "DebitFrequencyIfOther",
+    "name": "<p><strong>Direct Debit Frequency(If Chosen \"Other\")</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 68,
+    "fieldName": "annualExpenditure",
+    "name": "<p><strong>Annual Expenditure</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 77,
+    "fieldName": "isdirectDebit",
+    "name": "<p><strong>Should the invoices be paid via direct debit?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 74,
+    "fieldName": "justificationForPaymentTerm",
+    "name": "<p><strong>You selected a Payment Term that is less than Lonza’s Standard Payment Term. Please add a clear justification why the Payment Term for this supplier has to be lower than 60 days.</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 83,
+    "fieldName": "incoTerms",
+    "name": "<p><strong>IncoTerms</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 88,
+    "fieldName": "incoTermsLocation1",
+    "name": "<p><strong>IncoTerms Location (Optional)</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 91,
+    "fieldName": "accountGroup",
+    "name": "<p>Account Group</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 93,
+    "fieldName": "_p_CompanyEntity__p_",
+    "name": "<p>CompanyEntity</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 115,
+    "fieldName": "country",
+    "name": "<p>Country</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 106,
+    "fieldName": "paymentMethods",
+    "name": "<p><strong>Payment Method</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 117,
+    "fieldName": "reconAccountException",
+    "name": "<p>Recon Account Exception</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 95,
+    "fieldName": "reconAccount",
+    "name": "<p>Recon Account</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 97,
+    "fieldName": "sortKey",
+    "name": "<p>Sort Key</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 99,
+    "fieldName": "planningGroup",
+    "name": "<p>Planning Group</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 101,
+    "fieldName": "clerkAbbr",
+    "name": "<p>Clerk Abbreviation</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 103,
+    "fieldName": "checkDoubleInv",
+    "name": "<p>Check Double Inv.</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 120,
+    "fieldName": "orderingCurrency",
+    "name": "<p><strong>Please select the ordering currency</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 48,
+    "fieldName": "directDebitCategory",
+    "name": "<p><strong>Direct Debit Category</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 50,
+    "fieldName": "directDebitSubCategory",
+    "name": "<p><strong>Direct Debit Sub-Category</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 65,
+    "fieldName": "DirectDebitDate",
+    "name": "<p><strong>Direct Debit Date</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 21,
+    "fieldName": "paymentTerms",
+    "name": "<p><strong>What is the Agreed Payment Term?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

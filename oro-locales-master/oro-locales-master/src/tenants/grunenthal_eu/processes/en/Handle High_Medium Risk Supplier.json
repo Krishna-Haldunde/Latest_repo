@@ -1,0 +1,44 @@
+[
+  {
+    "id": null,
+    "name": "Handle High_Medium Risk Supplier",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 13,
+    "name": "Line Manager Approval",
+    "type": null,
+    "description": "Please confirm if you approve of this Medium Risk Supplier."
+  },
+  {
+    "id": 15,
+    "name": "Local Compliance Approval",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 2,
+    "name": "Local Compliance Approval",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 14,
+    "name": "Local Compliance Approval",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 3,
+    "name": "Global Compliance Approval",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 18,
+    "name": "Finalize TPDD",
+    "type": null,
+    "description": null
+  }
+]

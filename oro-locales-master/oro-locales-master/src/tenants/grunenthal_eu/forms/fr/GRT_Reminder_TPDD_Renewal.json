@@ -1,0 +1,122 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Renouvellement de la diligence raisonnable à l’égard des tiers - rappel GRT",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Objet du courriel",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 2,
+    "fieldName": null,
+    "name": "Corps du courriel",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 3,
+    "fieldName": null,
+    "name": "Instruction du courriel",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 4,
+    "fieldName": null,
+    "name": "Pied de page du courriel",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 16,
+    "fieldName": null,
+    "name": null,
+    "description": "Grünenthal : Rappel pour achever le processus de diligence raisonnable",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<h3>Comment accéder à ORO</h3><p>En cliquant sur « Get Started », vous serez redirigé(e) vers ORO&nbsp;et un courriel automatique, contenant un mot de passe à usage unique, vous sera envoyé dans votre boîte de réception. Vérifiez votre adresse e-mail pour accéder au hub de collaboration des partenaires commerciaux de Grünenthal. </p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 10,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<h3>Remplir &amp soumettre les formulaires</h3><p>Vous trouverez une liste de formulaires à remplir. Fournissez les informations nécessaires et soumettez-les. Si nécessaire, vous pouvez inviter d'autres collègues de ${supplierName} à remplir les formulaires en votre nom.</p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 19,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<h3>Besoin d'aide ?</h3><p>Si vous avez besoin d'aide pour remplir les formulaires, vous pouvez la demander directement dans l'outil en cliquant sur le bouton « request information » (demande d'informations). Vous pouvez également nous contacter par courrier électronique à l'adresse suivante :<a href=\\\"http://suppliermanagement@procurement.grunenthal.com\\\" rel=\\\"noopener noreferrer\\\" target=\\\"_blank\\\" style=\\\"background-color: rgb(255, 255, 255);\\\">suppliermanagement@procurement.grunenthal.com</a>&nbsp;pour obtenir de l'aide.</p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 22,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p>Merci pour votre collaboration !</p><p><br></p><p>Meilleures salutations,</p><p>${requester}</p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 28,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><span style=\\\"color: rgb(255, 255, 255);\\\">Invitation Grünenthal :</span></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 31,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p>Cher ${supplierContactName},</p><p><br></p><p>Nous aimerions vous rappeler le processus de diligence raisonnable à l’égard des tiers de Grünenthal en attente concernant ${supplierName}. Votre participation est essentielle pour maintenir l'intégrité et la conformité de notre relation d'affaires.</p><p><br></p><p>Pour compléter les étapes nécessaires, veuillez remplir notre questionnaire de diligence raisonnable en ligne dès que possible. Ce processus est crucial pour examiner tout risque potentiel en matière d'éthique ou de réputation et pour garantir le respect de toutes les réglementations pertinentes.</p><p><br></p><p>Grünenthal utilise&nbsp;ORO, une technologie sécurisée d'ORO Labs, pour effectuer la diligence raisonnable à l’égard des tiers. Votre réponse rapide nous aidera grandement à maintenir les normes élevées que nous avons fixées pour nos collaborations.</p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

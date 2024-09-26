@@ -1,0 +1,146 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "TPDD details",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Supplier TPDD Details",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 10,
+    "fieldName": "tpddRequired",
+    "name": "<p>TPDD Required</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 12,
+    "fieldName": "tpddType",
+    "name": "<p>Calculated TPDD Type</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Light": "Light",
+      "Enhanced": "Enhanced",
+      "ESG": "ESG",
+      "None": "None"
+    },
+    "type": "field"
+  },
+  {
+    "id": 38,
+    "fieldName": "primaryCompanyEntity",
+    "name": "<p>Primary business entity (WA)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 41,
+    "fieldName": "country",
+    "name": "<p>Country</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 47,
+    "fieldName": "lastYearAnnualSpend",
+    "name": "<p>Total Spend in last 12 months</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 44,
+    "fieldName": "primaryCategory",
+    "name": "<p>Primary Category</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 18,
+    "fieldName": "originalRiskLevel",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Calculated Risk Score</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 27,
+    "fieldName": "previousRiskLevel",
+    "name": "<p>Previous<span style=\"color: rgb(62, 68, 86);\"> Risk Score</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 30,
+    "fieldName": "nextDueDilligenceDate",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">TPDD Expiry Date</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 32,
+    "fieldName": "previousTPDDType",
+    "name": "<p>Previous TPDD Type</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Light": "Light",
+      "Enhanced": "Enhanced",
+      "ESG": "ESG",
+      "None": "None"
+    },
+    "type": "field"
+  },
+  {
+    "id": 15,
+    "fieldName": "changedTPDDType",
+    "name": "<p>Finalized TPDD Type</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Light": "Light",
+      "Enhanced": "Enhanced",
+      "ESG": "ESG"
+    },
+    "type": "field"
+  }
+]

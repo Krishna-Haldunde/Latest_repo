@@ -1,0 +1,192 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Existing Contacts",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 27,
+    "fieldName": null,
+    "name": "Purchase Order Contact",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 5,
+    "fieldName": null,
+    "name": "Finance Contact",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 8,
+    "fieldName": null,
+    "name": "Custom Service Contact",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 11,
+    "fieldName": null,
+    "name": "Sales Contact",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 17,
+    "fieldName": null,
+    "name": "Quality Contacts",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 24,
+    "fieldName": null,
+    "name": "Sustainability Contact",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 42,
+    "fieldName": null,
+    "name": "SAP Ariba Contact",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 30,
+    "fieldName": null,
+    "name": "Other contacts",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 32,
+    "fieldName": "otherContacts",
+    "name": "<p><strong>Other Contact</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "Contact",
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 19,
+    "fieldName": "qualityQuestionnaireContact",
+    "name": "<p><strong>Quality Questionnaire Contact</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "Contact",
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 21,
+    "fieldName": "auditContacts",
+    "name": "<p><strong>Quality Compliance Audit Contact</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "Contact",
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 23,
+    "fieldName": "qualityAgreementContact",
+    "name": "<p><strong>Quality Agreement Contact</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "Contact",
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 26,
+    "fieldName": "sustainabilityContactPerson",
+    "name": "<p><strong>Sustainability Contact</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "Contact",
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 13,
+    "fieldName": "salesContact",
+    "name": "<p><strong>Please share the Sales Contact Details</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "Contact",
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 45,
+    "fieldName": "saparibacontact",
+    "name": "<p><strong>SAP Ariba Contact</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "Contact",
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 10,
+    "fieldName": "custServiceCobntact",
+    "name": "<p><strong>Existing Customer Service Contact Details</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "Contact",
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 38,
+    "fieldName": "poEmail",
+    "name": "<p><strong style=\"color: rgb(62, 68, 86);\">Existing Purchase Order contact email</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 41,
+    "fieldName": "financeContact",
+    "name": "<p><strong style=\"color: rgb(62, 68, 86);\">Existing Finance contact email</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

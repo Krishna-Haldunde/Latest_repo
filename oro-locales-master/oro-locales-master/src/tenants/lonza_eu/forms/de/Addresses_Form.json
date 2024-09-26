@@ -1,0 +1,104 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Adressformular",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Primäre/Bestelladresse",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 5,
+    "fieldName": null,
+    "name": "Adresse Überweisung/Rechnungssteller",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 11,
+    "fieldName": null,
+    "name": "Postfachadresse",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 4,
+    "fieldName": "orderingAddress",
+    "name": "<p><strong>Bitte geben Sie die primäre oder Bestelladresse an</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": "remittanceAddress",
+    "name": "<p><strong>Bitte geben Sie die Adresse für Überweisung oder von Rechnungssteller an</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 10,
+    "fieldName": "sameAsOrderAddress",
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Same as Ordering Address": "Gleich wie Bestelladresse"
+    },
+    "type": "field"
+  },
+  {
+    "id": 20,
+    "fieldName": "helpTextRemittance",
+    "name": null,
+    "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>Die Bestelladresse ist die Hauptadresse, die Sie im \\\"Formular Firmeninformationen\\\" angegeben haben.</em></strong></p><p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>Sollte die Zahlungsadresse von der Bestelladresse abweichen, geben Sie diese bitte unten ein.</em></strong></p> \"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 17,
+    "fieldName": "postalcode",
+    "name": "<p><strong>Postleitzahl (optional)</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 14,
+    "fieldName": "pobox",
+    "name": "<p><strong>Postfach (optional)</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": null,
+    "name": "Validierung Bankleitzahl",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 2,
+    "name": "Bankleitzahl validieren",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 3,
+    "name": "Bankleitzahl in SAP anlegen",
+    "type": null,
+    "description": "Wenn Nicht-Standardbank in SAP vorhanden ist, verwenden Sie bitte diese oder legen Sie in SAP eine neue Bank mit der Standardbankleitzahl an."
+  }
+]

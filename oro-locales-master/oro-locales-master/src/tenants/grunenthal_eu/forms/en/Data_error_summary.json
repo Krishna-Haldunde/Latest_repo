@@ -1,0 +1,52 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Summary of Data Errors",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 10,
+    "fieldName": "isError",
+    "name": "<p>Is there any error?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "DataError",
+    "name": "<p><span style=\"color: rgb(55, 65, 81);\">Vendor Creation/Updation Error Encountered</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": "ResolutionSteps",
+    "name": "<p><span style=\"color: rgb(55, 65, 81);\">Detail the Steps to Resolve the Issue</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Rappel fournisseur_GRT",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Objet du courriel",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 2,
+    "fieldName": null,
+    "name": "Corps du courriel",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 3,
+    "fieldName": null,
+    "name": "Instruction du courriel",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 4,
+    "fieldName": null,
+    "name": "Pied de page du courriel",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 7,
+    "fieldName": null,
+    "name": null,
+    "description": "Grünenthal : Rappel concernant l'achèvement du processus de validation des données",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 19,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<h3><span style=\\\"color: rgb(68, 68, 68);\\\">Comment accéder à ORO</span></h3><p><span style=\\\"color: rgb(68, 68, 68);\\\">En cliquant sur « Get Started » (démarrer), vous serez redirigé(e) vers ORO&nbsp;et un courriel automatique, contenant un mot de passe à usage unique, vous sera envoyé dans votre boîte de réception. Vérifiez votre adresse e-mail pour accéder au hub de collaboration des partenaires commerciaux de Grünenthal. </span></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 22,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<h3><span style=\\\"color: rgb(68, 68, 68);\\\">Remplir et soumettre les formulaires</span></h3><p><span style=\\\"color: rgb(68, 68, 68);\\\">Vous trouverez une liste de formulaires à remplir. Fournissez les informations nécessaires et soumettez-les. Si nécessaire, vous pouvez inviter d'autres collègues de ${supplierName} à remplir les formulaires en votre nom.</span></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 25,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<h3><span style=\\\"color: rgb(68, 68, 68);\\\">Besoin d'aide ?</span></h3><p><span style=\\\"color: rgb(68, 68, 68);\\\">Si vous avez besoin d'aide pour remplir les formulaires, vous pouvez la demander directement dans l'outil en cliquant sur le bouton « request information » (demande d'informations). Vous pouvez également nous contacter par courrier électronique à l'adresse suivante :</span><a href=\\\"http://suppliermanagement@procurement.grunenthal.com\\\" rel=\\\"noopener noreferrer\\\" target=\\\"_blank\\\" style=\\\"background-color: rgb(255, 255, 255); color: rgb(68, 68, 68);\\\">suppliermanagement@procurement.grunenthal.com</a><span style=\\\"color: rgb(68, 68, 68);\\\">&nbsp;pour obtenir de l'aide.</span></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 13,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><span style=\\\"color: rgb(68, 68, 68);\\\">Merci beaucoup pour votre coopération et votre compréhension.</span></p><p><br></p><p><span style=\\\"color: rgb(68, 68, 68);\\\">Cordialement,</span></p><p><span style=\\\"color: rgb(68, 68, 68);\\\">${requester}</span></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 34,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><span style=\\\"color: rgb(68, 68, 68);\\\">Cher </span>${supplierContactName},</p><p><br></p><p><span style=\\\"color: rgb(68, 68, 68);\\\">Nous espérons que ce message vous trouvera en bonne santé. Nous donnons suite à notre récente demande de mise à jour de vos coordonnées bancaires dans le système Grünenthal.</span></p><p><br></p><p><span style=\\\"color: rgb(68, 68, 68);\\\">L'exactitude de vos coordonnées bancaires est essentielle pour assurer la fluidité des transactions et l'efficacité de la collaboration entre nos organisations. Nous vous demandons de bien vouloir consacrer quelques minutes à vous connecter à ORO pour confirmer l'exactitude de vos informations bancaires, ainsi que de tout autre détail figurant dans votre profil de fournisseur. Nous vous assurons que votre vérification personnelle est une étape nécessaire pour que toute mise à jour prenne effet.</span></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

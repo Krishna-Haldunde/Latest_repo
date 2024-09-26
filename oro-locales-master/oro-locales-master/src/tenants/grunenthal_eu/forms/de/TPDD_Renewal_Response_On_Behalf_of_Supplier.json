@@ -1,0 +1,32 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Erneuerung der Due Diligence für Geschäftspartner_Antwort im Namen des Lieferanten",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 19,
+    "fieldName": "q19__p_Has_the_supplier_responded_",
+    "name": "<p>Hat der Lieferant geantwortet?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

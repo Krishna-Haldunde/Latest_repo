@@ -1,0 +1,13 @@
+{
+  "--requestedOn--": "Solicitado el",
+  "--estimatedCompletion--": "Fecha de finalización prevista",
+  "--completedOn--": "Finalizado el",
+  "--deniedOn--": "Denegado el",
+  "--cancelledOn--": "Cancelado el",
+  "--cardView--": "Vista de tarjeta",
+  "--listView--": "Vista de lista",
+  "--listIsEmpty--": "No hay solicitudes que visualizar",
+  "--addToList--": "Añadir a la lista",
+  "--deleteList--": "Eliminar lista",
+  "--areYouSureYouWantToPermanentlyDeleteThisList--": "¿Seguro de que quiere eliminar definitivamente esta lista?"
+}

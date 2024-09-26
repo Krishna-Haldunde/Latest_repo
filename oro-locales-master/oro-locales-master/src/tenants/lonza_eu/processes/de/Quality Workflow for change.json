@@ -1,0 +1,26 @@
+[
+  {
+    "id": null,
+    "name": "Qualitäts-Workflow für Änderungen",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 4,
+    "name": "Standort-QA-Überprüfung",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 2,
+    "name": "Benachrichtigung zur Änderung des Firmennamens für Standort QA",
+    "type": null,
+    "description": "Der Antrag auf Änderung des Firmennamens wurde für den angegebenen Lieferanten erstellt."
+  },
+  {
+    "id": 3,
+    "name": "Benachrichtigung über Änderungen der Firmenadresse für Standort QA",
+    "type": null,
+    "description": "Der Antrag auf Änderung der Firmenadresse wurde für den angegebenen Lieferanten erstellt."
+  }
+]

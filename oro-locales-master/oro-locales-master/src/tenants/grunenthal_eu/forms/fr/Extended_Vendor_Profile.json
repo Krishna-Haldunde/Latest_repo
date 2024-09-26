@@ -1,0 +1,142 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Profil du fournisseur prolongé",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Détails de l'évaluation",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 51,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 16,
+    "fieldName": null,
+    "name": "Détails de la dépense",
+    "description": "Détails de la dépense",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 9,
+    "fieldName": "dueDilligenceNotRequired",
+    "name": "<p>La diligence raisonnable n'est pas requise</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "dueDilligenceDate",
+    "name": "<p>Date de la diligence raisonnable</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 6,
+    "fieldName": "nextDueDilligenceDate",
+    "name": "<p>Prochaine date de diligence raisonnable</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 15,
+    "fieldName": "tpddType",
+    "name": "<p>Type de diligence raisonnable à l’égard des tiers</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 27,
+    "fieldName": "dueDilligenceExpired",
+    "name": "<p>Diligence raisonnable expirée</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 12,
+    "fieldName": "riskCategory",
+    "name": "<p>Catégorie de risque</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 46,
+    "fieldName": "paymentTerm",
+    "name": "<p>Conditions de paiement</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 49,
+    "fieldName": "requesterPaymentTerm",
+    "name": "<p>Conditions de paiement du demandeur</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 54,
+    "fieldName": "blockComment",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Commentaires en bloc</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 23,
+    "fieldName": "estimatedYearlySpend",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Estimation des dépenses annuelles totales</span></p>",
+    "description": null,
+    "helpText": "<p><span style=\"color: rgb(62, 68, 86);\">Dépenses prévues avec ce fournisseur au cours des 12 prochains mois</span></p>",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

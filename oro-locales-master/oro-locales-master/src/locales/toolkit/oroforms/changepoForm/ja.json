@@ -1,0 +1,21 @@
+{
+  "--department--": "部門：",
+  "--companyEntity--": "企業体：",
+  "--startDate--": "開始日：",
+  "--endDate--": "終了日：",
+  "--poTotal--": "注文書合計：",
+  "--expenseItem--": "費用項目",
+  "--requiredField--": "{{field}}は必須です。",
+  "--purchaseOrder--": "注文書（PO）",
+  "--selectPurchaseOrder--": "注文書（PO）を選択",
+  "--reasonForAmendment--": "修正の理由",
+  "--whatDoYouWantToChange--": "何を変更しますか？",
+  "--extendTimeline--": "タイムラインの延長",
+  "--currentTimeline--": "現在のタイムライン：",
+  "--additionalAmount--": "追加額",
+  "--updateTimeline--": "更新のタイムライン",
+  "--currentPoTotal--": "現在の注文書合計：",
+  "--attachments--": "添付ファイル",
+  "--addAmountUpdateTimelines--": "金額の追加／タイムラインの更新",
+  "--editPoLineItems--": "注文書の項目編集"
+}

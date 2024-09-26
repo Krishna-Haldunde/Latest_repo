@@ -1,0 +1,20 @@
+[
+  {
+    "id": null,
+    "name": "Direct Debit Approval Workflow",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 2,
+    "name": "Direct Debit Approval by Global Treasury",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 3,
+    "name": "Direct Debit Approval by AP",
+    "type": null,
+    "description": null
+  }
+]

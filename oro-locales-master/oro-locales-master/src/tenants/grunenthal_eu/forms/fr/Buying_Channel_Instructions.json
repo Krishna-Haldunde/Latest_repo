@@ -1,0 +1,92 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Instructions relatives au canal d'achat",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Instructions",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 9,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 13,
+    "fieldName": null,
+    "name": "",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 12,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p>PSG</p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 43,
+    "fieldName": "q43__p_When_Buying_Channel_is_NULL",
+    "name": "<p>Quand le canal d'achat est INVALIDE</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 61,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<h3><br></h3>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": "_p_Buying_Channel__p_",
+    "name": "<p>Canal d'achat</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 94,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<h3>Canal d'achat ici</h3><p><br></p><p>Utilisé de préférence pour les paiements liés aux voyages d'affaires, à la réservation de billets d'avion, aux voyages, aux réservations d'hôtel, à l'organisation d'événements / de conférences et aux paiements de campagnes promotionnelles</p><p><br></p><p><a href=\\\"https://app.demo.orolabs.ai/request/create/Credit%20Card%20Purchase#tid_entsandbox_demo\\\" rel=\\\"noopener noreferrer\\\" target=\\\"_blank\\\" style=\\\"color: rgb(0, 102, 204);\\\"><strong>Démarrer avec l'achat par carte de crédit -&gt ;</strong></a></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

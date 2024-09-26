@@ -1,0 +1,18 @@
+{
+  "--isRequiredField--": "{{field}} — обязательное поле",
+  "--title--": "Должность",
+  "--regionCountryPartnerUsed--": "Используется партнер по региону или стране",
+  "--chooseRegionCountry--": "Выберите регион / страну",
+  "--regionCountry--": "Регион / страна",
+  "--servicesOfferedByPartner--": "Услуги, предлагаемые партнером",
+  "--chooseServiceCategory--": "Выберите услугу / категорию",
+  "--serviceCategory--": "Услуга / категория",
+  "--businessEntity--": "Юридическое лицо",
+  "--chooseCompanyEntity--": "Выберите юридическое лицо",
+  "--additionalSubsidiaries--": "Дополнительные дочерние компании",
+  "--chooseAdditionalCompanyEntities--": "Выберите дополнительные юридические лица",
+  "--user--": "Пользователь",
+  "--department--": "Отдел",
+  "--commentDetails--": "Комментарии / сведения",
+  "--businessNeedProjectScopeDetails--": "Добавьте сведения о бизнес-потребностях и масштабах проекта для данного запроса партнера"
+}

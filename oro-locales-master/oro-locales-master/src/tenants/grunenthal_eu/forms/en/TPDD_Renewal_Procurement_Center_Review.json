@@ -1,0 +1,72 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "TPDD Renewal_Procurement Center Review",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 7,
+    "fieldName": "q7__p_Please_justify_your_answer_",
+    "name": "<p>Please justify your answer.</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 13,
+    "fieldName": "q13__p_TPDD_renewal_denied__Hidden",
+    "name": "<p>TPDD renewal denied (Hidden)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 10,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\">Since you have opted to 'Stop' the process, it will not proceed further. </strong></p><p><br></p><p><strong style=\\\"color: rgb(230, 0, 0);\\\">Please consider if a Vendor Block is required. </strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 19,
+    "fieldName": "q19__p_The_Sourcing_Manager_has_st",
+    "name": "<p>The Sourcing Manager has stopped the TPDD Renewal process for this Supplier with the below reason. </p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "q4__p_Do_you_want_to_proceed_with",
+    "name": "<p>Do you want to proceed with TPDD Renewal </p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

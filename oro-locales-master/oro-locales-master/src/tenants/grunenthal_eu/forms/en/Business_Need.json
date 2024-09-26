@@ -1,0 +1,206 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Business Need",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 54,
+    "fieldName": null,
+    "name": "Requester Details",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Category and Vendor Details",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 96,
+    "fieldName": "businessOwner",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Business Owner</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 100,
+    "fieldName": "onBehalf",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Please provide the person you're requesting on behalf of</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 102,
+    "fieldName": "productDescription",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Brief Description of Product / Service Provided to Grünenthal</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 114,
+    "fieldName": "categoryNonNull",
+    "name": "<p>Category is not null (Dummy hidden question for condition)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 57,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<pre class=\\\"ql-syntax\\\" spellcheck=\\\"false\\\">Note: This may require sourcing manager approval.\\n</pre>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 116,
+    "fieldName": "isExtensionWorkflow",
+    "name": "<p>Is this vendor extension workflow (hidden)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 121,
+    "fieldName": "estimatedSpend",
+    "name": "<p>Estimated Spend</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 110,
+    "fieldName": "primaryCategory",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Primary category of the service offered by the </span>vendor</p>",
+    "description": null,
+    "helpText": "<p><span style=\"color: rgb(68, 68, 68);\">Category expected to have the highest yearly  spend with the supplier</span></p>",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 94,
+    "fieldName": "applicableNaceCode",
+    "name": "<p>Applicable NACE Code</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 108,
+    "fieldName": "additionalCompanyEntities",
+    "name": "<p>Additional <span style=\"color: rgb(62, 68, 86);\">Grünenthal </span>Business entities to be included, if any? (Optional)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 129,
+    "fieldName": "fastLaneReason",
+    "name": "<p>Please provide the reason for conduction a fast lane onboarding process</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Option 1": "Option 1",
+      "Option 2": "Option 2",
+      "Option 3": "Option 3"
+    },
+    "type": "field"
+  },
+  {
+    "id": 104,
+    "fieldName": "totalYearlySpend",
+    "name": "<p>Estimated total yearly spend with the vendor</p>",
+    "description": null,
+    "helpText": "<p>Expected spend to incur with this vendor in the next 12 months</p>",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 127,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><em style=\\\"background-color: rgb(255, 255, 0); color: rgb(62, 68, 86);\\\">Note:</em><em style=\\\"color: rgb(62, 68, 86);\\\"> This process should be used only in business critical cases. After submission the request will go under approval of the head of procurement area</em></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 98,
+    "fieldName": "isOnBehalf",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Are you requesting on behalf of someone?</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 141,
+    "fieldName": "supportDocs",
+    "name": "<p>Supporting Documents</p>",
+    "description": null,
+    "helpText": "<p>Please upload a document such as Proposal/Quote, Company Letter, or Official Document. This will allow us to better review your request with all necessary information.</p>",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 144,
+    "fieldName": "_p_Priority__p_",
+    "name": "<p>Priority</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 106,
+    "fieldName": "primaryEntity",
+    "name": "<p>Primary Grünenthal Business entity</p>",
+    "description": null,
+    "helpText": "<p><span style=\"color: rgb(68, 68, 68);\">Business entity expected to have the highest yearly spend with the supplier</span></p>",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

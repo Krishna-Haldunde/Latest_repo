@@ -1,0 +1,54 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Überprüfung und Bestätigung (ESG)",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 44,
+    "fieldName": null,
+    "name": "",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 22,
+    "fieldName": "null_1__1__1_",
+    "name": "null(1)(1)(1)",
+    "description": "\"<p><strong><em>Ich bestätige hiermit, dass die hier enthaltenen Informationen nach meinem besten Wissen wahr und richtig sind.</em></strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 69,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><strong> In diesem Abschnitt ausgefüllte Formulare:</strong></p><p><br></p><ol><li>Formular ESG für Lieferanten</li></ol>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 40,
+    "fieldName": "isTrue",
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "I hereby certify that to the best of my knowledge, the information presented in all the form(s), is true and correct.": "Ich bestätige hiermit, dass die in dem/den Formular(en) enthaltenen Informationen nach meinem besten Wissen wahr und richtig sind."
+    },
+    "type": "field"
+  }
+]

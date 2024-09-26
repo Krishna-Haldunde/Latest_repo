@@ -1,0 +1,18 @@
+{
+  "--isRequiredField--": "{{field}}为必填项。",
+  "--title--": "标题",
+  "--regionCountryPartnerUsed--": "使用合作伙伴地区或国家",
+  "--chooseRegionCountry--": "选择地区/国家",
+  "--regionCountry--": "地区/国家",
+  "--servicesOfferedByPartner--": "合作伙伴提供的服务",
+  "--chooseServiceCategory--": "选择服务/类别",
+  "--serviceCategory--": "服务 / 类别",
+  "--businessEntity--": "商业实体",
+  "--chooseCompanyEntity--": "选择公司实体",
+  "--additionalSubsidiaries--": "其他附属机构",
+  "--chooseAdditionalCompanyEntities--": "选择其他公司实体",
+  "--user--": "用户",
+  "--department--": "部门",
+  "--commentDetails--": "注释/详情",
+  "--businessNeedProjectScopeDetails--": "添加有关该合作伙伴申请的业务需求和项目范围的详细信息"
+}

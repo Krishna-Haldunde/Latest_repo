@@ -1,0 +1,26 @@
+[
+  {
+    "id": null,
+    "name": "Sanction and Adverse Media Check",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 8,
+    "name": "Email Validation",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 9,
+    "name": "Domain Validation",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 5,
+    "name": "Sanction and Adverse Media Check",
+    "type": null,
+    "description": null
+  }
+]

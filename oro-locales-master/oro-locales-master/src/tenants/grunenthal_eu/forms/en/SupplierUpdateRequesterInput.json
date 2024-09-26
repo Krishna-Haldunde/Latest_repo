@@ -1,0 +1,97 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Supplier Update Requester Input",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 43,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 56,
+    "fieldName": "q56__p_If_Bank_Update_needed__hidd",
+    "name": "<p>If Bank Update needed (hidden)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "q4__p_Which_of_the_following__str",
+    "name": "<p>Which of the following <strong>supplier information</strong> would you like to update?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Payment Term": "Payment Term",
+      "Bank information": "Bank information",
+      "Company Name/Address": "Company Name/Address",
+      "Supplier Contacts": "Supplier Contacts"
+    },
+    "type": "field"
+  },
+  {
+    "id": 96,
+    "fieldName": "purchaseEntities",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Purchasing organisation (hidden)</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 99,
+    "fieldName": "enabledCompanyEntities",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Enabled Company Entities (hidden)</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 77,
+    "fieldName": "companyEntities",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Select the b</span>usiness entity(s)<span style=\"color: rgb(62, 68, 86);\"> that is applicable for the update</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 102,
+    "fieldName": "suppDocs",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Supporting Documents</span></p>",
+    "description": null,
+    "helpText": "<p><span style=\"color: rgb(62, 68, 86);\">Please upload a document such as Proposal/Quote, Company Letter, or Official Document. This will allow us to better review your request with all necessary information.</span></p>",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

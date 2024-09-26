@@ -1,0 +1,21 @@
+{
+  "--department--": "Отдел:",
+  "--companyEntity--": "Юридическое лицо:",
+  "--startDate--": "Дата начала:",
+  "--endDate--": "Дата окончания:",
+  "--poTotal--": "Сумма заказа на покупку:",
+  "--expenseItem--": "Статьи расходов",
+  "--requiredField--": "{{field}} — обязательное поле.",
+  "--purchaseOrder--": "Заказ на покупку",
+  "--selectPurchaseOrder--": "Выберите заказ на покупку",
+  "--reasonForAmendment--": "Причина изменений",
+  "--whatDoYouWantToChange--": "Что вы хотите изменить?",
+  "--extendTimeline--": "Продлить график реализации",
+  "--currentTimeline--": "Текущий график реализации:",
+  "--additionalAmount--": "Дополнительное количество",
+  "--updateTimeline--": "Обновить график реализации",
+  "--currentPoTotal--": "Текущая сумма заказа на покупку:",
+  "--attachments--": "Вложения",
+  "--addAmountUpdateTimelines--": "Добавить сумму / обновить график реализации",
+  "--editPoLineItems--": "Редактировать позиции в заказе на покупку"
+}

@@ -1,0 +1,21 @@
+{
+  "--uploadQuoteProposal--": "Subir presupuesto/propuesta",
+  "--ifYouHaveProposalQuoteAttachmentPleaseUploadHere--": "Si tiene una propuesta o presupuesto adjunto, cárguelo aquí.",
+  "--supportedFormats--": "Formatos compatibles:",
+  "--upload--": "Cargar",
+  "--proposalDetails--": "Detalles de la propuesta",
+  "--pleaseEnsureTheDetailsAreCorrect--": "Asegúrese de que los datos introducidos son correctos y coinciden con los del documento cargado",
+  "--supplierLegalName--": "Nombre legal del proveedor",
+  "--description--": "Descripción de la propuesta",
+  "--deliveryDate--": "Fecha de entrega",
+  "--totalAmount--": "Importe total",
+  "--supplierCountry--": "País Proveedor",
+  "--paymentTerm--": "Plazo de pago",
+  "--edit--": "Editar",
+  "--save--": "Guardar",
+  "--confirm--": "Confirmar",
+  "--proposal--": "Propuesta",
+  "--weExtractedFollowingDetailsFromYourProposal--": "Hemos extraído los siguientes detalles de su propuesta",
+  "--previewNotAvailable--": "Vista previa no disponible",
+  "--thereAreSomeErrorsInForm--": "Hay algunos errores de forma. Revise la información."
+}

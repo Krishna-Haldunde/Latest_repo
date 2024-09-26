@@ -1,0 +1,18 @@
+{
+  "--howToCreateVendorRecord--": "Come creare il record fornitore?",
+  "--vendorRecordInfo--": "Informazioni record fornitore",
+  "--primaryBusinessEntity--": "Entità aziendale principale",
+  "--choose--": "Scegli",
+  "--additionalBusinessEntity--": "Entità commerciale aggiuntiva",
+  "--eligible--": "Idoneo per 1099",
+  "--no--": "No",
+  "--yes--": "Sì",
+  "--syncToProcurify--": "Sincronizza con Procurify",
+  "--paymentTerms--": "Termini di pagamento",
+  "--primaryCurrency--": "Valuta principale",
+  "--defaultExpenseAccount--": "Conto spese predefinito",
+  "--supplierClassification--": "Classificazione dei fornitori",
+  "--vendorID--": "ID fornitore",
+  "--requiredField--": "{{name}} è un campo obbligatorio.",
+  "--apReviewOutcome--": "Esito della revisione AP"
+}

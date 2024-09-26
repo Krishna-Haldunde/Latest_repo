@@ -1,0 +1,162 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Überprüfung nicht standardisierter Zahlungsbedingungen durch den Leiter des Beschaffungsbereichs",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 17,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 18,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 30,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 16,
+    "fieldName": null,
+    "name": null,
+    "description": "<p><strong style=\\\"background-color: rgb(255, 255, 0);\\\">Hinweis:</strong><strong> </strong>Wenn die Zahlungsbedingung nicht genehmigt werden kann, kann der Antrag zur Aktualisierung der Zahlungsbedingung an die Beschaffungsstelle zurückgeschickt werden, indem Sie unten auf ‚<strong>Informationen anfordern</strong>' klicken und ‚<strong>Beschaffung</strong>' auswählen.</p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "_p_Payment_term_chosen__p_",
+    "name": "<p>Vorgeschlagene Zahlungsbedingung (Beschaffung)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 13,
+    "fieldName": "q13__p__span_style__color__rgb_62_",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Nicht standardisierte Zahlungsbedingung angefordert.</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": "q7__p__span_style__color__rgb_87_",
+    "name": "<p><span style=\"color: rgb(87, 95, 112);\">Vom Antragsteller angegebener Grund für nicht standardisierte Zahlungsbedingung</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 21,
+    "fieldName": "fastLanePayTerm",
+    "name": "<p>Gewählte Zahlungsbedingung </p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 29,
+    "fieldName": "fastLanePayTerAppr",
+    "name": "<p>Sind Sie mit der vom Antragsteller gewählten Zahlungsbedingung einverstanden?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 36,
+    "fieldName": "FstLanNonstanPayTerm",
+    "name": "<p>Handelt es sich um eine nicht standardmäßige Zahlungsbedingung? (Ausgeblendet)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 41,
+    "fieldName": "q41__p__span_style__color__rgb_87_",
+    "name": "<p><span style=\"color: rgb(87, 95, 112);\">Vom Antragsteller angegebener Grund für nicht standardmäßige Zahlungsbedingung</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 39,
+    "fieldName": "q39__p__span_style__color__rgb_62_",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Ist die Zahlungsbedingung Standard? (Ausgeblendet)</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 44,
+    "fieldName": "fastLaneIniReas",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Grund für die Initiierung des Schnellbearbeitungsverfahrens</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 27,
+    "fieldName": "q27__p__strong_style__color__rgb_6",
+    "name": "<p><strong style=\"color: rgb(62, 68, 86); background-color: rgb(255, 255, 0);\">﻿</strong><span style=\"color: rgb(62, 68, 86); background-color: rgb(255, 255, 0);\">Hinweis:</span><span style=\"color: rgb(62, 68, 86);\"> Wenn die Zahlungsbedingung nicht genehmigt werden kann, ist es möglich, den Antrag an den Antragsteller zurückzuschicken, um die Zahlungsbedingung zu aktualisieren. Klicken Sie dazu auf </span><strong style=\"color: rgb(62, 68, 86);\">„Informationen anfordern“ </strong><span style=\"color: rgb(62, 68, 86);\"> und wählen Sie </span><strong style=\"color: rgb(62, 68, 86);\">„Antragsteller“ </strong></p>",
+    "description": "<p><span style=\\\"background-color: rgb(255, 255, 0); color: rgb(62, 68, 86);\\\">Hinweis:</span><span style=\\\"color: rgb(62, 68, 86);\\\"> Bitte klicken Sie unten auf die Schaltfläche </span><strong style=\\\"color: rgb(62, 68, 86);\\\">„Ablehnen“</strong><span style=\\\"color: rgb(62, 68, 86);\\\">.</span></p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

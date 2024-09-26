@@ -1,0 +1,23 @@
+{
+  "--marketingProgram--": "マーケティング・プログラム",
+  "--allocadiaId--": "アロカディアID",
+  "--targetRegion--": "対象地域",
+  "--timeline--": "タイムライン",
+  "--service--": "サービス",
+  "--budgetDetails--": "予算詳細",
+  "--estimatedTotalCost--": "推定総費用",
+  "--businessEntity--": "事業体",
+  "--accountCode--": "口座コード",
+  "--user--": "ユーザー",
+  "--department--": "部門",
+  "--briefProjectSummary--": "プロジェクトの概要",
+  "--global--": "グローバル",
+  "--isRequiredField--": "{{field}} は必須です",
+  "--chooseProgram--": "プログラムを選択",
+  "--activityName--": "活動名",
+  "--servicesNeeded--": "必要なサービス",
+  "--chooseService--": "サービスを選択",
+  "--chooseBusinessEntity--": "事業体の選択",
+  "--estimatedProjectCost--": "推定プロジェクト費用",
+  "--describeProjectScopeGoal--": "プロジェクトの範囲と目標を説明する"
+}

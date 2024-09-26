@@ -1,0 +1,232 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Daten zur Lieferantenqualifizierung",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Lieferantenqualifizierung zugehörige Daten",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 25,
+    "fieldName": null,
+    "name": "Supply-Chain-Erklärung",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 34,
+    "fieldName": null,
+    "name": "Formular Kundenqualifizierung",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 47,
+    "fieldName": "supplierAddress",
+    "name": "<p><strong>Bitte geben Sie die Lieferantenadresse an</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 53,
+    "fieldName": "q53__p__strong_Need_QA_assessment_",
+    "name": "<p><strong>Qualitätssicherungsbewertung nötig</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": "materialName",
+    "name": "<p><strong>Name/Beschreibung Lieferantenmaterial</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 9,
+    "fieldName": "materialNumber",
+    "name": "<p><strong>Lieferantenmaterialnummer</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 13,
+    "fieldName": "genericName",
+    "name": "<p><strong>Generische(r) Name(n) – (Falls unbekannt, geben Sie K.A. ein)</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 15,
+    "fieldName": "casNumber",
+    "name": "<p><strong>CAS-Nummer</strong><strong style=\"color: rgb(62, 68, 86);\">-(Falls unbekannt, geben Sie K.A. ein)</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 11,
+    "fieldName": "sapMatNumber",
+    "name": "<p><strong>Lonza SAP-Materialnummer</strong><strong style=\"color: rgb(62, 68, 86);\"> -(Falls unbekannt, geben Sie K.A. ein)</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 58,
+    "fieldName": "serviceDescription",
+    "name": "<p>Dienstleistungsbeschreibung</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 60,
+    "fieldName": "equipmentDescription",
+    "name": "<p>Geräte-/Softwarebeschreibung</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 24,
+    "fieldName": "scdAttachment",
+    "name": "<p><strong>Formular Supply-Chain-Erklärung hochladen</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 38,
+    "fieldName": "clientQualificationForm",
+    "name": "<p><strong>Laden Sie das ausgefüllte Formular Kundenqualifizierung hoch</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "classtype",
+    "name": "<p><strong>Was soll vom Lieferanten beschafft werden?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Equipment/Software": "Geräte/Software",
+      "Services": "Dienstleistungen",
+      "Materials": "Materialien"
+    },
+    "type": "field"
+  },
+  {
+    "id": 62,
+    "fieldName": "q62__p__strong_Selected_category_p",
+    "name": "<p><strong>Ausgewählte Kategorie gemäß GROUP-99350</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 44,
+    "fieldName": "uploadCSD",
+    "name": "<p><strong>Möchten Sie das SCD-Formular (Supply-Chain-Erklärung) hochladen?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 82,
+    "fieldName": "qualificationType",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Globale Lieferantenqualifizierung</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Global Supplier Qualification": "Globale Lieferantenqualifizierung"
+    },
+    "type": "field"
+  },
+  {
+    "id": 28,
+    "fieldName": "isclientQualified",
+    "name": "<p><strong>Handelt es sich hierbei um einen kundenqualifizierten Lieferanten?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 41,
+    "fieldName": "poDate",
+    "name": "<p><strong>Spätester Termin zum Abschluss der Qualifizierung für die fristgerechte Erteilung der Bestellung</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "> 6 months": "> 6 Monate",
+      "< 3 months": "< 3 Monate",
+      "3 to 6 months": "3 bis 6 Monate"
+    },
+    "type": "field"
+  },
+  {
+    "id": 18,
+    "fieldName": "materialCategory",
+    "name": "<p><strong>Bitte wählen Sie die zutreffende(n) Kategorie(n) gemäß GROUP-99350</strong></p>",
+    "description": "Es muss mindestens eine Kategorie für jede ausgewählte Nutzungsart enthalten sein.",
+    "helpText": "<p><strong style=\"color: rgb(230, 0, 0);\"><em>Es muss mindestens eine Kategorie für jede ausgewählte Nutzungsart enthalten sein.</em></strong></p>",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

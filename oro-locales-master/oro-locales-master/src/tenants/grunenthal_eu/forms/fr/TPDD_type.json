@@ -1,0 +1,146 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Détails de la diligence raisonnable à l’égard des tiers",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Détails du devoir de diligence et de gestion des risques de la chaîne d'approvisionnement du fournisseur",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 30,
+    "fieldName": "nextDueDilligenceDate",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Date d'expiration de la diligence raisonnable à l’égard des tiers</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 10,
+    "fieldName": "tpddRequired",
+    "name": "<p>Diligence raisonnable à l’égard des tiers requise</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 18,
+    "fieldName": "originalRiskLevel",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Score de risque calculé</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 27,
+    "fieldName": "previousRiskLevel",
+    "name": "<p>Précédent<span style=\"color: rgb(62, 68, 86);\"> Score de risque</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 32,
+    "fieldName": "previousTPDDType",
+    "name": "<p>Type de diligence raisonnable à l’égard des tiers précédent</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Light": "Allégée",
+      "Enhanced": "Approfondie",
+      "ESG": "ESG",
+      "None": "Aucune"
+    },
+    "type": "field"
+  },
+  {
+    "id": 12,
+    "fieldName": "tpddType",
+    "name": "<p>Type de diligence raisonnable à l’égard des tiers calculé</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Light": "Allégée",
+      "Enhanced": "Approfondie",
+      "ESG": "ESG",
+      "None": "Aucune"
+    },
+    "type": "field"
+  },
+  {
+    "id": 38,
+    "fieldName": "primaryCompanyEntity",
+    "name": "<p>Entité commerciale principale (WA)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 15,
+    "fieldName": "changedTPDDType",
+    "name": "<p>Type de diligence raisonnable à l’égard des tiers finalisé</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Light": "Allégée",
+      "Enhanced": "Approfondie",
+      "ESG": "ESG"
+    },
+    "type": "field"
+  },
+  {
+    "id": 41,
+    "fieldName": "country",
+    "name": "<p>Pays</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 47,
+    "fieldName": "lastYearAnnualSpend",
+    "name": "<p>Dépenses totales au cours des 12 derniers mois</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 44,
+    "fieldName": "primaryCategory",
+    "name": "<p>Catégorie primaire</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

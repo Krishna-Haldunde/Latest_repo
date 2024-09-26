@@ -1,0 +1,122 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Einladung zum Onboarding eines Lieferanten_Lieferantenanlage",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "emailBetreff",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 2,
+    "fieldName": null,
+    "name": "emailText",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 3,
+    "fieldName": null,
+    "name": "emailAnleitung",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 4,
+    "fieldName": null,
+    "name": "emailFußzeile",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 7,
+    "fieldName": null,
+    "name": null,
+    "description": "Grünenthal-Einladung zum Onboarding von Lieferanten",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 36,
+    "fieldName": "null_1_",
+    "name": "null(1)",
+    "description": "<h3><span style=\\\"color: rgb(68, 68, 68);\\\">Zugang zu ORO</span></h3><p><span style=\\\"color: rgb(68, 68, 68);\\\">Wenn Sie auf „Online-Fragebogen starten“ klicken, werden Sie zu ORO&nbsp;umgeleitet, und eine automatische E-Mail mit einem einmaligen Passwort wird an Ihre Email-Adresse gesendet. Verifizieren Sie Ihre E-Mail-Adresse, um Zugang zum Grünenthal Business Partner Collaboration Hub zu erhalten. </span></p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 39,
+    "fieldName": null,
+    "name": null,
+    "description": "<h3><span style=\\\"color: rgb(68, 68, 68);\\\">Benötigen Sie Hilfe?</span></h3><p><span style=\\\"color: rgb(68, 68, 68);\\\">Falls Sie Hilfe beim Ausfüllen der Formulare benötigen, können Sie diese direkt im Tool über die Schaltfläche „Informationen anfordern“ einholen. Sie können sich auch per E-Mail an&nbsp;</span><a href=\\\"http://suppliermanagement@procurement.grunenthal.com\\\" rel=\\\"noopener noreferrer\\\" target=\\\"_blank\\\" style=\\\"background-color: rgb(255, 255, 255); color: rgb(68, 68, 68);\\\">suppliermanagement@procurement.grunenthal.com</a><span style=\\\"color: rgb(68, 68, 68);\\\">&nbsp;wenden, um weitere Hilfe zu erhalten.</span></p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 76,
+    "fieldName": null,
+    "name": null,
+    "description": "<p><span style=\\\"color: rgb(68, 68, 68);\\\">Vielen Dank für Ihre Kooperation</span></p><p><br></p><p><span style=\\\"color: rgb(68, 68, 68);\\\">Mit freundlichen Grüßen,</span></p><p><span style=\\\"color: rgb(68, 68, 68);\\\">${requester}</span></p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 82,
+    "fieldName": null,
+    "name": null,
+    "description": "<p><span style=\\\"color: rgb(255, 255, 255);\\\">Grünenthal-Einladung:</span></p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 85,
+    "fieldName": null,
+    "name": null,
+    "description": "<p>Sehr geehrter Lieferant,&nbsp;</p><p><br></p><p>wir freuen uns, ${supplierName} als potenziellen Lieferanten zu unserer Due Diligence einladen zu können.</p><p>Damit wir alle notwendigen Schritte dieses Prozesses durchführen können, bitten wir Sie, unseren Online-Fragebogen zur Due Diligence-Prüfung auszufüllen. Sie können ihn durch Klicken auf die Schaltfläche unten aufrufen.</p><p>Dies wird uns dabei helfen zu erkennen, ob unsere Geschäftsbeziehung ethische und/oder Reputationsrisiken birgt, und stellt gleichzeitig die Einhaltung lokaler und internationaler Vorschriften sicher.</p><p>Grünenthal führt die Due Diligence-Prüfung für Geschäftspartner mithilfe von&nbsp;ORO&nbsp;, einer Technologie von ORO Labs durch.</p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 22,
+    "fieldName": null,
+    "name": null,
+    "description": "<h3><span style=\\\"color: rgb(68, 68, 68);\\\">Ausfüllen und Übermitteln von Formularen</span></h3><p><span style=\\\"color: rgb(68, 68, 68);\\\">Hier finden Sie eine Liste von Formularen, die ausgefüllt werden müssen. Geben Sie die erforderlichen Informationen an und übermitteln Sie diese. Bei Bedarf können Sie andere Kollegen von ${supplierName} einladen, die Formulare in Ihrem Namen auszufüllen.</span></p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

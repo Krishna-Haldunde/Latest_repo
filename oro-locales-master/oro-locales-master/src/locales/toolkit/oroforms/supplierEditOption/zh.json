@@ -1,0 +1,11 @@
+{
+  "--selectOptions--": "您希望进行哪些更新",
+  "--otherUpdates--": "请说明您希望更新的其他详细信息",
+  "--updateReason--": "更新原因",
+  "--attachments--": "附件",
+  "--startType--": "开始输入...",
+  "--selectedOption--": "选定的更新选项",
+  "--paymentDetails--": "付款详情",
+  "--paymentTerms--": "付款条件",
+  "--otherDetails--": "其他详细信息"
+}

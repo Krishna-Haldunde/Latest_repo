@@ -1,0 +1,16 @@
+{
+  "--requiredField--": "{{field}} — обязательное поле.",
+  "--title--": "Должность",
+  "--regionCountrySupplierUsed--": "Используется поставщик региона или страны",
+  "--chooseRegionCountry--": "Выберите регион / страну",
+  "--servicesOfferedBySupplier--": "Услуги, предлагаемые поставщиком",
+  "--chooseServiceCategory--": "Выберите услугу / категорию",
+  "--primaryBusinessEntity--": "Основное юридическое лицо",
+  "--chooseBusinessEntity--": "Выберите предприятие",
+  "--additionalBusinessEntity--": "Дополнительное юридическое лицо",
+  "--chooseAdditionalBusinessEntities--": "Выберите дополнительные юридические лица",
+  "--user--": "Пользователь",
+  "--department--": "Отдел",
+  "--commentDetails--": "Комментарии / сведения",
+  "--addDetailsAboutBusinessNeed--": "Добавьте сведения о бизнес-потребностях и масштабах проекта для данного запроса поставщика"
+}

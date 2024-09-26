@@ -1,0 +1,22 @@
+{
+  "--addSupplierDocsYouHave--": "Aggiungi i documenti dei fornitori che già possiedi",
+  "--helpsSpeedTheProcess--": "Questo aiuta a velocizzare il processo",
+  "--supplierQuote--": "Preventivo del fornitore",
+  "--uploading--": "Caricamento...",
+  "--cancel--": "Annulla",
+  "--sowProposal--": "SOW / Proposta",
+  "--additionalDocs--": "Documenti aggiuntivi",
+  "--additionalQuote--": "Preventivo aggiuntivo",
+  "--additionalDoc--": "Documento aggiuntivo",
+  "--pleaseSelectAFile--": "Seleziona un file",
+  "--file--": "File",
+  "--fileName--": "Nome del file",
+  "--additionalNote--": "Nota aggiuntiva <1>(opzionale)</1>",
+  "--askForLegalReview--": "Chiedi una revisione legale",
+  "--yes--": "Sì",
+  "--no--": "No",
+  "--supplierPaymentTerm--": "Termine di pagamento del fornitore",
+  "--supplierDoc--": "Documento del fornitore",
+  "--upload--": "Carica",
+  "--download--": "Scarica"
+}

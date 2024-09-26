@@ -1,0 +1,75 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Formular „SAP Ariba-Details“",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Ariba Network – Details",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 4,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><strong>Lonza wickelt den Geschäfts- und Dokumentenaustausch mit Lieferanten bevorzugt über das SAP Ariba Network ab.</strong></p><p><strong>Wenn Sie bereits mit SAP Ariba Network arbeiten, geben Sie uns bitte die folgenden Informationen, um den Onboardingprozess zu vereinfachen.</strong></p> \"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": "isSAPSupplier",
+    "name": "<p><strong>Wir arbeiten bereits mit SAP Ariba Network</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 10,
+    "fieldName": "aribaNetworkID",
+    "name": "<p><strong>Ariba Network-ID (ANID)</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 19,
+    "fieldName": "sapContact",
+    "name": "<p><strong>Kontaktdaten des Verantwortlichen für SAP Ariba</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "Kontakt",
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 16,
+    "fieldName": "accountType",
+    "name": "<p><strong>Kontotyp</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Enterprise": "Unternehmen",
+      "Standard": "Standard"
+    },
+    "type": "field"
+  }
+]

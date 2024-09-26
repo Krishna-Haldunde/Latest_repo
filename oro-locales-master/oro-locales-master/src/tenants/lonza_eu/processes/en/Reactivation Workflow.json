@@ -1,0 +1,98 @@
+[
+  {
+    "id": null,
+    "name": "Reactivation Workflow",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 2,
+    "name": "Procurement Review",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 3,
+    "name": "Collect Onboarding Related Documents",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 5,
+    "name": "Company information",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 7,
+    "name": "Payment details",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 9,
+    "name": "Address Form",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 11,
+    "name": "Contacts Form",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 13,
+    "name": "SAP Ariba Details form",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 15,
+    "name": "Payment Term and IncoTerm Confirmation",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 19,
+    "name": "Review & acknowledgement",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 21,
+    "name": "Bank Key Validation",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 22,
+    "name": "Payment Terms Approval for Reactivation",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 23,
+    "name": "Direct Debit Approval Workflow",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 24,
+    "name": "Master Data Approval",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 26,
+    "name": "Fix data errors in vendor reactivate",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 25,
+    "name": "Reactivate vendor in SAP",
+    "type": null,
+    "description": null
+  }
+]

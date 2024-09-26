@@ -1,0 +1,307 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Supplier off-boarding request details",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 15,
+    "fieldName": null,
+    "name": "Company and Purchasing Org Data",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 8,
+    "fieldName": null,
+    "name": "Change Details",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 97,
+    "fieldName": null,
+    "name": "Block/Unblock Details",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 150,
+    "fieldName": null,
+    "name": "Category details",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 128,
+    "fieldName": null,
+    "name": "",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 4,
+    "fieldName": "requestor",
+    "name": "<p><strong>Requested by</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": "businessJustification",
+    "name": "<p><strong>Business Justification</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 112,
+    "fieldName": "typeOfBlock",
+    "name": "<p><strong>Please select the block type</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Payment block": "Payment block",
+      "Posting block": "Posting block",
+      "Both": "Both"
+    },
+    "type": "field"
+  },
+  {
+    "id": 137,
+    "fieldName": "requestorSite",
+    "name": "<p><strong>Select the requestor's site</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 106,
+    "fieldName": "blockPurchasingOrg",
+    "name": "<p><strong style=\"color: rgb(62, 68, 86);\">Select the purchasing org at which you want to block/unblock the supplier</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 100,
+    "fieldName": "blockType",
+    "name": "<p><strong>Select the level at which you want to block/unblock the supplier</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "All company codes": "All company codes",
+      "Specific company code": "Specific company code",
+      "Specific purchasing org": "Specific purchasing org",
+      "All purchasing org": "All purchasing org"
+    },
+    "type": "field"
+  },
+  {
+    "id": 146,
+    "fieldName": "blockReason",
+    "name": "<p><strong>Please select the block/deactivate reason</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Quality performance": "Quality performance",
+      "Other (specify in the field Business Justification)": "Other (specify in the field Business Justification)",
+      "Invalid trading partner (Entity doesn’t exist anymore)": "Invalid trading partner (Entity doesn’t exist anymore)",
+      "Delivery performance": "Delivery performance",
+      "Ethics & Compliance": "Ethics & Compliance"
+    },
+    "type": "field"
+  },
+  {
+    "id": 149,
+    "fieldName": "existingAccountGroup",
+    "name": "<p><strong>Account Group</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 118,
+    "fieldName": "isEarlyQAReviewNeeded",
+    "name": "<p><strong>Is Early QA Review Needed?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 140,
+    "fieldName": "isBlock",
+    "name": "<p>Is Block</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 115,
+    "fieldName": "isNotificationToSiteRequired",
+    "name": "<p><strong>Is block notification to site required?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 121,
+    "fieldName": "isSAPUpdateRequired",
+    "name": "<p><strong>Is SAP Update Required?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 124,
+    "fieldName": "q124_isDeactivateNotificationRequir",
+    "name": "<p><strong>Is Deactivate notification required?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 11,
+    "fieldName": "changeOptions",
+    "name": "<p><strong>Select the action:</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Reactivate": "Reactivate",
+      "Block": "Block",
+      "Deactivate": "Deactivate",
+      "Unblock": "Unblock"
+    },
+    "type": "field"
+  },
+  {
+    "id": 156,
+    "fieldName": "division",
+    "name": "<p><strong>Select the division</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "CHI": "CHI",
+      "BIO, C&G": "BIO, C&G",
+      "SM": "SM",
+      "HS": "HS"
+    },
+    "type": "field"
+  },
+  {
+    "id": 127,
+    "fieldName": "isReactivationWorkflowRequired",
+    "name": "<p><strong>Is ReactivationFlowRequired?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 153,
+    "fieldName": "category",
+    "name": "<p><strong>Select the category</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 18,
+    "fieldName": "companyCode",
+    "name": "<p><strong>Existing company codes</strong></p>",
+    "description": "Company codes within the scope of Wave 1",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 37,
+    "fieldName": "existingPurchsingOrg",
+    "name": "<p><strong>Existing Purchasing Orgs</strong></p>",
+    "description": "Purchasing orgs within the scope of Wave 1",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 103,
+    "fieldName": "blockCompanyCode",
+    "name": "<p><strong>Select the company code at which you want to block/unblock the supplier</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 159,
+    "fieldName": "existingCompanyEntities",
+    "name": "<p><strong>Select the company code for the reactivation</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "--marketingProgram--": "营销计划",
+  "--allocadiaId--": "Allocadia ID",
+  "--targetRegion--": "目标区域",
+  "--timeline--": "时间表",
+  "--service--": "服务",
+  "--budgetDetails--": "预算细节",
+  "--estimatedTotalCost--": "预计总费用",
+  "--businessEntity--": "商业实体",
+  "--accountCode--": "账户代码",
+  "--user--": "用户",
+  "--department--": "部门",
+  "--briefProjectSummary--": "项目摘要",
+  "--global--": "全球",
+  "--isRequiredField--": "{{field}}为必填项。",
+  "--chooseProgram--": "选择计划",
+  "--activityName--": "活动名称",
+  "--servicesNeeded--": "所需服务",
+  "--chooseService--": "选择服务",
+  "--chooseBusinessEntity--": "选择商业实体",
+  "--estimatedProjectCost--": "项目费用估算",
+  "--describeProjectScopeGoal--": "描述项目范围和目标"
+}

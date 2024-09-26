@@ -1,0 +1,11 @@
+{
+  "--selectOptions--": "Welche Aktualisierungen würden Sie gerne vornehmen?",
+  "--otherUpdates--": "Beschreiben Sie die anderen Details, die Sie aktualisieren möchten",
+  "--updateReason--": "Grund für Aktualisierung",
+  "--attachments--": "Anhänge",
+  "--startType--": "Eingabe starten ...",
+  "--selectedOption--": "Ausgewählte Optionen für Aktualisierung",
+  "--paymentDetails--": "Zahlungsdetails",
+  "--paymentTerms--": "Zahlungsbedingungen",
+  "--otherDetails--": "Sonstige Details"
+}

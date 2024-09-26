@@ -1,0 +1,116 @@
+[
+  {
+    "id": null,
+    "name": "Third Party Due Diligence Renewal",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 2,
+    "name": "Get supplier data",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 3,
+    "name": "Sourcing Manager Review",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 4,
+    "name": "Procurement Center Review",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 7,
+    "name": "TPDD Approval Notification",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 5,
+    "name": "To Sourcing Manager ",
+    "type": null,
+    "description": "Your TPDD Renewal has been approved"
+  },
+  {
+    "id": 6,
+    "name": "To Requester ",
+    "type": null,
+    "description": "Your TPDD Renewal has been approved"
+  },
+  {
+    "id": 10,
+    "name": "Find Applicable TPDD",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 11,
+    "name": "Company Information and Third party due diligence",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 13,
+    "name": "Payment details",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 15,
+    "name": "Shareholder information",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 17,
+    "name": "Contact Details",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 19,
+    "name": "Third Party Due Diligence Questionnaire",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 21,
+    "name": "Declaration",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 22,
+    "name": "Due Diligence and Risk Scoring",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 23,
+    "name": "Handle High_Medium Risk Supplier",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 24,
+    "name": "Block Vendor",
+    "type": null,
+    "description": "Since the Global Compliance team does not want to proceed with Third Party Due Dilligence of High Risk Vendor, please Block the vendor in SAP"
+  },
+  {
+    "id": 25,
+    "name": "Vendor master data review",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 26,
+    "name": "Update Assessment Record in Syniti ",
+    "type": null,
+    "description": null
+  }
+]

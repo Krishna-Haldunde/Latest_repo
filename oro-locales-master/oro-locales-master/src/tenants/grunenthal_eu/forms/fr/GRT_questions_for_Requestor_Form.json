@@ -1,0 +1,242 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Informations sur le fournisseur fournies par le demandeur",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 197,
+    "fieldName": null,
+    "name": "Devise",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Conformité",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 84,
+    "fieldName": null,
+    "name": "Bien-être animal",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 77,
+    "fieldName": null,
+    "name": "Environnement, hygiène et sécurité",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 145,
+    "fieldName": null,
+    "name": "Conformité aux bonnes pratiques de fabrication (GxP)",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 149,
+    "fieldName": null,
+    "name": "Système d'information",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 87,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><span style=\\\"color: rgb(62, 68, 86); background-color: rgb(255, 255, 0);\\\">Remarque :</span><span style=\\\"color: rgb(62, 68, 86);\\\"> Répondre \\« </span><strong style=\\\"color: rgb(62, 68, 86);\\\">Oui</strong><span style=\\\"color: rgb(62, 68, 86);\\\">\\ » à cette question déclenchera une action visant à compléter le processus d'intégration en matière de bien-être animal</span></p>\"",
+    "helpText": "<p><strong style=\"color: rgb(62, 68, 86);\">Remarque à l'attention du demandeur : </strong>Vous devez remplir le questionnaire sur le bien-être animal avant que le fournisseur puisse être créé. Ce processus doit être effectué en dehors d’ORO. Pour plus d'informations, veuillez contacter le groupe Bien-être animal - <a href=\"http://AWWG@grunenthal.com\" rel=\"noopener noreferrer\" target=\"_blank\">AWWG@grunenthal.com</a></p>",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 83,
+    "fieldName": "q83__p__strong_style__background_c",
+    "name": "<p><strong style=\"background-color: rgb(255, 255, 0);\">Remarque :</strong> Répondre « oui » à cette question déclenchera une action visant à compléter le processus d'intégration en matière d’EHS</p>",
+    "description": "\"<p><span style=\\\"color: rgb(62, 68, 86); background-color: rgb(255, 255, 0);\\\">Remarque :</span><span style=\\\"color: rgb(62, 68, 86);\\\"> </span>Répondre \\« <strong>Oui</strong>\\ » à cette question déclenchera une action visant à compléter le processus d'intégration en matière d’environnement, hygiène et sécurité.</p>\"",
+    "helpText": "<p><strong>Remarque à l'attention du demandeur</strong> : Vous devez remplir le questionnaire d'intégration en matière d’EHS avant que le fournisseur puisse être créé. Ce processus doit être effectué en dehors d’ORO. Pour plus d'informations, veuillez contacter le superviseur de l'emploi/le propriétaire de l'emploi qui a été formé à ce processus.</p>",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 144,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><span style=\\\"background-color: rgb(255, 255, 0);\\\">Remarque : </span>Veuillez déclencher le <span style=\\\"color: rgb(68, 68, 68);\\\">processus d’accord de traitement des données dans eContract.</span></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 148,
+    "fieldName": "_p_BD__p_",
+    "name": "<p>Le <span style=\"color: rgb(62, 68, 86);\">fournisseur</span> est-il concerné par les bonnes pratiques de fabrication (GxP) ?</p>",
+    "description": null,
+    "helpText": "<p>Les <span style=\"color: rgb(62, 68, 86);\">fournisseurs</span> concernés par les bonnes pratiques de fabrication (GxP) fournissent généralement des produits/matériaux qui entrent en contact direct avec le produit ou des produits/services qui sont utilisés dans la salle blanche ou pour la production de produits pharmaceutiques.</p>",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 22,
+    "fieldName": "q22__p_Are_the_studies_performed_b",
+    "name": "<p>Les études réalisées par le fournisseur portent-elles sur des tissus animaux ?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 80,
+    "fieldName": "q80__p__span_style__color__rgb_31_",
+    "name": "<p>Le fournisseur va-t-il exercer une activité dans les locaux de Grünenthal ?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 200,
+    "fieldName": "q200__p_Please_select_the_currency_",
+    "name": "<p>Veuillez sélectionner la devise du fournisseur </p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 13,
+    "fieldName": "q13__p_Will_personal_data_be_proce",
+    "name": "<p>Des données personnelles seront-elles traitées par le tiers pour le compte de Grünenthal ?</p>",
+    "description": null,
+    "helpText": "<p>i - « Données personnelles » : toute information concernant une personne physique identifiée ou identifiable (la « personne concernée ») ; est réputée identifiable une personne physique qui peut être identifiée, directement ou indirectement, notamment par référence à un identifiant, tel qu'un nom, un numéro d'identification, des données de localisation, un identifiant en ligne, ou à un ou plusieurs éléments spécifiques propres à l'identité physique, physiologique, génétique, psychique, économique, culturelle ou sociale de cette personne physique.</p><p><br></p><p>ii - « <span style=\"color: rgb(87, 95, 112);\">Le terme de traitement est très large et n'englobe pas seulement la conservation des données personnelles, mais aussi la collecte, l'enregistrement, la structuration, la modification, la consultation, l'utilisation, la diffusion ou la destruction des données personnelles. Cela signifie que, dans la pratique, toutes les activités effectuées sur des données à caractère personnel peuvent impliquer le traitement de données à caractère personnel</span></p><p><br></p>",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": "q7__p_Does_the_vendor_require_an_",
+    "name": "<p>Le fournisseur exige-t-il un paiement anticipé ?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 152,
+    "fieldName": "q152__p_Are_the_goods_services_you_",
+    "name": "<p>Les biens/services que vous envisagez d'acheter sont-ils liés à un type de solution informatique et/ou de services liés aux systèmes d'information ?</p>",
+    "description": null,
+    "helpText": "<p>Un service informatique peut être un logiciel, un logiciel en tant que service (SaaS), un service de conseil ou d'assistance informatique, mais aussi une externalisation des processus d'entreprise qui s'appuie sur une solution informatique ou un SaaS. Le SaaS peut inclure des services d'hébergement web externes (par exemple, IaaS, PaaS ou tout type de service géré).</p>",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 186,
+    "fieldName": "q186__p__span_style__color__rgb_62_",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">N° de demande informatique</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 194,
+    "fieldName": "itBusinessPartner",
+    "name": "<p>Sélectionner l'équipe informatique du partenaire commercial / le partenaire commercial local en informatique</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 155,
+    "fieldName": "q155__p_Is_there_an_IT_demand_relat",
+    "name": "<p>Y a-t-il une exigence en matière de service informatique à ce sujet ?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 203,
+    "fieldName": "primaryCategory",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Catégorie principale du service proposé par le fournisseur</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 206,
+    "fieldName": "applicableNaceCode",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Code NACE applicable</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 50,
+    "fieldName": "q50__p__span_style__color__rgb_31_",
+    "name": "<p>Ce service nécessitera-t-il que le fournisseur ait des interactions avec des autorités publiques, des agents publics ou des professionnels de santé au nom de Grünenthal ?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 177,
+    "fieldName": "q177__p__em_Does_the_vendor_have_th",
+    "name": "<p>Le fournisseur a-t-il la capacité d'influencer la prescription de médicaments ?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

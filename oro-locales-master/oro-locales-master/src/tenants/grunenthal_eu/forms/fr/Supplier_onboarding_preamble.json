@@ -1,0 +1,32 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Préambule à l'intégration des fournisseurs",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 4,
+    "fieldName": "supPreamble",
+    "name": null,
+    "description": "\"<p><span style=\\\"background-color: rgb(255, 255, 0);\\\">Remarque :</span> Veuillez faire une recherche sur le fournisseur que vous êtes en train d'intégrer. Cela permet de s'assurer que le fournisseur n'existe pas déjà dans notre système. Si le fournisseur n'est pas trouvé, vous serez guidé(e) pour ajouter un nouveau fournisseur dans la page de résultats.</p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

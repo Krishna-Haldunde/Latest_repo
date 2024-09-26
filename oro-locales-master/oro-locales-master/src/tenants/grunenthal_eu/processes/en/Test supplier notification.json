@@ -1,0 +1,56 @@
+[
+  {
+    "id": null,
+    "name": "Test supplier notification",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 11,
+    "name": null,
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 2,
+    "name": "Test Oboarding emails",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 10,
+    "name": "Test Extension emails",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 14,
+    "name": "Test TPDD",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 6,
+    "name": "Procurement Center Review",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 9,
+    "name": "Sanction list check",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 7,
+    "name": "Compliance Review",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 8,
+    "name": "MDM-Review",
+    "type": null,
+    "description": null
+  }
+]

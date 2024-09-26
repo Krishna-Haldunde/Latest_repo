@@ -1,0 +1,14 @@
+[
+  {
+    "id": null,
+    "name": "Attendre l'achèvement",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 2,
+    "name": "Attendre la création d'un vendeur par démarche accélérée",
+    "type": null,
+    "description": null
+  }
+]

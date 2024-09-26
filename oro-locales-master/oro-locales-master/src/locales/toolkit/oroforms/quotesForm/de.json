@@ -1,0 +1,22 @@
+{
+  "--addSupplierDocsYouHave--": "Bereits vorhandene Lieferantenunterlagen hinzufügen",
+  "--helpsSpeedTheProcess--": "Dies trägt zur Beschleunigung des Prozesses bei",
+  "--supplierQuote--": "Angebot des Lieferanten",
+  "--uploading--": "Hochladen...",
+  "--cancel--": "Abbrechen",
+  "--sowProposal--": "SOW/Angebot",
+  "--additionalDocs--": "Zusätzliche Dokumente",
+  "--additionalQuote--": "Zusätzliches Angebot",
+  "--additionalDoc--": "Zusätzliches Dokument",
+  "--pleaseSelectAFile--": "Bitte wählen Sie eine Datei",
+  "--file--": "Datei",
+  "--fileName--": "Name der Datei",
+  "--additionalNote--": "Zusätzlicher Hinweis <1>(optional)</1>",
+  "--askForLegalReview--": "Bitte um rechtliche Prüfung",
+  "--yes--": "Ja",
+  "--no--": "Nein",
+  "--supplierPaymentTerm--": "Zahlungsfrist des Lieferanten",
+  "--supplierDoc--": "Lieferantendokument",
+  "--upload--": "Hochladen",
+  "--download--": "Herunterladen"
+}

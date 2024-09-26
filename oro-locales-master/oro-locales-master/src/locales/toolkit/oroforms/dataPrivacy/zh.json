@@ -1,0 +1,13 @@
+{
+  "Personal Identifiable Information (PII)": "个人身份信息 (PII)",
+  "DATA PRIVACY": "数据隐私",
+  "GDPR compliance check for EU": "欧盟通用数据保护条例合规检查",
+  "PII compliance check for California": "加州个人身份信息合规检查",
+  "Yes": "是",
+  "Response is required.": "需要回复。",
+  "No": "否",
+  "Is there any planned or potential use of personal identifiable information (PII) data being used in this project going to / coming from California?": "是否计划或可能利用本项目中使用的送往/来自加利福尼亚州的个人身份信息数据？",
+  "Is there any planned or potential use of personal identifiable information (PII) data being used in this project going to / coming from the European Union?": "是否计划或可能利用本项目中使用的送往/来自欧盟的个人身份信息数据？",
+  "(e.g. Name, Address, Email, Phone Number, any data that can identify an individual)": "(例如姓名、地址、电子邮箱、电话号码、任何可识别个人身份的数据）",
+  "Does your current project or planned future use of this supplier’s product and/or services involve access to personal identifiable information(PII) that can be used to identify an individual ‘natural’ person?": "您当前的项目或未来对该供应商产品和/或服务的使用计划是否涉及获取可用于识别“自然人”身份的个人身份信息？"
+}

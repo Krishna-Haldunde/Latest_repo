@@ -1,0 +1,16 @@
+{
+  "--requiredField--": "{{field}} zorunlu bir alandır.",
+  "--title--": "Başlık",
+  "--regionCountrySupplierUsed--": "Bölge veya ülke tedarikçisi kullanılır",
+  "--chooseRegionCountry--": "Bölge / ülke seçin",
+  "--servicesOfferedBySupplier--": "Tedarikçi tarafından sunulan hizmetler",
+  "--chooseServiceCategory--": "Hizmet / kategori seçin",
+  "--primaryBusinessEntity--": "Birincil tüzel kişilik",
+  "--chooseBusinessEntity--": "İşletme tüzel kişiliğini seçin",
+  "--additionalBusinessEntity--": "Ek tüzel kişilik",
+  "--chooseAdditionalBusinessEntities--": "Ek şirket tüzel kişiliklerini seçin",
+  "--user--": "Kullanıcı",
+  "--department--": "Departman",
+  "--commentDetails--": "Yorum / Ayrıntılar",
+  "--addDetailsAboutBusinessNeed--": "Bu tedarikçi talebi için iş ihtiyacı ve proje kapsamı hakkında ayrıntılar ekleyin"
+}

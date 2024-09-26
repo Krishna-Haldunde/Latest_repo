@@ -1,0 +1,162 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Conditions de paiement non standard Examen par le directeur du service achats",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 17,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 18,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 30,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 16,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><strong style=\\\"background-color: rgb(255, 255, 0);\\\">Remarque :</strong><strong> </strong>Si les conditions de paiement ne peuvent être approuvées, la demande peut être renvoyée à la centrale d'achats pour mettre à jour les conditions de paiement, en cliquant sur « <strong>Demande d’informations</strong> » ci-dessous et en sélectionnant « <strong>Achats</strong> » </p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "_p_Payment_term_chosen__p_",
+    "name": "<p>Conditions de paiement proposées (Achats)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 13,
+    "fieldName": "q13__p__span_style__color__rgb_62_",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Conditions de paiement non standard demandées.</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": "q7__p__span_style__color__rgb_87_",
+    "name": "<p><span style=\"color: rgb(87, 95, 112);\">Motif des conditions de paiement non standard saisies par le demandeur</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 21,
+    "fieldName": "fastLanePayTerm",
+    "name": "<p>Délai de paiement choisi </p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 29,
+    "fieldName": "fastLanePayTerAppr",
+    "name": "<p>Approuvez-vous le délai de paiement choisi par le demandeur ?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 36,
+    "fieldName": "FstLanNonstanPayTerm",
+    "name": "<p>Le délai de paiement est-il non standard ? (masqué)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 41,
+    "fieldName": "q41__p__span_style__color__rgb_87_",
+    "name": "<p><span style=\"color: rgb(87, 95, 112);\">Motif du délai de paiement non standard saisi par le demandeur </span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 39,
+    "fieldName": "q39__p__span_style__color__rgb_62_",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Le délai de paiement est-il standard ? (masqué)</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 44,
+    "fieldName": "fastLaneIniReas",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Raison du lancement de la procédure accélérée</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 27,
+    "fieldName": "q27__p__strong_style__color__rgb_6",
+    "name": "<p><strong style=\"color: rgb(62, 68, 86); background-color: rgb(255, 255, 0);\"></strong><span style=\"color: rgb(62, 68, 86); background-color: rgb(255, 255, 0);\">Remarque :</span><span style=\"color: rgb(62, 68, 86);\"> Si le délai de paiement ne peut être approuvé, la demande peut être renvoyée à la centrale d'achats pour mettre à jour les conditions de paiement, en cliquant sur </span><strong style=\"color: rgb(62, 68, 86);\">« Demande d’informations »</strong><span style=\"color: rgb(62, 68, 86);\"> ci-dessous et en sélectionnant </span><strong style=\"color: rgb(62, 68, 86);\">« Demandeur »</strong></p>",
+    "description": "\"<p><span style=\\\"background-color: rgb(255, 255, 0); color: rgb(62, 68, 86);\\\">Remarque :</span><span style=\\\"color: rgb(62, 68, 86);\\\"> Veuillez cliquer sur le bouton </span><strong style=\\\"color: rgb(62, 68, 86);\\\">Refuser</strong><span style=\\\"color: rgb(62, 68, 86);\\\"> ci-dessous.</span></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

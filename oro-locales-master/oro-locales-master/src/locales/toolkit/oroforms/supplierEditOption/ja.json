@@ -1,0 +1,11 @@
+{
+  "--selectOptions--": "どのような更新を行いますか？",
+  "--otherUpdates--": "その他、更新したい内容をご記入ください",
+  "--updateReason--": "更新理由",
+  "--attachments--": "添付ファイル",
+  "--startType--": "入力開始...",
+  "--selectedOption--": "更新用に選択されたオプション",
+  "--paymentDetails--": "支払明細",
+  "--paymentTerms--": "支払条件",
+  "--otherDetails--": "その他の詳細"
+}

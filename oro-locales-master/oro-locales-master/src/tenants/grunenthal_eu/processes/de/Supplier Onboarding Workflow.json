@@ -1,0 +1,92 @@
+[
+  {
+    "id": null,
+    "name": "Workflow des Lieferanten-Onboarding",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 109,
+    "name": "Überprüfung durch Beschaffungsstelle",
+    "type": null,
+    "description": "Überprüfung der Anfrage durch die Beschaffungsstelle, bevor der Lieferantenfragebogen versandt wird"
+  },
+  {
+    "id": 136,
+    "name": "Antragsteller über Durchführung relevanter Schritte benachrichtigen",
+    "type": null,
+    "description": "Bitte füllen Sie gegebenenfalls EHS/Tierschutz aus. "
+  },
+  {
+    "id": 144,
+    "name": "Globales externes Beschaffungsteam über den GxP (Gute Arbeitspraxis) Richtlinien-Prozess benachrichtigen",
+    "type": null,
+    "description": "Ein neuer GxP-relevanter Lieferant wird derzeit aufgenommen.\n\nFür weitere Informationen wenden Sie sich bitte an den Antragsteller"
+  },
+  {
+    "id": 122,
+    "name": "Lieferantenfragebogen, Compliance-Prüfungen und Genehmigung der (nicht standardisierten) Zahlungsbedingungen",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 120,
+    "name": "Due Diligence für Geschäftspartner",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 129,
+    "name": "Genehmigung nicht standardisierter Zahlungsbedingungen",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 140,
+    "name": "IT-Bewertungsergebnisse",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 127,
+    "name": "Bestätigung des Antragstellers für andere Onboarding Prozesse",
+    "type": null,
+    "description": "Sie müssen den EHS-Onboarding-Fragebogen bzw. die Aktivitäten zur Einhaltung der Tierschutzvorschriften ausfüllen, bevor der Lieferant vollständig in das Unternehmen aufgenommen werden kann."
+  },
+  {
+    "id": 162,
+    "name": "Onboarding des Lieferanten ausgesetzt, da Ergebnis der Bewertung der Informationssicherheit nicht akzeptiert wurde",
+    "type": null,
+    "description": "Bitte beachten Sie, dass die Aufnahme von Lieferanten aus Gründen der Informationssicherheit ausgesetzt wurde. "
+  },
+  {
+    "id": 163,
+    "name": "Zusammenfassung abrufen",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 164,
+    "name": null,
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 155,
+    "name": "Überprüfung der Lieferantenstammdaten",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 156,
+    "name": "Bestätigung der IT-Bewertung",
+    "type": null,
+    "description": "Bitte bestätigen Sie, dass der Status des IT-Lieferanten auf der Grundlage des Ergebnisses der Bewertung der Informationssicherheit „Genehmigt“ lautet, da er auf „Ausgesetzt“ gesetzt wurde. "
+  },
+  {
+    "id": 56,
+    "name": "Anlegen des Lieferanten ",
+    "type": null,
+    "description": null
+  }
+]

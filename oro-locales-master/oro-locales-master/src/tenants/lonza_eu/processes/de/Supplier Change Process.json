@@ -1,0 +1,104 @@
+[
+  {
+    "id": null,
+    "name": "Lieferantenänderungsprozess",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 30,
+    "name": "Systemaufgaben ändern",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 15,
+    "name": "Datenaktualisierung durch Anforderer",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 42,
+    "name": "Präliminäre Standort-QA-Überprüfung",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 44,
+    "name": "Qualitäts-Workflow für Änderungen",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 3,
+    "name": "Aktualisierung der Bankdaten durch Lieferant",
+    "type": null,
+    "description": "Bitte aktualisieren Sie die Bankdaten"
+  },
+  {
+    "id": 5,
+    "name": "Zahlungsdetails",
+    "type": null,
+    "description": "Bitte aktualisieren Sie die Bankdaten"
+  },
+  {
+    "id": 37,
+    "name": "Validierung Bankleitzahl",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 2,
+    "name": "Team-Überprüfung Bankvalidierung",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 32,
+    "name": "Genehmigung der Zahlungsbedingungen durch Global P2P",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 33,
+    "name": "Lastschriftgenehmigung durch Global Treasury",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 34,
+    "name": "Lastschriftgenehmigung durch AP",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 38,
+    "name": "Genehmigung für globales Stammdaten-Management",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 31,
+    "name": "Aktualisierung des Lieferanten in SAP",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 43,
+    "name": "Aktualisieren der Benachrichtigung über Ablehnung des Lieferanten",
+    "type": null,
+    "description": "Der Aktualisierungsantrag wurde abgelehnt."
+  },
+  {
+    "id": 35,
+    "name": "Benachrichtigung über abgelehnte Zahlungsbedingungen",
+    "type": null,
+    "description": "Ihr Antrag zur Änderung der Zahlungsbedingungen wurde abgelehnt."
+  },
+  {
+    "id": 36,
+    "name": "Benachrichtigung über abgelehnte Lastschrift",
+    "type": null,
+    "description": "Die von Ihnen gewünschte Änderung der Lastschrift wurde abgelehnt."
+  }
+]

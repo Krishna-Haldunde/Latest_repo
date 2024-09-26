@@ -1,0 +1,54 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Review and Acknowledgement(ESG)",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 44,
+    "fieldName": null,
+    "name": "",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 22,
+    "fieldName": "null_1__1__1_",
+    "name": "null(1)(1)(1)",
+    "description": "\"<p><strong><em>I hereby certify that to the best of my knowledge, the information presented here is true and correct.</em></strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 69,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><strong>Forms filled in this section:</strong></p><p><br></p><ol><li>Supplier ESG form</li></ol>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 40,
+    "fieldName": "isTrue",
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "I hereby certify that to the best of my knowledge, the information presented in all the form(s), is true and correct.": "I hereby certify that to the best of my knowledge, the information presented in all the form(s), is true and correct."
+    },
+    "type": "field"
+  }
+]

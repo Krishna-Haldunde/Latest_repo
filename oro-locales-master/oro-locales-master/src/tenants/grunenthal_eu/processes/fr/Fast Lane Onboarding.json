@@ -1,0 +1,92 @@
+[
+  {
+    "id": null,
+    "name": "Intégration par démarche accélérée",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 26,
+    "name": "Approbation de la démarche accélérée",
+    "type": null,
+    "description": "Un membre de votre équipe chargé des achats a demandé à bénéficier d'un processus d'intégration accéléré. Cela ne doit être approuvé qu'en cas de besoin critique de l'entreprise, sinon un processus d'intégration régulier doit être mené."
+  },
+  {
+    "id": 43,
+    "name": "Charger le contact principal",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 9,
+    "name": "Recueil de documents",
+    "type": null,
+    "description": "Recueillir les données de base des fournisseurs "
+  },
+  {
+    "id": 19,
+    "name": "Informations sur l'entreprise",
+    "type": null,
+    "description": "Recueillir les données de base des fournisseurs "
+  },
+  {
+    "id": 21,
+    "name": "Modalités de paiement",
+    "type": null,
+    "description": "Recueillir les données de base des fournisseurs "
+  },
+  {
+    "id": 23,
+    "name": "Coordonnées",
+    "type": null,
+    "description": "Recueillir les données de base des fournisseurs "
+  },
+  {
+    "id": 24,
+    "name": "Vérification de la liste des sanctions",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 25,
+    "name": "Approbation de la conformité locale",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 27,
+    "name": "Approbation de la conformité mondiale",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 29,
+    "name": null,
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 28,
+    "name": "Résultats de l'évaluation informatique",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 32,
+    "name": "Confirmation du demandeur pour d'autres processus d'intégration",
+    "type": null,
+    "description": "Vous devez remplir le questionnaire d'intégration EHS/les activités de conformité en matière de bien-être animal avant que le fournisseur ne puisse être totalement intégré."
+  },
+  {
+    "id": 40,
+    "name": "Demande de Syniti",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 36,
+    "name": "Renouvellement de la diligence raisonnable à l’égard des tiers",
+    "type": null,
+    "description": null
+  }
+]

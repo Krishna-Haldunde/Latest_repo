@@ -1,0 +1,82 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Geschäftlicher Bedarf – Verlängerung",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 54,
+    "fieldName": null,
+    "name": "Angaben zum Antragsteller",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 72,
+    "fieldName": "q72__p__span_style__color__rgb_62_",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Antragssteller</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 75,
+    "fieldName": "q75__p__span_style__color__rgb_62_",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Stellen Sie den Antrag im Namen einer anderen Person?</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 78,
+    "fieldName": "q78__p__span_style__color__rgb_62_",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Bitte geben Sie die Person an, in deren Namen Sie den Antrag stellen</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 135,
+    "fieldName": "companyEntities",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Für Verlängerung beantragte Geschäftseinheit(en)</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 138,
+    "fieldName": "purchaseEntities",
+    "name": "<p>Einkaufsorganisation (ausgeblendet)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 143,
+    "fieldName": "suppDocs",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Unterstützende Dokumente</span></p>",
+    "description": null,
+    "helpText": "<p><span style=\"color: rgb(62, 68, 86);\">Bitte laden Sie ein Dokument wie z.B. ein Angebot, ein Firmenschreiben oder ein offizielles Dokument hoch. Mit allen erforderlichen Informationen ausgestattet, können wir Ihren Antrag besser prüfen.</span></p>",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "id": null,
+    "name": "Due Diligence für Geschäftspartner",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 9,
+    "name": "Zutreffenden Prozess für die Due Diligence für Geschäftspartner suchen",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 96,
+    "name": "Hauptansprechpartner laden",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 181,
+    "name": "Lieferantenfragebögen abrufen",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 168,
+    "name": "Lieferanteninformationen erfassen",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 157,
+    "name": "Lieferanteninformationen erfassen",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 192,
+    "name": "Lieferantenformulare nach Antragsteller",
+    "type": null,
+    "description": "Da der Anbieter nicht geantwortet hat, muss der Antragsteller die Angaben zum Anbieter nachreichen. "
+  },
+  {
+    "id": 194,
+    "name": "Informationen zum Unternehmen",
+    "type": null,
+    "description": "Da der Anbieter nicht geantwortet hat, muss der Antragsteller die Angaben zum Anbieter nachreichen. "
+  },
+  {
+    "id": 196,
+    "name": "Zahlungsdetails",
+    "type": null,
+    "description": "Da der Anbieter nicht geantwortet hat, muss der Antragsteller die Angaben zum Anbieter nachreichen. "
+  },
+  {
+    "id": 198,
+    "name": "Kontaktdetails",
+    "type": null,
+    "description": "Da der Anbieter nicht geantwortet hat, muss der Antragsteller die Angaben zum Anbieter nachreichen. "
+  },
+  {
+    "id": 201,
+    "name": null,
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 199,
+    "name": "Die Lieferantendokumente wurden gesendet!",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 200,
+    "name": "ORO TPDD — ESG-Warnsignale",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 2,
+    "name": "Due Diligence und Risikobewertung",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 95,
+    "name": "Compliance-Genehmigung für risikoreiche Lieferanten",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 38,
+    "name": "Antragsteller benachrichtigen, wenn das Risiko des Lieferanten als Hoch eingestuft wird ",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 66,
+    "name": "Benachrichtigung der Beschaffungsstelle, wenn das Risiko des Lieferanten als Hoch eingestuft wird  ",
+    "type": null,
+    "description": null
+  }
+]

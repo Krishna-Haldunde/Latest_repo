@@ -1,0 +1,32 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Line Manager Review",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 4,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p>The Requester&nbsp; has requested the third party due diligence for the vendor mentioned on the left side.&nbsp;</p><p>Please proceed with approval if applicable. This will be reviewed by local compliance after your approval.</p><p>&nbsp;</p><p><span style=\\\"background-color: rgb(255, 255, 0);\\\">Note:</span> for further information on this request, consult the forms on the left side of this page.</p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": null,
+    "name": "Onboarding Prozess für Lieferanten",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 4,
+    "name": "Präliminäre Überprüfungen",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 2,
+    "name": "Präliminäre Überprüfung der Beschaffung",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 3,
+    "name": "Überprüfung des Finanzcontrollers",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 7,
+    "name": "Antrag auf Anlage eines Lieferanten mit CBAM-Risiko",
+    "type": null,
+    "description": "Dies ist eine Benachrichtigung, die Sie auf das mit diesem Onboarding-Antrag verbundene CBAM-Risiko aufmerksam machen soll. Für weitere Einzelheiten wenden Sie sich bitte an den Antragsteller."
+  },
+  {
+    "id": 8,
+    "name": "Präliminäre Qualitätssicherungsprüfung",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 9,
+    "name": "Aktualisierung Haupt-Einkäufer",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 12,
+    "name": "Genehmigungsabläufe",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 10,
+    "name": "Subprozess Onboarding",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 11,
+    "name": "ESG-Screening",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 22,
+    "name": "Subprozess GMP",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 20,
+    "name": "Anlegen des Lieferanten in SAP",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 25,
+    "name": "Benachrichtigung über Ablehnung des Lieferanten",
+    "type": null,
+    "description": "Das Anlegen des Lieferanten in SAP wurde vom Qualitätsteam abgelehnt!"
+  },
+  {
+    "id": 21,
+    "name": "Aktualisieren der Lieferantenhierarchie in SAP ZVENDOR_INFO",
+    "type": null,
+    "description": "Bitte ordnen Sie diesen Lieferanten in SAP ZVENDOR_INFO einer Lieferantenhierarchie zu."
+  }
+]

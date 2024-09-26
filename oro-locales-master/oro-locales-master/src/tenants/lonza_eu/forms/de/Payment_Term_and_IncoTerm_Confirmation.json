@@ -1,0 +1,152 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Bestätigung Zahlungsbedingungen und IncoTerm",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 7,
+    "fieldName": "paymentTermHelpText",
+    "name": null,
+    "description": "\"<p><strong><em>Unsere Standardzahlungsbedingungen sind 60 Tage.</em></strong></p><p><strong><em>Wenn andere Bedingungen vereinbart wurden, haben diese Vorrang vor unseren Standard-Zahlungsbedingungen.</em></strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 36,
+    "fieldName": "incoTermLocation",
+    "name": "<p><strong>Bitte geben Sie den Incoterm-Standort an (optional)</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 16,
+    "fieldName": "incoTermHelpText",
+    "name": null,
+    "description": "\"<p><strong style=\\\"color: rgb(62, 68, 86);\\\"><em>Nachfolgend ist der vom Antragsteller ausgewählte IncoTerm aufgeführt.</em></strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 31,
+    "fieldName": "q31__p__strong_Do_you_want_to_chan",
+    "name": "<p><strong>Möchten Sie den vom Antragsteller gewählten Inco-Term ändern?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 33,
+    "fieldName": "changedIncoTerm",
+    "name": "<p><strong>Vom Lieferanten gewählter Incoterm</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 10,
+    "fieldName": "paymentTermVendorComments",
+    "name": "<p><strong>Anmerkungen des Lieferanten zu den Zahlungsbedingungen</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 29,
+    "fieldName": "q29__p__strong_Do_you_want_to_chan",
+    "name": "<p><strong>Möchten Sie die vom Antragsteller gewählten Zahlungsbedingungen ändern?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "paymentTerm",
+    "name": "<p><strong>Zahlungsbedingungen</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 26,
+    "fieldName": "changedPaymentTerm",
+    "name": "<p><strong>Vom Lieferanten gewählte Zahlungsbedingungen</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 21,
+    "fieldName": "vendorCommentsOnIncoTerm",
+    "name": "<p><strong>Anmerkungen des Lieferanten zu Inco Term</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 24,
+    "fieldName": "orderingCurrency",
+    "name": "<p><strong>Bitte bestätigen Sie die Bestellwährung.</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 19,
+    "fieldName": "incoTerm",
+    "name": "<p><strong>IncoTerms</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 45,
+    "fieldName": "communicationLanguage",
+    "name": "<p><strong>Bitte bestätigen Sie die bevorzugte Sprache für die Kommunikation</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

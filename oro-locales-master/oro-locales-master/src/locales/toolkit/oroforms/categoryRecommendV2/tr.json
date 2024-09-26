@@ -1,0 +1,14 @@
+{
+  "--category--": "Kategori",
+  "--select--": "Seç",
+  "--failedToGenerateRecommendations--": "Mevcut açıklamaya dayanarak kategori öneremiyoruz. <linkbutton>Tüm seçenekleri görüntüleyin</linkbutton>.",
+  "--viewAllOptions--": "Tüm seçenekleri görüntüle",
+  "--recommendedOptions--": "Önerilen seçenekler",
+  "--pleaseSelectBestCategory--": "Lütfen talebinize en uygun kategoriyi seçin",
+  "--requiredField--": "Bu zorunlu bir alandır",
+  "--notTheResultYouLooking--": "Aradığınız sonucu bulamadınız mı?",
+  "--hideRecommendations--": "Önerileri gizle",
+  "--viewAllRecommendations--": "Tüm önerileri görüntüle",
+  "--readMore--": "daha fazla oku",
+  "--readLess--": "daha az oku"
+}

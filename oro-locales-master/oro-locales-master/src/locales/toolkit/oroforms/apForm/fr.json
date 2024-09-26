@@ -1,0 +1,18 @@
+{
+  "--howToCreateVendorRecord--": "Comment créer une fiche fournisseur ?",
+  "--vendorRecordInfo--": "Informations sur l'enregistrement du fournisseur",
+  "--primaryBusinessEntity--": "Entité commerciale principale",
+  "--choose--": "Choisir",
+  "--additionalBusinessEntity--": "Entité commerciale supplémentaire",
+  "--eligible--": "Éligible pour le formulaire 1099",
+  "--no--": "Non",
+  "--yes--": "Oui",
+  "--syncToProcurify--": "Synchroniser avec Procurify",
+  "--paymentTerms--": "Conditions de paiement",
+  "--primaryCurrency--": "Devise principale",
+  "--defaultExpenseAccount--": "Compte de dépenses par défaut",
+  "--supplierClassification--": "Classification des fournisseurs",
+  "--vendorID--": "ID du fournisseur",
+  "--requiredField--": "Le champ {{name}} est obligatoire.",
+  "--apReviewOutcome--": "Résultat de l'examen des comptes fournisseurs"
+}

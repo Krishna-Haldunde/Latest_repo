@@ -1,0 +1,42 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "D&B Count",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 7,
+    "fieldName": "apiCount",
+    "name": "<p>API Count till date</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "q4__p_Please_submit_to_find_numbe",
+    "name": "<p>Please submit to find number of D&amp;B data block count done. </p>",
+    "description": "\"<h4 class=\\\"ql-align-center\\\"><strong>You can see the D&amp;B API call count in the next screen once you continue.</strong></h4>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Supplier Reminder_GRT",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "emailSubject",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 2,
+    "fieldName": null,
+    "name": "emailBody",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 3,
+    "fieldName": null,
+    "name": "emailInstruction",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 4,
+    "fieldName": null,
+    "name": "emailFooter",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 7,
+    "fieldName": null,
+    "name": null,
+    "description": "Grünenthal: Reminder to complete Data Validation process",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 19,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<h3><span style=\\\"color: rgb(68, 68, 68);\\\">How to Access ORO</span></h3><p><span style=\\\"color: rgb(68, 68, 68);\\\">When clicking on \\\"Get Started\\\" You will be redirect to ORO&nbsp;and an automatic email, containing a one-time password, will be sent to your inbox. Verify your email address to access the Grünenthal business partner collaboration hub. </span></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 22,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<h3><span style=\\\"color: rgb(68, 68, 68);\\\">Fill &amp; Submit the forms</span></h3><p><span style=\\\"color: rgb(68, 68, 68);\\\">You will find a list of forms that need to be completed. Provide the necessary information and submit them. If needed, you can invite other colleagues from ${supplierName} to fill out the forms on your behalf.</span></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 25,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<h3><span style=\\\"color: rgb(68, 68, 68);\\\">Support Required?</span></h3><p><span style=\\\"color: rgb(68, 68, 68);\\\">In case you need support filling in the forms, you will be able to request it directly in the tool via the button “request information”. Alternatively, you can reach out to us via email at&nbsp;</span><a href=\\\"http://suppliermanagement@procurement.grunenthal.com\\\" rel=\\\"noopener noreferrer\\\" target=\\\"_blank\\\" style=\\\"background-color: rgb(255, 255, 255); color: rgb(68, 68, 68);\\\">suppliermanagement@procurement.grunenthal.com</a><span style=\\\"color: rgb(68, 68, 68);\\\">&nbsp;for further help.</span></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 13,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><span style=\\\"color: rgb(68, 68, 68);\\\">Thank you very much for cooperation and understanding.</span></p><p><br></p><p><span style=\\\"color: rgb(68, 68, 68);\\\">Best Regards,</span></p><p><span style=\\\"color: rgb(68, 68, 68);\\\">${requester}</span></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 34,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><span style=\\\"color: rgb(68, 68, 68);\\\">Dear </span>${supplierContactName},</p><p><br></p><p><span style=\\\"color: rgb(68, 68, 68);\\\">We hope this message finds you well. We're following up on our recent request to update your bank details in the Grünenthal system.</span></p><p><br></p><p><span style=\\\"color: rgb(68, 68, 68);\\\">Ensuring your bank information is correct is crucial for maintaining seamless transactions and effective collaboration between our organizations. We kindly ask you to allocate a few minutes to log into ORO and confirm the accuracy of your bank information, as well as any other details in your Supplier Profile. We assure you that your personal verification is a necessary step for any updates to take effect.</span></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

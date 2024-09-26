@@ -1,0 +1,18 @@
+{
+  "--howToCreateVendorRecord--": "Как создать запись о продавце?",
+  "--vendorRecordInfo--": "Информация о продавце",
+  "--primaryBusinessEntity--": "Основное юридическое лицо",
+  "--choose--": "Выберите",
+  "--additionalBusinessEntity--": "Дополнительное юридическое лицо",
+  "--eligible--": "Может использовать 1099",
+  "--no--": "Нет",
+  "--yes--": "Да",
+  "--syncToProcurify--": "Синхронизировать с Procurify",
+  "--paymentTerms--": "Условия оплаты",
+  "--primaryCurrency--": "Основная валюта",
+  "--defaultExpenseAccount--": "Счет расходов по умолчанию",
+  "--supplierClassification--": "Классификация поставщиков",
+  "--vendorID--": "Идентификатор продавца",
+  "--requiredField--": "{{name}} — обязательное поле.",
+  "--apReviewOutcome--": "Итоги проверки кредиторской задолженности"
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "id": null,
+    "name": "Anlegen des Lieferanten",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 12,
+    "name": "Umgang mit Datenproblemen",
+    "type": null,
+    "description": "Es wurde ein Fehler in RPA ausgelöst"
+  },
+  {
+    "id": 15,
+    "name": "Aktualisierung des Lieferanten in Syniti",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 14,
+    "name": "Lieferanten in Syniti anlegen",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 6,
+    "name": "Lieferanten in Syniti verlängern",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 19,
+    "name": "Lieferantenaktualisierung im SAP-System - Bestätigung",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 18,
+    "name": "Lieferantenaktualisierung erfolgreich! ",
+    "type": null,
+    "description": "Lieferantenaktualisierung erfolgreich!"
+  },
+  {
+    "id": 13,
+    "name": "Lieferantenaktualisierung erfolgreich! ",
+    "type": null,
+    "description": null
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "--category--": "Category",
+  "--select--": "Select",
+  "--failedToGenerateRecommendations--": "We're unable to recommend categories based on the current description. <linkbutton>View all options</linkbutton>.",
+  "--viewAllOptions--": "View all options",
+  "--recommendedOptions--": "Recommended options",
+  "--pleaseSelectBestCategory--": "Please select the best category for your request",
+  "--requiredField--": "This is a required field",
+  "--notTheResultYouLooking--": "Not the result you are looking for?",
+  "--hideRecommendations--": "Hide recommendations",
+  "--viewAllRecommendations--": "View all recommendations",
+  "--readMore--": "read more",
+  "--readLess--": "read less"
+}

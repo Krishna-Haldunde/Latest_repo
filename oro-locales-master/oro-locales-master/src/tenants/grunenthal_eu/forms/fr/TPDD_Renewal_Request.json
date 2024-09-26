@@ -1,0 +1,122 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Demande de renouvellement de la diligence raisonnable à l’égard des tiers",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 203,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Conformité",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 144,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><span style=\\\"background-color: rgb(255, 255, 0);\\\">Remarque : </span>Veuillez déclencher le <span style=\\\"color: rgb(68, 68, 68);\\\">processus d’accord de traitement des données dans eContract.</span></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 215,
+    "fieldName": "q215__p_Please_select_the_category_",
+    "name": "<p>Veuillez sélectionner la catégorie du fournisseur (question temporaire - données à venir de Qlik)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 229,
+    "fieldName": "TPDD_user_company_entity",
+    "name": "<p>Département (correspondant au code de l'entreprise de l'utilisateur - par défaut et caché)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 202,
+    "fieldName": "q202__p__span_style__color__rgb_62_",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Estimation des dépenses annuelles totales avec le fournisseur</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 13,
+    "fieldName": "q13__p_Will_personal_data_be_proce",
+    "name": "<p>Des données personnelles seront-elles traitées par le tiers pour le compte de Grünenthal ?</p>",
+    "description": null,
+    "helpText": "<p>i - « Données personnelles » : toute information concernant une personne physique identifiée ou identifiable (la « personne concernée ») ; est réputée identifiable une personne physique qui peut être identifiée, directement ou indirectement, notamment par référence à un identifiant, tel qu'un nom, un numéro d'identification, des données de localisation, un identifiant en ligne, ou à un ou plusieurs éléments spécifiques propres à l'identité physique, physiologique, génétique, psychique, économique, culturelle ou sociale de cette personne physique.</p><p><br></p><p>ii - « <span style=\"color: rgb(87, 95, 112);\">Le terme de traitement est très large et n'englobe pas seulement la conservation des données personnelles, mais aussi la collecte, l'enregistrement, la structuration, la modification, la consultation, l'utilisation, la diffusion ou la destruction des données personnelles. Cela signifie que, dans la pratique, toutes les activités effectuées sur des données personnelles peuvent induire leur traitement »</span></p><p><br></p>",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 50,
+    "fieldName": "q50__p__span_style__color__rgb_31_",
+    "name": "<p>Ce service nécessitera-t-il que le fournisseur ait des interactions avec des autorités publiques, des agents publics ou des professionnels de santé au nom de Grünenthal ?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 177,
+    "fieldName": "q177__p__em_Does_the_vendor_have_th",
+    "name": "<p>Le fournisseur a-t-il la capacité d'influencer la prescription de médicaments ?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 226,
+    "fieldName": "advancePayment",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Le fournisseur exige-t-il un paiement anticipé ?</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 199,
+    "fieldName": "q199__p_Please_select_the_Business_",
+    "name": "<p>Veuillez indiquer le contact commercial de ce fournisseur (facultatif)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

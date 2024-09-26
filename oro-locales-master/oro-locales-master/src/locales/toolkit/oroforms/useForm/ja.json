@@ -1,0 +1,16 @@
+{
+  "--requiredField--": "{{field}}は必須です。",
+  "--title--": "タイトル",
+  "--regionCountrySupplierUsed--": "地域または国のサプライヤーを使用",
+  "--chooseRegionCountry--": "地域/国を選択",
+  "--servicesOfferedBySupplier--": "サプライヤーが提供するサービス",
+  "--chooseServiceCategory--": "サービス/カテゴリーを選択",
+  "--primaryBusinessEntity--": "主要事業体",
+  "--chooseBusinessEntity--": "事業体の選択",
+  "--additionalBusinessEntity--": "追加事業体",
+  "--chooseAdditionalBusinessEntities--": "追加の企業体を選択する",
+  "--user--": "ユーザー",
+  "--department--": "部門",
+  "--commentDetails--": "コメント / 詳細",
+  "--addDetailsAboutBusinessNeed--": "このサプライヤーが要求するビジネスニーズとプロジェクト範囲に関する情報を追加"
+}

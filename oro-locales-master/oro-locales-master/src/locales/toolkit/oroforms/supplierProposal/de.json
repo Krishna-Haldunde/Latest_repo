@@ -1,0 +1,21 @@
+{
+  "--uploadQuoteProposal--": "Angebot / Vorschlag hochladen",
+  "--ifYouHaveProposalQuoteAttachmentPleaseUploadHere--": "Wenn Sie einen Vorschlag/ein Angebot als Anhang haben, laden Sie ihn bitte hier hoch.",
+  "--supportedFormats--": "Unterstützte Formate:",
+  "--upload--": "Hochladen",
+  "--proposalDetails--": "Details des Vorschlags",
+  "--pleaseEnsureTheDetailsAreCorrect--": "Bitte vergewissern Sie sich, dass die ausgefüllten Angaben korrekt sind und mit dem hochgeladenen Dokument übereinstimmen.",
+  "--supplierLegalName--": "Lieferant juristischer Name",
+  "--description--": "Beschreibung des Vorschlags",
+  "--deliveryDate--": "Liefertermin",
+  "--totalAmount--": "Gesamtbetrag",
+  "--supplierCountry--": "Land des Lieferanten",
+  "--paymentTerm--": "Zahlungsbedingung",
+  "--edit--": "Bearbeiten",
+  "--save--": "Speichern",
+  "--confirm--": "Bestätigen",
+  "--proposal--": "Vorschlag",
+  "--weExtractedFollowingDetailsFromYourProposal--": "Wir haben Ihrem Vorschlag folgende Details entnommen",
+  "--previewNotAvailable--": "Vorschau nicht verfügbar",
+  "--thereAreSomeErrorsInForm--": "Es liegen mehrere Fehler im Formular vor. Bitte überprüfen"
+}

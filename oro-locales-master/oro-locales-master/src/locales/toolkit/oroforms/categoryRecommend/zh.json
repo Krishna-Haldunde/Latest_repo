@@ -1,0 +1,10 @@
+{
+  "--selectCategory--": "根据申请摘要选择类别",
+  "--hereAreSomeRecommendations--": "以下是一些建议",
+  "--youCanSelectOptionOrManually--": "您可以选择以下选项或手动搜索",
+  "--searchManually--": "手动搜索",
+  "--pleaseSelectCategory--": "请选择类别",
+  "--category--": "类别",
+  "--categoryPlaceholder--": "类别",
+  "--requestSummary--": "申请摘要"
+}

@@ -1,0 +1,242 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Antragsteller Angaben zum Anbieter",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 197,
+    "fieldName": null,
+    "name": "Währung",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Compliance",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 84,
+    "fieldName": null,
+    "name": "Tierschutz",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 77,
+    "fieldName": null,
+    "name": "Umwelt, Gesundheit und Sicherheit",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 145,
+    "fieldName": null,
+    "name": "Einhaltung der GxP (Gute Arbeitspraxis) Richtlinie",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 149,
+    "fieldName": null,
+    "name": "Informationstechnologie",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 87,
+    "fieldName": null,
+    "name": null,
+    "description": "<p><span style=\\\"color: rgb(62, 68, 86); background-color: rgb(255, 255, 0);\\\">Hinweis:</span><span style=\\\"color: rgb(62, 68, 86);\\\"> Wenn Sie diese Frage mit \\„</span><strong style=\\\"color: rgb(62, 68, 86);\\\">Ja</strong><span style=\\\"color: rgb(62, 68, 86);\\\">\\“ beantworten, wird ein Vorgang zur Absolvierung des Onboarding-Prozesses mit Bezug auf den Tierschutz getriggert</span></p>",
+    "helpText": "<p><strong style=\"color: rgb(62, 68, 86);\">Hinweis für Antragsteller: </strong>Sie müssen den Fragebogen zum Tierschutz ausfüllen, bevor der Lieferant angelegt werden kann. Dieses Verfahren muss außerhalb von ORO durchgeführt werden. Für weitere Informationen wenden Sie sich bitte an die Animal Welfare Group: <a href=\"http://AWWG@grunenthal.com\" rel=\"noopener noreferrer\" target=\"_blank\">AWWG@grunenthal.com</a></p>",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 83,
+    "fieldName": "q83__p__strong_style__background_c",
+    "name": "<p><strong style=\"background-color: rgb(255, 255, 0);\">Hinweis:</strong> Die Beantwortung dieser Frage mit „Ja“ triggert einen Vorgang zur Absolvierung des Onboarding-Prozesses mit Bezug auf Umwelt, Gesundheit und Sicherheit</p>",
+    "description": "<p><span style=\\\"color: rgb(62, 68, 86); background-color: rgb(255, 255, 0);\\\">Hinweis:</span><span style=\\\"color: rgb(62, 68, 86);\\\"> </span>Die Beantwortung dieser Frage mit \\„<strong>Ja</strong>\\“ triggert einen Vorgang zur Absolvierung des Onboarding-Prozesses mit Bezug auf Umwelt, Gesundheit und Sicherheit</p>",
+    "helpText": "<p><strong>Hinweis für Antragsteller</strong>: Sie müssen den Fragebogen&nbsp zum Onboarding-Prozess mit Bezug auf Umwelt, Gesundheit und Sicherheit ausfüllen, bevor der Lieferant angelegt werden kann. Dieses Verfahren muss außerhalb von ORO durchgeführt werden. Für weitere Informationen wenden Sie sich bitte an den Verantwortlichen/Inhaber des Jobs, der in diesem Prozess geschult wurde.</p>",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 144,
+    "fieldName": null,
+    "name": null,
+    "description": "<p><span style=\\\"background-color: rgb(255, 255, 0);\\\">Hinweis: </span>Bitte starten Sie den <span style=\\\"color: rgb(68, 68, 68);\\\">Prozess zur Erstellung eines Auftragsverarbeitungsvertrags in eContract.</span></p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 148,
+    "fieldName": "_p_BD__p_",
+    "name": "<p>Ist der <span style=\"color: rgb(62, 68, 86);\">Anbieter</span> relevant für die GxP (Gute Arbeitspraxis) Richtlinie?</p>",
+    "description": null,
+    "helpText": "<p>Für die GxP (Gute Arbeitspraxis) Richtlinie relevante <span style=\"color: rgb(62, 68, 86);\">Anbieter</span> liefern in der Regel Produkte/Materialien, die direkt mit dem Produkt in Berührung kommen, oder Produkte/Dienstleistungen, die im Reinraum verwendet oder für die Herstellung von Arzneimitteln eingesetzt werden.</p>",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 22,
+    "fieldName": "q22__p_Are_the_studies_performed_b",
+    "name": "<p>Werden bei den vom Anbieter durchgeführten Studien auch tierische Gewebe genutzt?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 80,
+    "fieldName": "q80__p__span_style__color__rgb_31_",
+    "name": "<p>Wird der Anbieter eine Tätigkeit in den Einrichtungen von Grünenthal ausüben?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 200,
+    "fieldName": "q200__p_Please_select_the_currency_",
+    "name": "<p>Bitte wählen Sie die Währung des Anbieters </p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 13,
+    "fieldName": "q13__p_Will_personal_data_be_proce",
+    "name": "<p>Werden im Auftrag von Grünenthal persönliche Daten von dem Geschäftspartner verarbeitet?</p>",
+    "description": null,
+    "helpText": "<p>i - „Persönliche Daten“ sind alle Informationen über eine bestimmte oder bestimmbare natürliche Person („Datensubjekt“); als bestimmbar wird eine natürliche Person angesehen, die direkt oder indirekt identifiziert werden kann, insbesondere durch Zuordnung zu einer Kennung wie einem Namen, zu einer Kennnummer, zu Standortdaten, zu einer Online-Kennung oder zu einem oder mehreren besonderen Merkmalen, die Ausdruck der physischen, physiologischen, genetischen, psychischen, wirtschaftlichen, kulturellen oder sozialen Identität dieser natürlichen Person sind.'</p><p><br></p><p>ii - ‚<span style=\"color: rgb(87, 95, 112);\">Der Begriff der Verarbeitung ist sehr weit gefasst und umfasst nicht nur die Speicherung persönlicher Daten, sondern auch das Erheben, das Aufzeichnen, das Strukturieren, das Verändern, das Abfragen, die Nutzung, die Verbreitung oder die Vernichtung persönlicher Daten. Das bedeutet, dass in der Praxis alle Tätigkeiten, die mit persönlichen Daten durchgeführt werden, die Verarbeitung von persönlichen Daten beinhalten können.</span></p><p><br></p>",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": "q7__p_Does_the_vendor_require_an_",
+    "name": "<p>Verlangt der Anbieter eine Vorauszahlung?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 152,
+    "fieldName": "q152__p_Are_the_goods_services_you_",
+    "name": "<p>Handelt es sich bei den Waren/Dienstleistungen, die Sie zu beschaffen beabsichtigen, um irgendeine Art von IT-Lösung und/oder IT-Dienstleistung?</p>",
+    "description": null,
+    "helpText": "<p>Eine IT-Dienstleistung kann Software, Software als Dienstleistung (SaaS), IT-Beratung/Support, aber auch eine Auslagerung von Geschäftsprozessen sein, die durch eine IT-Lösung oder eine SaaS unterstützt wird. SaaS kann externe Webhosting-Dienste umfassen (z. B. IaaS, PaaS oder jede Art von verwaltetem Dienst).</p>",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 186,
+    "fieldName": "q186__p__span_style__color__rgb_62_",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">IT-Bedarf #</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 194,
+    "fieldName": "itBusinessPartner",
+    "name": "<p>Wählen Sie das IT-Geschäftspartner-Team oder den IT-Geschäftspartner vor Ort aus</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 155,
+    "fieldName": "q155__p_Is_there_an_IT_demand_relat",
+    "name": "<p>Besteht in diesem Zusammenhang ein IT-Bedarf?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 203,
+    "fieldName": "primaryCategory",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Hauptkategorie der vom Anbieter angebotenen Dienstleistung</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 206,
+    "fieldName": "applicableNaceCode",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Geltende NACE-Warengruppennummer</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 50,
+    "fieldName": "q50__p__span_style__color__rgb_31_",
+    "name": "<p>Erfordert diese Dienstleistung, dass der Anbieter mit Behörden, Amtsträgern oder Angehörigen der Gesundheitsberufe im Namen von Grünenthal interagiert?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 177,
+    "fieldName": "q177__p__em_Does_the_vendor_have_th",
+    "name": "<p>Hat der Anbieter die Möglichkeit, die Verschreibung von Arzneimitteln zu beeinflussen?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

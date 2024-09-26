@@ -1,0 +1,32 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Renouvellement de la diligence raisonnable à l’égard des tiers_Réponse au nom du fournisseur",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 19,
+    "fieldName": "q19__p_Has_the_supplier_responded_",
+    "name": "<p>Le fournisseur a-t-il répondu ?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

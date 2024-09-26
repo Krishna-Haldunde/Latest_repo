@@ -1,0 +1,92 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Formular zur Aktualisierung der Zahlungsbedingungen",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Aktuelle Daten",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 16,
+    "fieldName": null,
+    "name": "Änderungsdaten",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 15,
+    "fieldName": "existingPOPaymentTerm",
+    "name": "<p><strong>Aktuelle Zahlungsbedingungen der ausgewählten Einkaufsorganisation</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 13,
+    "fieldName": "existingCCPaymentTerm",
+    "name": "<p><strong>Aktuelle Zahlungsbedingungen des ausgewählten Buchungskreises</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 21,
+    "fieldName": "changedPOPaymentTerm",
+    "name": "<p><strong>Bitte wählen Sie die Zahlungsbedingungen für die Einkaufsorganisation in dieser Änderungsanforderung aus</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": "updatecompanyCode",
+    "name": "<p><strong>Ausgewählter Buchungskreis für die Änderung der Zahlungsbedingungen</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 10,
+    "fieldName": "updatePOrg",
+    "name": "<p><strong>Ausgewählte Einkaufsorganisation für die Änderung der Zahlungsbedingungen</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 19,
+    "fieldName": "updatedCCPaymentTerm",
+    "name": "<p><strong>Bitte wählen Sie in diesem Änderungsantrag die Zahlungsbedingungen für den Buchungskreis aus</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

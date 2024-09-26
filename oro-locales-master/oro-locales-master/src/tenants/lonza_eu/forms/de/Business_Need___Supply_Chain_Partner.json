@@ -1,0 +1,152 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Geschäftsbedarf – Supply-Chain-Partner",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Unternehmensdaten",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 70,
+    "fieldName": null,
+    "name": "Weitere Angaben",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 89,
+    "fieldName": null,
+    "name": "Werks-/Standortinformationen",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 156,
+    "fieldName": null,
+    "name": "",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 4,
+    "fieldName": "_p_Describe_business_need__p_",
+    "name": "<p><strong>Geschäftliche Begründung</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 92,
+    "fieldName": "siteLonza",
+    "name": "<p><strong>Welche Lonza-Standorte sind betroffen?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": "_p_Category___Commodity__p_",
+    "name": "<p><strong>Bitte wählen Sie die Ware</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 155,
+    "fieldName": "isVSCiVendor",
+    "name": "<p>Ist VSCI-Lieferant</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 159,
+    "fieldName": "canVendorBeCreated",
+    "name": "<p><strong style=\"color: rgb(62, 68, 86);\">Kann Supply-Chain-Lieferant in SAP angelegt werden?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 88,
+    "fieldName": "requestor",
+    "name": "<p><strong>Angefordert von</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 152,
+    "fieldName": "requestorSite",
+    "name": "<p><strong>Lonza-Standort des Antragstellers</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 166,
+    "fieldName": "q166__p__strong_AccountGroup__stron",
+    "name": "<p><strong>Kontogruppe</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 169,
+    "fieldName": "errorInfo",
+    "name": null,
+    "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>Mit der Kontengruppe 0001 oder 0005 angelegte Lieferanten können nicht als Supply-Chain-Partner aufgenommen werden.</em></strong></p> \"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 79,
+    "fieldName": "accountGroup",
+    "name": "<p><strong>Kontogruppe</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Approbation du responsable hiérarchique",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Objet du courriel",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 2,
+    "fieldName": null,
+    "name": "Corps du courriel",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 3,
+    "fieldName": null,
+    "name": "Instruction du courriel",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 4,
+    "fieldName": null,
+    "name": "Pied de page du courriel",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 7,
+    "fieldName": null,
+    "name": null,
+    "description": "Approbation requise : Intégration de ${supplierName}",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 34,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p>Cordialement, </p><p>Équipe de conformité</p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 31,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><span style=\\\"color: rgb(62, 68, 86);\\\">Pour plus d'informations sur la manière de procéder, veuillez consulter le guide</span><a href=\\\"https://my.grunenthal.com/files/852ceb5d-7f35-4d42-95b4-2e40b87bc4d2/49a6d98f-db1c-4fbe-bcf2-778c30748f25/One%20pager-ORO-TPDD-Line%20Manager%20approval%20pdf\\\" rel=\\\"noopener noreferrer\\\" target=\\\"_blank\\\" style=\\\"background-color: rgb(255, 255, 255);\\\"> <u>rapide</u></a><span style=\\\"color: rgb(62, 68, 86);\\\">.</span></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 10,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p>Cher collègue,</p><p><br></p><p>${requester} a initié une demande d'intégration de fournisseur ou de renouvellement de la diligence raisonnable à l'égard des tiers pour ${supplierName}.</p><p><br></p><p><strong>Après évaluation, le fournisseur a été marqué comme présentant un risque moyen</strong>. Votre examen et une action appropriée dans ORO sont nécessaires pour poursuivre.</p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 13,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p>Un bref résumé des signaux d'alerte les plus importants a été mis à votre disposition sous&nbsp;'Oro Risk Score Form' qui se trouve dans la rubrique 'forms'.</p><p><strong>Veuillez le consulter en cliquant sur 'View Details' ci-dessous et prenez les mesures appropriées</strong>.</p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

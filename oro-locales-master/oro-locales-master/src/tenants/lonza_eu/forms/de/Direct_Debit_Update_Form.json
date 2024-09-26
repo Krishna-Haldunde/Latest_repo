@@ -1,0 +1,86 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Formular zur Lastschriftaktualisierung",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Aktuelle Daten",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 8,
+    "fieldName": null,
+    "name": "Änderungsdaten",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 7,
+    "fieldName": "selectedCompanyCode",
+    "name": "<p><strong>Vom Antragsteller ausgewählter Buchungskreis</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 11,
+    "fieldName": "enableDirectDebit",
+    "name": "<p><strong>Möchten Sie für den oben genannten Buchungskreis das Lastschriftverfahren aktivieren?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 14,
+    "fieldName": "disableDirectDebit",
+    "name": "<p><strong>Möchten Sie für den oben genannten Buchungskreis das Lastschriftverfahren deaktivieren?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "directDebitStatus",
+    "name": "<p><strong>Lastschriftstatus für den ausgewählten Buchungskreis</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "N/A": "K.A.",
+      "Enabled": "Aktiviert",
+      "Disabled": "Deaktiviert"
+    },
+    "type": "field"
+  },
+  {
+    "id": 17,
+    "fieldName": "helptextforNA",
+    "name": null,
+    "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>Die Option Lastschrift kann für diesen Buchungskreis nicht aktiviert werden</em></strong></p> \"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

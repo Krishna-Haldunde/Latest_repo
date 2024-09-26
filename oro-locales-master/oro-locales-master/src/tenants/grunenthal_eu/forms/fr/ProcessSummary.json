@@ -1,0 +1,62 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Résumé du processus",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 10,
+    "fieldName": "null_1__1__1_",
+    "name": "invalide(1)(1)(1)",
+    "description": "\"<h3>Vous y êtes presque ! Veuillez cliquer sur soumettre pour compléter votre demande. </h3><p> </p><p><strong>Après votre soumission, le fournisseur sera invité directement par ORO et recevra un lien lui permettant d'accéder aux formulaires et de les remplir. </strong></p><p><br></p><p><strong>Vous pouvez vérifier l'état d'avancement de la demande à tout moment, il sera visible dans \"mes engagements\" sur la page d'accueil.</strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<h3><strong>Vous y êtes presque ! Veuillez cliquer sur soumettre pour compléter votre demande. </strong></h3><p><br></p><p><strong>Après avoir soumis votre demande, celle-ci sera examinée par l'équipe du centre d'approvisionnement avant d'être envoyée au fournisseur. </strong></p><p><strong>Le fournisseur sera invité directement par ORO et recevra un lien lui permettant d'accéder aux formulaires et de les remplir. </strong></p><p><br></p><p><strong>Vous pouvez vérifier l'état d'avancement de la demande à tout moment, il sera visible dans \"mes engagements\" sur la page d'accueil.</strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 6,
+    "fieldName": "null_1_",
+    "name": "invalide(1)",
+    "description": "\"<h3><strong>Vous y êtes presque ! Veuillez cliquer sur soumettre pour compléter votre demande. </strong></h3><p><br></p><p><strong>Après avoir soumis votre demande, celle-ci sera examinée par l'équipe du centre d'approvisionnement avant d'être traitée.</strong></p><p><br></p><ul><li><strong>Si vous avez choisi <u>« mettre les coordonnées à jour »</u>, vous recevrez une tâche immédiatement après la soumission pour mettre à jour les contacts du fournisseur.</strong></li><li><strong>Si vous avez choisi <u>« mettre à jour les coordonnées bancaires »</u>, le fournisseur </strong><strong style=\\\"color: rgb(62, 68, 86);\\\">sera invité directement par ORO et recevra un lien pour accéder à la révision/mise à jour des informations de paiement.</strong></li></ul><p><br></p><p><strong>Vous pouvez vérifier l'état d'avancement de la demande à tout moment, il sera visible dans \"mes engagements\" sur la page d'accueil</strong></p>\".",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 8,
+    "fieldName": "null_1__1_",
+    "name": "invalide(1)(1)",
+    "description": "\"<h3>Vous y êtes presque ! Veuillez cliquer sur soumettre pour compléter votre demande. </h3><p><br></p><p><strong>Après avoir soumis votre demande, celle-ci sera examinée par l'équipe du centre d'approvisionnement avant d'être traitée.</strong></p><p><br></p><ul><li><strong>Si vous avez choisi <u>« mettre à jour les coordonnées »</u>, vous recevrez une tâche immédiatement après la soumission pour mettre à jour les contacts du fournisseur.</strong></li><li><strong>Si vous avez choisi <u>« mettre à jour les coordonnées bancaires »</u>, le fournisseur </strong><strong style=\\\"color: rgb(62, 68, 86);\\\">sera invité directement par ORO et recevra un lien pour accéder à la révision/mise à jour des informations de paiement.</strong></li></ul><p><br></p><p><br></p><p><strong>Vous pouvez vérifier l'état d'avancement de la demande à tout moment, il sera visible dans \"mes engagements\" sur la page d'accueil</strong></p>\".",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

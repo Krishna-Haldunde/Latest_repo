@@ -1,0 +1,86 @@
+[
+  {
+    "id": null,
+    "name": "Cleanup data",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 4,
+    "name": "Fix Data Errors in Vendor Creation",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 3,
+    "name": "Create Vendor in SAP",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 6,
+    "name": "Fix Errors in Address",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 5,
+    "name": "Update Address Master",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 8,
+    "name": "Fix errors in  Classification data",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 7,
+    "name": "Update Classification",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 13,
+    "name": "Fix company code extension ",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 14,
+    "name": "Extend to Company Codes",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 10,
+    "name": "Fix Errors in VSCI Vendors",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 9,
+    "name": "Create VSCI Vendors",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 11,
+    "name": "Supplier enablement",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 12,
+    "name": "Update SAP Vendor ID in IntegrityNext",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 15,
+    "name": "Update Supplier status",
+    "type": null,
+    "description": null
+  }
+]

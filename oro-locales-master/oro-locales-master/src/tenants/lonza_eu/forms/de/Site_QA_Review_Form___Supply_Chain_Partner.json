@@ -1,0 +1,52 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Standort-QA-Prüfungsformular – Supply-Chain-Partner",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 4,
+    "fieldName": "isVendorCreationApproved",
+    "name": "<p><strong>Kann Supply-Chain-Lieferant in SAP angelegt werden?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": "isSMREstablished",
+    "name": "<p><strong>Soll dieser SAP-Lieferant mit einem SMR in TrackWise verknüpft werden?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 10,
+    "fieldName": "smrNumber",
+    "name": "<p><strong>Bitte geben Sie die SMR-Nummer ein</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

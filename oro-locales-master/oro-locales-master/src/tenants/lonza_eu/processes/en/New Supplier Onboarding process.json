@@ -1,0 +1,86 @@
+[
+  {
+    "id": null,
+    "name": "New Supplier Onboarding process",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 105,
+    "name": null,
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 27,
+    "name": "Early Procurement Review",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 104,
+    "name": "Financial Controller Review",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 101,
+    "name": "Vendor Creation Request with CBAM risk",
+    "type": null,
+    "description": "This is a notification seeking your attention to the CBAM risk associated with this onboarding request. Kindly check with the requestor more details."
+  },
+  {
+    "id": 93,
+    "name": "Early QA Review",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 99,
+    "name": "Update Lead Buyer",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 75,
+    "name": null,
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 15,
+    "name": "Onboarding Sub process",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 74,
+    "name": "GMP Sub process",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 91,
+    "name": "ESG Screening",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 108,
+    "name": "SAP service unavailable(Do not proceed)",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 102,
+    "name": "Vendor Creation in SAP",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 103,
+    "name": "Update Vendor Hierarchy in SAP ZVENDOR_INFO",
+    "type": null,
+    "description": "Please assign vendor hierarchy to this vendor in SAP ZVENDOR_INFO"
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "--addSupplierDocsYouHave--": "添加已有供应商文件",
+  "--helpsSpeedTheProcess--": "这有助于加快流程",
+  "--supplierQuote--": "供应商报价",
+  "--uploading--": "正在上传...",
+  "--cancel--": "取消",
+  "--sowProposal--": "工作说明书/建议",
+  "--additionalDocs--": "附加文件",
+  "--additionalQuote--": "附加报价",
+  "--additionalDoc--": "附加文件",
+  "--pleaseSelectAFile--": "请选择文件",
+  "--file--": "文件",
+  "--fileName--": "文件名",
+  "--additionalNote--": "附加说明<1>（可选）</1>",
+  "--askForLegalReview--": "要求法务审核",
+  "--yes--": "是",
+  "--no--": "否",
+  "--supplierPaymentTerm--": "供应商付款期限",
+  "--supplierDoc--": "供应商文件",
+  "--upload--": "上传",
+  "--download--": "下载"
+}

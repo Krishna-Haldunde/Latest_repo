@@ -1,0 +1,86 @@
+[
+  {
+    "id": null,
+    "name": "Processus de prolongation du fournisseur",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 37,
+    "name": "Charger les points à examiner",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 47,
+    "name": "Charger les contacts",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 45,
+    "name": "Coordonnées du fournisseur",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 10,
+    "name": "Examen par la centrale d'achat",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 32,
+    "name": "Processus de conditions de paiement non standard_Prolongation",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 21,
+    "name": "Collecter les documents du fournisseur",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 42,
+    "name": "Modalités de paiement",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 49,
+    "name": "Coordonnées pour la prolongation",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 51,
+    "name": "Documents soumis par le fournisseur",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 38,
+    "name": "Examen des données fournisseurs - Centrale d’achat",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 50,
+    "name": "Résumé de la collecte",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 16,
+    "name": "Examen des données de base des fournisseurs",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 3,
+    "name": "Prolongation du fournisseur",
+    "type": null,
+    "description": null
+  }
+]

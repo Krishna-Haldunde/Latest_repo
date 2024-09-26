@@ -1,0 +1,44 @@
+[
+  {
+    "id": null,
+    "name": "Aktualisierung des Lieferanten in SAP",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 3,
+    "name": "Beheben von Datenfehlern beim Anlegen von Lieferanten",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 2,
+    "name": "Lieferant in SAP aktualisieren",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 5,
+    "name": "Datenfehler im Adressstamm beheben",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 4,
+    "name": "Adressstammdaten aktualisieren",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 10,
+    "name": "Fehler im Umfang-Update beheben",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 9,
+    "name": "Umfang in SAP aktualisieren",
+    "type": null,
+    "description": null
+  }
+]

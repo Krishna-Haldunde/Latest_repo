@@ -1,0 +1,15 @@
+{
+  "--paymentTerms--": "付款条件",
+  "--select--": "选择",
+  "--existingPaymentTerms--": "现行付款条件",
+  "--recommendedPaymentTerms--": "推荐付款条件",
+  "--newPaymentTerms--": "新付款条件",
+  "--recommendedPaymentTerm--": "推荐付款条件",
+  "--purchaseOrganisations--": "采购组织",
+  "--companyEntity--": "公司实体",
+  "--thisWillBeCommonPaymentTermForSupplier--": "这将成为供应商的通用付款条件",
+  "--supplierEnabledWithMultiplePaymentTerms--": "供应商可使用多种付款条件",
+  "--applicableForPurchaseOrgAndCompanyEntities--": "适用于以下所有采购组织和公司实体",
+  "--applicableForPurchasOrg--": "适用于以下所有采购组织",
+  "--applicableForCompanyEntities--": "适用于以下所有公司实体"
+}

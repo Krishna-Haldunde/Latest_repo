@@ -1,0 +1,252 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Résumé de l'engagement",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 8,
+    "fieldName": null,
+    "name": "Coordonnées du fournisseur",
+    "description": "",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 36,
+    "fieldName": null,
+    "name": "Processus de diligence raisonnable à l’égard des tiers",
+    "description": "",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 68,
+    "fieldName": null,
+    "name": "",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 58,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 72,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 26,
+    "fieldName": "indirectTax",
+    "name": "<p>Numéro d'immatriculation à la TVA</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "requestType",
+    "name": "<p>Type d’engagement</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 57,
+    "fieldName": "vendorNumber",
+    "name": "<p>Numéro du fournisseur</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 17,
+    "fieldName": "language",
+    "name": "<p>Langue</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 23,
+    "fieldName": "currency",
+    "name": "<p>Devise</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 29,
+    "fieldName": "directTax",
+    "name": "<p>Numéro d'identification fiscale</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 61,
+    "fieldName": "helpText",
+    "name": null,
+    "description": "\"<p><span style=\\\"color: rgb(62, 68, 86);\\\">Remarque : Le fournisseur sera </span><span style=\\\"color: rgb(0, 138, 0);\\\">mis à jour</span><span style=\\\"color: rgb(102, 185, 102);\\\"> </span><span style=\\\"color: rgb(62, 68, 86);\\\">une fois la demande approuvée.</span></p>\"",
+    "helpText": "<p><span style=\"color: rgb(62, 68, 86);\">Remarque : Veuillez demander des informations à la personne appropriée si les informations sont incorrectes avant de confirmer.</span></p>",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 64,
+    "fieldName": "address",
+    "name": "<p><span style=\"color: rgb(32, 33, 36);\">Adresse</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 67,
+    "fieldName": "email",
+    "name": "<p>Adresse électronique</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 71,
+    "fieldName": "companyEntityDataList",
+    "name": "<p>Détails de l'entité commerciale</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 75,
+    "fieldName": "bankDetails",
+    "name": "<p>Coordonnées bancaires</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": "engagementNumber",
+    "name": "<p>Numéro d'engagement</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 20,
+    "fieldName": "industry",
+    "name": "<p>Secteur d’activité :</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 45,
+    "fieldName": "tpddNotRequired",
+    "name": "<p>Diligence raisonnable à l’égard des tiers non requise</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 42,
+    "fieldName": "tpddType",
+    "name": "<p>Type de diligence raisonnable à ’égard des tiers</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 48,
+    "fieldName": "tpddDate",
+    "name": "<p>Date du devoir de diligence</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 51,
+    "fieldName": "riskLevel",
+    "name": "<p>Catégorie de risque</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 11,
+    "fieldName": "name",
+    "name": "<p>Nom</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

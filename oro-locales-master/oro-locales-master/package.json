@@ -1,0 +1,41 @@
+{
+  "name": "oro-locales",
+  "version": "0.1.0",
+  "author": "Manoj Kumar",
+  "description": "Application to contain all translations text for ORO applications",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Orolabs/oro-locales"
+  },
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "clean": "rm -rf build",
+    "lint": "eslint src/**/*.json",
+    "build": "npm run lint; npm run clean; rollup -c",
+    "format": "prettier --write --parser json 'src/**/*.json'",
+    "build-dev": "npm run lint; rollup -c",
+    "build-prod": "npm run lint; rollup -c",
+    "build-prodeu": "npm run lint; rollup -c",
+    "build-stage": "npm run lint; rollup -c",
+    "build-demo": "npm run lint; rollup -c",
+    "prepare": "husky",
+    "lint-staged": "lint-staged"
+  },
+  "lint-staged": {
+    "*.json":[ "eslint --fix", "prettier --cache --write --parser json" ]
+  },
+  "devDependencies": {
+    "eslint": "^8.42.0",
+    "eslint-plugin-json": "^3.1.0",
+    "rollup": "^3.25.1",
+    "prettier": "^3.3.1",
+    "lint-staged": "^15.2.5",
+    "husky": "^9.0.11",
+    "rollup-plugin-copy": "^3.4.0"
+  },
+  "dependencies": {
+    "escape-html": "^1.0.3",
+    "htmlparser2": "^9.1.0"
+  }
+}

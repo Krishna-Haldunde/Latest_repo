@@ -1,0 +1,247 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Examen de la diligence raisonnable",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 132,
+    "fieldName": null,
+    "name": "Classification des fournisseurs",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Processus appliqué en matière de diligence raisonnable à l’égard des tiers",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 23,
+    "fieldName": null,
+    "name": "Couvertures médiatiques défavorables",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 82,
+    "fieldName": null,
+    "name": "Commentaires",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 44,
+    "fieldName": null,
+    "name": "Devise du fournisseur",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 85,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><strong style=\\\"color: rgb(0, 138, 0);\\\">Remarque :</strong> Veuillez ajouter vos commentaires concernant les couvertures médiatiques défavorables (le cas échéant)</p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 103,
+    "fieldName": "tpddNone",
+    "name": "invalide(2)",
+    "description": "\"<p><strong style=\\\"color: rgb(0, 138, 0);\\\">Aucune diligence raisonnable à l’égard des tiers</strong><strong style=\\\"color: rgb(102, 185, 102);\\\"> </strong> n’a été appliquée à ce fournisseur sur la base des informations.</p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 105,
+    "fieldName": "tpddLight",
+    "name": "invalide(1)(1)",
+    "description": "\"<p><strong style=\\\"color: rgb(0, 138, 0);\\\">Une diligence raisonnable allégée à l’égard des tiers</strong><strong style=\\\"color: rgb(102, 185, 102);\\\"> </strong> a été appliquée à ce fournisseur sur la base des informations.</p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 107,
+    "fieldName": "tpddEnhanced",
+    "name": "invalide(1)",
+    "description": "\"<p><strong style=\\\"color: rgb(0, 138, 0);\\\">Une diligence raisonnable approfondie à l’égard des tiers </strong>a été appliquée à ce fournisseur sur la base des informations</p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 113,
+    "fieldName": "adverseMediaMatched",
+    "name": "invalide(1)",
+    "description": "\"<p>État des vérifications automatisées des couvertures médiatiques défavorables : <strong style=\\\"color: rgb(230, 0, 0);\\\">Des correspondances ont été trouvées.</strong><span style=\\\"color: rgb(230, 0, 0);\\\">.</span></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 115,
+    "fieldName": "adverseMediaNonMatched",
+    "name": "invalide(1)",
+    "description": "\"<p>État des vérifications des couvertures médiatiques défavorables : <strong style=\\\"color: rgb(0, 138, 0);\\\">Aucune correspondance</strong><strong> </strong><strong style=\\\"color: rgb(0, 138, 0);\\\">n'a été trouvée</strong>. </p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 119,
+    "fieldName": "IsAdverseMediaRiskMedium",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Des résultats ont été trouvés, mais sans impact direct sur la relation commerciale (masqué pour le calcul du risque)</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 121,
+    "fieldName": "IsAdverseMediaRiskHigh",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Des résultats ont été trouvés, avec un impact direct et clair sur la relation commerciale (masqué pour le calcul du risque)</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 123,
+    "fieldName": "adverseMediaComment",
+    "name": "<p>Veuillez ajouter vos commentaires.</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 117,
+    "fieldName": "adverseMediaManualOptions",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Veuillez confirmer manuellement si des résultats ont été trouvés concernant des couvertures médiatiques défavorables.</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "False hits": "Faux positifs",
+      "No hits": "Aucun résultat",
+      "Hits that are directly impacting the business relationship": "Résultats trouvés qui ont un impact direct sur la relation commerciale",
+      "Hits that are not impacting the business relationship directly": "Résultats trouvés qui n'ont pas d'impact direct sur la relation commerciale"
+    },
+    "type": "field"
+  },
+  {
+    "id": 125,
+    "fieldName": "supplierInvoiceCurrency",
+    "name": "<p>Devise de la facture fournie par le fournisseur</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 127,
+    "fieldName": "isCurrencyAppropriate",
+    "name": "<p>La devise fournie par le fournisseur est-elle appropriée ?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 129,
+    "fieldName": "appropriateCurrency_",
+    "name": "<p>Veuillez sélectionner la devise appropriée</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 109,
+    "fieldName": "tpddESG",
+    "name": "invalide(1)",
+    "description": "\"<p><strong style=\\\"color: rgb(0, 138, 0);\\\">Une diligence raisonnable à l’égard des tiers sur les questions environnementales, sociales et de gouvernance</strong> a été appliquée à ce fournisseur sur la base des informations</p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 131,
+    "fieldName": "null_1__1_",
+    "name": "invalide(1)(1)",
+    "description": "\"<p><strong style=\\\"color: rgb(0, 138, 0);\\\">Remarque</strong> : <span style=\\\"color: rgb(68, 68, 68);\\\">La diligence raisonnable renforcée à l'égard des tiers a été remplacée par la diligence raisonnable à l'égard des tiers en matière environnementale, sociale et de gouvernance, sur la base des réponses au questionnaire destiné aux fournisseurs.</span></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 111,
+    "fieldName": "tpddLightToEnhanced",
+    "name": "invalide(1)",
+    "description": "\"<p><strong style=\\\"color: rgb(0, 138, 0);\\\">Remarque</strong> : Une diligence raisonnable allégée à l’égard des tiers a été modifiée en diligence raisonnable approfondie à l’égard des tiers, sur la base des réponses au questionnaire destiné aux fournisseurs.</p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 135,
+    "fieldName": "vendorClassificationT",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Sélectionnez la classification du fournisseur applicable</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 97,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><span style=\\\"background-color: rgb(255, 255, 0);\\\">Remarque : </span>Les formulaires ont été remplis par le demandeur.</p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

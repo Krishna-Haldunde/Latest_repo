@@ -1,0 +1,102 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Genehmigung des Vorgesetzten",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "emailBetreff",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 2,
+    "fieldName": null,
+    "name": "emailText",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 3,
+    "fieldName": null,
+    "name": "emailAnleitung",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 4,
+    "fieldName": null,
+    "name": "emailFußzeile",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 7,
+    "fieldName": null,
+    "name": null,
+    "description": "Genehmigung erforderlich: Anlegen von ${supplierName}",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 34,
+    "fieldName": null,
+    "name": null,
+    "description": "<p>Mit freundlichen Grüßen, </p><p>Compliance-Team</p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 31,
+    "fieldName": null,
+    "name": null,
+    "description": "<p><span style=\\\"color: rgb(62, 68, 86);\\\">Weitere Informationen zur Vorgehensweise finden Sie im</span><a href=\\\"https://my.grunenthal.com/files/852ceb5d-7f35-4d42-95b4-2e40b87bc4d2/49a6d98f-db1c-4fbe-bcf2-778c30748f25/One%20pager-ORO-TPDD-Line%20Manager%20approval%20pdf\\\" rel=\\\"noopener noreferrer\\\" target=\\\"_blank\\\" style=\\\"background-color: rgb(255, 255, 255);\\\"> <u>„One-Pager Guide“</u></a><span style=\\\"color: rgb(62, 68, 86);\\\">.</span></p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 10,
+    "fieldName": null,
+    "name": null,
+    "description": "<p>Sehr geehrte Kollegen,</p><p><br></p><p>${requester} hat eine Anfrage zur Lieferantenaufnahme oder TPDD-Erneuerung für ${supplierName} initiiert.</p><p><br></p><p><strong>Nach der Bewertung wurde der Lieferant als Mittleres Risiko eingestuft</strong>. Eine Überprüfung Ihrerseits und entsprechende Maßnahmen in ORO sind erforderlich, um weiterzumachen.</p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 13,
+    "fieldName": null,
+    "name": null,
+    "description": "<p>Eine kurze Zusammenfassung der wichtigsten Warnsignale wurde Ihnen unter&nbsp;dem „Oro Risk Score Formular“ zur Verfügung gestellt, das Sie unter „Formulare“ finden.</p><p><strong>Bitte überprüfen Sie es, indem Sie unten auf „Details anzeigen“ klicken und ergreifen Sie die entsprechenden Maßnahmen</strong>.</p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

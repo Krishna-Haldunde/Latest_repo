@@ -1,0 +1,18 @@
+{
+  "--howToCreateVendorRecord--": "¿Cómo crear un registro de proveedores?",
+  "--vendorRecordInfo--": "Información del registro de proveedores",
+  "--primaryBusinessEntity--": "Entidad comercial principal",
+  "--choose--": "Elegir",
+  "--additionalBusinessEntity--": "Entidad comercial adicional",
+  "--eligible--": "Apto para el formulario 1099 del IRS",
+  "--no--": "No",
+  "--yes--": "Sí",
+  "--syncToProcurify--": "Sincronizar con Procurify.",
+  "--paymentTerms--": "Condiciones de pago",
+  "--primaryCurrency--": "Moneda principal",
+  "--defaultExpenseAccount--": "Cuenta de gastos predeterminada",
+  "--supplierClassification--": "Clasificación de los proveedores",
+  "--vendorID--": "ID de proveedor",
+  "--requiredField--": "{{name}} es un campo obligatorio.",
+  "--apReviewOutcome--": "Resultado de la revisión de cuentas por pagar"
+}

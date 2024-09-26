@@ -1,0 +1,115 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Kontaktdaten",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 50,
+    "fieldName": null,
+    "name": "Hauptansprechpartner",
+    "description": "Hauptansprechpartner für alle Fragen der Beschaffung.",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 11,
+    "fieldName": null,
+    "name": "Ansprechpartner beim Versandteam (OD)",
+    "description": "Kontaktperson, an die die Bestellungsaufträge gerichtet werden",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 21,
+    "fieldName": null,
+    "name": "Spezifischer Ansprechpartner für Umwelt, Soziales, Unternehmensführung (ESG)",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 66,
+    "fieldName": "subcontractorContacts",
+    "name": "<p><strong></strong>Bitte fügen Sie für jeden Unterauftragnehmer die folgenden Angaben im nachstehenden Format hinzu:</p><p><br></p><p>Name: <strong>Name des Unternehmens/der Person</strong></p><p>Anmerkungen: <strong>Details der angebotenen Dienstleistung</strong></p><p>Adresse: <strong>Vollständige Adresse oder Land</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "Kontakt",
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 106,
+    "fieldName": "primaryContact",
+    "name": "<p>Hauptansprechpartner</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "Kontakt",
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 62,
+    "fieldName": "orderDeliveryContacts",
+    "name": "<p>Name des Ansprechpartners (OD)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "Kontakt",
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 64,
+    "fieldName": "environmentContact",
+    "name": "<p>Name des Ansprechpartners (Umwelt, Soziales, Unternehmensführung)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "Kontakt",
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 58,
+    "fieldName": "mainContact",
+    "name": "<p>Allgemeine Ansprechpartner</p><p><br></p><p><span style=\"color: rgb(31, 31, 31);\">Bitte geben Sie in den Anmerkungen die ‚</span><strong style=\"color: rgb(31, 31, 31);\">Abteilung' </strong><span style=\"color: rgb(31, 31, 31);\">an.</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "Kontakt",
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 109,
+    "fieldName": "addGeneralContact",
+    "name": "<p>Weitere(n) allgemeine(n) Kontakt(e) hinzufügen</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "No": "Nein",
+      "Yes": "Ja"
+    },
+    "type": "field"
+  },
+  {
+    "id": 115,
+    "fieldName": "accountPayableContactList",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Ansprechpartner für Forderungen</span></p>",
+    "description": "Hauptansprechpartner für Rechnungsfragen",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

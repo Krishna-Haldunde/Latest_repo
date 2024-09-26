@@ -1,0 +1,10 @@
+{
+  "--selectCategory--": "Talep özetine göre bir kategori seçin",
+  "--hereAreSomeRecommendations--": "İşte bazı öneriler",
+  "--youCanSelectOptionOrManually--": "Aşağıdaki seçeneklerden birini seçebilir veya manuel olarak arama yapabilirsiniz",
+  "--searchManually--": "Manuel arama",
+  "--pleaseSelectCategory--": "Lütfen bir kategori seçin",
+  "--category--": "Kategori",
+  "--categoryPlaceholder--": "Kategori",
+  "--requestSummary--": "Talep Özeti"
+}

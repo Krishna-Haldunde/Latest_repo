@@ -1,0 +1,32 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Überprüfung durch den Vorgesetzten",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 4,
+    "fieldName": null,
+    "name": null,
+    "description": "<p>Der Antragsteller&nbsp; hat für den auf der linken Seite erwähnten Anbieter&nbsp;</p><p>den Prüfungs- und Analyseprozess für Dritte beantragt. Bitte fahren Sie mit der Genehmigung fort, falls anwendbar. Dies wird nach Ihrer Genehmigung von der lokalen Compliance-Abteilung geprüft.</p><p>&nbsp;</p><p><span style=\\\"background-color: rgb(255, 255, 0);\\\">Hinweis:</span> Weitere Informationen zu diesem Antrag finden Sie in den Formularen auf der linken Seite dieser Seite.</p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

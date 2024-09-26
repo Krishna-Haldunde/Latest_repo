@@ -1,0 +1,42 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "D&B-passende-Lieferantenliste",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 4,
+    "fieldName": "matchingsupplierlist",
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "Passende Lieferanten",
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p>Bitte wählen Sie <strong>einen</strong> Lieferanten aus der folgenden Liste für das Screening aus.</p><p>                                                                     </p><p>Klicken Sie auf die Option ﻿↔﻿, um die Details eines passenden Lieferanten anzuzeigen.</p><p><br></p><p>Wählen Sie durch Anklicken des Optionsfelds den passenden Lieferanten aus.</p><p><span style=\\\"color: rgb(209, 52, 56);\\\">&nbsp;</span></p><h5>Sollten Sie den gewünschten Lieferanten nicht in der Liste finden, gehen Sie zurück und geben Sie weitere Informationen (z. B. Adresse oder DUNS-Nummer) zu dem gewünschten Lieferanten ein.&nbsp;</h5>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

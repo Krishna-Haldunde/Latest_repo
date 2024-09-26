@@ -1,0 +1,153 @@
+{
+  "--oroAI--": "ORO KI",
+  "--guidingYouToRightChannels--": "Auf Ihren Geschäftsvorgang bezogene Hilfe anfordern",
+  "--describeYourBusinessNeed--": "Beschreiben Sie Ihren Geschäftsbedarf...",
+  "--describeYourNeed--": "Beschreiben Sie Ihren Bedarf",
+  "--startNewRequest--": "Eine neue Anfrage starten",
+  "--enrichYourDescription--": "Ergänzen Sie Ihre Beschreibung mit Details wie geschätzte Ausgaben und Lieferanten (falls vorhanden)",
+  "--generating--": "Erzeugen",
+  "--searching--": "Suche läuft ...",
+  "--capturingResponse--": "Erfassen Ihrer Antwort",
+  "--close--": "Beenden",
+  "--describeYourBusinessNeedAi--": "Fangen wir an! Bitte beschreiben Sie Ihre geschäftlichen Anforderungen, einschließlich Budget, Spezifikationen und Zeitplan. (Je detaillierter die Angaben sind, desto besser sind die Empfehlungen.)",
+  "--uploadProposal--": "Vorschlag hochladen",
+  "--uploadDocumentAi--": "Haben Sie bereits einen Vorschlag? Hochladen, um alle Details zu extrahieren und KI die schwere Arbeit machen zu lassen",
+  "--uploadDocument--": "Dokument zum Extrahieren von Werten hochladen",
+  "--attach--": "Anhängen",
+  "--skipQuestion--": "Frage überspringen",
+  "--notSure--": "Sie wissen nicht, was Sie antworten sollen?",
+  "--comingSoon--": {
+    "--comingSoon--": "Demnächst verfügbar!",
+    "--primaryMessage--": "Wir arbeiten derzeit an dieser Anfrage, um Ihnen das beste Erlebnis zu bieten.",
+    "--secondaryMessage--": "Bitte wenden Sie sich mit kritischen Anliegen an die Experten."
+  },
+  "--tips--": {
+    "--hereAreExamples--": "Hier sind ein paar Beispiele für den Einstieg",
+    "--tip1--": "Kauf eines 3D-Druckers zur Herstellung von Arzneimittelproben für Forschung und Entwicklung mit einem geschätzten Budget von 20.000 $",
+    "--tip2--": "1000 maßgeschneiderte T-Shirts für eine Konferenz kaufen; Budget: 10.000 $",
+    "--tip3--": "Erstellung einer PO über 125.000 $ an Moving Brands für die Arbeit an einer kreativen Herbstkampagne"
+  },
+  "--category--": {
+    "--classifyingYourNeed--": "Ausgewählte Kategorie",
+     "--classifyYouNeedSoWeCanGuide--": "Wählen Sie die Kategorie, die Ihren Bedürfnissen am besten entspricht, um schnell die richtigen Lösungen für Sie zu finden."
+  },
+  "--supplier--": {
+    "--showMore--": "Mehr anzeigen",
+    "--showLess--": "Weniger anzeigen",
+    "--supplier--": "Lieferant",
+    "--duns--": "DUNS:",
+    "--select--": "Auswählen",
+    "--selectedSupplier--": "Ausgewählter Lieferant",
+    "--skipSupplierSelection--": "Lieferantenauswahl vorerst überspringen",
+    "--selectSupplier--": "Lieferantenauswahl ist erforderlich",
+    "--foundSomeSuppliers--": "Hier finden Sie einige empfohlene Lieferanten, die Ihren geschäftlichen Anforderungen entsprechen und die Ihre Bestellung beschleunigen werden.",
+    "--recentlyUsedFor--": "Kürzlich verwendet für:",
+    "--productUsedBy--": "{{product}} von {{user}} ({{department}})",
+    "--preferredFor--": "Bevorzugt für:",
+    "--multiple--": "Mehrere",
+    "--enterSupplierName--": "Name des Lieferanten eingeben",
+    "--weFoundMatches--": "Wir haben einige Treffer für „{{name}}“ gefunden – Bitte wählen Sie einen aus",
+    "--looksLikeNewSupplier--": "Es sieht so aus, als würden Sie mit einem neuen Lieferanten zusammenarbeiten.",
+    "--shareSupplierDetails--": "Bitte teilen Sie uns die folgenden Angaben zum Anbieter mit",
+    "--supplierName--": "Name des Lieferanten",
+    "--enterName--": "Namen eingeben",
+    "--nameIsRequired--": "Name ist erforderlich",
+    "--supplierContact--": "Lieferantenkontakt",
+    "--contractRequired--": "Kontakt ist erforderlich",
+    "--enterEmail--": "E-Mail-ID eingeben",
+    "--continue--": "Weiter",
+    "--searchSupplier--": "Mit welchem Lieferanten möchten Sie zusammenarbeiten?",
+    "--searchAnotherSupplier--": "Einen anderen Lieferanten suchen",
+    "--skipSelection--": "Lieferantenauswahl überspringen",
+    "--skipSuggestions--": "Vorschläge überspringen",
+    "--viewRecommendations--": "Empfehlungen anzeigen",
+    "--pleaseCompleteDetails--": "Bitte vervollständigen Sie die Angaben",
+    "--youAreWorkingWith--": "Es sieht so aus, als würden Sie mit einem <1>neuen Lieferanten</1> zusammenarbeiten.",
+    "--recentTransaction--": "Letzte Transaktionen",
+    "--vendorId--": "ID:",
+    "--wouldYouConsider--": "Möchten Sie für diesen Auftrag bevorzugte Lieferanten in Betracht ziehen?",
+    "--usingThemSaveTime--": "Mit ihnen sparen Sie Zeit und Geld.",
+    "--skippedSupplierSelection--": "- Lieferantenauswahl übersprungen -",
+    "--haveAnotherSupplier--": "Haben Sie einen Lieferanten im Sinn?",
+    "--search--": "Suche"
+  },
+  "--estimate--": {
+    "--estimateSpend--": "Ihre geschätzten Ausgaben",
+    "--pleaseConfirmEstimateSpend--": "Bitte bestätigen Sie Ihre geschätzten Ausgaben. So können wir Lösungen finden, die Ihrem Budget entsprechen.",
+    "--continue--": "Weiter"
+  },
+  "--buyingChannel--": {
+    "--basedOnNeedYouCanStartWith--": "Wir sind fast am Ziel! Je nach Bedarf empfehlen wir die folgenden nächsten Schritte",
+    "--select--": "Auswählen"
+  },
+  "--buyingChannelForm--": {
+    "--close--": "Schließen",
+    "--cancel--": "Abbrechen",
+    "--submit--": "Einreichen",
+    "--home--":"Startseite",
+    "--somethingWentWrong--": "Es ist ein Fehler aufgetreten ...",
+    "--notAbleToSubmit--": "Sie können im Moment keinen Antrag stellen. Sie können es manuell versuchen:",
+    "--clickHereToStart--": "Klicken Sie hier, um die Anfrage zu starten",
+    "--submittedSuccessfully--": "Ihre Anfrage wurde eingereicht.",
+    "--submittingYourRequest--": "Ich sende Ihre Anfrage. Bitte warten Sie ...",
+    "--loading--": "Lädt. Bitte warten Sie ...",
+    "--keepYouUpdated--": "Wir werden Sie über die nächsten Schritte auf dem Laufenden halten."
+  },
+  "--punchout--": {
+    "--basedOnNeedYouCanStartWith--": "Je nach Ihrem Bedarf können Sie möglicherweise mit folgenden Maßnahmen beginnen",
+    "--continueExploring--": "Weiter erkunden",
+    "--notTheResultYouLooking--": "Nicht das gewünschte Ergebnis?"
+  },
+  "--compliance--": {
+    "--continue--": "Weiter",
+    "--ComplianceQuestionnaire--": "Compliance-Fragebogen"
+  },
+  "--transactions--": {
+    "--details--": "EINZELHEITEN",
+    "--requester--": "ANTRAGSTELLER",
+    "--date--": "DATUM",
+    "--spend--": "AUSGABEN"
+  },
+  "--catalog--": {
+    "--weFoundSomeRecommendations--": "Wir sind fast am Ziel! Je nach Bedarf empfehlen wir die folgenden nächsten Schritte",
+    "--spendLimit--": "Ausgabenlimit:",
+    "--foundMatchingItems--": "Passende Artikel gefunden",
+    "--couldNotFindMatchingItems--": "Keine passenden Artikel gefunden",
+    "--noImageAvailable--": "Kein Bild verfügbar",
+    "--seeMore--": "Mehr anzeigen",
+    "--inMarketplace--": "für {{marketplaceName}}",
+    "--notTheResultYouLooking--": "Nicht das gewünschte Ergebnis?",
+    "--notApplicableContinueExploring--": "Weiter erkunden",
+    "--searchingForMatching--": "Suche nach passenden Artikeln",
+    "--goTo--": "Gehe zu {{name}}"
+  },
+  "--proposal--": {
+    "--capturedDetails--": "Erfasste Details aus der Anlage:",
+    "--reviewAndConfirmExtractedDetail--": "Überprüfen und bestätigen Sie die extrahierten Details auf ihre Richtigkeit, nachdem Sie Ihr Angebot hochgeladen haben.",
+    "--title--": "Titel",
+    "--description--": "Beschreibung",
+    "--agreementType--": "Art der Vereinbarung:",
+    "--contact--": "Kontakt",
+    "--region--": "Region",
+    "--paymentTerms--": "Zahlungsbedingungen",
+    "--amount--": "Betrag",
+    "--supplier--": "Lieferant",
+    "--continue--": "Weiter",
+    "--unableToExtractDetails--":"Wir sind derzeit nicht in der Lage, den Inhalt des Dokuments zu extrahieren.",
+    "--continueToProceed--":"Bitte klicken Sie auf „Weiter“, um fortzufahren"
+  },
+  "--po--": {
+    "--purchaseOrder--": "BESTELLUNGEN",
+    "--supplier--": "LIEFERANT",
+    "--requestor--": "ANTRAGSTELLER",
+    "--status--": "STATUS",
+    "--created--": "Erstellt:",
+    "--viewAll--": "Alle anzeigen",
+    "--overview--": "Hier ein Überblick über die Bestellung",
+    "--foundList--": "Hier ist die Liste der gefundenen Bestellungen"
+  },
+  "--generalchat--": {
+    "--note--": "PROFI-TIPP",
+    "--tip--": "Geben Sie Details zu Lieferant / Materialnummer / Rahmenvertragsnummer an, um bessere Ergebnisse zu erzielen."
+  }
+}

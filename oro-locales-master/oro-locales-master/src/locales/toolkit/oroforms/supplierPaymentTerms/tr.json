@@ -1,0 +1,15 @@
+{
+  "--paymentTerms--": "Ödeme koşulları",
+  "--select--": "Seç",
+  "--existingPaymentTerms--": "Mevcut ödeme koşulları",
+  "--recommendedPaymentTerms--": "Önerilen ödeme koşulları",
+  "--newPaymentTerms--": "Yeni ödeme koşulları",
+  "--recommendedPaymentTerm--": "Önerilen ödeme koşulları",
+  "--purchaseOrganisations--": "Satın alma organizasyonları",
+  "--companyEntity--": "Şirket varlığı",
+  "--thisWillBeCommonPaymentTermForSupplier--": "Bu, tedarikçi için olağan ödeme koşulu olacaktır",
+  "--supplierEnabledWithMultiplePaymentTerms--": "Tedarikçi çoklu ödeme koşullarıyla etkinleştirildi",
+  "--applicableForPurchaseOrgAndCompanyEntities--": "Aşağıdaki tüm satın alma kuruluşları ve şirket tüzel kişilikleri için geçerlidir",
+  "--applicableForPurchasOrg--": "Aşağıdaki tüm satın alma organizasyonları için geçerlidir",
+  "--applicableForCompanyEntities--": "Aşağıdaki tüm şirket tüzel kişilikleri için geçerlidir"
+}

@@ -1,0 +1,137 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Zusammenfassung der Due Diligence Prüfung",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Angewandter Due Diligence Prozess für Geschäftspartner",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 23,
+    "fieldName": null,
+    "name": "Sanktionsliste und negative Berichterstattung",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 34,
+    "fieldName": null,
+    "name": null,
+    "description": "<p><strong>Hinweis</strong>: Die erweiterte Due Diligence für Geschäftspartner kann auch angewendet werden, wenn die Ergebnisse der einfachen Due Diligence für Geschäftspartner ein hohes Risiko aufzeigen.</p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 31,
+    "fieldName": null,
+    "name": null,
+    "description": "<p>Status der automatisierten Prüfung von Sanktionslisten und negativer Berichterstattung: <strong style=\\\"color: rgb(0, 138, 0);\\\">Es wurden keine Übereinstimmungen gefunden</strong><strong></strong><strong style=\\\"color: rgb(0, 138, 0);\\\"></strong>.</p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 22,
+    "fieldName": null,
+    "name": null,
+    "description": "<p></span>Status der automatisierten Prüfung von Sanktionslisten<span style=\\\"color: rgb(62, 68, 86);\\\"><strong style=\\\"color: rgb(230, 0, 0);\\\">: Es wurden Übereinstimmungen gefunden</strong><span style=\\\"color: rgb(230, 0, 0);\\\">.</span></p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 27,
+    "fieldName": null,
+    "name": null,
+    "description": "<p>Status der automatisierten Prüfung von negativer Berichterstattung: <strong style=\\\"color: rgb(230, 0, 0);\\\">Es wurden Übereinstimmungen gefunden</strong><span style=\\\"color: rgb(230, 0, 0);\\\">.</span></p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 88,
+    "fieldName": "q88__p_Please_add_your_comments___",
+    "name": "<p>Kommentar der Beschaffungsstelle</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 13,
+    "fieldName": null,
+    "name": null,
+    "description": "<p><strong style=\\\"color: rgb(0, 138, 0);\\\">Die erweiterte Due Diligence für Geschäftspartner</strong> wurde auf der Grundlage der Angaben auf diesen Anbieter angewandt.</p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 16,
+    "fieldName": null,
+    "name": null,
+    "description": "<p><strong style=\\\"color: rgb(0, 138, 0);\\\">Die Due Diligence für Geschäftspartner</strong><strong> </strong> mit Bezug auf Umwelt, Soziales und Unternehmensführung wurde auf der Grundlage der Angaben auf diesen Anbieter angewandt.</p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": null,
+    "name": null,
+    "description": "<p><strong style=\\\"color: rgb(0, 138, 0);\\\">Die einfache Due Diligence für Geschäftspartner</strong> wurde auf der Grundlage der Angaben auf diesen Anbieter angewandt.</p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 91,
+    "fieldName": null,
+    "name": null,
+    "description": "<p>Auf der Grundlage der Angaben ist die <strong style=\\\"color: rgb(0, 138, 0);\\\"> Due Diligence für Geschäftspartner nicht angebracht. </strong></p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 48,
+    "fieldName": "q48__p__span_style__color__rgb_62_",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Bitte bestätigen Sie manuell, ob negative Berichterstattung gefunden wurde.</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "False hits": "Falsche Treffer",
+      "Found hits that are directly impacting the business relationship": "Gefundene Treffer, die direkte Auswirkungen auf die Geschäftsbeziehung haben",
+      "Found hits that are not impacting the business relationship directly": "Gefundene Treffer, die keine direkten Auswirkungen auf die Geschäftsbeziehung haben",
+      "No hits": "Keine Treffer"
+    },
+    "type": "field"
+  }
+]

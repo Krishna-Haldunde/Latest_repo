@@ -1,0 +1,10 @@
+{
+  "--selectCategory--": "Выберите категорию на основе краткого описания запроса",
+  "--hereAreSomeRecommendations--": "Вот некоторые рекомендации",
+  "--youCanSelectOptionOrManually--": "Вы можете выбрать один из вариантов или выполнить поиск вручную",
+  "--searchManually--": "Поиск вручную",
+  "--pleaseSelectCategory--": "Выберите категорию",
+  "--category--": "Категория",
+  "--categoryPlaceholder--": "Категория",
+  "--requestSummary--": "Краткое описание запроса"
+}

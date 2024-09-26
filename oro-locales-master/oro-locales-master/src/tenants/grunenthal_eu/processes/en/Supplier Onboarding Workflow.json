@@ -1,0 +1,92 @@
+[
+  {
+    "id": null,
+    "name": "Supplier Onboarding Workflow",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 109,
+    "name": "Procurement Center Review",
+    "type": null,
+    "description": "Procurement centre review of request, prior to supplier questionnaire being sent"
+  },
+  {
+    "id": 136,
+    "name": "Notify requester to complete applicable steps",
+    "type": null,
+    "description": "Please the complete EHS / Animal Welfare if applicable. "
+  },
+  {
+    "id": 144,
+    "name": "Notify Global External supply team on GxP process",
+    "type": null,
+    "description": "A new GxP relevant supplier is currently being onboarded.\n\nFor more details, please reach out to the Requester"
+  },
+  {
+    "id": 122,
+    "name": "Supplier questionnaire, compliance checks and Payment terms (Non-standard) approval",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 120,
+    "name": "Third party due diligence",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 129,
+    "name": "Non-standard payment term approval",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 140,
+    "name": "IT Assessment Results",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 127,
+    "name": "Requester confirmation for other onboarding processes",
+    "type": null,
+    "description": "You are required to complete the EHS onboarding questionnaire/Animal welfare compliance activities before the supplier can be fully onboarded."
+  },
+  {
+    "id": 162,
+    "name": "Supplier onboarding on hold as information security assessment result not approved",
+    "type": null,
+    "description": "Please be informed that Supplier onboarding on hold as information security "
+  },
+  {
+    "id": 163,
+    "name": "Collect summary",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 164,
+    "name": null,
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 155,
+    "name": "Vendor master data review",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 156,
+    "name": "IT Assessment Confirmation",
+    "type": null,
+    "description": "Please confirm that the Status of IT Supplier based on Information Security Assessment result is 'Approved' as it was put on Hold. "
+  },
+  {
+    "id": 56,
+    "name": "Vendor Creation ",
+    "type": null,
+    "description": null
+  }
+]

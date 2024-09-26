@@ -1,0 +1,72 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Résultat de la diligence raisonnable à l’égard des tiers",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 5,
+    "fieldName": null,
+    "name": "Détails de la documentation du fournisseur",
+    "description": "Validation du nom du fournisseur (identification du fournisseur) par rapport au nom du titulaire du compte bancaire (informations de paiement) pour déclencher un risque moyen en cas de non-concordance. \nValidation du pays du fournisseur (identification du fournisseur) par rapport au pays du compte bancaire (informations de paiement) pour déclencher un risque moyen en cas de non-concordance. Ceux-ci seront extraits pour ajouter une entrée dans le formulaire de score de risque. Cela se fait par le biais d’une recette Workato.",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 23,
+    "fieldName": "isVendorCountryMismatched",
+    "name": "<p>Le pays du fournisseur (formulaire Informations sur l'entreprise) et le pays du compte bancaire (formulaire Informations sur le paiement) sont-ils différents ?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 21,
+    "fieldName": "isVendorNameMismatched",
+    "name": "<p>Le nom du fournisseur (formulaire Informations sur l'entreprise) et le nom du titulaire du compte bancaire (formulaire Informations sur le paiement) sont-ils différents ?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "_p_Risk_Level__p_",
+    "name": "<p>Niveau de risque</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 16,
+    "fieldName": "invoiceCurrency",
+    "name": "<p>Devise de la facture</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

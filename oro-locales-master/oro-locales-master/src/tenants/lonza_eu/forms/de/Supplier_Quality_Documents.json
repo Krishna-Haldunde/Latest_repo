@@ -1,0 +1,62 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Dokumente zur Lieferantenqualifizierung",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Formulare zum Herunterladen",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 15,
+    "fieldName": "InstructionsForDownload",
+    "name": null,
+    "description": "\"<p><strong><em>Bitte füllen Sie das beigefügte Formular aus, unterschreiben Sie es und laden Sie das ausgefüllte Formular als PDF hoch</em></strong></p> \"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "scdForSupplier",
+    "name": "<p>Supply-Chain-Erklärung herunterladen</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 12,
+    "fieldName": "q12__p_Download_SCD_Form_for_QA__p",
+    "name": "<p>Supply-Chain-Erklärung für Qualitätsbewertung herunterladen</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 10,
+    "fieldName": "q10__p_Download_Client_Qualificati",
+    "name": "<p>Kundenqualifizierung herunterladen</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

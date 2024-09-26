@@ -1,0 +1,14 @@
+[
+  {
+    "id": null,
+    "name": "Payment Terms Approval for Reactivation",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 2,
+    "name": "Payment Terms Approval by Global P2P",
+    "type": null,
+    "description": null
+  }
+]

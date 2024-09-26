@@ -1,0 +1,153 @@
+{
+  "--oroAI--": "ORO AI",
+  "--guidingYouToRightChannels--": "お客様のビジネスニーズに合ったガイド付きサポートをご利用ください。",
+  "--describeYourBusinessNeed--": "ビジネスニーズを説明してください...",
+  "--describeYourNeed--": "あなたのニーズを記述する",
+  "--startNewRequest--": "新しい要求を開始",
+  "--enrichYourDescription--": "推定支出額やサプライヤー（該当する場合）などの詳細を入力して情報を充実させてください。",
+  "--generating--": "生成",
+  "--searching--": "検索中",
+  "--capturingResponse--": "あなたの応答を取り込んでいます",
+  "--close--": "終了",
+  "--describeYourBusinessNeedAi--": "始めましょう！ご予算、仕様、スケジュールなど、ビジネスニーズについてお聞かせください。(提供される情報が詳しいほど、推奨内容は良くなります）。",
+  "--uploadProposal--": "提案書をアップロード",
+  "--uploadDocumentAi--": "すでに提案がありますか？アップロードして詳細をすべて抽出し、AIに面倒な作業を任せます",
+  "--uploadDocument--": "ドキュメントをアップロードして値を抽出する",
+  "--attach--": "添付ファイル",
+  "--skipQuestion--": "質問をスキップする",
+  "--notSure--": "何を答えたらいいかわからない？",
+  "--comingSoon--": {
+    "--comingSoon--": "もうすぐです！",
+    "--primaryMessage--": "現在、皆様に最高の体験を提供するため、この要求に取り組んでいます。",
+    "--secondaryMessage--": "重要なことであれば、専門家にご相談ください。"
+  },
+  "--tips--": {
+    "--hereAreExamples--": "ここでは、その使用を開始するための例をいくつか紹介します",
+    "--tip1--": "研究開発用の医薬品サンプルを作るための3Dプリンターを2万ドルの推定予算で購入する",
+    "--tip2--": "1万ドルの予算で会議イベント用にカスタマイズされたTシャツを1000枚購入する",
+    "--tip3--": "Moving Brandsと12万5千ドルの注文書を作成し、秋のキャンペーンに向けたクリエイティブな作業に取り組みむ"
+  },
+  "--category--": {
+    "--classifyingYourNeed--": "選択したカテゴリー",
+     "--classifyYouNeedSoWeCanGuide--": "お客様のニーズに最も適したカテゴリーを選択して、最適なソリューションを素早く見つけてください。"
+  },
+  "--supplier--": {
+    "--showMore--": "詳細表示",
+    "--showLess--": "詳細非表示",
+    "--supplier--": "サプライヤー",
+    "--duns--": "DUNS：",
+    "--select--": "選択",
+    "--selectedSupplier--": "選択したサプライヤー",
+    "--skipSupplierSelection--": "今はサプライヤー選定をスキップする",
+    "--selectSupplier--": "サプライヤーの選定が必要です",
+    "--foundSomeSuppliers--": "ここでは、あなたのビジネスニーズにマッチする推奨サプライヤーをいくつかご紹介します。注文の迅速な追跡にお役立てください。",
+    "--recentlyUsedFor--": "最近使用した用途：",
+    "--productUsedBy--": "{{user}} ({{department}}) 別{{product}}",
+    "--preferredFor--": "推奨用途：",
+    "--multiple--": "複数",
+    "--enterSupplierName--": "サプライヤー名を入力",
+    "--weFoundMatches--": "{{name}}' に一致する情報が見つかりました。1つ選択してください",
+    "--looksLikeNewSupplier--": "新しいサプライヤーと仕事をしているようですね。",
+    "--shareSupplierDetails--": "以下のサプライヤーの詳細を教えてください。",
+    "--supplierName--": "サプライヤー名",
+    "--enterName--": "名称を入力",
+    "--nameIsRequired--": "名前は必須です",
+    "--supplierContact--": "サプライヤーの連絡先",
+    "--contractRequired--": "担当者名は必須です",
+    "--enterEmail--": "メールIDを入力",
+    "--continue--": "続行",
+    "--searchSupplier--": "どのサプライヤーと仕事をしたいですか？",
+    "--searchAnotherSupplier--": "他のサプライヤーを検索する",
+    "--skipSelection--": "サプライヤー選定をスキップする",
+    "--skipSuggestions--": "提案をスキップ",
+    "--viewRecommendations--": "お勧めを表示",
+    "--pleaseCompleteDetails--": "詳細をご記入ください",
+    "--youAreWorkingWith--": "<1>新しいサプライヤー</1>と協力しているようですね。",
+    "--recentTransaction--": "最近の取引",
+    "--vendorId--": "ID：",
+    "--wouldYouConsider--": "本契約に優先サプライヤーの利用を検討しますか？",
+    "--usingThemSaveTime--": "そうすれば、時間とお金の節約になります",
+    "--skippedSupplierSelection--": "- サプライヤー選定をスキップ -",
+    "--haveAnotherSupplier--": "サプライヤーはお決まりですか？",
+    "--search--": "検索"
+  },
+  "--estimate--": {
+    "--estimateSpend--": "推定支出",
+    "--pleaseConfirmEstimateSpend--": "推定金額をご確認ください。これにより、お客様のご予算に適したソリューションを見つけることができます。",
+    "--continue--": "続行"
+  },
+  "--buyingChannel--": {
+    "--basedOnNeedYouCanStartWith--": "あと少しです！お客様のニーズに基づいて、次のステップとして以下をお勧めします。",
+    "--select--": "選択"
+  },
+  "--buyingChannelForm--": {
+    "--close--": "閉じる",
+    "--cancel--": "キャンセル",
+    "--submit--": "送信",
+    "--home--":"ホーム",
+    "--somethingWentWrong--": "問題が発生しました。",
+    "--notAbleToSubmit--": "現在、リクエストを送信できません。手動で試すことができます：",
+    "--clickHereToStart--": "リクエストを開始するには、ここをクリックしてください",
+    "--submittedSuccessfully--": "リクエストが送信されました。",
+    "--submittingYourRequest--": "リクエストを送信しています。しばらくお待ちください",
+    "--loading--": "読み込み中...お待ちください...",
+    "--keepYouUpdated--": "次のステップについては、随時お知らせ致します。"
+  },
+  "--punchout--": {
+    "--basedOnNeedYouCanStartWith--": "お客様のニーズに基づいて、次のような方法で始めることができます。",
+    "--continueExploring--": "探索を続ける",
+    "--notTheResultYouLooking--": "お探しの結果ではありませんか？"
+  },
+  "--compliance--": {
+    "--continue--": "続行",
+    "--ComplianceQuestionnaire--": "コンプライアンス調査票"
+  },
+  "--transactions--": {
+    "--details--": "詳細",
+    "--requester--": "要求者",
+    "--date--": "日付",
+    "--spend--": "支出"
+  },
+  "--catalog--": {
+    "--weFoundSomeRecommendations--": "あと少しです！お客様のニーズに基づいて、次のステップとして以下をお勧めします。",
+    "--spendLimit--": "支出限度額：",
+    "--foundMatchingItems--": "一致する項目が見つかりました",
+    "--couldNotFindMatchingItems--": "一致する項目は見つかりませんでした",
+    "--noImageAvailable--": "画像がありません",
+    "--seeMore--": "続きを見る",
+    "--inMarketplace--": "{{marketplaceName}}で",
+    "--notTheResultYouLooking--": "お探しの結果ではありませんか？",
+    "--notApplicableContinueExploring--": "探索を続ける",
+    "--searchingForMatching--": "一致する項目を検索",
+    "--goTo--": "{{name}}に移動"
+  },
+  "--proposal--": {
+    "--capturedDetails--": "添付ファイルから抽出された詳細：",
+    "--reviewAndConfirmExtractedDetail--": "見積りをアップロードした後、抽出された詳細が正確であることを確認してください。",
+    "--title--": "タイトル",
+    "--description--": "説明",
+    "--agreementType--": "契約タイプ",
+    "--contact--": "担当者",
+    "--region--": "地域",
+    "--paymentTerms--": "支払条件",
+    "--amount--": "金額",
+    "--supplier--": "サプライヤー",
+    "--continue--": "続行",
+    "--unableToExtractDetails--":"現在、文書の内容を抽出できません。",
+    "--continueToProceed--":"「続行」をクリックしてください。"
+  },
+  "--po--": {
+    "--purchaseOrder--": "注文書",
+    "--supplier--": "サプライヤー",
+    "--requestor--": "要求者",
+    "--status--": "ステータス",
+    "--created--": "作成日：",
+    "--viewAll--": "すべて表示",
+    "--overview--": "注文書の概要は次のとおりです",
+    "--foundList--": "検索した注文書のリストは次のとおりです"
+  },
+  "--generalchat--": {
+    "--note--": "プロからのアドバイス",
+    "--tip--": "より良い結果を得るために、サプライヤー／材料番号／概要契約番号の詳細を含める"
+  }
+}

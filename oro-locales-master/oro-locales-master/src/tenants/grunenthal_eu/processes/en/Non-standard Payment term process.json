@@ -1,0 +1,26 @@
+[
+  {
+    "id": null,
+    "name": "Non-standard Payment term process",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 4,
+    "name": "Non-standard payment term approval",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 7,
+    "name": "Head of Procurement Area",
+    "type": null,
+    "description": "Please approve the non-standard payment term accepted by the Procurement Center"
+  },
+  {
+    "id": 9,
+    "name": "Head of Invoicing Area",
+    "type": null,
+    "description": "Please approve the non-standard payment term accepted by the Procurement Center"
+  }
+]

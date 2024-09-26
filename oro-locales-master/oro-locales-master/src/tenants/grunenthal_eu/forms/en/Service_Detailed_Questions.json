@@ -1,0 +1,82 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Compliance Check",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Compliance Service Questions",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 19,
+    "fieldName": "q19__p_None_of_these_situations_ap",
+    "name": "<p>None of these situations apply.</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 22,
+    "fieldName": "q22__p_Services_that_exposes_the_v",
+    "name": "<p>Services that exposes the vendor to any potential Adverse Event reporting situations, such as Market Research and Patient Support Program (MAP), Exploratory Data Analysis (EDA), Non-MAP/Other Data Related, Non-Interventional Study (NIS).</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 25,
+    "fieldName": "q25__p_Commercial_activities_invol",
+    "name": "<p>Commercial activities involving competitive intelligence, public relations, or primary market research.</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": "q7__p_Sending_or_receiving_person",
+    "name": "<p>Sending or receiving personally identifiable information (PII) (e.g. protected health information (PHI), or information regarding individual employee(s) information, vendor(s) or consultant(s).</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "iHCP_iROME",
+    "name": "<p>Services, payment/transfer of value(s), directly or indirectly, with any Healthcare Provider, including physicians, nurses, pharmacists, hospitals or other healthcare organizations, and patients or their advocates, whether direct or indirect, through a vendor or otherwise (except for US Commercial: M&amp;CS preferred logistics vendors).</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 10,
+    "fieldName": "q10__p_Services_or_activities_rela",
+    "name": "<p>Services or activities relating to or involving (a) hazardous waste or materials; (b) ecological, environmental, toxicological or human health assessments or studies; or (c) other environmental, health &amp; safety (EHS) related matters</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

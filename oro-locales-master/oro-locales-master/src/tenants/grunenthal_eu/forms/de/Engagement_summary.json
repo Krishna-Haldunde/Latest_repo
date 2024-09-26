@@ -1,0 +1,252 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Zusammenfassung der Beauftragung",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 8,
+    "fieldName": null,
+    "name": "Details zum Anbieter",
+    "description": "",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 36,
+    "fieldName": null,
+    "name": "Due Diligence Prozess für Geschäftspartner",
+    "description": "",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 68,
+    "fieldName": null,
+    "name": "",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 58,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 72,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 26,
+    "fieldName": "indirectTax",
+    "name": "<p>Umsatzsteuer-Identifikationsnummer</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "requestType",
+    "name": "<p>Art der Antrags</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 57,
+    "fieldName": "vendorNumber",
+    "name": "<p>Kennnummer des Anbieters</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 17,
+    "fieldName": "language",
+    "name": "<p>Sprache</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 23,
+    "fieldName": "currency",
+    "name": "<p>Währung</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 29,
+    "fieldName": "directTax",
+    "name": "<p>Steuernummer</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 61,
+    "fieldName": "helpText",
+    "name": null,
+    "description": "<p><span style=\\\"color: rgb(62, 68, 86);\\\">Hinweis: Der Anbieter wird </span><span style=\\\"color: rgb(0, 138, 0);\\\">aktualisiert</span><span style=\\\"color: rgb(102, 185, 102);\\\"> </span><span style=\\\"color: rgb(62, 68, 86);\\\">, sobald der Antrag genehmigt ist.</span></p>",
+    "helpText": "<p><span style=\"color: rgb(62, 68, 86);\">Hinweis: Bitte fragen Sie bei der zuständigen Person nach, wenn die Informationen nicht korrekt sind, bevor Sie sie bestätigen.</span></p>",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 64,
+    "fieldName": "address",
+    "name": "<p><span style=\"color: rgb(32, 33, 36);\">Adresse</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 67,
+    "fieldName": "email",
+    "name": "<p>E-Mail-Adresse</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 71,
+    "fieldName": "companyEntityDataList",
+    "name": "<p>Details zur Geschäftseinheit</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 75,
+    "fieldName": "bankDetails",
+    "name": "<p>Bankverbindung</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": "engagementNumber",
+    "name": "<p>Engagement-Nummer</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 20,
+    "fieldName": "industry",
+    "name": "<p>Branche</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 45,
+    "fieldName": "tpddNotRequired",
+    "name": "<p>Due Diligence für Geschäftspartner nicht erforderlich</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 42,
+    "fieldName": "tpddType",
+    "name": "<p>Art der Due Diligence für Geschäftspartner</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 48,
+    "fieldName": "tpddDate",
+    "name": "<p>Datum Due Diligence</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 51,
+    "fieldName": "riskLevel",
+    "name": "<p>Risikokategorie</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 11,
+    "fieldName": "name",
+    "name": "<p>Name</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

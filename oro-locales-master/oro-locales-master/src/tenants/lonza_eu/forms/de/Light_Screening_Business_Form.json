@@ -1,0 +1,76 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Geschäftsformular zur Überprüfung potenzieller Lieferanten",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Screening-Details",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 13,
+    "fieldName": "screeningType",
+    "name": "<p>Welche Art von Screening möchten Sie durchführen?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "D&B": "D&B",
+      "Ecovadis": "EcoVadis",
+      "Both": "Beide"
+    },
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": "businessJustification",
+    "name": "<p>Geschäftliche Begründung</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "screeningTitle",
+    "name": "<p>Titel</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 19,
+    "fieldName": "supplierStatus",
+    "name": "<p>Status des Lieferanten</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 10,
+    "fieldName": "category",
+    "name": "<p>Kategorie</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

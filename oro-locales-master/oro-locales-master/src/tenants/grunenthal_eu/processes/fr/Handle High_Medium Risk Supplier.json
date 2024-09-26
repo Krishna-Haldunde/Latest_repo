@@ -1,0 +1,44 @@
+[
+  {
+    "id": null,
+    "name": "Gérer les fournisseurs à risque élevé_moyen",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 13,
+    "name": "Approbation du responsable hiérarchique",
+    "type": null,
+    "description": "Veuillez confirmer si vous approuvez ce fournisseur à risque moyen."
+  },
+  {
+    "id": 15,
+    "name": "Approbation de la conformité locale",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 2,
+    "name": "Approbation de la conformité locale",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 14,
+    "name": "Approbation de la conformité locale",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 3,
+    "name": "Approbation de la conformité mondiale",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 18,
+    "name": "Finaliser le TPDD",
+    "type": null,
+    "description": null
+  }
+]

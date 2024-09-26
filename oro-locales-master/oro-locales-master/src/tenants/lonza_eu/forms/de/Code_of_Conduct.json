@@ -1,0 +1,44 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Verhaltenskodex",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 44,
+    "fieldName": null,
+    "name": "",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 14,
+    "fieldName": "null_1_",
+    "name": "null(1)",
+    "description": "\"<p><strong><em>Ich bestätige und stimme zu, dass unser Unternehmen zu jeder Zeit den\\“</em></strong><a href=\\\"https://www.lonza.com/public/supplier-code-of-conduct\\\" rel=\\\"noopener noreferrer\\\" target=\\\"_blank\\\"><strong><em>Lonzas Verhaltenskodex für Lieferanten</em></strong></a><strong><em>\\\"</em></strong></p>befolgen wird\"",
+    "helpText": "<p><a href=\"https://www.lonza.com/public/supplier-code-of-conduct\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.lonza.com/public/supplier-code-of-conduct</a></p>",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 34,
+    "fieldName": "acceptSupplierCode",
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Accept": "Akzeptieren"
+    },
+    "type": "field"
+  }
+]

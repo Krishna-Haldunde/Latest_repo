@@ -1,0 +1,18 @@
+{
+  "--howToCreateVendorRecord--": "Satıcı kaydı nasıl oluşturulur?",
+  "--vendorRecordInfo--": "Satıcı kayıt bilgileri",
+  "--primaryBusinessEntity--": "Birincil tüzel kişilik",
+  "--choose--": "Seçin",
+  "--additionalBusinessEntity--": "Ek tüzel kişilik",
+  "--eligible--": "1099 için uygun",
+  "--no--": "Hayır",
+  "--yes--": "Evet",
+  "--syncToProcurify--": "Procurify ile senkronize edin",
+  "--paymentTerms--": "Ödeme koşulları",
+  "--primaryCurrency--": "Birincil para birimi",
+  "--defaultExpenseAccount--": "Varsayılan gider hesabı",
+  "--supplierClassification--": "Tedarikçi sınıflandırması",
+  "--vendorID--": "Satıcı Kimliği",
+  "--requiredField--": "{{name}} zorunlu bir alandır.",
+  "--apReviewOutcome--": "AP inceleme sonucu"
+}

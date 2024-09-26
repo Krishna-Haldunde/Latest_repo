@@ -1,0 +1,333 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Procurement Center Review",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 204,
+    "fieldName": null,
+    "name": "Supplier Block",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 138,
+    "fieldName": null,
+    "name": "Vendor Classification",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 131,
+    "fieldName": null,
+    "name": "Supplier Extension",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 189,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 92,
+    "fieldName": null,
+    "name": "Non-standard Payment Term Review",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 88,
+    "fieldName": "q88__p_Reason_for_non_standard_pay",
+    "name": "<p>Reason for non-standard payment term entered by the requestor </p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 115,
+    "fieldName": "q115__p__span_style__color__rgb_62_",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Applicable non-standard payment term</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 130,
+    "fieldName": "q130__p__span_style__color__rgb_62_",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Is IT demand (Hidden)</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 175,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><strong style=\\\"background-color: rgb(255, 255, 0);\\\">Note: </strong>You will not be allowed to submit this task before selecting confirmed above.&nbsp;Please get clarifications from the requester by following the below steps: </p><ol><li>Click '<em>Request info</em>' and choose '<em>Requester</em>' </li><li>Click '<em>Share Request Forms</em>' and select the form '<em>Payment Term Details</em>' </li></ol>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 162,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><strong style=\\\"color: rgb(62, 68, 86);\\\">Note:</strong><span style=\\\"color: rgb(62, 68, 86);\\\"> Please initiate TPDD renewal for this vendor before completing the Vendor Extension. </span></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 168,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><strong>Note:</strong> By <span style=\\\"color: rgb(62, 68, 86);\\\">default all extensions are done at the Company Entity and Purchase Org level</span></p><p><span style=\\\"color: rgb(34, 34, 34);\\\">Please approve if the information is correct. If any of the information is incorrect, please deny or send back to the requester to correct.</span></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 13,
+    "fieldName": "_p_Update_business_need___p_",
+    "name": "<p>Product/Service description </p>",
+    "description": "Note: You can 'Request info' from Requester to update the Product/Service description or you can update it above by yourself.",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 109,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><strong style=\\\"background-color: rgb(255, 255, 0);\\\">Note:</strong><span style=\\\"color: rgb(62, 68, 86);\\\"> The Request will now proceed for approval from Head of Procurement area /Head of Accounts payable</span></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 10,
+    "fieldName": "q10__p_Is_the_business_need_adequa",
+    "name": "<p>Please confirm if the<span style=\"color: rgb(62, 68, 86);\"> Product/Service description </span>provided by the requester is complete?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Confirmed": "Confirmed"
+    },
+    "type": "field"
+  },
+  {
+    "id": 165,
+    "fieldName": "q165__p__span_style__color__rgb_255",
+    "name": "<p><br></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Do not extend to the Purchase Organizations of the entities": "Do not extend to the Purchase Organizations of the entities"
+    },
+    "type": "field"
+  },
+  {
+    "id": 82,
+    "fieldName": "q82__p_Is_the_reason_for_using_non",
+    "name": "<p>Please confirm if the reason for using non-standard payment term is <span style=\"color: rgb(62, 68, 86);\">valid</span>?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Confirmed": "Confirmed"
+    },
+    "type": "field"
+  },
+  {
+    "id": 172,
+    "fieldName": "applicablePaymentTerm",
+    "name": "<p>Please select the applicable payment term.</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 185,
+    "fieldName": "q185__p_Please_confirm_the_Primary_",
+    "name": "<p>Please confirm the Primary Business Entity selected</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 180,
+    "fieldName": "q180__p__span_style__color__rgb_62_",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Additional Grünenthal Business entities included.</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 137,
+    "fieldName": "q137__p__span_style__color__rgb_62_",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">TPDD expiration Date</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 156,
+    "fieldName": "q156__p_Would_you_like_to_continue_",
+    "name": "<p>Please confirm if you would like to continue with the Vendor Extension Process</p>",
+    "description": null,
+    "helpText": "<p>Please click on 'Deny' at the bottom of the form if you do not wish to continue with this Vendor Extension</p>",
+    "listItemPrefix": null,
+    "choices": {
+      "Confirmed": "Confirmed"
+    },
+    "type": "field"
+  },
+  {
+    "id": 144,
+    "fieldName": "q144__p_Company_Entity_the_vendor_i",
+    "name": "<p>Company Entity the vendor is being requested for extension</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 192,
+    "fieldName": "CompEntiUpdate",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Please confirm the Business Entity/s selected for update</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 194,
+    "fieldName": "noTPDDMessage",
+    "name": "<p>No TPDD available</p>",
+    "description": "\"<p>No TPDD available</p><p><br></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 203,
+    "fieldName": "q203__p__span_style__color__rgb_62_",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Supplier documents filled by the Requester (Hidden)</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 197,
+    "fieldName": "DocColReq",
+    "name": "<p>Please confirm if the supplier documents should be filled by the requester instead of being shared with the supplier. </p><p><br></p><p><span style=\"background-color: rgb(255, 255, 0);\">Note:</span> The requester option should be used only in case of non-responsiveness from the supplier.</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Requester": "Requester",
+      "Supplier": "Supplier"
+    },
+    "type": "field"
+  },
+  {
+    "id": 26,
+    "fieldName": "_p_Confirm_the_category__p_",
+    "name": "<p>Please confirm the Primary category selected</p>",
+    "description": "Note: if the primary category selected is not level 3, please choose a level 3 category.",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 170,
+    "fieldName": "vendorClassification",
+    "name": "<p>Select the applicable vendor classification</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 207,
+    "fieldName": "blockComment",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Reason for block</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 210,
+    "fieldName": "blockStatus",
+    "name": "<p>Current status</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

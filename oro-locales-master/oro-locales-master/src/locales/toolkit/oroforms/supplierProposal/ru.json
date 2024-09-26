@@ -1,0 +1,21 @@
+{
+  "--uploadQuoteProposal--": "Загрузить предложение",
+  "--ifYouHaveProposalQuoteAttachmentPleaseUploadHere--": "Если нужно прикрепить к предложению файлы, загрузите их здесь.",
+  "--supportedFormats--": "Поддерживаемые форматы:",
+  "--upload--": "Загрузить",
+  "--proposalDetails--": "Детали предложения",
+  "--pleaseEnsureTheDetailsAreCorrect--": "Убедитесь, что заполненные данные верны и соответствуют загруженному документу",
+  "--supplierLegalName--": "Юридическое имя поставщика",
+  "--description--": "Описание предложения",
+  "--deliveryDate--": "Дата доставки",
+  "--totalAmount--": "Итого",
+  "--supplierCountry--": "Страна поставщика",
+  "--paymentTerm--": "Условия оплаты",
+  "--edit--": "Редактировать",
+  "--save--": "Сохранить",
+  "--confirm--": "Подтвердить",
+  "--proposal--": "Предложение",
+  "--weExtractedFollowingDetailsFromYourProposal--": "Из вашего предложения мы извлекли следующие сведения",
+  "--previewNotAvailable--": "Предварительный просмотр недоступен",
+  "--thereAreSomeErrorsInForm--": "В форме есть ошибки. Проверьте данные"
+}

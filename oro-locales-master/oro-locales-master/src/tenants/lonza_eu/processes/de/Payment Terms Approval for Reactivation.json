@@ -1,0 +1,14 @@
+[
+  {
+    "id": null,
+    "name": "Genehmigung der Zahlungsbedingungen für die Reaktivierung",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 2,
+    "name": "Genehmigung der Zahlungsbedingungen durch Global P2P",
+    "type": null,
+    "description": null
+  }
+]

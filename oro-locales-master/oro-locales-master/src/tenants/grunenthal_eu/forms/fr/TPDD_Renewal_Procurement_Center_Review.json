@@ -1,0 +1,72 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Renouvellement de la diligence raisonnable à l’égard des tiers_Examen de la centrale d'achat",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 7,
+    "fieldName": "q7__p_Please_justify_your_answer_",
+    "name": "<p>Veuillez justifier votre réponse.</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 13,
+    "fieldName": "q13__p_TPDD_renewal_denied__Hidden",
+    "name": "<p>Renouvellement de la diligence raisonnable à l’égard des tiers refusé (masqué)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 10,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\">Puisque vous avez choisi d'arrêter le processus, celui-ci ne se poursuivra pas. </strong></p><p><br></p><p><strong style=\\\"color: rgb(230, 0, 0);\\\">Veuillez réfléchir à l’opportunité de bloquer le fournisseur. </strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 19,
+    "fieldName": "q19__p_The_Sourcing_Manager_has_st",
+    "name": "<p>Le responsable des achats a interrompu le processus de renouvellement de la diligence raisonnable à l’égard des tiers pour ce fournisseur pour la raison suivante. </p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "q4__p_Do_you_want_to_proceed_with",
+    "name": "<p>Souhaitez-vous procéder au renouvellement de la diligence raisonnable à l’égard des tiers ?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

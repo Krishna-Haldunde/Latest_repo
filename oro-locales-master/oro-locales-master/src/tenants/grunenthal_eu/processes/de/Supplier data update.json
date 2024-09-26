@@ -1,0 +1,92 @@
+[
+  {
+    "id": null,
+    "name": "Aktualisierung von Lieferantendaten",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 31,
+    "name": "Kontakte laden",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 27,
+    "name": "Lieferanten-Kontaktdetails",
+    "type": null,
+    "description": "Bitte vervollständigen Sie gegebenenfalls die Kontakte für den Lieferanten!"
+  },
+  {
+    "id": 33,
+    "name": "Lieferantenfragebogen",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 35,
+    "name": "Informationen zum Unternehmen",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 37,
+    "name": "Zahlungsdetails",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 39,
+    "name": "Kontaktdetails",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 40,
+    "name": "Vom Lieferanten eingereichte Dokumente",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 30,
+    "name": "Prüfungspunkte laden",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 9,
+    "name": "Überprüfung durch Beschaffungsstelle",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 14,
+    "name": "Prozess nicht standardisierter Zahlungsbedingung_Verlängerung",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 32,
+    "name": "Syniti-Anfrage",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 24,
+    "name": "Lieferantenaktualisierung im SAP-System - Bestätigung",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 22,
+    "name": "Lieferantenaktualisierung im SAP-System - Bestätigung",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 23,
+    "name": "Lieferantenaktualisierung im SAP-System - Bestätigung",
+    "type": null,
+    "description": null
+  }
+]

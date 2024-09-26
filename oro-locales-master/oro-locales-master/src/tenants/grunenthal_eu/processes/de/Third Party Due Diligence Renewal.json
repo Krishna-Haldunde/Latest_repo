@@ -1,0 +1,116 @@
+[
+  {
+    "id": null,
+    "name": "Erneuerung der Due Diligence für Geschäftspartner",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 2,
+    "name": "Lieferantendaten abrufen",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 3,
+    "name": "Überprüfung durch Beschaffungsmanager",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 4,
+    "name": "Überprüfung durch Beschaffungsstelle",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 7,
+    "name": "Benachrichtigung über die Genehmigung der Due Diligence für Geschäftspartner",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 5,
+    "name": "An Beschaffungsmanager ",
+    "type": null,
+    "description": "Ihre TPDD-Verlängerung wurde genehmigt"
+  },
+  {
+    "id": 6,
+    "name": "An Antragsteller ",
+    "type": null,
+    "description": "Ihre TPDD-Verlängerung wurde genehmigt"
+  },
+  {
+    "id": 10,
+    "name": "Zutreffende Due Diligence für Geschäftspartner suchen",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 11,
+    "name": "Unternehmensinformationen und Due Diligence für Geschäftspartner",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 13,
+    "name": "Zahlungsdetails",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 15,
+    "name": "Informationen zu den Gesellschaftern",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 17,
+    "name": "Kontaktdetails",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 19,
+    "name": "Due Diligence Fragebogen",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 21,
+    "name": "Datenschutzerklärung",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 22,
+    "name": "Due Diligence und Risikobewertung",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 23,
+    "name": "Umgang mit Lieferanten mit hohem_mittlerem Risiko",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 24,
+    "name": "Lieferanten sperren",
+    "type": null,
+    "description": "Da das Global-Compliance-Team die Due-Diligence-Prüfung eines Hochrisiko-Lieferanten nicht durchführen möchte, sperren Sie den Lieferanten bitte in SAP"
+  },
+  {
+    "id": 25,
+    "name": "Überprüfung der Lieferantenstammdaten",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 26,
+    "name": "Bewertungsdatensatz in Syniti aktualisieren ",
+    "type": null,
+    "description": null
+  }
+]

@@ -1,0 +1,188 @@
+[
+  {
+    "id": null,
+    "name": "TPDD Renewal",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 10,
+    "name": "Load existing vendor",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 94,
+    "name": "Load Contacts",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 73,
+    "name": "Find Applicable TPDD",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 57,
+    "name": "Collect supplier documents",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 100,
+    "name": "Company information",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 122,
+    "name": "Payment details",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 124,
+    "name": "Contact Details",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 126,
+    "name": "Shareholder information",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 128,
+    "name": "Third Party Due Diligence Questionnaire",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 132,
+    "name": "Code of Conduct for Grünenthal’s Business Partners",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 134,
+    "name": "Declaration",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 135,
+    "name": "Collect supplier documents",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 140,
+    "name": "Company information",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 142,
+    "name": "Payment details",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 144,
+    "name": "Contact Details",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 146,
+    "name": "Shareholder information",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 148,
+    "name": "Third Party Due Diligence Questionnaire",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 150,
+    "name": "Code of Conduct for Grünenthal’s Business Partners",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 152,
+    "name": "Declaration",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 153,
+    "name": "Supplier Submitted Documents",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 7,
+    "name": "Due Diligence and Risk Scoring",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 55,
+    "name": "Compliance approval for risky Suppliers",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 78,
+    "name": "Block Vendor",
+    "type": null,
+    "description": "Since the Global Compliance team does not want to proceed with Third Party Due Dilligence of High Risk Vendor, please Block the vendor in SAP"
+  },
+  {
+    "id": 111,
+    "name": "Deny request due to risk",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 159,
+    "name": "Wait for Fast lane Vendor Creation",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 120,
+    "name": "Collect summary",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 155,
+    "name": null,
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 76,
+    "name": "Vendor master data review",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 154,
+    "name": "IT Assessment Confirmation",
+    "type": null,
+    "description": "Please confirm that the Status of IT Supplier based on Information Security Assessment result is 'Approved' as it was put on Hold. "
+  },
+  {
+    "id": 83,
+    "name": "Assessment Update",
+    "type": null,
+    "description": null
+  }
+]

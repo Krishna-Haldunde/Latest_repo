@@ -1,0 +1,18 @@
+{
+  "--isRequiredField--": "{{field}} zorunlu bir alandır",
+  "--title--": "Başlık",
+  "--regionCountryPartnerUsed--": "Kullanılan bölge veya ülke ortağı",
+  "--chooseRegionCountry--": "Bölge / ülke seçin",
+  "--regionCountry--": "Bölge / ülke",
+  "--servicesOfferedByPartner--": "Ortak tarafından sunulan hizmetler",
+  "--chooseServiceCategory--": "Hizmet / kategori seçin",
+  "--serviceCategory--": "Hizmet / kategori",
+  "--businessEntity--": "İşletme tüzel kişiliği",
+  "--chooseCompanyEntity--": "Şirket tüzel kişiliğini seçin",
+  "--additionalSubsidiaries--": "Ek iştirakler",
+  "--chooseAdditionalCompanyEntities--": "Ek şirket tüzel kişiliklerini seçin",
+  "--user--": "Kullanıcı",
+  "--department--": "Departman",
+  "--commentDetails--": "Yorum / Ayrıntılar",
+  "--businessNeedProjectScopeDetails--": "Bu iş ortağı talebi için iş ihtiyacı ve proje kapsamı hakkında ayrıntılar ekleyin"
+}

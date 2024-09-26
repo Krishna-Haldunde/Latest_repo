@@ -1,0 +1,307 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Antrag auf Lieferant Offboarding - Details",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 15,
+    "fieldName": null,
+    "name": "Unternehmens- und Einkaufsorganisationsdaten",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 8,
+    "fieldName": null,
+    "name": "Änderungsdetails",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 97,
+    "fieldName": null,
+    "name": "Details zum Sperren/Entsperren",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 150,
+    "fieldName": null,
+    "name": "Kategoriedetails",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 128,
+    "fieldName": null,
+    "name": "",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 4,
+    "fieldName": "requestor",
+    "name": "<p><strong>Angefordert von</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": "businessJustification",
+    "name": "<p><strong>Geschäftliche Begründung</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 112,
+    "fieldName": "typeOfBlock",
+    "name": "<p><strong>Bitte wählen Sie den Sperrtyp</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Payment block": "Zahlung gesperrt",
+      "Posting block": "Verbuchung gesperrt",
+      "Both": "Beide"
+    },
+    "type": "field"
+  },
+  {
+    "id": 137,
+    "fieldName": "requestorSite",
+    "name": "<p><strong>Wählen Sie den Standort des Antragstellers aus</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 106,
+    "fieldName": "blockPurchasingOrg",
+    "name": "<p><strong style=\"color: rgb(62, 68, 86);\">Wählen Sie die Einkaufsorganisation aus, bei der Sie den Lieferanten sperren/entsperren möchten</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 100,
+    "fieldName": "blockType",
+    "name": "<p><strong>Wählen Sie die Ebene aus, auf der Sie den Lieferanten sperren/entsperren möchten</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "All company codes": "Alle Buchungskreise",
+      "Specific company code": "Spezifischer Buchungskreis",
+      "Specific purchasing org": "Bestimmte Einkaufsorganisation",
+      "All purchasing org": "Alle Einkaufsorganisationen"
+    },
+    "type": "field"
+  },
+  {
+    "id": 146,
+    "fieldName": "blockReason",
+    "name": "<p><strong>Bitte wählen Sie den Grund für die Sperrung/Deaktivierung</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Quality performance": "Qualitätsleistung",
+      "Other (specify in the field Business Justification)": "Sonstiges (im Feld „Geschäftliche Begründung“ angeben)",
+      "Invalid trading partner (Entity doesn’t exist anymore)": "Ungültiger Handelspartner (Entität existiert nicht mehr)",
+      "Delivery performance": "Lieferleistung",
+      "Ethics & Compliance": "Ethik & Compliance"
+    },
+    "type": "field"
+  },
+  {
+    "id": 149,
+    "fieldName": "existingAccountGroup",
+    "name": "<p><strong>Kontogruppe</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 118,
+    "fieldName": "isEarlyQAReviewNeeded",
+    "name": "<p><strong>Ist eine präliminäre Qualitätssicherungsprüfung erforderlich?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 140,
+    "fieldName": "isBlock",
+    "name": "<p>Ist Sperre</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 115,
+    "fieldName": "isNotificationToSiteRequired",
+    "name": "<p><strong>Ist eine Benachrichtigung über Sperre an den Standort erforderlich?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 121,
+    "fieldName": "isSAPUpdateRequired",
+    "name": "<p><strong>Ist ein SAP-Update erforderlich?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 124,
+    "fieldName": "q124_isDeactivateNotificationRequir",
+    "name": "<p><strong>Ist eine Benachrichtigung über Deaktivierung erforderlich?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 11,
+    "fieldName": "changeOptions",
+    "name": "<p><strong>Wählen Sie die Aktion aus:</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Reactivate": "Reaktivieren",
+      "Block": "Sperren",
+      "Deactivate": "Deaktivieren",
+      "Unblock": "Entsperren"
+    },
+    "type": "field"
+  },
+  {
+    "id": 156,
+    "fieldName": "division",
+    "name": "<p><strong>Wählen Sie die Abteilung</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "CHI": "CHI",
+      "BIO, C&G": "BIO, C&G",
+      "SM": "SM",
+      "HS": "HS"
+    },
+    "type": "field"
+  },
+  {
+    "id": 127,
+    "fieldName": "isReactivationWorkflowRequired",
+    "name": "<p><strong>Ist ein Reaktivierungsworkflow erforderlich?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 153,
+    "fieldName": "category",
+    "name": "<p><strong>Wählen Sie die Kategorie</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 18,
+    "fieldName": "companyCode",
+    "name": "<p><strong>Aktuelle Buchungskreise</strong></p>",
+    "description": "Buchungskreise im Rahmen der Welle 1",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 37,
+    "fieldName": "existingPurchsingOrg",
+    "name": "<p><strong>Aktuelle Einkaufsorganisationen</strong></p>",
+    "description": "Einkaufsorganisationen im Rahmen von Welle 1",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 103,
+    "fieldName": "blockCompanyCode",
+    "name": "<p><strong>Wählen Sie den Buchungskreis aus, für den Sie den Lieferanten sperren/entsperren möchten.</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 159,
+    "fieldName": "existingCompanyEntities",
+    "name": "<p><strong>Wählen Sie den Buchungskreis für die Reaktivierung</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

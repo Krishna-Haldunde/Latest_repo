@@ -1,0 +1,18 @@
+{
+  "--howToCreateVendorRecord--": "Wie erstellt man einen Anbieter-Datensatz?",
+  "--vendorRecordInfo--": "Informationen zum Anbieter-Datensatz",
+  "--primaryBusinessEntity--": "Primäre Geschäftseinheit",
+  "--choose--": "Auswählen",
+  "--additionalBusinessEntity--": "Zusätzliche Geschäftseinheit",
+  "--eligible--": "1099 berechtigt",
+  "--no--": "Nein",
+  "--yes--": "Ja",
+  "--syncToProcurify--": "Synchronisierung mit Procurify",
+  "--paymentTerms--": "Zahlungsbedingungen",
+  "--primaryCurrency--": "Primärwährung",
+  "--defaultExpenseAccount--": "Standard-Ausgabenkonto",
+  "--supplierClassification--": "Lieferantenklassifizierung",
+  "--vendorID--": "Anbieter-ID",
+  "--requiredField--": "{{name}} ist ein Pflichtfeld.",
+  "--apReviewOutcome--": "Ergebnis der AP-Überprüfung"
+}

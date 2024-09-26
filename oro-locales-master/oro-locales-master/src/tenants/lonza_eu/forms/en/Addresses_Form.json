@@ -1,0 +1,104 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Address Form",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Primary/Ordering Address",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 5,
+    "fieldName": null,
+    "name": "Remittance/Invoice Presented By Address",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 11,
+    "fieldName": null,
+    "name": "PO Box Address",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 4,
+    "fieldName": "orderingAddress",
+    "name": "<p><strong>Please provide the Primary or Ordering Address</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": "remittanceAddress",
+    "name": "<p><strong>Please provide the Remittance or Invoice Presented By Address</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 10,
+    "fieldName": "sameAsOrderAddress",
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Same as Ordering Address": "Same as Ordering Address"
+    },
+    "type": "field"
+  },
+  {
+    "id": 20,
+    "fieldName": "helpTextRemittance",
+    "name": null,
+    "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>Ordering Address is the main address you provided in the \\\"Company information form\\\".</em></strong></p><p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>If the remittance address is different from the ordering address, please enter the address below.</em></strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 17,
+    "fieldName": "postalcode",
+    "name": "<p><strong>Postal code (Optional)</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 14,
+    "fieldName": "pobox",
+    "name": "<p><strong>PO Box (Optional)</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

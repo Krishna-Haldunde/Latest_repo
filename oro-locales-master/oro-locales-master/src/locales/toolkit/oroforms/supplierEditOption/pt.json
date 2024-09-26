@@ -1,0 +1,11 @@
+{
+  "--selectOptions--": "Que atualizações gostaria de fazer",
+  "--otherUpdates--": "Descreva as outras informações que pretende atualizar",
+  "--updateReason--": "Motivo da atualização",
+  "--attachments--": "Anexos",
+  "--startType--": "Começar a escrever...",
+  "--selectedOption--": "Opções selecionadas para atualização",
+  "--paymentDetails--": "Detalhes do pagamento",
+  "--paymentTerms--": "Condições de pagamento",
+  "--otherDetails--": "Outros pormenores"
+}

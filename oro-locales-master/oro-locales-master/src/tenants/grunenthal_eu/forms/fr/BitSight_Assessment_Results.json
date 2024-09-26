@@ -1,0 +1,123 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Résultats de l'évaluation informatique",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Résultats de l'évaluation informatique",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 34,
+    "fieldName": "q34__p_Hidden_question_for__On_Hol",
+    "name": "<p>Question masquée pour « En attente » qui déclenche la confirmation de l'évaluation informatique pour que le processus se poursuive.</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 19,
+    "fieldName": "_p_Please_add_comments___p_",
+    "name": "<p>Veuillez ajouter des commentaires </p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": "q7__p__span_style__color__rgb_62_",
+    "name": "<p>Veuillez sélectionner le niveau de risque inhérent à la sécurité de l'information du fournisseur.</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "High": "Élevé",
+      "Low": "Faible",
+      "Medium": "Moyen"
+    },
+    "type": "field"
+  },
+  {
+    "id": 16,
+    "fieldName": "q16__p__span_style__color__rgb_62_",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Des mesures de remédiation ont-elles été définies ?</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "No": "Non",
+      "Yes": "Oui"
+    },
+    "type": "field"
+  },
+  {
+    "id": 22,
+    "fieldName": "q22__p_Approval_Status_of_IT_Suppl",
+    "name": "<p>Statut d'approbation du fournisseur informatique sur la base des résultats de l'évaluation de la sécurité de l'information</p>",
+    "description": null,
+    "helpText": "<p>•\tApprouvé = approuvé sans aucune constatation ou avec la constatation d’un risque mineur pouvant être résolu au cours du prochain intervalle d'audit</p><p>\tApprouvé avec des constatations = un risque moyen est identifié et les mesures correctives doivent être clôturées au cours de la phase d'intégration du projet ; le fournisseur peut déjà être intégré</p><p>-\tEn attente = des constatations à haut risque ont été identifiées et un plan d’action corrective et préventive doit être mis en place. La clôture du plan d’action corrective et préventive doit avoir lieu avant que le fournisseur puisse être créé dans SAP. Veuillez fournir des commentaires. Le processus sera en attente dans le système ORO ; retournez à ORO une fois que les résultats sont disponibles et mettez à jour le statut comme étant « Approuvé », « Approuvé avec des constatations » ou « Rejeté ».</p><p>-\tRejeté = des constatations à haut risque ont été identifiées et le fournisseur n'est pas en mesure de les résoudre ou ne le souhaite pas. Veuillez fournir des commentaires et cliquer sur « Refuser ». Le processus est arrêté. Le demandeur et les service achats seront informés. Le fournisseur ne sera pas créé dans SAP. </p>",
+    "listItemPrefix": null,
+    "choices": {
+      "Approved with findings": "Approuvé avec des conclusions",
+      "On Hold": "En attente",
+      "Approved": "Approuvé"
+    },
+    "type": "field"
+  },
+  {
+    "id": 28,
+    "fieldName": "q28__p__span_style__color__rgb_62_",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Si vous souhaitez </span><strong style=\"color: rgb(62, 68, 86);\">rejeter </strong><span style=\"color: rgb(62, 68, 86);\">l'évaluation Bitsight, veuillez utiliser l'option </span><strong style=\"color: rgb(62, 68, 86);\">« Refuser »</strong><span style=\"color: rgb(62, 68, 86);\"></span></p>",
+    "description": "’’<p><span style=\\\"color: rgb(62, 68, 86);\\\">Si vous souhaitez </span><strong style=\\\"color: rgb(62, 68, 86);\\\">rejeter</strong><span style=\\\"color: rgb(62, 68, 86);\\\"> l'évaluation Bitsight, veuillez utiliser l'option </span><strong style=\\\"color: rgb(62, 68, 86);\\\">« Refuser »</strong><span style=\\\"color: rgb(62, 68, 86);\\\"></span></p>’’",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 40,
+    "fieldName": "_p_IT_Demand____p_",
+    "name": "<p>N° de demande informatique</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 10,
+    "fieldName": "q10__p__span_style__color__rgb_62_",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Veuillez sélectionner la date d'achèvement de </span>l'évaluation</p> BitSight",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 13,
+    "fieldName": "q13__p__span_style__color__rgb_62_",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Veuillez sélectionner la date de renouvellement de la prochaine évaluation</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

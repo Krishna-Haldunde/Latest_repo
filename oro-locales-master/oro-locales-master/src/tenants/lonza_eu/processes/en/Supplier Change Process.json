@@ -1,0 +1,104 @@
+[
+  {
+    "id": null,
+    "name": "Supplier Change Process",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 30,
+    "name": "Change System Tasks",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 15,
+    "name": "Update Data by Requestor",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 42,
+    "name": "Early Site QA review",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 44,
+    "name": "Quality Workflow for change",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 3,
+    "name": "Bank information Update by Supplier",
+    "type": null,
+    "description": "Please update the bank details"
+  },
+  {
+    "id": 5,
+    "name": "Payment details",
+    "type": null,
+    "description": "Please update the bank details"
+  },
+  {
+    "id": 37,
+    "name": "Bank Key Validation",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 2,
+    "name": "Bank Validation Team Review",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 32,
+    "name": "Payment Term Approval by Global P2P",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 33,
+    "name": "Direct Debit Approval by Global Treasury",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 34,
+    "name": "Direct Debit Approval by AP",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 38,
+    "name": "Global Master Data Management approval",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 31,
+    "name": "Vendor Update in SAP",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 43,
+    "name": "Update vendor rejection notification",
+    "type": null,
+    "description": "The update request has been rejected."
+  },
+  {
+    "id": 35,
+    "name": "Payment Term Rejected Notification",
+    "type": null,
+    "description": "The payment term change request by you was rejected."
+  },
+  {
+    "id": 36,
+    "name": "Direct Debit Rejected Notification",
+    "type": null,
+    "description": "The Direct debit change by you was rejected."
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "--department--": "Dipartimento:",
+  "--companyEntity--": "Entità aziendale:",
+  "--startDate--": "Data di inizio:",
+  "--endDate--": "Data di fine:",
+  "--poTotal--": "Totale PO:",
+  "--expenseItem--": "Voci di spesa",
+  "--requiredField--": "{{field}} è un campo obbligatorio.",
+  "--purchaseOrder--": "Ordine di acquisto (PO)",
+  "--selectPurchaseOrder--": "Seleziona l'ordine di acquisto (PO)",
+  "--reasonForAmendment--": "Motivo della modifica",
+  "--whatDoYouWantToChange--": "Cosa desideri modificare?",
+  "--extendTimeline--": "Estensione della tempistica",
+  "--currentTimeline--": "Tempistica attuale:",
+  "--additionalAmount--": "Importo aggiuntivo",
+  "--updateTimeline--": "Aggiorna tempistica",
+  "--currentPoTotal--": "Totale PO attuale:",
+  "--attachments--": "Allegati",
+  "--addAmountUpdateTimelines--": "Aggiungi importo/aggiorna tempistiche",
+  "--editPoLineItems--": "Modifica voci PO"
+}

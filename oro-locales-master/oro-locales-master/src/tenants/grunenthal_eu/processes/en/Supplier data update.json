@@ -1,0 +1,92 @@
+[
+  {
+    "id": null,
+    "name": "Supplier data update",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 31,
+    "name": "Load Contacts",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 27,
+    "name": "Supplier Contact Details",
+    "type": null,
+    "description": "Please complete the Contacts for the Supplier as needed!"
+  },
+  {
+    "id": 33,
+    "name": "Supplier Questionnaires",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 35,
+    "name": "Company information",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 37,
+    "name": "Payment details",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 39,
+    "name": "Contact Details",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 40,
+    "name": "Supplier Submitted Documents",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 30,
+    "name": "Load Review Items",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 9,
+    "name": "Procurement Center Review",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 14,
+    "name": "Non-standard Payment term process_Extension",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 32,
+    "name": "Syniti Request",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 24,
+    "name": "Vendor Update in SAP confirmation",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 22,
+    "name": "Vendor Update in SAP confirmation",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 23,
+    "name": "Vendor Update in SAP confirmation",
+    "type": null,
+    "description": null
+  }
+]

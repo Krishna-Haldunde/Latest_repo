@@ -1,0 +1,123 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "IT-Bewertungsergebnisse",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "IT-Bewertungsergebnisse",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 34,
+    "fieldName": "q34__p_Hidden_question_for__On_Hol",
+    "name": "<p>Verdeckte Frage für „Ausgesetzt“, die eine IT-Bewertungsbestätigung auslöst, damit der Prozess fortgesetzt werden kann.</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 19,
+    "fieldName": "_p_Please_add_comments___p_",
+    "name": "<p>Bitte Kommentare hinzufügen</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": "q7__p__span_style__color__rgb_62_",
+    "name": "<p>Bitte wählen Sie die inhärente Risikostufe für Informationssicherheit des Anbieters aus.</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "High": "Hoch",
+      "Low": "Niedrig",
+      "Medium": "Mittel"
+    },
+    "type": "field"
+  },
+  {
+    "id": 16,
+    "fieldName": "q16__p__span_style__color__rgb_62_",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Sind Abhilfemaßnahmen definiert?</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "No": "Nein",
+      "Yes": "Ja"
+    },
+    "type": "field"
+  },
+  {
+    "id": 22,
+    "fieldName": "q22__p_Approval_Status_of_IT_Suppl",
+    "name": "<p>Genehmigungsstatus von IT-Lieferanten auf der Grundlage des Ergebnisses der Informationssicherheitsbewertung</p>",
+    "description": null,
+    "helpText": "<p>•\tGenehmigt = genehmigt ohne Beanstandungen oder Beanstandungen von geringem Risiko, die innerhalb des nächsten Audit-Intervalls behoben werden können</p><p>•\tGenehmigt mit Beanstandungen = Beanstandungen von mittlerem Risiko wurden identifiziert, und die Abhilfemaßnahmen müssen innerhalb der Projekteinführungsphase behoben werden; der Lieferant kann bereits in das Projekt eingebunden werden</p><p>•\tAusgesetzt = Beanstandungen von hohem Risiko wurden identifiziert und ein Plan für Corrective and Preventive Action (Korrektur- und Vorbeugemaßnahme) muss erstellt werden. Dieser Plan muss umgesetzt werden, bevor ein Lieferant im SAP-System angelegt werden kann. Bitte fügen Sie Kommentare hinzu. Der Vorgang ist im ORO-System vorläufig ausgesetzt. Gehen Sie zurück zu ORO, sobald die Ergebnisse vorliegen, und aktualisieren Sie den Status auf „Genehmigt“, „Genehmigt mit Beanstandungen“ oder „Abgelehnt“.</p><p>-\tAbgelehnt = Es wurden Beanstandungen von hohem Risiko identifiziert und der Lieferant ist nicht in der Lage oder bereit, diese zu korrigieren. Bitte fügen Sie Kommentare hinzu und klicken Sie auf „Ablehnen“. Der Prozess wird gestoppt; der Antragsteller und die Beschaffungsstelle werden informiert; der Lieferant wird nicht im SAP-System angelegt. </p>",
+    "listItemPrefix": null,
+    "choices": {
+      "Approved with findings": "Genehmigt mit Beanstandungen",
+      "On Hold": "Ausgesetzt",
+      "Approved": "Genehmigt"
+    },
+    "type": "field"
+  },
+  {
+    "id": 28,
+    "fieldName": "q28__p__span_style__color__rgb_62_",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Wenn Sie die Bitsight-Bewertung </span><strong style=\"color: rgb(62, 68, 86);\">ablehnen</strong><span style=\"color: rgb(62, 68, 86);\"> möchten, verwenden Sie bitte die Option </span><strong style=\"color: rgb(62, 68, 86);\">Ablehnen</strong><span style=\"color: rgb(62, 68, 86);\">.</span></p>",
+    "description": "<p><span style=\\\"color: rgb(62, 68, 86);\\\">Wenn Sie die Bitsight-Bewertung </span><strong style=\\\"color: rgb(62, 68, 86);\\\">ablehnen</strong><span style=\\\"color: rgb(62, 68, 86);\\\"> möchten, verwenden Sie bitte die Option </span><strong style=\\\"color: rgb(62, 68, 86);\\\">‚Ablehnen‘</strong><span style=\\\"color: rgb(62, 68, 86);\\\">.</span></p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 40,
+    "fieldName": "_p_IT_Demand____p_",
+    "name": "<p>IT-Bedarf #</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 10,
+    "fieldName": "q10__p__span_style__color__rgb_62_",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Bitte wählen Sie das Abschlussdatum der BitSight-</span>Bewertung</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 13,
+    "fieldName": "q13__p__span_style__color__rgb_62_",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Bitte wählen Sie das Erneuerungsdatum für die nächste Bewertung</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

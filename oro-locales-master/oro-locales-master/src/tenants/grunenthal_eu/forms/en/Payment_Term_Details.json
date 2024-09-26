@@ -1,0 +1,144 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Payment Term Details",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Payment Term",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 61,
+    "fieldName": null,
+    "name": "",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 62,
+    "fieldName": null,
+    "name": "Vendor Classification",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 28,
+    "fieldName": "nonStandardPaymentTermReason",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">What is the reason for choosing a non-standard payment term?</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 26,
+    "fieldName": "nonStandardPaymentTerm",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Enter the applicable payment term</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><strong style=\\\"background-color: rgb(255, 255, 0);\\\">Note: </strong><strong>due to non-standard payment term selection, ORO will trigger an approval to the head of procurement area/head of invoicing.</strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 24,
+    "fieldName": "requesterPaymentTerm",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Applicable payment term for the </span>vendor</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 50,
+    "fieldName": "isStandardPaymentTerm",
+    "name": "<p>According to the Procurement Policy, the standard payment term recommended is 60 days. Any payment term below 60 days will require an approval by the head of procurement area/invoicing.</p><p>Would you like to proceed with the standard payment term?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Other": "Other"
+    },
+    "type": "field"
+  },
+  {
+    "id": 55,
+    "fieldName": "nonStandardPTNo",
+    "name": "<p>Default StandardPaymentTerm (Hidden)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 53,
+    "fieldName": "nonStandardPTYes",
+    "name": "<p>Default Yes for NonStandardPaymentTerm (Hidden)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 65,
+    "fieldName": "fastLanePayTerm",
+    "name": "<p>Please select the appropriate payment term from the below</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 71,
+    "fieldName": "fastLaneProcess",
+    "name": "<p>Process is Fastlane (Hidden)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 68,
+    "fieldName": "fastLaneVendClassification",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Select the applicable vendor classification</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

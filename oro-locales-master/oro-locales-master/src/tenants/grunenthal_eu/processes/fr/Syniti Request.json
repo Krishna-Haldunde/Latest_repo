@@ -1,0 +1,62 @@
+[
+  {
+    "id": null,
+    "name": "Demande de Syniti",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 4,
+    "name": "Résumé de la collecte",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 8,
+    "name": null,
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 2,
+    "name": "Examen des données de base des fournisseurs",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 7,
+    "name": "Confirmation de l'évaluation informatique",
+    "type": null,
+    "description": "Veuillez confirmer que le statut du fournisseur informatique basé sur le résultat de l'évaluation de la sécurité de l'information est \"Approuvé\" car il a été mis en attente. "
+  },
+  {
+    "id": 5,
+    "name": "Gérer les problèmes de données",
+    "type": null,
+    "description": "Une erreur a été déclenchée dans le RPA"
+  },
+  {
+    "id": 13,
+    "name": null,
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 12,
+    "name": "Créer un fournisseur dans Syniti",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 3,
+    "name": "Mise à jour du fournisseur dans Syniti",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 6,
+    "name": "Mise à jour du fournisseur dans la confirmation SAP",
+    "type": null,
+    "description": null
+  }
+]

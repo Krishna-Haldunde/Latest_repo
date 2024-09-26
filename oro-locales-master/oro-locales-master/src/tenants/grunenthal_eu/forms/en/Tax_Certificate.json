@@ -1,0 +1,75 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Tax Certificate Details",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 12,
+    "fieldName": "taxCert",
+    "name": "<p>Upload the tax certificate</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 14,
+    "fieldName": "noTaxCertReas",
+    "name": "<p>Please select the appropriate reason.</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "I dont have a certificate": "I dont have a certificate",
+      "This is not applicable to me": "This is not applicable to me"
+    },
+    "type": "field"
+  },
+  {
+    "id": 25,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p>Due to German regulations, suppliers providing construction services in our facilities need to provide a tax certificate (<u style=\\\"color: rgb(34, 34, 34);\\\">Freistellungsbescheinigung vom Finanzamt</u><span style=\\\"color: rgb(34, 34, 34);\\\">).</span></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 28,
+    "fieldName": "noTaxCertReason",
+    "name": "<p>Justify your answer.</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 16,
+    "fieldName": "taxCertAttach",
+    "name": "<p>Please upload the tax certificate</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

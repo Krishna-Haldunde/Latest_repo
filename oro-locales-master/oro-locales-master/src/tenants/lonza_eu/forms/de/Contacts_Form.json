@@ -1,0 +1,52 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Formular Kontakte",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 8,
+    "fieldName": null,
+    "name": "Kontakt Kundenservice",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 11,
+    "fieldName": null,
+    "name": "Kontakt Vertrieb",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 10,
+    "fieldName": "custServiceCobntact",
+    "name": "<p><strong>Bitte teilen Sie die Kontaktdaten des Kundenservices mit (optional)</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "Kontakt",
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 13,
+    "fieldName": "salesContact",
+    "name": "<p><strong>Bitte teilen Sie die Kontaktdaten des Vertriebs mit (optional)</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "Kontakt",
+    "choices": null,
+    "type": "field"
+  }
+]

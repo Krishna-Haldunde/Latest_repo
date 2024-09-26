@@ -1,0 +1,26 @@
+[
+  {
+    "id": null,
+    "name": "Quality Workflow for change",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 4,
+    "name": "Site QA Review",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 2,
+    "name": "Company name change notification for Site QA",
+    "type": null,
+    "description": "The company name change request has been created for the given supplier."
+  },
+  {
+    "id": 3,
+    "name": "Company address change notification for Site QA",
+    "type": null,
+    "description": "The company address change request has been created for the given supplier."
+  }
+]

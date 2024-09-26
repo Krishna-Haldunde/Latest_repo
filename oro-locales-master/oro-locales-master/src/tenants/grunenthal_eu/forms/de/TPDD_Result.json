@@ -1,0 +1,72 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Ergebnis der Due Diligence für Geschäftspartner",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 5,
+    "fieldName": null,
+    "name": "Details zur Dokumentation des Anbieters",
+    "description": "Nichtübereinstimmung des Namens des Anbieters (Lieferantenidentifikation) mit dem Namen des Bankkontoinhabers (Zahlungsinformationen) triggert ein mittleres Risiko. \nNichtübereinstimmung des Landes des Anbieters (Lieferantenidentifikation) mit dem Land des Bankkontos (Zahlungsinformationen) triggert ein mittleres Risiko. Diese werden herangezogen, um einen Eintrag im Formular für die Risikobewertung hinzuzufügen. Dies geschieht über Workato.",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 23,
+    "fieldName": "isVendorCountryMismatched",
+    "name": "<p>Stimmen das Land des Anbieters (Formular Unternehmensinformationen) und das Land des Bankkontos (Formular Zahlungsinformationen) nicht überein?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 21,
+    "fieldName": "isVendorNameMismatched",
+    "name": "<p>Stimmen der Name des Anbieters (Formular Unternehmensinformationen) und der Name des Bankkontoinhabers (Formular Zahlungsinformationen) nicht überein?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "_p_Risk_Level__p_",
+    "name": "<p>Risikostufe</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 16,
+    "fieldName": "invoiceCurrency",
+    "name": "<p>Rechnungswährung</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

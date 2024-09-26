@@ -1,0 +1,21 @@
+{
+  "--uploadQuoteProposal--": "Fiyat teklifi / teklif yükle",
+  "--ifYouHaveProposalQuoteAttachmentPleaseUploadHere--": "Bir teklif / fiyat teklifi ekiniz varsa, lütfen buraya yükleyin.",
+  "--supportedFormats--": "Desteklenen formatlar:",
+  "--upload--": "Yükle",
+  "--proposalDetails--": "Teklif Detayları",
+  "--pleaseEnsureTheDetailsAreCorrect--": "Lütfen doldurulan bilgilerin doğru olduğundan ve yüklenen belgeyle eşleştiğinden emin olun",
+  "--supplierLegalName--": "Tedarikçi Yasal Adı",
+  "--description--": "Teklif Açıklaması",
+  "--deliveryDate--": "Teslim Tarihi",
+  "--totalAmount--": "Toplam Tutar",
+  "--supplierCountry--": "Tedarikçi Ülke",
+  "--paymentTerm--": "Ödeme Vadesi",
+  "--edit--": "Düzenle",
+  "--save--": "Kaydet",
+  "--confirm--": "Onayla",
+  "--proposal--": "Teklif",
+  "--weExtractedFollowingDetailsFromYourProposal--": "Teklifinizden aşağıdaki ayrıntıları çıkardık",
+  "--previewNotAvailable--": "Önizleme mevcut değil",
+  "--thereAreSomeErrorsInForm--": "Formda bazı hatalar var. Lütfen kontrol edin"
+}

@@ -1,0 +1,15 @@
+{
+  "--paymentTerms--": "Условия оплаты",
+  "--select--": "Выбрать",
+  "--existingPaymentTerms--": "Существующие условия оплаты",
+  "--recommendedPaymentTerms--": "Рекомендуемые условия оплаты",
+  "--newPaymentTerms--": "Новые условия оплаты",
+  "--recommendedPaymentTerm--": "Рекомендуемые условия оплаты",
+  "--purchaseOrganisations--": "Покупающие организации",
+  "--companyEntity--": "Юридическое лицо",
+  "--thisWillBeCommonPaymentTermForSupplier--": "Это будут общие условия оплаты для данного поставщика",
+  "--supplierEnabledWithMultiplePaymentTerms--": "Этот поставщик может использовать разные условия оплаты",
+  "--applicableForPurchaseOrgAndCompanyEntities--": "Применять ко всем следующим покупающим организациям и юридическим лицам",
+  "--applicableForPurchasOrg--": "Применять ко всем следующим покупающим организациям",
+  "--applicableForCompanyEntities--": "Применять ко всем следующим юридическим лицам"
+}

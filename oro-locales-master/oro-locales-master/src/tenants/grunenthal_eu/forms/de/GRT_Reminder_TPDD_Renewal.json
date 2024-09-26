@@ -1,0 +1,122 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "GRT_Erinnerung Erneuerung der Due Diligence für Geschäftspartner",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "emailBetreff",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 2,
+    "fieldName": null,
+    "name": "emailText",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 3,
+    "fieldName": null,
+    "name": "emailAnleitung",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 4,
+    "fieldName": null,
+    "name": "emailFußzeile",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 16,
+    "fieldName": null,
+    "name": null,
+    "description": "Grünenthal: Erinnerung an den Abschluss des Due Diligence Prozesses",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": null,
+    "name": null,
+    "description": "<h3>Zugang zu ORO</h3><p>Wenn Sie auf „Online-Fragebogen starten“ klicken, werden Sie zu ORO&nbsp; umgeleitet und eine automatische E-Mail mit einem einmaligen Passwort wird an Ihre Email-Adresse gesendet. Verifizieren Sie Ihre E-Mail-Adresse, um Zugang zum Grünenthal Business Partner Collaboration Hub zu erhalten. </p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 10,
+    "fieldName": null,
+    "name": null,
+    "description": "<h3>Ausfüllen und Übermitteln von Formularen</h3><p>Hier finden Sie eine Liste von Formularen, die ausgefüllt werden müssen. Geben Sie die erforderlichen Informationen an und übermitteln Sie diese. Bei Bedarf können Sie andere Kollegen von ${supplierName} einladen, die Formulare in Ihrem Namen auszufüllen.</p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 19,
+    "fieldName": null,
+    "name": null,
+    "description": "<h3>Sie benötigen Hilfe?</h3><p>Falls Sie Hilfe beim Ausfüllen der Formulare benötigen, können Sie diese direkt im Tool über die Schaltfläche „Informationen anfordern“ anfordern. Sie können sich auch per E-Mail an&nbsp;<a href=\\\"http://suppliermanagement@procurement.grunenthal.com\\\" rel=\\\"noopener noreferrer\\\" target=\\\"_blank\\\" style=\\\"background-color: rgb(255, 255, 255);\\\">suppliermanagement@procurement.grunenthal.com</a>&nbsp;wenden, wenn Sie weitere Hilfe benötigen.</p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 22,
+    "fieldName": null,
+    "name": null,
+    "description": "<p>Vielen Dank für Ihre Kooperation!</p><p><br></p><p>Mit freundlichen Grüßen,</p><p>${requester}</p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 28,
+    "fieldName": null,
+    "name": null,
+    "description": "<p><span style=\\\"color: rgb(255, 255, 255);\\\">Grünenthal-Einladung:</span></p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 31,
+    "fieldName": null,
+    "name": null,
+    "description": "<p>Sehr geehrte/r ${supplierContactName},</p><p><br></p><p>wir möchten Sie an die anstehende due Diligence Prüfung für Geschäftspartner von Grünenthal für ${supplierName} erinnern. Ihre Teilnahme ist für die Aufrechterhaltung der Integrität und Compliance unserer Geschäftsbeziehung unerlässlich.</p><p><br></p><p>Um die erforderlichen Schritte auszuführen, füllen Sie bitte so bald wie möglich unseren Online-Fragebogen zur Due Diligence aus. Dieser Prozess ist entscheidend für die Überprüfung potenzieller ethischer oder Reputationsrisiken und die Einhaltung aller relevanten Vorschriften.</p><p><br></p><p>Grünenthal verwendet&nbsp;ORO, eine sichere Technologie von ORO Labs, für die Durchführung der Due Diligence Prüfung für Geschäftspartner. Ihre zeitnahe Antwort wird uns sehr dabei helfen, die hohen Standards, die wir an unsere Zusammenarbeit legen, aufrechtzuerhalten.</p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

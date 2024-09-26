@@ -1,0 +1,56 @@
+[
+  {
+    "id": null,
+    "name": "Lieferantenbewertung durch einfaches Screening",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 5,
+    "name": "D&B-Bewertung abrufen",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 13,
+    "name": "Aktualisieren des Risikolevels in Bewertungen",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 7,
+    "name": "Screening-Überprüfung eines potenziellen Lieferanten",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 8,
+    "name": "Lieferantenstatus aktualisieren",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 10,
+    "name": "Ergebnisse des ESG-Screenings potenzieller Lieferanten",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 11,
+    "name": "Finanzielle Bewertung",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 15,
+    "name": "Unternehmensinformationen aktualisieren",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 17,
+    "name": "Lieferant anlegen",
+    "type": null,
+    "description": null
+  }
+]

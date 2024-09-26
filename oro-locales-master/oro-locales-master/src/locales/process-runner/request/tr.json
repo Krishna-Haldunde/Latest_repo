@@ -1,0 +1,13 @@
+{
+  "--requestedOn--": "Talep edilme tarihi",
+  "--estimatedCompletion--": "Tahmini Tamamlanma",
+  "--completedOn--": "Tamamlanma",
+  "--deniedOn--": "Reddedilme",
+  "--cancelledOn--": "İptal edilme",
+  "--cardView--": "Kart Görünümü",
+  "--listView--": "Liste Görünümü",
+  "--listIsEmpty--": "Görüntülenecek talep yok",
+  "--addToList--": "Listeye Ekle",
+  "--deleteList--": "Listeyi sil",
+  "--areYouSureYouWantToPermanentlyDeleteThisList--": "Bu listeyi kalıcı olarak silmek istediğinizden emin misiniz?"
+}

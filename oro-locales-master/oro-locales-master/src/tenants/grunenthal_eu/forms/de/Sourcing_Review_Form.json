@@ -1,0 +1,122 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Genehmigung durch Beschaffungsmanager",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 32,
+    "fieldName": null,
+    "name": "Geschäftlicher Bedarf",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Geschäftseinheiten",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 22,
+    "fieldName": null,
+    "name": "Kategorie",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 38,
+    "fieldName": "q38__p__span_style__color__rgb_62_",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Kurze Beschreibung des Produkts/der Dienstleistung, das/die Grünenthal angeboten wird</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 17,
+    "fieldName": "_p_Company_entity___p_",
+    "name": "<p>Primäre Grünenthal-Geschäftseinheit für den Antrag</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 41,
+    "fieldName": "q41__p__span_style__color__rgb_87_",
+    "name": "<p><span style=\"color: rgb(87, 95, 112);\">Geschätzte jährliche Gesamtausgaben an den </span>Anbieter</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 35,
+    "fieldName": "_p_Supplier_name__p_",
+    "name": "<p>Name des Anbieters</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 28,
+    "fieldName": "q28__p__span_style__color__rgb_62_",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Zusätzliche Kategorien der vom </span>Anbieter<span style=\"color: rgb(62, 68, 86);\"> angebotenen Dienstleistung, falls vorhanden.</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 25,
+    "fieldName": "q25__p_Category_for_the_request__p",
+    "name": "<p>Kategorie für die Anfrage</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": "q7__p_Please_select_the_applicabl",
+    "name": "<p>Fügen Sie bei Bedarf weitere <span style=\"color: rgb(62, 68, 86);\">Geschäftseinheiten hinzu</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 47,
+    "fieldName": "_p_Is_IT_demand__Hidden___p_",
+    "name": "<p>Ist IT-Forderung (versteckt)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

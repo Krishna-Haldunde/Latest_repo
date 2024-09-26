@@ -1,0 +1,52 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Contacts Form",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 8,
+    "fieldName": null,
+    "name": "Custom Service Contact",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 11,
+    "fieldName": null,
+    "name": "Sales Contact",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 10,
+    "fieldName": "custServiceCobntact",
+    "name": "<p><strong>Please share the Customer Service Contact Details(Optional)</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "Contact",
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 13,
+    "fieldName": "salesContact",
+    "name": "<p><strong>Please share the Sales Contact Details(Optional)</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "Contact",
+    "choices": null,
+    "type": "field"
+  }
+]

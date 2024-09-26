@@ -1,0 +1,115 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Coordonnées",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 50,
+    "fieldName": null,
+    "name": "Contact principal",
+    "description": "Contact principal pour toutes les questions relatives aux achats.",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 11,
+    "fieldName": null,
+    "name": "Contact au sein de l'équipe de livraison des commandes (LC)",
+    "description": "Contact à qui les PO seront délivrés",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 21,
+    "fieldName": null,
+    "name": "Contact spécifique pour les questions environnementales, sociales et de gouvernance (ESG)",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 66,
+    "fieldName": "subcontractorContacts",
+    "name": "<p><strong>﻿﻿</strong>Veuillez fournir les informations suivantes pour chaque sous-traitant dans le format ci-dessous :</p><p><br></p><p>Nom : <strong>Nom de l'entreprise / de la personne</strong></p><p>Remarques : <strong>Détails du service fourni</strong></p><p>Adresse : <strong>Adresse complète ou pays</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "Contact",
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 106,
+    "fieldName": "primaryContact",
+    "name": "<p>Contact principal</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "Contact",
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 62,
+    "fieldName": "orderDeliveryContacts",
+    "name": "<p>Nom du contact (Livraison et approvisionnement)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "Contact",
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 64,
+    "fieldName": "environmentContact",
+    "name": "<p>Nom du contact (environnement, social, gouvernance)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "Contact",
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 58,
+    "fieldName": "mainContact",
+    "name": "<p>Contact(s) général(aux)</p><p><br></p><p><span style=\"color: rgb(31, 31, 31);\">Veuillez mentionner le </span><strong style=\"color: rgb(31, 31, 31);\">« Département » </strong><span style=\"color: rgb(31, 31, 31);\">dans les remarques.</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "Contact",
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 109,
+    "fieldName": "addGeneralContact",
+    "name": "<p>Ajouter un ou des contact(s) général(aux) supplémentaire(s)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "No": "Non",
+      "Yes": "Oui"
+    },
+    "type": "field"
+  },
+  {
+    "id": 115,
+    "fieldName": "accountPayableContactList",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Contact au sein de l'équipe Comptes débiteurs</span></p>",
+    "description": "Contact principal pour les questions relatives à la facturation",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

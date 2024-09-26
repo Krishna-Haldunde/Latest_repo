@@ -1,0 +1,16 @@
+{
+  "--requiredField--": "{{field}} is a required field.",
+  "--title--": "Title",
+  "--regionCountrySupplierUsed--": "Region or country supplier is used",
+  "--chooseRegionCountry--": "Choose region / country",
+  "--servicesOfferedBySupplier--": "Services offered by the supplier",
+  "--chooseServiceCategory--": "Choose service / category",
+  "--primaryBusinessEntity--": "Primary business entity",
+  "--chooseBusinessEntity--": "Choose business entity",
+  "--additionalBusinessEntity--": "Additional business entity",
+  "--chooseAdditionalBusinessEntities--": "Choose additional company entities",
+  "--user--": "User",
+  "--department--": "Department",
+  "--commentDetails--": "Comment / Details",
+  "--addDetailsAboutBusinessNeed--": "Add details about the business need and project scope for this supplier request"
+}

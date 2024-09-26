@@ -1,0 +1,82 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Lokale Compliance-Zulassung_Schnellverfahren",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 4,
+    "fieldName": "pubOffInvoFL",
+    "name": null,
+    "description": "<p><span style=\\\"background-color: rgb(255, 255, 0); color: rgb(62, 68, 86);\\\">Hinweis : </span><span style=\\\"color: rgb(62, 68, 86);\\\">Für diesen Dienst muss der Lieferant mit Behörden, Beamten oder Fachleuten im Gesundheitswesen zusammenarbeiten!</span></p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": "infMedPresFL",
+    "name": null,
+    "description": "<p><span style=\\\"background-color: rgb(255, 255, 0); color: rgb(62, 68, 86);\\\">Hinweis : </span><span style=\\\"color: rgb(62, 68, 86);\\\">Dieser Anbieter hat die Möglichkeit, die Verschreibung von Medikamenten zu beeinflussen!</span></p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 10,
+    "fieldName": "locCompFastLanApp",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Stimmen Sie der Bearbeitung des Antrags im Schnellverfahren zu?</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 19,
+    "fieldName": null,
+    "name": null,
+    "description": "<p><span style=\\\"background-color: rgb(255, 255, 0); color: rgb(62, 68, 86);\\\">Hinweis :</span><span style=\\\"color: rgb(62, 68, 86);\\\"> Bitte klicken Sie unten auf die Schaltfläche „Ablehnen“</span></p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 16,
+    "fieldName": "locCompFastLaneDenialReas",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Bitte geben Sie den Grund für die Ablehnung an</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 13,
+    "fieldName": "locComFasLanAppJust",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Bitte begründen Sie die Genehmigung</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

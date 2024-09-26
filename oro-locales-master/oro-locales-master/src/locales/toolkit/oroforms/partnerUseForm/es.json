@@ -1,0 +1,18 @@
+{
+  "--isRequiredField--": "{{field}} es un campo obligatorio",
+  "--title--": "Título",
+  "--regionCountryPartnerUsed--": "Se utiliza la región o el país socio",
+  "--chooseRegionCountry--": "Elija región/país",
+  "--regionCountry--": "Región/país",
+  "--servicesOfferedByPartner--": "Servicios ofrecidos por el socio",
+  "--chooseServiceCategory--": "Elegir servicio/categoría",
+  "--serviceCategory--": "Servicio/categoría",
+  "--businessEntity--": "Entidad comercial",
+  "--chooseCompanyEntity--": "Elegir entidad empresarial",
+  "--additionalSubsidiaries--": "Filiales adicionales",
+  "--chooseAdditionalCompanyEntities--": "Elegir otras entidades de la empresa",
+  "--user--": "Usuario",
+  "--department--": "Departamento",
+  "--commentDetails--": "Comentarios/Detalles",
+  "--businessNeedProjectScopeDetails--": "Añada detalles sobre la necesidad empresarial y el alcance del proyecto para esta solicitud de socio"
+}

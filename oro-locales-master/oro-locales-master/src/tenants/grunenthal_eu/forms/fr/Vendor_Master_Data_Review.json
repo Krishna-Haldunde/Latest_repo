@@ -1,0 +1,44 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Examen des données de base des fournisseurs",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 7,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p>Remarque : Le fournisseur sera <strong style=\\\"color: rgb(0, 138, 0);\\\">mis à jour</strong><strong style=\\\"color: rgb(102, 185, 102);\\\"> </strong>une fois que les détails auront été soumis. </p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "q4__p_Is_all_the_information_corr",
+    "name": "<p>Veuillez confirmer que les informations sont correctes</p>",
+    "description": "Remarque : Veuillez demander des informations à la personne appropriée si les informations sont incorrectes avant de confirmer.",
+    "helpText": "<p>Remarque : Veuillez demander des informations à la personne appropriée si les informations sont incorrectes avant de confirmer.</p>",
+    "listItemPrefix": null,
+    "choices": {
+      "Confirmed": "Confirmé"
+    },
+    "type": "field"
+  }
+]

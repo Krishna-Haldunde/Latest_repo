@@ -1,0 +1,13 @@
+{
+  "--requestedOn--": "Angefordert am",
+  "--estimatedCompletion--": "Voraussichtliche Fertigstellung",
+  "--completedOn--": "Implementiert am",
+  "--deniedOn--": "Abgelehnt am",
+  "--cancelledOn--": "Abgebrochen am",
+  "--cardView--": "Kartenansicht",
+  "--listView--": "Listenansicht",
+  "--listIsEmpty--": "Keine Anforderungen zur Anzeige",
+  "--addToList--": "Zur Liste hinzufügen",
+  "--deleteList--": "Liste löschen",
+  "--areYouSureYouWantToPermanentlyDeleteThisList--": "Sind Sie sicher, dass Sie diese Liste endgültig löschen wollen?"
+}

@@ -1,0 +1,153 @@
+{
+  "--oroAI--": "IA d’ORO",
+  "--guidingYouToRightChannels--": "Obtenez une aide guidée pour vos besoins opérationnels",
+  "--describeYourBusinessNeed--": "Décrivez le besoin votre besoin opérationnel...",
+  "--describeYourNeed--": "Décrivez votre besoin",
+  "--startNewRequest--": "Commencer une nouvelle demande",
+  "--enrichYourDescription--": "Enrichissez votre description avec des détails tels que les dépenses estimées et les fournisseurs (le cas échéant).",
+  "--generating--": "Génération...",
+  "--searching--": "Recherche",
+  "--capturingResponse--": "Enregistrement de votre réponse...",
+  "--close--": "Sortie",
+  "--describeYourBusinessNeedAi--": "C'est parti ! Veuillez décrire vos besoins opérationnels, y compris le budget, les spécifications et le calendrier. (En fournissant plus d’informations, vous obtiendrez de meilleures recommandations)",
+  "--uploadProposal--": "Téléverser la proposition",
+  "--uploadDocumentAi--": "Vous avez déjà une proposition ? Téléverser pour extraire tous les détails, et laisser l'IA faire le gros du travail",
+  "--uploadDocument--": "Téléverser un document pour extraire des valeurs",
+  "--attach--": "Mettre en pièce jointe",
+  "--skipQuestion--": "Passer la question",
+  "--notSure--": "Vous n’êtes pas sûr(e) de savoir quoi répondre ?",
+  "--comingSoon--": {
+    "--comingSoon--": "Bientôt disponible !",
+    "--primaryMessage--": "Nous traitons actuellement cette demande afin de vous offrir la meilleure expérience possible.",
+    "--secondaryMessage--": "N'hésitez pas à faire appel à des experts si la situation est critique."
+  },
+  "--tips--": {
+    "--hereAreExamples--": "Voici quelques exemples pour vous aider à commencer",
+    "--tip1--": "Acheter une imprimante 3D pour fabriquer des échantillons de médicaments pour la R&D avec un budget estimé à 20 000 $",
+    "--tip2--": "Acheter 1000 t-shirts personnalisés pour une conférence ; avec un budget de 10 000 $",
+    "--tip3--": "Créer un PO de 125000 $ avec Moving Brands pour travailler sur un projet créatif pour la campagne d'automne"
+  },
+  "--category--": {
+    "--classifyingYourNeed--": "Catégorie sélectionnée",
+     "--classifyYouNeedSoWeCanGuide--": "Sélectionnez la catégorie qui correspond le mieux à vos besoins pour trouver rapidement les solutions qui vous conviennent."
+  },
+  "--supplier--": {
+    "--showMore--": "Montrer plus",
+    "--showLess--": "Montrer moins",
+    "--supplier--": "Fournisseur",
+    "--duns--": "Numéro DUNS :",
+    "--select--": "Sélectionner",
+    "--selectedSupplier--": "Fournisseur sélectionné",
+    "--skipSupplierSelection--": "Ignorer la sélection des fournisseurs pour l'instant",
+    "--selectSupplier--": "La sélection des fournisseurs est nécessaire",
+    "--foundSomeSuppliers--": "Voici quelques fournisseurs recommandés qui correspondent à vos besoins opérationnels et qui vous permettront d'accélérer le traitement de votre commande.",
+    "--recentlyUsedFor--": "Récemment utilisé pour :",
+    "--productUsedBy--": "{{product}} par {{user}} ({{department}})",
+    "--preferredFor--": "Privilégié pour :",
+    "--multiple--": "Multiple",
+    "--enterSupplierName--": "Saisir le nom du fournisseur",
+    "--weFoundMatches--": "Nous avons trouvé des correspondances pour « {{name}} » - Veuillez en sélectionner une",
+    "--looksLikeNewSupplier--": "Il semble que vous travailliez avec un nouveau fournisseur.",
+    "--shareSupplierDetails--": "Veuillez communiquer les informations suivantes sur le fournisseur",
+    "--supplierName--": "Nom du fournisseur",
+    "--enterName--": "Saisir le nom",
+    "--nameIsRequired--": "Le nom est obligatoire",
+    "--supplierContact--": "Contact fournisseur",
+    "--contractRequired--": "Un contact est obligatoire",
+    "--enterEmail--": "Saisir l'ID de l’adresse électronique",
+    "--continue--": "Continuer",
+    "--searchSupplier--": "Avec quel fournisseur souhaitez-vous travailler ?",
+    "--searchAnotherSupplier--": "Rechercher un autre fournisseur",
+    "--skipSelection--": "Passer la sélection des fournisseurs",
+    "--skipSuggestions--": "Passer les suggestions",
+    "--viewRecommendations--": "Voir les recommandations",
+    "--pleaseCompleteDetails--": "Veuillez renseigner les détails",
+    "--youAreWorkingWith--": "Il semble que vous travailliez avec un <1>nouveau fournisseur</1>.",
+    "--recentTransaction--": "Transactions récentes",
+    "--vendorId--": "ID :",
+    "--wouldYouConsider--": "Souhaitez-vous faire appel à des fournisseurs privilégiés pour cette mission ?",
+    "--usingThemSaveTime--": "Vous pourriez gagner du temps et de l'argent en faisant appel à eux.",
+    "--skippedSupplierSelection--": "- Sélection des fournisseurs ignorée -",
+    "--haveAnotherSupplier--": "Avez-vous un fournisseur en tête ?",
+    "--search--": "Rechercher"
+  },
+  "--estimate--": {
+    "--estimateSpend--": "Estimation de vos dépenses",
+    "--pleaseConfirmEstimateSpend--": "Veuillez confirmer votre estimation des dépenses. Cela nous permet de trouver des solutions adaptées à votre budget.",
+    "--continue--": "Continuer"
+  },
+  "--buyingChannel--": {
+    "--basedOnNeedYouCanStartWith--": "Nous y sommes presque ! En fonction de vos besoins, voici ce que nous vous recommandons comme prochaines étapes",
+    "--select--": "Sélectionner"
+  },
+  "--buyingChannelForm--": {
+    "--close--": "Fermer",
+    "--cancel--": "Annuler",
+    "--submit--": "Soumettre",
+    "--home--":"Accueil",
+    "--somethingWentWrong--": "Une erreur est survenue...",
+    "--notAbleToSubmit--": "Il n'est pas possible de soumettre une demande pour le moment. Vous pouvez essayer manuellement :",
+    "--clickHereToStart--": "Cliquez ici pour lancer la demande",
+    "--submittedSuccessfully--": "Votre demande a été soumise :",
+    "--submittingYourRequest--": "Soumission de votre demande. Veuillez patienter...",
+    "--loading--": "Chargement. Veuillez patienter...",
+    "--keepYouUpdated--": "Nous vous tiendrons au courant des prochaines étapes."
+  },
+  "--punchout--": {
+    "--basedOnNeedYouCanStartWith--": "En fonction de vos besoins, vous pouvez éventuellement commencer par",
+    "--continueExploring--": "Poursuivre l'exploration",
+    "--notTheResultYouLooking--": "Vous n'avez pas obtenu le résultat que vous attendiez ?"
+  },
+  "--compliance--": {
+    "--continue--": "Continuer",
+    "--ComplianceQuestionnaire--": "Questionnaire de conformité"
+  },
+  "--transactions--": {
+    "--details--": "DÉTAILS",
+    "--requester--": "DEMANDEUR",
+    "--date--": "DATE",
+    "--spend--": "DÉPENSES"
+  },
+  "--catalog--": {
+    "--weFoundSomeRecommendations--": "Nous y sommes presque ! En fonction de vos besoins, voici ce que nous vous recommandons comme prochaines étapes",
+    "--spendLimit--": "Limite de dépenses :",
+    "--foundMatchingItems--": "Éléments correspondants trouvés",
+    "--couldNotFindMatchingItems--": "Aucun élément correspondant n'a été trouvé",
+    "--noImageAvailable--": "Aucune image disponible",
+    "--seeMore--": "Afficher plus d'informations",
+    "--inMarketplace--": "dans {{marketplaceName}}",
+    "--notTheResultYouLooking--": "Vous n'avez pas obtenu le résultat que vous attendiez ?",
+    "--notApplicableContinueExploring--": "Poursuivre l'exploration",
+    "--searchingForMatching--": "Recherche de résultats correspondants",
+    "--goTo--": "Aller à {{name}}"
+  },
+  "--proposal--": {
+    "--capturedDetails--": "Détails extraits de la pièce jointe :",
+    "--reviewAndConfirmExtractedDetail--": "Vérifiez et confirmez l'exactitude des détails extraits après avoir téléchargé votre devis.",
+    "--title--": "Titre",
+    "--description--": "Description",
+    "--agreementType--": "Type de contrat",
+    "--contact--": "Contact",
+    "--region--": "Région",
+    "--paymentTerms--": "Conditions de paiement",
+    "--amount--": "Montant",
+    "--supplier--": "Fournisseur",
+    "--continue--": "Continuer",
+    "--unableToExtractDetails--":"Nous ne sommes pas en mesure d'extraire le contenu du document pour le moment.",
+    "--continueToProceed--":"Veuillez cliquer sur \"Continuer\" pour poursuivre"
+  },
+  "--po--": {
+    "--purchaseOrder--": "BON DE COMMANDE",
+    "--supplier--": "FOURNISSEUR",
+    "--requestor--": "DEMANDEUR",
+    "--status--": "STATUT",
+    "--created--": "Créé :",
+    "--viewAll--": "Voir tout",
+    "--overview--": "Voici un aperçu du bon de commande",
+    "--foundList--": "Voici la liste des bons de commande que nous avons trouvés"
+  },
+  "--generalchat--": {
+    "--note--": "CONSEIL DE PRO",
+    "--tip--": "Pour obtenir de meilleurs résultats, fournissez des informations sur le fournisseur / le numéro d’article / le numéro du contrat-cadre"
+  }
+}

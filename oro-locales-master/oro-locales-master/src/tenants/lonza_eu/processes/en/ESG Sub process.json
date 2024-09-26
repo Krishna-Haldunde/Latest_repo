@@ -1,0 +1,74 @@
+[
+  {
+    "id": null,
+    "name": "ESG Sub process",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 4,
+    "name": "ESG Information Request to Supplier",
+    "type": null,
+    "description": "Please fill in the ESG details required to proceed with your onboarding."
+  },
+  {
+    "id": 14,
+    "name": "Supplier ESG Form",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 21,
+    "name": "Manual ESG Score Review",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 38,
+    "name": "Ecovadis Score Update",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 32,
+    "name": "D&B Score Review",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 49,
+    "name": "Integrity Next Score Review",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 33,
+    "name": "Integrity Next Invitation",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 45,
+    "name": "Waiting Period for Integrity Next Results",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 9,
+    "name": "Responsible Sourcing Review",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 44,
+    "name": "ESG Screening Result",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 37,
+    "name": "ESG Screening Result Notification to Requestor",
+    "type": null,
+    "description": null
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "id": null,
+    "name": "Mises à jour du fournisseur",
+    "type": "processTitle"
+  },
+  {
+    "id": 4,
+    "name": "Examiner les mises à jour du fournisseur",
+    "type": null
+  },
+  {
+    "id": 3,
+    "name": "Mise à jour du fournisseur dans Syniti",
+    "type": null
+  }
+]

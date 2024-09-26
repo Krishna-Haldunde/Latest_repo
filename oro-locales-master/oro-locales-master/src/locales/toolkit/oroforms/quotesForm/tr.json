@@ -1,0 +1,22 @@
+{
+  "--addSupplierDocsYouHave--": "Zaten sahip olduğunuz tedarikçi belgelerini ekleyin",
+  "--helpsSpeedTheProcess--": "Bu, süreci hızlandırmaya yardımcı olur",
+  "--supplierQuote--": "Tedarikçi teklifi",
+  "--uploading--": "Yükleniyor...",
+  "--cancel--": "İptal",
+  "--sowProposal--": "Çalışma Bildirisi / Teklif",
+  "--additionalDocs--": "Ek belgeler",
+  "--additionalQuote--": "Ek alıntı",
+  "--additionalDoc--": "Ek belge",
+  "--pleaseSelectAFile--": "Lütfen bir dosya seçin",
+  "--file--": "Dosya",
+  "--fileName--": "Dosya adı",
+  "--additionalNote--": "Ek not <1>(isteğe bağlı)</1>",
+  "--askForLegalReview--": "Yasal inceleme isteyin",
+  "--yes--": "Evet",
+  "--no--": "Hayır",
+  "--supplierPaymentTerm--": "Tedarikçi ödeme süresi",
+  "--supplierDoc--": "Tedarikçi belgesi",
+  "--upload--": "Yükle",
+  "--download--": "İndir"
+}

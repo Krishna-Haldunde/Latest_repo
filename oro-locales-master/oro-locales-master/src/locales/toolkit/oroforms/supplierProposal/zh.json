@@ -1,0 +1,21 @@
+{
+  "--uploadQuoteProposal--": "上传报价/提案",
+  "--ifYouHaveProposalQuoteAttachmentPleaseUploadHere--": "如果您有提案/报价附件，请在此处上传。",
+  "--supportedFormats--": "支持的格式：",
+  "--upload--": "上传",
+  "--proposalDetails--": "提案详情",
+  "--pleaseEnsureTheDetailsAreCorrect--": "请确保填写的信息正确且与上传的文件相符",
+  "--supplierLegalName--": "供应商法定名称",
+  "--description--": "提案描述",
+  "--deliveryDate--": "交货日期",
+  "--totalAmount--": "总金额",
+  "--supplierCountry--": "供应商国家",
+  "--paymentTerm--": "付款期限",
+  "--edit--": "编辑",
+  "--save--": "保存",
+  "--confirm--": "确认",
+  "--proposal--": "提案",
+  "--weExtractedFollowingDetailsFromYourProposal--": "我们从您的提案中提取了以下详细信息",
+  "--previewNotAvailable--": "预览不可用",
+  "--thereAreSomeErrorsInForm--": "格式有误。请检查"
+}

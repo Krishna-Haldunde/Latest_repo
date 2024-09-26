@@ -1,0 +1,188 @@
+[
+  {
+    "id": null,
+    "name": "GMP Sub process",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 3,
+    "name": "Collect Quality Related Documents",
+    "type": null,
+    "description": "Please complete the attached form, sign and upload as pdf when completed"
+  },
+  {
+    "id": 71,
+    "name": "Supplier Quality Commitments",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 85,
+    "name": "Quality Documents To Sign",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 87,
+    "name": "Review and Acknowledgement(Quality)",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 6,
+    "name": "Site QA Review of SCD",
+    "type": null,
+    "description": "Please review the provided Supply Chain Declaration (SCD) and complete the form for the Requested Vendor and for the associated Supply Chain Partner(s). Request Assessments and /or Quality Agreement (updates) wherever required to meet standards of GROUP-99350. Please also request creation of SAP Vendor numbers for SC Partners that are not yet in SAP"
+  },
+  {
+    "id": 53,
+    "name": "Assessment and QAA form creation",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 88,
+    "name": null,
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 54,
+    "name": "Review and assignment of Assessments by GQCSC",
+    "type": null,
+    "description": "Please review requests raised by Site QA against the SCD provided, requirements per Group-99350 and status in TrackWise. \nIf you disagree with Site QA requests, you can change accordingly, but alignment and clarification with Site QA should be assured before applying changes.\nAll documents uploaded for completion by requested vendor and /or supply chain partner should be appropriately pre-populated.\nAssignment of tasks will be done in a separate step."
+  },
+  {
+    "id": 55,
+    "name": "Review and assignment of QAA/SCL by GQCSC",
+    "type": null,
+    "description": "Please review requests raised by Site QA against the SCD provided, requirements per Group-99350 and status in DMS and on the QAA dynamic plan. \nIf you disagree with Site QA requests, you can change accordingly, but alignment and clarification with Site QA should be assured before applying changes.\nAll documents uploaded for completion by requested vendor and /or supply chain partner should be appropriately pre-populated.\nAssignment of tasks will be done in a separate step."
+  },
+  {
+    "id": 92,
+    "name": "Create Assessment Assignee Form",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 93,
+    "name": "Create QAA Assignee Form",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 96,
+    "name": null,
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 94,
+    "name": "Assign Assessment Tasks",
+    "type": null,
+    "description": "For proper assignment please use information included in the “Site Info” Section (identification of site address) and the “Assessment for VSCI Vendor” Section (type of assessment needed)"
+  },
+  {
+    "id": 95,
+    "name": "Assign QAA Tasks",
+    "type": null,
+    "description": "For proper assignment please use information included in the “Site Info” Section (identification of site address) and the “Assessment for VSCI Vendor” Section (type of agreement needed)"
+  },
+  {
+    "id": 56,
+    "name": "Download and Upload Form Creation For Supplier",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 42,
+    "name": "Collect Assessment and QAA documents",
+    "type": null,
+    "description": "In each section you will find the documents to be completed. Assure that they are downloaded, processed and signed (Wet inc or e-signature) by qualified and authorized colleagues for the corresponding company / site.\nDo not delete any documents you have downloaded.\nIf there are questions related to completion of the request, please reach out to us using the “Request Info” functionality provided”\nUpload the final document as pdf."
+  },
+  {
+    "id": 100,
+    "name": "Assessment for Main Vendor - Supplier",
+    "type": null,
+    "description": "In each section you will find the documents to be completed. Assure that they are downloaded, processed and signed (Wet inc or e-signature) by qualified and authorized colleagues for the corresponding company / site.\nDo not delete any documents you have downloaded.\nIf there are questions related to completion of the request, please reach out to us using the “Request Info” functionality provided”\nUpload the final document as pdf."
+  },
+  {
+    "id": 102,
+    "name": "Assessment for VSCI Vendor - Supplier",
+    "type": null,
+    "description": "In each section you will find the documents to be completed. Assure that they are downloaded, processed and signed (Wet inc or e-signature) by qualified and authorized colleagues for the corresponding company / site.\nDo not delete any documents you have downloaded.\nIf there are questions related to completion of the request, please reach out to us using the “Request Info” functionality provided”\nUpload the final document as pdf."
+  },
+  {
+    "id": 104,
+    "name": "QAA for Main Vendor -Supplier",
+    "type": null,
+    "description": "In each section you will find the documents to be completed. Assure that they are downloaded, processed and signed (Wet inc or e-signature) by qualified and authorized colleagues for the corresponding company / site.\nDo not delete any documents you have downloaded.\nIf there are questions related to completion of the request, please reach out to us using the “Request Info” functionality provided”\nUpload the final document as pdf."
+  },
+  {
+    "id": 106,
+    "name": "QAA for VSCI Vendor - Supplier",
+    "type": null,
+    "description": "In each section you will find the documents to be completed. Assure that they are downloaded, processed and signed (Wet inc or e-signature) by qualified and authorized colleagues for the corresponding company / site.\nDo not delete any documents you have downloaded.\nIf there are questions related to completion of the request, please reach out to us using the “Request Info” functionality provided”\nUpload the final document as pdf."
+  },
+  {
+    "id": 127,
+    "name": "Instructions for downloading and uploading the Assessment and QAA forms",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 109,
+    "name": "User  Assignment",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 115,
+    "name": null,
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 110,
+    "name": "Assessments for Requested Vendor and Supply Chain Partners",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 111,
+    "name": "Requested Vendor QAA by Site And GQCSC",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 118,
+    "name": "Supply Chain Partner1 QAA by Site And GQCSC",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 120,
+    "name": "Supply Chain Partner2 QAA by Site And GQCSC",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 122,
+    "name": "Supply Chain Partner3 QAA by Site And GQCSC",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 124,
+    "name": "Supply Chain Partner4 QAA by Site And GQCSC",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 9,
+    "name": "Final Site QA Review",
+    "type": null,
+    "description": null
+  }
+]

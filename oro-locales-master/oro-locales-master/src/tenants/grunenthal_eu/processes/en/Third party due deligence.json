@@ -1,0 +1,104 @@
+[
+  {
+    "id": null,
+    "name": "Third party due deligence",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 9,
+    "name": "Find applicable due diligence process",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 96,
+    "name": "Load Main Contact",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 181,
+    "name": "Collect Supplier Questionnaires",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 168,
+    "name": "Collect supplier documents",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 157,
+    "name": "Collect supplier documents",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 192,
+    "name": "Supplier Forms by Requester",
+    "type": null,
+    "description": "As the supplier has not responded, the requester will need to submit the supplier details. "
+  },
+  {
+    "id": 194,
+    "name": "Company information",
+    "type": null,
+    "description": "As the supplier has not responded, the requester will need to submit the supplier details. "
+  },
+  {
+    "id": 196,
+    "name": "Payment details",
+    "type": null,
+    "description": "As the supplier has not responded, the requester will need to submit the supplier details. "
+  },
+  {
+    "id": 198,
+    "name": "Contact Details",
+    "type": null,
+    "description": "As the supplier has not responded, the requester will need to submit the supplier details. "
+  },
+  {
+    "id": 201,
+    "name": null,
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 199,
+    "name": "Supplier documents have been submitted!",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 200,
+    "name": "ORO TPDD - ESG red flags",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 2,
+    "name": "Due Diligence and Risk Scoring",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 95,
+    "name": "Compliance approval for risky Suppliers",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 38,
+    "name": "Notify Requestor when Vendor Risk is High ",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 66,
+    "name": "Notify Procurement Center when Vendor Risk High  ",
+    "type": null,
+    "description": null
+  }
+]

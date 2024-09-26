@@ -1,0 +1,18 @@
+{
+  "--isRequiredField--": "{{field}} ist ein Pflichtfeld",
+  "--title--": "Titel",
+  "--regionCountryPartnerUsed--": "Region oder Land Partner wird verwendet",
+  "--chooseRegionCountry--": "Region/Land wählen",
+  "--regionCountry--": "Region/Land",
+  "--servicesOfferedByPartner--": "Vom Partner angebotene Dienstleistungen",
+  "--chooseServiceCategory--": "Dienstleistung / Kategorie wählen",
+  "--serviceCategory--": "Dienstleistung / Kategorie",
+  "--businessEntity--": "Geschäftseinheit",
+  "--chooseCompanyEntity--": "Unternehmenseinheit wählen",
+  "--additionalSubsidiaries--": "Weitere Tochtergesellschaften",
+  "--chooseAdditionalCompanyEntities--": "Wählen Sie weitere Unternehmenseinheiten",
+  "--user--": "Benutzer",
+  "--department--": "Abteilung",
+  "--commentDetails--": "Kommentar / Details",
+  "--businessNeedProjectScopeDetails--": "Fügen Sie Details über den Geschäftsbedarf und den Projektumfang für diese Partneranfrage hinzu"
+}

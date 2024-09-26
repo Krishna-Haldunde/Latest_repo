@@ -1,0 +1,222 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Compliance Approval Documentation",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 60,
+    "fieldName": null,
+    "name": "Original Risk Score",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "High Risk Vendor Documentation",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 7,
+    "fieldName": null,
+    "name": "Medium Risk Vendor Documentation",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 26,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p>Vendor Risk was validated as <strong style=\\\"color: rgb(230, 0, 0);\\\">High Risk</strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 40,
+    "fieldName": "null_1_",
+    "name": "null(1)",
+    "description": "\"<p>Vendor Risk was validated as <strong style=\\\"color: rgb(255, 153, 0);\\\">Medium Risk</strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 35,
+    "fieldName": "q35__p_Medium_risk_vendor_denied__",
+    "name": "<p>Medium risk vendor denied (hidden)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 38,
+    "fieldName": "q38__p_High_risk_vendor_denied__hi",
+    "name": "<p>High risk vendor denied (hidden)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 59,
+    "fieldName": "null_2_",
+    "name": "null(2)",
+    "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\">This Supplier Onboarding process will stop here. </strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "q4__p_Please_add_Documentation_of",
+    "name": "<p>Please add Documentation of approval.</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 57,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\">This Supplier Onboarding process will stop here. You can click 'X' from top right corner, and then click 'Deny'!</strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 69,
+    "fieldName": "_p_Please_justify__p_",
+    "name": "<p>Please justify</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 71,
+    "fieldName": "_p_Please_justify___p_",
+    "name": "<p>Please justify!</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 65,
+    "fieldName": "_p_Comments__p_",
+    "name": "<p>Please provide details on Additional mitigation measures.</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 76,
+    "fieldName": "_p_Please_clarify___p_",
+    "name": "<p>Please clarify!</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 14,
+    "fieldName": "q14__p_Would_you_like_to_approve_t",
+    "name": "<p>Would you like to approve the onboarding of this <strong style=\"color: rgb(230, 0, 0);\">high risk</strong><span style=\"color: rgb(230, 0, 0);\"> </span>vendor?</p><p><span style=\"color: rgb(136, 136, 136);\">Note : You are required to add documentation to approve.</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Reject": "Reject",
+      "Approve": "Approve"
+    },
+    "type": "field"
+  },
+  {
+    "id": 74,
+    "fieldName": "q74__p_Please_select_the_appropria",
+    "name": "<p>Please select the appropriate </p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Please apply additional mitigation measures": "Please apply additional mitigation measures",
+      "Please ask vendor to sign the Grünenthal Code of Conduct": "Please ask vendor to sign the Grünenthal Code of Conduct",
+      "Please use Grünenthal contract template": "Please use Grünenthal contract template"
+    },
+    "type": "field"
+  },
+  {
+    "id": 79,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><span style=\\\"background-color: rgb(255, 255, 0);\\\">Note:</span> Supplier has not answered TPDD questionnaire. Risk scoring has been calculated considering the other criteria. </p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 12,
+    "fieldName": "q12__p_Would_you_like_to_approve_t",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Would you like to approve the onboarding of this </span><span style=\"color: rgb(230, 0, 0);\">medium risk </span>vendor<span style=\"color: rgb(62, 68, 86);\">?</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Reject": "Reject",
+      "Approve": "Approve"
+    },
+    "type": "field"
+  },
+  {
+    "id": 102,
+    "fieldName": "originalRiskScore",
+    "name": "<p>Original Risk Score</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 105,
+    "fieldName": "lastUpdatedTpddDate",
+    "name": "<p>Last Updated TPDD Date</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

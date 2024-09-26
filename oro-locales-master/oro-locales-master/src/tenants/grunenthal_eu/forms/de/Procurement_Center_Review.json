@@ -1,0 +1,333 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Überprüfung der Beschaffungsstelle",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 204,
+    "fieldName": null,
+    "name": "Sperrung eines Lieferanten",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 138,
+    "fieldName": null,
+    "name": "Anbieterklassifizierung",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 131,
+    "fieldName": null,
+    "name": "Lieferantenverlängerung",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 189,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 92,
+    "fieldName": null,
+    "name": "Überprüfung nicht standardisierter Zahlungsbedingungen",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 88,
+    "fieldName": "q88__p_Reason_for_non_standard_pay",
+    "name": "<p>Vom Antragsteller angegebener Grund für nicht standardisierte Zahlungsbedingungen</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 115,
+    "fieldName": "q115__p__span_style__color__rgb_62_",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Geltende nicht standardisierte Zahlungsbedingung</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 130,
+    "fieldName": "q130__p__span_style__color__rgb_62_",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Ist IT-Forderung (ausgeblendet)</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 175,
+    "fieldName": null,
+    "name": null,
+    "description": "<p><strong style=\\\"background-color: rgb(255, 255, 0);\\\">Hinweis: </strong>Sie können diesen Antrag nicht einreichen, bevor Sie die obige Auswahl bestätigt haben. Bitte klären Sie dies mit dem Antragsteller, indem Sie die folgenden Schritte ausführen: </p><ol><li>Klicken Sie auf „<em>Information anfordern</em>“ und wählen Sie „<em>Antragssteller</em>“ </li><li>Klicken Sie auf „<em>Anforderungsformular teilen</em>“ und wählen Sie das Formular „<em>Details zur Zahlungsbedingung</em>' </li></ol>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 162,
+    "fieldName": null,
+    "name": null,
+    "description": "<p><strong style=\\\"color: rgb(62, 68, 86);\\\">Hinweis:</strong><span style=\\\"color: rgb(62, 68, 86);\\\"> Leiten Sie die Erneuerung der Due Diligence für Geschäftspartner für diesen Anbieter ein, bevor Sie die Lieferantenverlängerung ausfüllen. </span></p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 168,
+    "fieldName": null,
+    "name": null,
+    "description": "<p><strong>Hinweis:</strong> <span style=\\\"color: rgb(62, 68, 86);\\\">Standardmäßig werden alle Verlängerungen auf der Ebene der Geschäftseinheit und der Einkaufsstelle vorgenommen</span></p><p><span style=\\\"color: rgb(34, 34, 34);\\\">. Bitte bestätigen Sie, ob die Informationen korrekt sind. Falls eine der Informationen nicht korrekt ist, lehnen Sie sie bitte ab oder senden Sie sie zur Korrektur an den Antragsteller zurück.</span></p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 13,
+    "fieldName": "_p_Update_business_need___p_",
+    "name": "<p>Produkt-/Dienstleistungsbeschreibung </p>",
+    "description": "Hinweis: Sie können vom Antragsteller „Informationen anfordern“, um die Produkt-/Dienstleistungsbeschreibung zu aktualisieren, oder Sie können sie unten selbst aktualisieren.",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 109,
+    "fieldName": null,
+    "name": null,
+    "description": "<p><strong style=\\\"background-color: rgb(255, 255, 0);\\\">Hinweis:</strong><span style=\\\"color: rgb(62, 68, 86);\\\"> Der Antrag wird nun zur Genehmigung durch den Leiter des Beschaffungsbereichs/der Kreditorenbuchhaltung weitergeleitet</span></p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 10,
+    "fieldName": "q10__p_Is_the_business_need_adequa",
+    "name": "<p>Bitte bestätigen Sie, ob die vom Antragsteller bereitgestellte<span style=\"color: rgb(62, 68, 86);\"> Produkt-/Dienstleistungsbeschreibung </span>vollständig ist.</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Confirmed": "Bestätigt"
+    },
+    "type": "field"
+  },
+  {
+    "id": 165,
+    "fieldName": "q165__p__span_style__color__rgb_255",
+    "name": "<p><br></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Do not extend to the Purchase Organizations of the entities": "Erstreckt sich nicht auf die Einkaufsorganisationen der Einheiten"
+    },
+    "type": "field"
+  },
+  {
+    "id": 82,
+    "fieldName": "q82__p_Is_the_reason_for_using_non",
+    "name": "<p>Bitte bestätigen Sie, ob der Grund für die Verwendung einer nicht standardisierten Zahlungsbedingung <span style=\"color: rgb(62, 68, 86);\">zulässig ist</span>.</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Confirmed": "Bestätigt"
+    },
+    "type": "field"
+  },
+  {
+    "id": 172,
+    "fieldName": "applicablePaymentTerm",
+    "name": "<p>Wählen Sie die zutreffende Zahlungsbedingung aus.</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 185,
+    "fieldName": "q185__p_Please_confirm_the_Primary_",
+    "name": "<p>Bitte bestätigen Sie die ausgewählte primäre Geschäftseinheit</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 180,
+    "fieldName": "q180__p__span_style__color__rgb_62_",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Weitere Grünenthal-Geschäftseinheiten eingebunden.</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 137,
+    "fieldName": "q137__p__span_style__color__rgb_62_",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Ablaufdatum der Due Diligence für Geschäftspartner</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 156,
+    "fieldName": "q156__p_Would_you_like_to_continue_",
+    "name": "<p>Bitte bestätigen Sie, ob Sie mit dem Prozess der Anbietererweiterung fortfahren möchten</p>",
+    "description": null,
+    "helpText": "<p>Bitte klicken Sie auf „Ablehnen“ am Ende des Formulars, wenn Sie mit dieser Lieferantenverlängerung nicht fortfahren möchten</p>",
+    "listItemPrefix": null,
+    "choices": {
+      "Confirmed": "Bestätigt"
+    },
+    "type": "field"
+  },
+  {
+    "id": 144,
+    "fieldName": "q144__p_Company_Entity_the_vendor_i",
+    "name": "<p>Geschäftseinheit, für die die Lieferantenverlängerung beantragt wird</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 192,
+    "fieldName": "CompEntiUpdate",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Bitte bestätigen Sie die für die Aktualisierung ausgewählte/n Geschäftseinheit/en</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 194,
+    "fieldName": "noTPDDMessage",
+    "name": "<p>Keine TPDD verfügbar</p>",
+    "description": "<p>Keine TPDD verfügbar</p><p><br></p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 203,
+    "fieldName": "q203__p__span_style__color__rgb_62_",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Vom Anforderer ausgefüllte Lieferantendokumente (ausgeblendet)</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 197,
+    "fieldName": "DocColReq",
+    "name": "<p>Bitte bestätigen Sie, ob die Lieferantendokumente vom Antragsteller ausgefüllt und nicht an den Lieferanten weitergegeben werden sollen. </p><p><br></p><p><span style=\"background-color: rgb(255, 255, 0);\">Hinweis:</span> Die Option „Antragssteller“ sollte nur verwendet werden, wenn der Lieferant nicht antwortet.</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Requester": "Antragsteller",
+      "Supplier": "Lieferant"
+    },
+    "type": "field"
+  },
+  {
+    "id": 26,
+    "fieldName": "_p_Confirm_the_category__p_",
+    "name": "<p>Bitte bestätigen Sie die ausgewählte Primärkategorie</p>",
+    "description": "Hinweis: Wenn die gewählte Hauptkategorie nicht Stufe 3 ist, wählen Sie bitte eine Kategorie der Stufe 3.",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 170,
+    "fieldName": "vendorClassification",
+    "name": "<p>Wählen Sie die zutreffende Lieferantenklassifizierung</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 207,
+    "fieldName": "blockComment",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Grund für die Sperre</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 210,
+    "fieldName": "blockStatus",
+    "name": "<p>Aktueller Status</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

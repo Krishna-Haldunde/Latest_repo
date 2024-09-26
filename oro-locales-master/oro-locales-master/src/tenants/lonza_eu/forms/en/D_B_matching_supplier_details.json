@@ -1,0 +1,42 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "D&B matching supplier list",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 4,
+    "fieldName": "matchingsupplierlist",
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "Matching Suppliers",
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p>Please select <strong>one</strong> supplier to screen from the list below.</p><p>                                                                     </p><p>To see details of a matching supplier click on the ﻿↔﻿option.</p><p><br></p><p>Select the appropriate supplier by clicking on the radio button.</p><p><span style=\\\"color: rgb(209, 52, 56);\\\">&nbsp;</span></p><h5>If you cannot find the right supplier in the list, go back and provide more information (e.g. address or DUNS number) about the supplier of interest.&nbsp;</h5>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

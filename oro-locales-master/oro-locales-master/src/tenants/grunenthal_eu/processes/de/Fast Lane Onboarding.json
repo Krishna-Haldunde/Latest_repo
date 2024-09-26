@@ -1,0 +1,92 @@
+[
+  {
+    "id": null,
+    "name": "Schnellbearbeitungs-Onboarding",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 26,
+    "name": "Schnellbearbeitungs-Genehmigung",
+    "type": null,
+    "description": "Ein Beschaffungsmitarbeiter aus Ihrem Team hat einen Schnellbearbeitungs-Onboardingprozess beantragt. Dies sollte nur bei kritischem Geschäftsbedarf genehmigt werden, andernfalls sollte ein regulärer Onboardingprozess durchgeführt werden."
+  },
+  {
+    "id": 43,
+    "name": "Hauptansprechpartner laden",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 9,
+    "name": "Sammlung von Dokumenten",
+    "type": null,
+    "description": "Lieferantenstammdaten sammeln "
+  },
+  {
+    "id": 19,
+    "name": "Informationen zum Unternehmen",
+    "type": null,
+    "description": "Lieferantenstammdaten sammeln "
+  },
+  {
+    "id": 21,
+    "name": "Zahlungsdetails",
+    "type": null,
+    "description": "Lieferantenstammdaten sammeln "
+  },
+  {
+    "id": 23,
+    "name": "Kontaktdetails",
+    "type": null,
+    "description": "Lieferantenstammdaten sammeln "
+  },
+  {
+    "id": 24,
+    "name": "Überprüfung der Sanktionsliste",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 25,
+    "name": "Lokale Compliance-Genehmigung",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 27,
+    "name": "Globale Compliance-Genehmigung",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 29,
+    "name": null,
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 28,
+    "name": "IT-Bewertungsergebnisse",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 32,
+    "name": "Bestätigung des Antragstellers für andere Onboardingprozesse",
+    "type": null,
+    "description": "Sie müssen den EHS-Onboarding-Fragebogen bzw. die Aktivitäten zur Einhaltung der Tierschutzvorschriften ausfüllen, bevor der Lieferant vollständig in das Unternehmen aufgenommen werden kann."
+  },
+  {
+    "id": 40,
+    "name": "Syniti-Anfrage",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 36,
+    "name": "Erneuerung des Prüfungs- und Analyseprozesses für Dritte",
+    "type": null,
+    "description": null
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Examen des responsables hiérarchiques",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 4,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p>Le Requérant a demandé d’appliquer un devoir de diligence et de gestion des risques de la chaîne d'approvisionnement pour le fournisseur mentionné à gauche</p><p>Veuillez procéder à l'approbation le cas échéant. Cette demande sera examinée par le service local de conformité après votre approbation.</p><p>&nbsp ;</p><p><span style=\\\"background-color: rgb(255, 255, 0);\\\">Remarque :</span> pour plus d'informations sur cette demande, consultez les formulaires sur le côté gauche de cette page.</p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

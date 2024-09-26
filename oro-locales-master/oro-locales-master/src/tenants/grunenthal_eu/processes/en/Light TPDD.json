@@ -1,0 +1,50 @@
+[
+  {
+    "id": null,
+    "name": "Light TPDD",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 71,
+    "name": "Match Name, Country with Bank",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 64,
+    "name": "Sanction and Adverse Media Check",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 59,
+    "name": "Supplier data review - Procurement Center",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 65,
+    "name": "Global Compliance Approval - Sanctions",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 66,
+    "name": "TPDD Risk Scoring",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 67,
+    "name": "Update TPDD and Risk",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 72,
+    "name": "Compliance Checks Triggered",
+    "type": null,
+    "description": null
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "--isRequiredField--": "{{field}} is a required field",
+  "--title--": "Title",
+  "--regionCountryPartnerUsed--": "Region or country partner is used",
+  "--chooseRegionCountry--": "Choose region / country",
+  "--regionCountry--": "Region / country",
+  "--servicesOfferedByPartner--": "Services offered by the partner",
+  "--chooseServiceCategory--": "Choose service / category",
+  "--serviceCategory--": "Service / category",
+  "--businessEntity--": "Business entity",
+  "--chooseCompanyEntity--": "Choose company entity",
+  "--additionalSubsidiaries--": "Additional subsidiaries",
+  "--chooseAdditionalCompanyEntities--": "Choose additional company entities",
+  "--user--": "User",
+  "--department--": "Department",
+  "--commentDetails--": "Comment / Details",
+  "--businessNeedProjectScopeDetails--": "Add details about the business need and project scope for this partner request"
+}

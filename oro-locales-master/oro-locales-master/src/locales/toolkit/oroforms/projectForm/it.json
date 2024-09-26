@@ -1,0 +1,23 @@
+{
+  "--marketingProgram--": "Programma di marketing",
+  "--allocadiaId--": "ID Allocadia",
+  "--targetRegion--": "Regione di destinazione",
+  "--timeline--": "Calendario",
+  "--service--": "Servizio",
+  "--budgetDetails--": "Dettagli del budget",
+  "--estimatedTotalCost--": "Costo totale stimato",
+  "--businessEntity--": "Entità commerciale",
+  "--accountCode--": "Codice del conto",
+  "--user--": "Utente",
+  "--department--": "Dipartimento",
+  "--briefProjectSummary--": "Breve sintesi del progetto",
+  "--global--": "Globale",
+  "--isRequiredField--": "{{field}} è un campo obbligatorio",
+  "--chooseProgram--": "Scegli il programma",
+  "--activityName--": "Nome dell'attività",
+  "--servicesNeeded--": "Servizi necessari",
+  "--chooseService--": "Scegli il servizio",
+  "--chooseBusinessEntity--": "Scegli l'entità commerciale",
+  "--estimatedProjectCost--": "Costo stimato del progetto",
+  "--describeProjectScopeGoal--": "Descrivi l'ambito e l'obiettivo del progetto"
+}

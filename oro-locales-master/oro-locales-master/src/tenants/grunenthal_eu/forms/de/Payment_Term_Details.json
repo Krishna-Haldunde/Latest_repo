@@ -1,0 +1,144 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Einzelheiten zur Zahlungsbedingung",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Zahlungsbedingung",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 61,
+    "fieldName": null,
+    "name": "",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 62,
+    "fieldName": null,
+    "name": "Anbieterklassifizierung",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 28,
+    "fieldName": "nonStandardPaymentTermReason",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Was ist der Grund für die Wahl einer nicht standardisierten Zahlungsbedingung?</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 26,
+    "fieldName": "nonStandardPaymentTerm",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Geben Sie die geltende Zahlungsbedingung ein</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": null,
+    "name": null,
+    "description": "<p><strong style=\\\"background-color: rgb(255, 255, 0);\\\">Hinweis: </strong><strong>aufgrund der Wahl einer nicht standardmäßigen Zahlungsbedingung wird ORO eine Genehmigung beim Leiter des Beschaffungsbereichs/Leiter der Abrechnungsstelle auslösen.</strong></p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 24,
+    "fieldName": "requesterPaymentTerm",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Geltende Zahlungsbedingung für den Lieferanten </span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 50,
+    "fieldName": "isStandardPaymentTerm",
+    "name": "<p>Gemäß der Beschaffungsrichtlinie beträgt die empfohlene Zahlungsbedingung 60 Tage. Alle Zahlungsfristen unter 60 Tagen bedürfen der Genehmigung durch den Leiter des Beschaffungsbereichs/Leiter der Abrechnungsstelle</p><p>Möchten Sie mit der Zahlungsbedingung fortfahren?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Other": "Sonstige"
+    },
+    "type": "field"
+  },
+  {
+    "id": 55,
+    "fieldName": "nonStandardPTNo",
+    "name": "<p>Standard-Zahlungsfrist (ausgeblendet)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 53,
+    "fieldName": "nonStandardPTYes",
+    "name": "<p>Standardmäßig „Ja“ für nicht standardmäßige Zahlungsfrist (ausgeblendet)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 65,
+    "fieldName": "fastLanePayTerm",
+    "name": "<p>Bitte wählen Sie aus der folgenden Liste die entsprechende Zahlungsfrist aus</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 71,
+    "fieldName": "fastLaneProcess",
+    "name": "<p>Prozess ist Schnellbearbeitung (ausgeblendet)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 68,
+    "fieldName": "fastLaneVendClassification",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Wählen Sie die zutreffende Lieferantenklassifizierung</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

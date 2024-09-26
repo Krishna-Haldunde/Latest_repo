@@ -1,0 +1,114 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Code of Conduct for Grünenthal’s Business Partners",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 13,
+    "fieldName": "CCoNAck",
+    "name": null,
+    "description": "\"<p><span style=\\\"color: rgb(187, 187, 187);\\\">Code of Conduct Not Acknowledged!</span></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": "q7__p_We_hereby_acknowledge_on_be",
+    "name": "<p><br></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "We hereby acknowledge on behalf of the Business Partner that it recognises all obligations arising out of or in connection with this Code of Conduct and that it will comply with it as long as the business relationship lasts.": "We hereby acknowledge on behalf of the Business Partner that it recognises all obligations arising out of or in connection with this Code of Conduct and that it will comply with it as long as the business relationship lasts."
+    },
+    "type": "field"
+  },
+  {
+    "id": 10,
+    "fieldName": "CConAck",
+    "name": null,
+    "description": "\"<p><span style=\\\"color: rgb(187, 187, 187);\\\">Code of Conduct Acknowledged!</span></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 44,
+    "fieldName": "codeOfCondGer",
+    "name": "<p><span style=\"color: rgb(73, 80, 87);\">Code of Conduct for Grünenthal’s Business Partners_German</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 47,
+    "fieldName": "codeOfCondIta",
+    "name": "<p><span style=\"color: rgb(73, 80, 87);\">Code of Conduct for Grünenthal’s Business Partners_Italian</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 50,
+    "fieldName": "codeOfCondSpa",
+    "name": "<p><span style=\"color: rgb(73, 80, 87);\">Code of Conduct for Grünenthal’s Business Partners_Spanish</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 53,
+    "fieldName": "codeOfCondPor",
+    "name": "<p><span style=\"color: rgb(73, 80, 87);\">Code of Conduct for Grünenthal’s Business Partners_Portuguese</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 41,
+    "fieldName": "codeOfCondFren",
+    "name": "<p><span style=\"color: rgb(73, 80, 87);\">Code of Conduct for Grünenthal’s Business Partners_French</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 55,
+    "fieldName": "codeOfCondEng",
+    "name": "<p><span style=\"color: rgb(73, 80, 87);\">Code of Conduct for Grünenthal’s Business Partners_English</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

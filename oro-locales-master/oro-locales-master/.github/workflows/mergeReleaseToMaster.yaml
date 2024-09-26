@@ -1,0 +1,31 @@
+# This workflow gets triggered on commits to release branch, and creates PR to merge those changes back into master.
+# It is based on https://bharathvaj.me/blog/keep-two-branches-in-sync 
+
+name: Auto merge to master from release
+
+on:
+  # Triggers the workflow on push to release branch
+  push:
+    branches: [ release ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  sync-branches:
+    runs-on: ubuntu-latest
+    name: Syncing branches
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Opening pull request
+        id: pull
+        uses: tretuna/sync-branches@1.4.0
+        with:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+          FROM_BRANCH: 'release'
+          TO_BRANCH: 'master'

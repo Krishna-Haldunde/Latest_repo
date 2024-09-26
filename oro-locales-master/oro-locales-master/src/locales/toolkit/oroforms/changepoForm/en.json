@@ -1,0 +1,21 @@
+{
+  "--department--": "Department:",
+  "--companyEntity--": "Company Entity:",
+  "--startDate--": "Start date:",
+  "--endDate--": "End date:",
+  "--poTotal--": "PO Total:",
+  "--expenseItem--": "Expense Items",
+  "--requiredField--": "{{field}} is a required field.",
+  "--purchaseOrder--": "Purchase Order (PO)",
+  "--selectPurchaseOrder--": "Select Purchase Order (PO)",
+  "--reasonForAmendment--": "Reason for amendment",
+  "--whatDoYouWantToChange--": "What do you want to change?",
+  "--extendTimeline--": "Extend Timeline",
+  "--currentTimeline--": "Current timeline:",
+  "--additionalAmount--": "Additional amount",
+  "--updateTimeline--": "Update Timeline",
+  "--currentPoTotal--": "Current PO Total:",
+  "--attachments--": "Attachments",
+  "--addAmountUpdateTimelines--": "Add amount / update timelines",
+  "--editPoLineItems--": "Edit PO line items"
+}

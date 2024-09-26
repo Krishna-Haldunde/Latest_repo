@@ -1,0 +1,349 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Buchungskreis und Einkaufsorganisationsdaten",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 28,
+    "fieldName": null,
+    "name": "Einkaufsorganisationsdaten",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Buchungskreisdaten",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 20,
+    "fieldName": null,
+    "name": "Buchungskreisbuchhaltungsdaten",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 27,
+    "fieldName": null,
+    "name": "Sachbearbeiterdaten",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 68,
+    "fieldName": null,
+    "name": "Qualifizierungsbezogene Daten",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 31,
+    "fieldName": "incoTerms",
+    "name": "<p><strong>Incoterms</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 49,
+    "fieldName": "directDebitAmount",
+    "name": "<p><strong>Bitte geben Sie den Lastschriftbetrag ein</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 52,
+    "fieldName": "directDebitFrequency",
+    "name": "<p><strong>Bitte wählen Sie die Häufigkeit der Lastschrift</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Monthly": "Monatlich",
+      "Yearly": "Jährlich",
+      "Other": "Sonstige"
+    },
+    "type": "field"
+  },
+  {
+    "id": 55,
+    "fieldName": "otherfrequency",
+    "name": "<p><strong style=\"color: rgb(62, 68, 86);\">Häufigkeit der Lastschrift (falls „Sonstige“ gewählt wurde)</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 58,
+    "fieldName": "directDebitDate",
+    "name": "<p><strong style=\"color: rgb(62, 68, 86);\">Lastschriftdatum</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 61,
+    "fieldName": "annualExpenditure",
+    "name": "<p><strong style=\"color: rgb(62, 68, 86);\">Jährliche Ausgaben</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 34,
+    "fieldName": "orderingCurrency",
+    "name": "<p><strong>Bestellwährung</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 37,
+    "fieldName": "incoTermLocation",
+    "name": "<p><strong>Incoterm Standort</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 64,
+    "fieldName": "helptextcompanycode",
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 43,
+    "fieldName": "companyCodeCountry",
+    "name": "<p><strong>Land des Buchungskreis</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 67,
+    "fieldName": "paymentMethodHelptext",
+    "name": null,
+    "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>Wenn Sie die Zahlung per Lastschrift wählen, fügen Sie bitte Lastschrift aus der Liste der Zahlungsarten hinzu.</em></strong></p><p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>Wenn die Option zum Lastschriftverfahren für den ausgewählten Buchungskreis nicht vorhanden ist, wird sie Ihnen nicht angezeigt. In diesem Fall sollte für die Zahlung per Lastschrift \\\"Nein\\\" ausgewählt werden.</em></strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 71,
+    "fieldName": "isGMPRelevant",
+    "name": "<p><strong>Ist der Lieferant GMP-relevant?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 23,
+    "fieldName": "reconcilliationAccount",
+    "name": "<p><strong style=\"color: rgb(106, 106, 106);\">Abstimmungskonto</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "sortkey",
+    "name": "<p><strong>Sortierschlüssel</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": "cashmgmtgroup",
+    "name": "<p><strong>Cash-Management-Gruppe (Planungsgruppe)</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 40,
+    "fieldName": "popaymentterm",
+    "name": "<p><strong>Standard-Zahlungsbedingungen</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 81,
+    "fieldName": "changedpopaymentterm",
+    "name": "<p><strong>Zahlungsbedingungen  </strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 26,
+    "fieldName": "paymentTerms",
+    "name": "<p><strong>Standard-Zahlungsbedingungen</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 83,
+    "fieldName": "changedccpaymentterm",
+    "name": "<p><strong>Zahlungsbedingungen   </strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 10,
+    "fieldName": "checkDoubleInv",
+    "name": "<p><strong>Dublettenprüfung Rechnung</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 46,
+    "fieldName": "isDirectDebit",
+    "name": "<p><strong style=\"color: rgb(62, 68, 86);\">Sollen die Rechnungen per Lastschrift bezahlt werden?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 13,
+    "fieldName": "paymentMethod",
+    "name": "<p><strong>Zahlungsmethode</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 19,
+    "fieldName": "clerkEmail",
+    "name": "<p><strong style=\"color: rgb(87, 95, 112);\">Internet des Sachbearbeiters</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 79,
+    "fieldName": "vcnattachment",
+    "name": "<p><strong>VCN oder unterstützendes Dokument anhängen</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 86,
+    "fieldName": "requestorSite",
+    "name": "<p><strong>Wählen Sie den Standort des Antragstellers aus</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 95,
+    "fieldName": "companyCodeExists",
+    "name": "<p>Ist der Buchungskreis vorhanden</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 74,
+    "fieldName": "willBecomeGMPRelevant",
+    "name": "<p><strong style=\"color: rgb(62, 68, 86);\">Wird der Lieferant nach der Verlängerung bei der Herstellung eines regulierten Produkts eingesetzt oder unterstützt er diese?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "No": "Nein",
+      "Yes": "Ja"
+    },
+    "type": "field"
+  },
+  {
+    "id": 16,
+    "fieldName": "clerkabbreviation",
+    "name": "<p><strong>Abkürzung für Sachbearbeiter</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

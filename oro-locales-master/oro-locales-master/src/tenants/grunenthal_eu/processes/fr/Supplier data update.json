@@ -1,0 +1,92 @@
+[
+  {
+    "id": null,
+    "name": "Mise à jour des données fournisseurs",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 31,
+    "name": "Charger les contacts",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 27,
+    "name": "Coordonnées du fournisseur",
+    "type": null,
+    "description": "Veuillez compléter les contacts pour le fournisseur si nécessaire !"
+  },
+  {
+    "id": 33,
+    "name": "Questionnaire pour les fournisseurs",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 35,
+    "name": "Informations sur l'entreprise",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 37,
+    "name": "Modalités de paiement",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 39,
+    "name": "Coordonnées",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 40,
+    "name": "Documents soumis par le fournisseur",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 30,
+    "name": "Charger les points à examiner",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 9,
+    "name": "Examen par la centrale d'achat",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 14,
+    "name": "Processus de conditions de paiement non standard_Prolongation",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 32,
+    "name": "Demande de Syniti",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 24,
+    "name": "Mise à jour du fournisseur dans la confirmation SAP",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 22,
+    "name": "Mise à jour du fournisseur dans la confirmation SAP",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 23,
+    "name": "Mise à jour du fournisseur dans la confirmation SAP",
+    "type": null,
+    "description": null
+  }
+]

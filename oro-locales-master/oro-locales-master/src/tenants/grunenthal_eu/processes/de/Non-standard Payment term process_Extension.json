@@ -1,0 +1,26 @@
+[
+  {
+    "id": null,
+    "name": "Prozess nicht standardisierter Zahlungsbedingung_Verlängerung",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 4,
+    "name": "Genehmigung nicht standardisierter Zahlungsbedingungen",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 2,
+    "name": "Leiter des Bereichs Beschaffung",
+    "type": null,
+    "description": "Bitte genehmigen Sie die nicht standardmässigen Zahulungsfrist."
+  },
+  {
+    "id": 3,
+    "name": "Leiter des Bereichs Rechnungsstellung",
+    "type": null,
+    "description": "Bitte genehmigen Sie die nicht standardmässigen Zahulungsfrist."
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Präambel für die Projekteinführungsphase für Lieferanten",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 4,
+    "fieldName": "supPreamble",
+    "name": null,
+    "description": "<p><span style=\\\"background-color: rgb(255, 255, 0);\\\">Hinweis:</span> Bitte suchen Sie den Lieferanten, den sie neu anlegen lassen möchten. Dadurch wird sichergestellt, dass der Lieferant nicht bereits in unserem System vorhanden ist. Wenn der Lieferant nicht gefunden wird, werden Sie auf der Ergebnisseite aufgefordert, einen neuen Lieferanten hinzuzufügen.</p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

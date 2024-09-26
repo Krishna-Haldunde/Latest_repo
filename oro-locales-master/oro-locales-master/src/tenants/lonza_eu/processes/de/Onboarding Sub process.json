@@ -1,0 +1,104 @@
+[
+  {
+    "id": null,
+    "name": "Unterprozess Onboarding",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 144,
+    "name": "Firmeninformationen aktualisieren - DUNS",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 97,
+    "name": null,
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 132,
+    "name": "Aktualisierung der Regulierungskategorie durch den Antragsteller",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 122,
+    "name": "Aktualisierung des Lonza Kundendokuments durch Antragsteller",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 96,
+    "name": "Aktualisierung des Dokuments Einmaliger Lieferant durch Antragsteller",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 45,
+    "name": "Erheben der Dokumente für das Onboarding",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 70,
+    "name": "Bankleitzahl validieren",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 71,
+    "name": "Bankleitzahl in SAP anlegen",
+    "type": null,
+    "description": "Wenn Nicht-Standardbank in SAP vorhanden ist, verwenden Sie bitte diese oder legen Sie in SAP eine neue Bank mit der Standardbankleitzahl an."
+  },
+  {
+    "id": 119,
+    "name": "Standardzahlungsmethode",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 34,
+    "name": "Vorabgenehmigungsgruppe",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 145,
+    "name": "Genehmigung der Zahlungsbedingungen durch Global P2P",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 146,
+    "name": "Lastschriftgenehmigung durch Global Treasury",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 147,
+    "name": "Lastschriftgenehmigung durch AP",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 36,
+    "name": "Genehmigung Globale Stammdatenverwaltung",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 148,
+    "name": "Benachrichtigung über abgelehnte Zahlungsbedingungen",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 149,
+    "name": "Benachrichtigung über abgelehnte Lastschrift",
+    "type": null,
+    "description": null
+  }
+]

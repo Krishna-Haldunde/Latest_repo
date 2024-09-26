@@ -1,0 +1,11 @@
+{
+  "--selectOptions--": "Ne gibi güncellemeler yapmak istersiniz?",
+  "--otherUpdates--": "Lütfen güncellemek istediğiniz diğer ayrıntıları açıklayın",
+  "--updateReason--": "Güncelleme nedeni",
+  "--attachments--": "Ekler",
+  "--startType--": "Yazmaya başlayın...",
+  "--selectedOption--": "Güncelleme için seçilen seçenekler",
+  "--paymentDetails--": "Ödeme detayları",
+  "--paymentTerms--": "Ödeme koşulları",
+  "--otherDetails--": "Diğer ayrıntılar"
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "id": null,
+    "name": "Test Formular für die Due Diligence für Geschäftspartner",
+    "type": "processTitle"
+  },
+  {
+    "id": 2,
+    "name": "Benutzerdefinierte Risikobewertung",
+    "type": null
+  },
+  {
+    "id": 3,
+    "name": "Überprüfung NEW12345",
+    "type": null
+  }
+]

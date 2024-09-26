@@ -1,0 +1,97 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Mise à jour du fournisseur Entrée du demandeur",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 43,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 56,
+    "fieldName": "q56__p_If_Bank_Update_needed__hidd",
+    "name": "<p>Si une mise à jour de la banque est nécessaire (masqué)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "q4__p_Which_of_the_following__str",
+    "name": "<p>Parmi les <strong>informations suivantes sur le fournisseur</strong>, lesquelles souhaitez-vous mettre à jour ?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Payment Term": "Conditions de paiement",
+      "Bank information": "Informations bancaires",
+      "Company Name/Address": "Nom et adresse de l'entreprise",
+      "Supplier Contacts": "Contacts fournisseurs"
+    },
+    "type": "field"
+  },
+  {
+    "id": 96,
+    "fieldName": "purchaseEntities",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Organisation acheteuse (masquée)</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 99,
+    "fieldName": "enabledCompanyEntities",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Entités de l'entreprise activées (cachées)</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 77,
+    "fieldName": "companyEntities",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Sélectionnez la ou les entité(s) commerciale(s)</span><span style=\"color: rgb(62, 68, 86);\"> concernée(s) par la mise à jour.</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 102,
+    "fieldName": "suppDocs",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Documents à l’appui de la demande</span></p>",
+    "description": null,
+    "helpText": "<p><span style=\"color: rgb(62, 68, 86);\">Veuillez télécharger un document tel qu'une proposition ou un devis, une lettre d'entreprise ou un document officiel. Cela nous permettra de mieux examiner votre demande avec toutes les informations nécessaires.</span></p>",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

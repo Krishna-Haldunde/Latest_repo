@@ -1,0 +1,98 @@
+[
+  {
+    "id": null,
+    "name": "Workflow Reaktivierung",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 2,
+    "name": "Beschaffungsprüfung",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 3,
+    "name": "Erheben der Dokumente für das Onboarding",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 5,
+    "name": "Informationen zum Unternehmen",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 7,
+    "name": "Zahlungsdetails",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 9,
+    "name": "Adressformular",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 11,
+    "name": "Formular Kontakte",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 13,
+    "name": "Formular „SAP Ariba-Details“",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 15,
+    "name": "Bestätigung Zahlungsbedingungen und IncoTerm",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 19,
+    "name": "Überprüfung und Bestätigung",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 21,
+    "name": "Validierung Bankleitzahl",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 22,
+    "name": "Genehmigung der Zahlungsbedingungen für die Reaktivierung",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 23,
+    "name": "Workflow zur Genehmigung von Lastschriften",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 24,
+    "name": "Genehmigung Stammdaten",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 26,
+    "name": "Beheben von Datenfehlern bei der Lieferantenreaktivierung",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 25,
+    "name": "Reaktivierung des Lieferanten in SAP",
+    "type": null,
+    "description": null
+  }
+]

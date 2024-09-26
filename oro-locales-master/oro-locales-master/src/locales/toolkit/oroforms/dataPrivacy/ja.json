@@ -1,0 +1,13 @@
+{
+  "Personal Identifiable Information (PII)": "個人識別情報（PII）",
+  "DATA PRIVACY": "データプライバシー",
+  "GDPR compliance check for EU": "EU向けGDPRコンプライアンスチェック",
+  "PII compliance check for California": "カリフォルニア州向けIIコンプライアンスチェック",
+  "Yes": "はい",
+  "Response is required.": "対応が必須です。",
+  "No": "いいえ",
+  "Is there any planned or potential use of personal identifiable information (PII) data being used in this project going to / coming from California?": "このプロジェクトで使用される個人識別情報(PII)データは、カリフォルニア州で使用する計画がある、または使用する可能性がありますか？",
+  "Is there any planned or potential use of personal identifiable information (PII) data being used in this project going to / coming from the European Union?": "このプロジェクトで使用される個人識別情報(PII)データは、欧州連合で使用する計画がある、または使用する可能性がありますか？",
+  "(e.g. Name, Address, Email, Phone Number, any data that can identify an individual)": "（氏名、住所、メールアドレス、電話番号、その他の個人を特定できる情報など）",
+  "Does your current project or planned future use of this supplier’s product and/or services involve access to personal identifiable information(PII) that can be used to identify an individual ‘natural’ person?": "このサプライヤーの製品やサービスを現在使用しているプロジェクト、または将来使用する予定があるプロジェクトは、個別の「自然人」を識別するために使用できる個人識別情報（PII）へのアクセスが伴いますか？"
+}

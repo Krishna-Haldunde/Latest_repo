@@ -1,0 +1,247 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Due diligence review",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 132,
+    "fieldName": null,
+    "name": "Vendor Classification",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Applied Third Party Due Diligence Process",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 23,
+    "fieldName": null,
+    "name": "Adverse Media",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 82,
+    "fieldName": null,
+    "name": "Comments",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 44,
+    "fieldName": null,
+    "name": "Vendor Currency",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 85,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><strong style=\\\"color: rgb(0, 138, 0);\\\">Note:</strong> Please add your comments related to adverse media(if any)</p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 103,
+    "fieldName": "tpddNone",
+    "name": "null(2)",
+    "description": "\"<p><strong style=\\\"color: rgb(0, 138, 0);\\\">No Third Party Due Diligence</strong><strong style=\\\"color: rgb(102, 185, 102);\\\"> </strong> was applied to this vendor based on the details.</p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 105,
+    "fieldName": "tpddLight",
+    "name": "null(1)(1)",
+    "description": "\"<p><strong style=\\\"color: rgb(0, 138, 0);\\\">Light Third Party Due Diligence</strong><strong style=\\\"color: rgb(102, 185, 102);\\\"> </strong> was applied to this vendor based on the details.</p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 107,
+    "fieldName": "tpddEnhanced",
+    "name": "null(1)",
+    "description": "\"<p><strong style=\\\"color: rgb(0, 138, 0);\\\">Enhanced Third Party Due Diligence </strong>was applied to this vendor based on the details</p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 113,
+    "fieldName": "adverseMediaMatched",
+    "name": "null(1)",
+    "description": "\"<p>Status of the automated adverse media checks: <strong style=\\\"color: rgb(230, 0, 0);\\\">Matches were found</strong><span style=\\\"color: rgb(230, 0, 0);\\\">.</span></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 115,
+    "fieldName": "adverseMediaNonMatched",
+    "name": "null(1)",
+    "description": "\"<p>Status of the adverse media checks: <strong style=\\\"color: rgb(0, 138, 0);\\\">No matches</strong><strong> </strong><strong style=\\\"color: rgb(0, 138, 0);\\\">were found</strong>. </p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 119,
+    "fieldName": "IsAdverseMediaRiskMedium",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Hits but not impacting the business relationship directly (Hidden for risk calculation)</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 121,
+    "fieldName": "IsAdverseMediaRiskHigh",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Hits with a direct and clear impact on the business relationship (Hidden for risk calculation)</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 123,
+    "fieldName": "adverseMediaComment",
+    "name": "<p>Please add your comments.</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 117,
+    "fieldName": "adverseMediaManualOptions",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Please manually confirm if there were any adverse media hits found?</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "False hits": "False hits",
+      "No hits": "No hits",
+      "Hits that are directly impacting the business relationship": "Hits that are directly impacting the business relationship",
+      "Hits that are not impacting the business relationship directly": "Hits that are not impacting the business relationship directly"
+    },
+    "type": "field"
+  },
+  {
+    "id": 125,
+    "fieldName": "supplierInvoiceCurrency",
+    "name": "<p>Invoice currency provided by the vendor</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 127,
+    "fieldName": "isCurrencyAppropriate",
+    "name": "<p>Is the currency provided by the vendor appropriate?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 129,
+    "fieldName": "appropriateCurrency_",
+    "name": "<p>Please select the appropriate currency</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 109,
+    "fieldName": "tpddESG",
+    "name": "null(1)",
+    "description": "\"<p><strong style=\\\"color: rgb(0, 138, 0);\\\">Environment, Social, Governance Third Party Due Diligence</strong> was applied to this vendor based on the details</p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 131,
+    "fieldName": "null_1__1_",
+    "name": "null(1)(1)",
+    "description": "\"<p><strong style=\\\"color: rgb(0, 138, 0);\\\">Note</strong>: <span style=\\\"color: rgb(68, 68, 68);\\\">Enhanced Third Party Due Diligence was changed to Environment, Social, Governance Third Party Due Diligence based on the vendor questionnaire answers.</span></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 111,
+    "fieldName": "tpddLightToEnhanced",
+    "name": "null(1)",
+    "description": "\"<p><strong style=\\\"color: rgb(0, 138, 0);\\\">Note</strong>: Light Third Party Due Diligence was changed to Enhanced Third Party Due Diligence based on the vendor questionnaire answers.</p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 135,
+    "fieldName": "vendorClassificationT",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Select the applicable vendor classification</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 97,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><span style=\\\"background-color: rgb(255, 255, 0);\\\">Note : </span>The forms have been filled by the Requester! </p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

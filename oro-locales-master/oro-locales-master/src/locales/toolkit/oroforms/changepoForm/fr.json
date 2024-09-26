@@ -1,0 +1,21 @@
+{
+  "--department--": "Département :",
+  "--companyEntity--": "Entité commerciale :",
+  "--startDate--": "Date de début :",
+  "--endDate--": "Date de fin :",
+  "--poTotal--": "Total PO :",
+  "--expenseItem--": "Postes de dépenses",
+  "--requiredField--": "Le champ {{field}} est obligatoire.",
+  "--purchaseOrder--": "Bon de commande",
+  "--selectPurchaseOrder--": "Sélectionner le bon de commande",
+  "--reasonForAmendment--": "Motif de la modification",
+  "--whatDoYouWantToChange--": "Que voulez-vous changer ?",
+  "--extendTimeline--": "Prolonger l’échéance",
+  "--currentTimeline--": "Échéance actuelle :",
+  "--additionalAmount--": "Montant supplémentaire",
+  "--updateTimeline--": "Mettre à jour l’échéance",
+  "--currentPoTotal--": "Total PO actuel :",
+  "--attachments--": "Pièces jointes",
+  "--addAmountUpdateTimelines--": "Ajouter un montant / mettre à jour les échéances",
+  "--editPoLineItems--": "Modifier les postes du PO"
+}

@@ -1,0 +1,18 @@
+{
+  "--howToCreateVendorRecord--": "How to create vendor record?",
+  "--vendorRecordInfo--": "Vendor record info",
+  "--primaryBusinessEntity--": "Primary business entity",
+  "--choose--": "Choose",
+  "--additionalBusinessEntity--": "Additional business entity",
+  "--eligible--": "1099 eligible",
+  "--no--": "No",
+  "--yes--": "Yes",
+  "--syncToProcurify--": "Sync to procurify",
+  "--paymentTerms--": "Payment terms",
+  "--primaryCurrency--": "Primary currency",
+  "--defaultExpenseAccount--": "Default expense account",
+  "--supplierClassification--": "Supplier classification",
+  "--vendorID--": "Vendor ID",
+  "--requiredField--": "{{name}} is a required field.",
+  "--apReviewOutcome--": "AP review outcome"
+}

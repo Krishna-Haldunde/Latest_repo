@@ -1,0 +1,14 @@
+[
+  {
+    "id": null,
+    "name": "Warten auf Fertigstellung",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 2,
+    "name": "Warten auf Schnellbearbeitungs-Lieferantenerstellung",
+    "type": null,
+    "description": null
+  }
+]

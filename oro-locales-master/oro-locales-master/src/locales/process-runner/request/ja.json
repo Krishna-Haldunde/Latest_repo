@@ -1,0 +1,13 @@
+{
+  "--requestedOn--": "要求日",
+  "--estimatedCompletion--": "完了予定",
+  "--completedOn--": "完了日",
+  "--deniedOn--": "拒否日",
+  "--cancelledOn--": "キャンセル日",
+  "--cardView--": "カード表示",
+  "--listView--": "リスト表示",
+  "--listIsEmpty--": "表示要求はありません",
+  "--addToList--": "リストに追加",
+  "--deleteList--": "リストを削除",
+  "--areYouSureYouWantToPermanentlyDeleteThisList--": "このリストを永久に削除してもよろしいですか？"
+}

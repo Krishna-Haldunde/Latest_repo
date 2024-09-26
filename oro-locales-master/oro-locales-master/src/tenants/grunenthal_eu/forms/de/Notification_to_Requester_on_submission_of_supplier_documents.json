@@ -1,0 +1,72 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Benachrichtigung des Antragstellers über die Einreichung von Lieferantenunterlagen",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "emailBetreff",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 2,
+    "fieldName": null,
+    "name": "emailText",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 3,
+    "fieldName": null,
+    "name": "emailAnleitung",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 4,
+    "fieldName": null,
+    "name": "emailFußzeile",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 10,
+    "fieldName": null,
+    "name": null,
+    "description": "<p>Sehr geehrte Kollegen, </p><p><br></p><p>Wir freuen uns, Ihnen mitzuteilen, dass <strong><u>${supplierName}</u></strong> <strong>die Einreichung der erforderlichen Formulare in ORO abgeschlossen hat.</strong></p><p><br></p><p>Um die nächsten Schritte zu überprüfen, klicken Sie bitte unten auf „Details anzeigen“.</p><p>Für einen detaillierten Überblick über die Antworten des Lieferanten auf die Formulare können Sie den Abschnitt „Formulare“ innerhalb Ihrer Anfrage aufrufen.</p><p><br></p><p>Vielen Dank für Ihre Kenntnisnahme in dieser Angelegenheit.</p><p><br></p><p>Mit freundlichen Grüßen,</p><p>Grünenthal Supplier Management</p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": null,
+    "name": null,
+    "description": "${supplierName} hat die Lieferantendokumente erfolgreich bei ORO eingereicht",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

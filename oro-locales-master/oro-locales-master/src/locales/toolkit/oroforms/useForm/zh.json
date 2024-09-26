@@ -1,0 +1,16 @@
+{
+  "--requiredField--": "{{field}}是必填项。",
+  "--title--": "标题",
+  "--regionCountrySupplierUsed--": "使用地区或国家供应商",
+  "--chooseRegionCountry--": "选择地区/国家",
+  "--servicesOfferedBySupplier--": "供应商提供的服务",
+  "--chooseServiceCategory--": "选择服务/类别",
+  "--primaryBusinessEntity--": "主要业务实体",
+  "--chooseBusinessEntity--": "选择商业实体",
+  "--additionalBusinessEntity--": "附加商业实体",
+  "--chooseAdditionalBusinessEntities--": "选择其他公司实体",
+  "--user--": "用户",
+  "--department--": "部门",
+  "--commentDetails--": "注释/详情",
+  "--addDetailsAboutBusinessNeed--": "添加该供应商申请的业务需求和项目范围相关详细信息"
+}

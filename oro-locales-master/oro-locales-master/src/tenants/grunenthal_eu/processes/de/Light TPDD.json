@@ -1,0 +1,50 @@
+[
+  {
+    "id": null,
+    "name": "Einfacher Due Diligence Prozess für Geschäftspartner",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 71,
+    "name": "Name, Land und Bank abgleichen",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 64,
+    "name": "Prüfung auf Sanktionen und negative Berichterstattung",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 59,
+    "name": "Überprüfung der Lieferantendaten – Beschaffungsstelle",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 65,
+    "name": "Globale Compliance-Genehmigung - Sanktionen",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 66,
+    "name": "Risikobewertung auf Basis der Due Diligence für Geschäftspartner",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 67,
+    "name": "Due Diligence für Geschäftspartner und Risiko aktualisieren",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 72,
+    "name": "Ausgelöste Compliance-Prüfungen",
+    "type": null,
+    "description": null
+  }
+]

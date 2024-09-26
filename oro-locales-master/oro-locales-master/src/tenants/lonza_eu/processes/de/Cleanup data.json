@@ -1,0 +1,86 @@
+[
+  {
+    "id": null,
+    "name": "Daten bereinigen",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 4,
+    "name": "Beheben von Datenfehlern beim Anlegen von Lieferanten",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 3,
+    "name": "Lieferant in SAP anlegen",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 6,
+    "name": "Adressfehler beheben",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 5,
+    "name": "Adressstammdaten aktualisieren",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 8,
+    "name": "Fehler in Klassifizierungsdaten beheben",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 7,
+    "name": "Klassifizierung aktualisieren",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 13,
+    "name": "Buchungskreis-Erweiterung korrigieren ",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 14,
+    "name": "Erweiterung auf Buchungskreise",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 10,
+    "name": "Beheben von Fehlern bei VSCI-Lieferanten",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 9,
+    "name": "VSCI-Lieferant anlegen",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 11,
+    "name": "Lieferantenaktivierung",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 12,
+    "name": "Aktualisieren der SAP-Lieferanten-ID in IntegrityNext",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 15,
+    "name": "Lieferantenstatus aktualisieren",
+    "type": null,
+    "description": null
+  }
+]

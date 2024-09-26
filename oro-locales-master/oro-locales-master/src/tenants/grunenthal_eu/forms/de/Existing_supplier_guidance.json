@@ -1,0 +1,72 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Leitlinien für bestehende Lieferanten",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 19,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 13,
+    "fieldName": "q13__p_Update_supplier_information",
+    "name": "<p>Lieferanten-Aktualisierung</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 10,
+    "fieldName": "_p_Extend_supplier__p_",
+    "name": "<p>Lieferanten-Verlängerung</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 18,
+    "fieldName": "null_1_",
+    "name": "null(1)",
+    "description": "<h4><span style=\\\"color: rgb(161, 0, 0);\\\">Aktualisieren Sie Unternehmensinformationen, Zahlungsdaten und andere Details.</span></h4><p>Sie können Steuerdetails, Steuerdokumente, Bankinformationen und andere Zahlungsdetails hinzufügen. </p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 16,
+    "fieldName": null,
+    "name": null,
+    "description": "<h4><span style=\\\"color: rgb(161, 0, 0);\\\">Verlängern Sie den Lieferanten für andere Grünenthal-Geschäftseinheiten.</span></h4><p><span style=\\\"color: rgb(62, 68, 86);\\\">Sie können den Lieferanten für eine oder mehrere Geschäftseinheiten für Bestellung und Rechnungsstellung verlängern.</span></p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

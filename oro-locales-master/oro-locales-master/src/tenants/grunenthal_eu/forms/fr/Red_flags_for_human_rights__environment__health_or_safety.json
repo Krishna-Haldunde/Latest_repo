@@ -1,0 +1,102 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Signaux d’alerte en matière de droits de l'homme, d’environnement, de santé ou de sécurité",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 13,
+    "fieldName": "q13_policyHumanRightsAndEnv_redFla",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Votre organisation dispose-t-elle d'une déclaration de politique en matière d’environnement et de droits de l'homme qui va au-delà d'un code de conduite standard&nbsp;(par exemple sur des sujets tels que l'interdiction du travail des enfants, du travail forcé ou de l'esclavage, la liberté d'association, la non-discrimination, le non-harcèlement, les salaires&nbsp;et les avantages sociaux, les horaires de travail standard les heures supplémentaires, la lutte contre la traite des êtres humains, les accidents/urgences médicales sur le lieu de travail, les normes&nbsp;en matière de santé et sécurité, le traitement et l'élimination des déchets, le traitement des polluants organiques persistants, le traitement du mercure,&nbsp;etc) ?</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 19,
+    "fieldName": "offiHumanAndEnvRights_redFlag",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Votre organisation a-t-elle désigné un responsable&nbsp;chargé&nbsp;des droits de l'homme et de l'environnement au sein de votre entreprise ?</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 16,
+    "fieldName": "rmsHumanAndEnvReport_redFlag",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Votre système de gestion des risques liés aux droits de l'homme et à l'environnement comprend-il un processus visant à garantir l'application des obligations de devoir de diligence&nbsp;pour les fournisseurs indirects,&nbsp;la mise en œuvre de mesures préventives, un processus permettant de prendre et de documenter des mesures correctives, et le&nbsp;compte rendu de toutes ces initiatives ?</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 21,
+    "fieldName": "humanRightsAndEnviron_redFlag",
+    "name": "<p><span style=\"color: rgb(68, 68, 68);\">À votre connaissance, existe-t-il des signaux d'alerte ou des risques en matière de droits de l'homme et d'environnement&nbsp;ou de risque en matière de santé et de sécurité&nbsp;dans votre entreprise ou dans votre&nbsp;chaîne d'approvisionnement (y compris tout vendeur indirect&nbsp;dont les fournitures sont nécessaires&nbsp;à la fabrication du produit&nbsp;ou à la fourniture et à l'utilisation du&nbsp;service concerné) ?</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 10,
+    "fieldName": "rmsHumanRightsAndEnv_redFlag",
+    "name": "<p><span style=\"color: rgb(40, 40, 40);\">Votre entreprise a-t-elle mis en place un système de gestion des risques spécifique pour traiter les risques liés aux droits de l'homme et à l'environnement ?</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 24,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><span style=\\\"color: rgb(68, 68, 68);\\\">Veuillez envisager de prendre les mesures appropriées, le cas échéant.</span></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 27,
+    "fieldName": "expectedSpend",
+    "name": "<p><span style=\"color: rgb(34, 34, 34);\">Dépenses prévues </span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 30,
+    "fieldName": "suppliCountry",
+    "name": "<p>Pays du fournisseur</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

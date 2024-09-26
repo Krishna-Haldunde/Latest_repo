@@ -1,0 +1,122 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "TPDD Renewal Request",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 203,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Compliance",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 144,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><span style=\\\"background-color: rgb(255, 255, 0);\\\">Note : </span>Please trigger <span style=\\\"color: rgb(68, 68, 68);\\\">DPA process in eContract.</span></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 215,
+    "fieldName": "q215__p_Please_select_the_category_",
+    "name": "<p>Please select the category of the supplier (temporary question - data to come from Qlik)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 229,
+    "fieldName": "TPDD_user_company_entity",
+    "name": "<p>Department (which is user company code - defaulted and hidden)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 202,
+    "fieldName": "q202__p__span_style__color__rgb_62_",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Estimated total yearly spend with the vendor</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 13,
+    "fieldName": "q13__p_Will_personal_data_be_proce",
+    "name": "<p>﻿Will personal data be processed by the third party on behalf of Grünenthal?</p>",
+    "description": null,
+    "helpText": "<p>i - ‘Personal data’ means any information relating to an identified or identifiable natural person (‘data subject’); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.'</p><p><br></p><p>ii - '<span style=\"color: rgb(87, 95, 112);\">The term processing is very broad and does not only encompass the storage of personal data, but also the collection, recording, structuring, alteration, consultation, usage, dissemination or destruction of personal data. This means that, in practice, all activities performed on personal data may involve the processing of personal data'</span></p><p><br></p>",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 50,
+    "fieldName": "q50__p__span_style__color__rgb_31_",
+    "name": "<p>Will this service require the vendor to interact with public authorities, public officials, or health care professionals on Grünenthal’s behalf?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 177,
+    "fieldName": "q177__p__em_Does_the_vendor_have_th",
+    "name": "<p>Does the vendor have the capacity to influence the prescription of medicines?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 226,
+    "fieldName": "advancePayment",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Does the vendor require an advance payment?</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 199,
+    "fieldName": "q199__p_Please_select_the_Business_",
+    "name": "<p>Please provide the Business Contact for this vendor (Optional)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

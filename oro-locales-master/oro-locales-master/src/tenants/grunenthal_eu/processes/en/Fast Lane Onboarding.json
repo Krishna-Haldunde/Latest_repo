@@ -1,0 +1,92 @@
+[
+  {
+    "id": null,
+    "name": "Fast Lane Onboarding",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 26,
+    "name": "Fast Lane Approval",
+    "type": null,
+    "description": "A fast lane onboarding process has been requested by a procurement member from your team. This should be approved only in case of business critical need, otherwise a regular onboarding process should be conducted"
+  },
+  {
+    "id": 43,
+    "name": "Load Main Contact",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 9,
+    "name": "Document collection",
+    "type": null,
+    "description": "Collect vendor master data "
+  },
+  {
+    "id": 19,
+    "name": "Company information",
+    "type": null,
+    "description": "Collect vendor master data "
+  },
+  {
+    "id": 21,
+    "name": "Payment details",
+    "type": null,
+    "description": "Collect vendor master data "
+  },
+  {
+    "id": 23,
+    "name": "Contact Details",
+    "type": null,
+    "description": "Collect vendor master data "
+  },
+  {
+    "id": 24,
+    "name": "Sanction list check",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 25,
+    "name": "Local Compliance Approval",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 27,
+    "name": "Global Compliance Approval",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 29,
+    "name": null,
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 28,
+    "name": "IT Assessment Results",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 32,
+    "name": "Requester confirmation for other onboarding processes",
+    "type": null,
+    "description": "You are required to complete the EHS onboarding questionnaire/Animal welfare compliance activities before the supplier can be fully onboarded."
+  },
+  {
+    "id": 40,
+    "name": "Syniti Request",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 36,
+    "name": "TPDD Renewal",
+    "type": null,
+    "description": null
+  }
+]

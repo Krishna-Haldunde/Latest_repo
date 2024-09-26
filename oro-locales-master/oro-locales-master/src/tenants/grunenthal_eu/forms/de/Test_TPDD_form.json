@@ -1,0 +1,47 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Test Formular für die Due Diligence für Geschäftspartner",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 10,
+    "fieldName": "newQuestion",
+    "name": "<p>Errechnete Art des Prüfungs- und Analyseprozesses für Dritte</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Light": "Einfach",
+      "Enhanced": "Erweitert",
+      "ESG": "ESG",
+      "None": "Keine"
+    },
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": "previousRiskLevel",
+    "name": "<p>Errechnetes Risikoniveau</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

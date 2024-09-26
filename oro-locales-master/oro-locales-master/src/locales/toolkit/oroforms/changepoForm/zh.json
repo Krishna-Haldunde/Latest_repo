@@ -1,0 +1,21 @@
+{
+  "--department--": "部门：",
+  "--companyEntity--": "公司实体：",
+  "--startDate--": "开始日期：",
+  "--endDate--": "结束日期：",
+  "--poTotal--": "订单总计：",
+  "--expenseItem--": "支出项目",
+  "--requiredField--": "{{field}}是必填项。",
+  "--purchaseOrder--": "采购订单 (PO)",
+  "--selectPurchaseOrder--": "选择采购订单 (PO)",
+  "--reasonForAmendment--": "修改理由",
+  "--whatDoYouWantToChange--": "您想更改哪些内容？",
+  "--extendTimeline--": "延长时间",
+  "--currentTimeline--": "当前时间表：",
+  "--additionalAmount--": "额外金额",
+  "--updateTimeline--": "更新时间表",
+  "--currentPoTotal--": "当前订单总计：",
+  "--attachments--": "附件",
+  "--addAmountUpdateTimelines--": "增加金额/更新时间表",
+  "--editPoLineItems--": "编辑订单细列项目"
+}

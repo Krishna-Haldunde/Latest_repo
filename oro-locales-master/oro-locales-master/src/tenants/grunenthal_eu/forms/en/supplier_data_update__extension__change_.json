@@ -1,0 +1,132 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "supplier data update (extension, change)",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "emailSubject",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 2,
+    "fieldName": null,
+    "name": "emailBody",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 3,
+    "fieldName": null,
+    "name": "emailInstruction",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 4,
+    "fieldName": null,
+    "name": "emailFooter",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 7,
+    "fieldName": null,
+    "name": null,
+    "description": "Grünenthal Data Verification Process",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 37,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><span style=\\\"color: rgb(255, 255, 255);\\\">Grünenthal Invitation:</span></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 13,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><span style=\\\"color: rgb(68, 68, 68);\\\">Please note that any changes to your bank details must be verified personally by you. These updates will not be reflected in your profile until you have validated them using the ORO tool.</span></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 16,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<h3><span style=\\\"color: rgb(68, 68, 68);\\\">How to Access ORO</span></h3><p><span style=\\\"color: rgb(68, 68, 68);\\\">When clicking \\\"Get Started\\\" You will be redirect to ORO&nbsp;and an automatic email, containing a one-time password, will be sent to your inbox. Verify your email address to access the Grünenthal business partner collaboration hub.</span></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 19,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<h3><span style=\\\"color: rgb(68, 68, 68);\\\">Fill &amp; Submit the forms</span></h3><p><span style=\\\"color: rgb(68, 68, 68);\\\">You will find a list of forms that need to be completed. Provide the necessary information and submit them. If needed, you can invite other colleagues from ${supplierName} to fill out the forms on your behalf.</span></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 22,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<h3><span style=\\\"color: rgb(68, 68, 68);\\\">Support Required?</span></h3><p><span style=\\\"color: rgb(68, 68, 68);\\\">In case you need support filling in the forms, you will be able to request it directly in the tool via the button “request information”. Alternatively, you can reach out to us via email at&nbsp;</span><a href=\\\"http://suppliermanagement@procurement.grunenthal.com\\\" rel=\\\"noopener noreferrer\\\" target=\\\"_blank\\\" style=\\\"color: rgb(68, 68, 68);\\\">suppliermanagement@procurement.grunenthal.com</a><span style=\\\"color: rgb(68, 68, 68);\\\">&nbsp;for further help.</span></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 34,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><span style=\\\"color: rgb(68, 68, 68);\\\">Thank you very much for cooperation and understanding.</span></p><p><br></p><p><span style=\\\"color: rgb(68, 68, 68);\\\">Best Regards,</span></p><p><span style=\\\"color: rgb(68, 68, 68);\\\">${requester}</span></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 40,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><span style=\\\"color: rgb(68, 68, 68);\\\">Dear Supplier,</span></p><p><br></p><p><span style=\\\"color: rgb(68, 68, 68);\\\">At Grünenthal, we value our partnership with ${supplierName} and are committed to maintaining effective collaboration. We have recently reviewed your profile in our system and identified that an update to your bank details is necessary.</span></p><p><br></p><p><span style=\\\"color: rgb(68, 68, 68);\\\">To facilitate this process, Grünenthal has partnered with&nbsp;ORO, a secure platform developed by ORO Labs, to manage supplier data verification and third-party due diligence processes. We kindly ask you to allocate a few minutes to log into ORO and confirm the accuracy of your bank information, as well as any other details in your Supplier Profile.﻿</span></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

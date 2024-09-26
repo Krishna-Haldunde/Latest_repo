@@ -1,0 +1,75 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Renouvellement de la diligence raisonnable à l’égard des tiers _ Examen du responsable des achats",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 13,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p>Le <span style=\\\"color: rgb(62, 68, 86);\\\"> processus de renouvellement de la diligence raisonnable à l’égard des tiers</span> a été entamé pour ce fournisseur, car l'expiration de la diligence raisonnable à l’égard des tiers approche. Dans le cadre de ce processus, le fournisseur devra répondre à un questionnaire « Diligence raisonnable à l’égard des tiers ».</p><p> </p><p>Il est toutefois recommandé d'interrompre ce processus s'il n'est pas prévu d'utiliser le fournisseur pour l'achat de services ou de biens. </p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": "q7__p_Please_justify_your_answer_",
+    "name": "<p>Veuillez justifier votre réponse.</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 16,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><strong style=\\\"color: rgb(0, 102, 204);\\\">Puisque vous avez choisi de 'stopper' la procédure de renouvellement de la diligence raisonnable à l’égard des tiers, la centrale d'achats va l'examiner plus tard.</strong><strong style=\\\"color: rgb(230, 0, 0);\\\"> </strong></p><p><br></p><p><strong style=\\\"color: rgb(0, 102, 204);\\\">Si vous envisagez de travailler à nouveau avec ce fournisseur ultérieurement, vous pouvez relancer manuellement le processus de renouvellement de la diligence raisonnable à l’égard des tiers. </strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 10,
+    "fieldName": "tpddDenial",
+    "name": "<p>Refus du renouvellement de la diligence raisonnable à l’égard des tiers (masqué)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "q4__p__span_style__color__rgb_62_",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Souhaitez-vous </span>poursuivre<span style=\"color: rgb(62, 68, 86);\"> le renouvellement de la diligence raisonnable à l’égard des tiers pour ce fournisseur ?</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Deny": "Refuser",
+      "Approve": "Approuver"
+    },
+    "type": "field"
+  }
+]

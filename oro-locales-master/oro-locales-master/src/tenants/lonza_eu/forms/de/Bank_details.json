@@ -1,0 +1,112 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Bankverbindung",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 11,
+    "fieldName": null,
+    "name": "Bankleitzahl",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 4,
+    "fieldName": "bankname",
+    "name": "<p>Name der Bank</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 10,
+    "fieldName": "isbankkeyexisting",
+    "name": "<p>Ist die Bankleitzahl vorhanden?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": "bankkey",
+    "name": "<p>Standard-Bankleitzahl</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 26,
+    "fieldName": "bankid",
+    "name": "<p>Bank-IBAN/Schlüssel</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 20,
+    "fieldName": "q20__p_Search_bank_key_using_swift",
+    "name": "<p>Suchen Sie mit dem Swift-Code nach Bankleitzahlen.</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 17,
+    "fieldName": "manualsapbankkey",
+    "name": "<p>Geben Sie die SAP-Bankleitzahl ein.</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 23,
+    "fieldName": "helpTextForBankKey",
+    "name": null,
+    "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>Die aus unseren ORO-Daten abgerufene Standardbankleitzahl existiert nicht im Lonza SAP-System. </em></strong></p><p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>Sie können eine SAP-Bankleitzahl eingeben, die Sie für diese Bankverbindung verwenden möchten.</em></strong></p><p><br></p><p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>Hinweis</em>: Stellen Sie vor dem Absenden dieser Aufgabe sicher, dass Sie die Standard-Bankleitzahl als Bankleitzahl in SAP anlegen, falls diese nicht bereits in der SAP-Datenbank vorhanden ist.</strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 14,
+    "fieldName": "searchusingswift",
+    "name": "<p>Möchten Sie mit dem Swift-Code nach bestehenden Bankstammdaten suchen?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

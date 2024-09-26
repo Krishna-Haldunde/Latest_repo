@@ -1,0 +1,247 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Due Diligence Prüfung",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 132,
+    "fieldName": null,
+    "name": "Anbieterklassifizierung",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Angewandter Due Diligence Prozess für Geschäftspartner",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 23,
+    "fieldName": null,
+    "name": "Negative Berichterstattung",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 82,
+    "fieldName": null,
+    "name": "Anmerkungen",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 44,
+    "fieldName": null,
+    "name": "Währung des Anbieters",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 85,
+    "fieldName": null,
+    "name": null,
+    "description": "<p><strong style=\\\"color: rgb(0, 138, 0);\\\">Hinweis:</strong> Bitte fügen Sie Ihre Anmerkungen in Bezug auf negative Berichterstattung hinzu (falls zutreffend)</p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 103,
+    "fieldName": "tpddNone",
+    "name": "null(2)",
+    "description": "<p><strong style=\\\"color: rgb(0, 138, 0);\\\">Für diesen Anbieter wurde aufgrund der Angaben keine Due Diligence für Geschäftspartner</strong><strong style=\\\"color: rgb(102, 185, 102);\\\"> </strong> durchgeführt.</p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 105,
+    "fieldName": "tpddLight",
+    "name": "null(1)(1)",
+    "description": "Auf diesen Anbieter wurde auf der Grundlage der Angaben<p><strong style=\\\"color: rgb(0, 138, 0);\\\">die einfache Due Diligence für Geschäftspartner</strong><strong style=\\\"color: rgb(102, 185, 102);\\\"> </strong> angewandt.</p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 107,
+    "fieldName": "tpddEnhanced",
+    "name": "null(1)",
+    "description": "Auf diesen Anbieter wurde auf der Grundlage der Angaben<p><strong style=\\\"color: rgb(0, 138, 0);\\\">die erweiterte Due Diligence für Geschäftspartner</strong> angewandt.</p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 113,
+    "fieldName": "adverseMediaMatched",
+    "name": "null(1)",
+    "description": "<p>Status der automatisierten Prüfung auf negative Berichterstattung: <strong style=\\\"color: rgb(230, 0, 0);\\\">Es wurden Übereinstimmungen gefunden</strong><span style=\\\"color: rgb(230, 0, 0);\\\">.</span></p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 115,
+    "fieldName": "adverseMediaNonMatched",
+    "name": "null(1)",
+    "description": "<p>Status der Prüfung auf negative Berichterstattung: <strong style=\\\"color: rgb(0, 138, 0);\\\">Es wurden keine Übereinstimmungen</strong><strong></strong><strong style=\\\"color: rgb(0, 138, 0);\\\">gefunden.</strong></p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 119,
+    "fieldName": "IsAdverseMediaRiskMedium",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Treffer, die sich aber nicht direkt auf die Geschäftsbeziehung auswirken (ausgeblendet für Risikobestimmung)</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 121,
+    "fieldName": "IsAdverseMediaRiskHigh",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Treffer mit direkter und klarer Auswirkung auf die Geschäftsbeziehung (ausgeblendet für Risikobestimmung)</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 123,
+    "fieldName": "adverseMediaComment",
+    "name": "<p>Bitte fügen Sie Ihre Anmerkungen hinzu.</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 117,
+    "fieldName": "adverseMediaManualOptions",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Bitte bestätigen Sie manuell, ob negative Berichterstattung gefunden wurde.</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "False hits": "Falsche Treffer",
+      "No hits": "Keine Treffer",
+      "Hits that are directly impacting the business relationship": "Treffer, die direkte Auswirkungen auf die Geschäftsbeziehung haben",
+      "Hits that are not impacting the business relationship directly": "Treffer, die keine direkten Auswirkungen auf die Geschäftsbeziehung haben"
+    },
+    "type": "field"
+  },
+  {
+    "id": 125,
+    "fieldName": "supplierInvoiceCurrency",
+    "name": "<p>Vom Anbieter angegebene Rechnungswährung</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 127,
+    "fieldName": "isCurrencyAppropriate",
+    "name": "<p>Ist die vom Anbieter angegebene Währung angemessen?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 129,
+    "fieldName": "appropriateCurrency_",
+    "name": "<p>Bitte wählen Sie die entsprechende Währung</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 109,
+    "fieldName": "tpddESG",
+    "name": "null(1)",
+    "description": "Auf diesen Anbieter wurde auf der Grundlage der Angaben<p><strong style=\\\"color: rgb(0, 138, 0);\\\">die Due Diligence für Geschäftspartner in Bezug auf Umwelt, Soziales und Unternehmensführung</strong> angewandt.</p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 131,
+    "fieldName": "null_1__1_",
+    "name": "null(1)(1)",
+    "description": "<p><strong style=\\\"color: rgb(0, 138, 0);\\\">Hinweis</strong>: <span style=\\\"color: rgb(68, 68, 68);\\\">Die verstärkte Due Diligence für Dritte wurde auf Grundlage der Antworten im Fragebogen für Lieferanten in eine Due Diligence für Dritte im Bereich Umwelt, Soziales und Unternehmensführung geändert.</span></p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 111,
+    "fieldName": "tpddLightToEnhanced",
+    "name": "null(1)",
+    "description": "<p><strong style=\\\"color: rgb(0, 138, 0);\\\">Hinweis</strong>: Die einfache Due Diligence für Geschäftspartner wurde auf der Grundlage der Angaben des Anbieters im Fragebogen in die erweiterte Due Diligence für Geschäftspartner geändert.</p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 135,
+    "fieldName": "vendorClassificationT",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Wählen Sie die zutreffende Anbieterklassifizierung</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 97,
+    "fieldName": null,
+    "name": null,
+    "description": "<p><span style=\\\"background-color: rgb(255, 255, 0);\\\">Hinweis: </span>Die Formulare wurden vom Antragsteller ausgefüllt.</p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

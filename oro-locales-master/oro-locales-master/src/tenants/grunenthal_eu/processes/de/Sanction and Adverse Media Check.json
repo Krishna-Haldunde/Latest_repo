@@ -1,0 +1,22 @@
+[
+  {
+    "id": null,
+    "name": "Prüfung auf Sanktionen und negative Berichterstattung",
+    "type": "processTitle"
+  },
+  {
+    "id": 8,
+    "name": "E-Mail-Validierung",
+    "type": null
+  },
+  {
+    "id": 9,
+    "name": "Domänen-Validierung",
+    "type": null
+  },
+  {
+    "id": 5,
+    "name": "Prüfung auf Sanktionen und negative Berichterstattung",
+    "type": null
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": null,
+    "name": "Procédure relative aux conditions de paiement non standard",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 4,
+    "name": "Approbation des conditions de paiement non standard",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 7,
+    "name": "Directeur du service achats",
+    "type": null,
+    "description": "Veuillez approuver le délai de paiement non standard accepté par la centrale d'achat."
+  },
+  {
+    "id": 9,
+    "name": "Directeur du service facturation",
+    "type": null,
+    "description": "Veuillez approuver le délai de paiement non standard accepté par la centrale d'achat."
+  }
+]

@@ -1,0 +1,169 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Überprüfung und Bestätigung",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 44,
+    "fieldName": null,
+    "name": "",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 89,
+    "fieldName": null,
+    "name": "Zusätzliche Hintergrundinformationen",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 97,
+    "fieldName": null,
+    "name": "Allgemeine Geschäftsbedingungen",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 101,
+    "fieldName": null,
+    "name": "Verhaltenskodex",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 105,
+    "fieldName": null,
+    "name": "Überprüfung und Bestätigung",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 82,
+    "fieldName": "The_Supplier",
+    "name": "<p><strong>Der Lieferant:</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 92,
+    "fieldName": "isGovernmentAgency",
+    "name": "<p><strong style=\"color: rgb(62, 68, 86);\">Ist Ihr Unternehmen eine Regierungsbehörde oder sind Sie ein Amtsträger, mit einer Regierungsbehörde oder einem Amtsträger eng verbunden oder ist Ihr Unternehmen im Besitz einer Regierungsbehörde oder eines Amtsträgers?&nbsp;</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 94,
+    "fieldName": "isCC3",
+    "name": "<p><strong style=\"color: rgb(62, 68, 86);\">Werden Sie oder Ihr Unternehmen im Namen von Lonza handeln, beispielsweise beim Verkauf von Waren oder Dienstleistungen von Lonza (als Handelsvertreter/Vertriebshändler/Händler)?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 96,
+    "fieldName": "isCC4",
+    "name": "<p><strong style=\"color: rgb(62, 68, 86);\">Werden Sie oder Ihr Unternehmen die Marke oder Produkte von Lonza vertreten oder auf andere Weise im Namen von Lonza mit anderen interagieren?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 100,
+    "fieldName": "generalTerms",
+    "name": "<p><strong style=\"color: rgb(62, 68, 86);\">Der Lieferant bestätigt und stimmt zu, dass alle Waren und/oder Dienstleistungen, die er an Lonza liefert, den entsprechenden<em> „</em></strong><a href=\"https://www.lonza.com/conditions\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\"><strong><em>Allgemeinen Geschäftsbedingungen</em></strong></a><strong style=\"color: rgb(62, 68, 86);\"><em>\" </em>unterliegen, es sei denn, der Lieferant und Lonza haben für eine bestimmte Lieferung von Waren und/oder Dienstleistungen ausdrücklich schriftlich andere Vertragsbedingungen vereinbart.</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Acknowledged and agreed": "Bestätigt und vereinbart"
+    },
+    "type": "field"
+  },
+  {
+    "id": 88,
+    "fieldName": "Date_and_time",
+    "name": "<p><strong>Datum und Uhrzeit</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 72,
+    "fieldName": "q72_Name_and_Title_of_the_employee",
+    "name": "<p><strong>Name und Titel</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 104,
+    "fieldName": "codeOfconduct",
+    "name": "<p><strong style=\"color: rgb(62, 68, 86);\"><span class=\"ql-cursor\">﻿</span>Der Lieferant bestätigt und stimmt zu, dass er </strong><a href=\"https://www.lonza.com/public/supplier-code-of-conduct\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\"><strong>Lonzas Verhaltenskodex für Lieferanten</strong></a><strong style=\"color: rgb(62, 68, 86);\"> zu jeder Zeit einhalten wird.</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Acknowledged and agreed": "Bestätigt und vereinbart"
+    },
+    "type": "field"
+  },
+  {
+    "id": 69,
+    "fieldName": "onboardingFormNames",
+    "name": null,
+    "description": "\"<p><strong>In diesem Abschnitt ausgefüllte Formulare:</strong></p><p><br></p><ol><li> Informationen zum Unternehmen</li><li>Adressformular</li><li>Formular Kontakte</li><li>Formular SAP Ariba-Details (falls zutreffend)</li><li>Zahlungsdetails</li></ol>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 40,
+    "fieldName": "isTrue",
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "I hereby certify that to the best of my knowledge the information presented in all the above forms is true and correct.": "Ich bestätige hiermit, dass die in den oben genannten Formularen enthaltenen Informationen nach meinem besten Wissen wahr und richtig sind.",
+      "I confirm that I am authorized by the Supplier to complete this form and to accept contractual terms on its behalf.": "Ich bestätige, dass ich vom Lieferanten autorisiert bin, dieses Formular auszufüllen und die Vertragsbedingungen in seinem Namen zu akzeptieren."
+    },
+    "type": "field"
+  }
+]

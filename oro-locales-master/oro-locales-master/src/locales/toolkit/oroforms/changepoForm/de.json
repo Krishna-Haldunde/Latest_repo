@@ -1,0 +1,21 @@
+{
+  "--department--": "Abteilung:",
+  "--companyEntity--": "Unternehmenseinheit:",
+  "--startDate--": "Startdatum:",
+  "--endDate--": "Enddatum:",
+  "--poTotal--": "PO Gesamt:",
+  "--expenseItem--": "Ausgabenposten",
+  "--requiredField--": "{{field}} ist ein Pflichtfeld.",
+  "--purchaseOrder--": "Bestellung (PO)",
+  "--selectPurchaseOrder--": "Bestellung (PO) auswählen",
+  "--reasonForAmendment--": "Grund für die Änderung",
+  "--whatDoYouWantToChange--": "Was wollen Sie ändern?",
+  "--extendTimeline--": "Zeitleiste verlängern",
+  "--currentTimeline--": "Aktueller Zeitplan:",
+  "--additionalAmount--": "Zusätzlicher Betrag",
+  "--updateTimeline--": "Zeitleiste aktualisieren",
+  "--currentPoTotal--": "Aktuelle PO Gesamt:",
+  "--attachments--": "Anhänge",
+  "--addAmountUpdateTimelines--": "Betrag hinzufügen / Zeitleisten aktualisieren",
+  "--editPoLineItems--": "PO-Positionen bearbeiten"
+}

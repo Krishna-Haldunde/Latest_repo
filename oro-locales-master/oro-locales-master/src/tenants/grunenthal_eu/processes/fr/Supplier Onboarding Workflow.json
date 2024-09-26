@@ -1,0 +1,92 @@
+[
+  {
+    "id": null,
+    "name": "Processus d'intégration du fournisseur",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 109,
+    "name": "Examen par la centrale d'achat",
+    "type": null,
+    "description": "Examen de la demande par le centre d'achats, avant l'envoi du questionnaire aux fournisseurs"
+  },
+  {
+    "id": 136,
+    "name": "Notifier le demandeur pour qu'il effectue les actions nécessaires",
+    "type": null,
+    "description": "Veuillez compléter le formulaire EHS / Bien-être des animaux le cas échéant. "
+  },
+  {
+    "id": 144,
+    "name": "Informer l'équipe d'approvisionnement externe mondial du processus en matière de GxP",
+    "type": null,
+    "description": "Un nouveau fournisseur concerné par les normes GxP est en cours d'intégration.\n\nPour plus de détails, veuillez contacter le demandeur"
+  },
+  {
+    "id": 122,
+    "name": "Questionnaire pour les fournisseurs, vérifications de conformité et approbation des conditions de paiement (non standard)",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 120,
+    "name": "Diligence raisonnable à l’égard des tiers",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 129,
+    "name": "Approbation des conditions de paiement non standard",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 140,
+    "name": "Résultats de l'évaluation informatique",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 127,
+    "name": "Confirmation du demandeur pour d'autres processus d'intégration",
+    "type": null,
+    "description": "Vous devez remplir le questionnaire d'intégration EHS/les activités de conformité en matière de bien-être animal avant que le fournisseur ne puisse être totalement intégré."
+  },
+  {
+    "id": 162,
+    "name": "L'intégration des fournisseurs est suspendue en raison de l'absence d'approbation des résultats de l'évaluation de la sécurité des informations",
+    "type": null,
+    "description": "Veuillez noter que l'intégration des fournisseurs est suspendue pour des raisons de sécurité de l'information. "
+  },
+  {
+    "id": 163,
+    "name": "Résumé de la collecte",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 164,
+    "name": null,
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 155,
+    "name": "Examen des données de base des fournisseurs",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 156,
+    "name": "Confirmation de l'évaluation informatique",
+    "type": null,
+    "description": "Veuillez confirmer que le statut du fournisseur informatique basé sur le résultat de l'évaluation de la sécurité de l'information est \"Approuvé\" car il a été mis en attente. "
+  },
+  {
+    "id": 56,
+    "name": "Création du fournisseur ",
+    "type": null,
+    "description": null
+  }
+]

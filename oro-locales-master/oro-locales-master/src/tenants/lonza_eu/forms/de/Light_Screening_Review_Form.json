@@ -1,0 +1,72 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Formular zur Screening Überprüfung potenzieller Lieferanten",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 7,
+    "fieldName": "financialScreeningNeeded",
+    "name": "<p><strong>Möchten Sie ein Finanz-Screening dieses Lieferanten durchführen?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 21,
+    "fieldName": "null_1_",
+    "name": "null(1)",
+    "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>Hinweis: Über das Ergebnis des Finanz-Screenings werden Sie wie bisher durch die ServiceNow-Benachrichtigung informiert.</em></strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 24,
+    "fieldName": "isRiskAvailable",
+    "name": "<p><strong>Ist ein Risiko verfügbar?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 19,
+    "fieldName": "assessmentRiskLevel",
+    "name": "<p>Bewertung der Risikostufe</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 26,
+    "fieldName": "null_1__1_",
+    "name": "null(1)(1)",
+    "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>Dieser Lieferant weist ein hohes ESG-Risiko auf. Bitte ziehen Sie in Erwägung, von einem anderen Lieferanten zu beziehen, oder beachten Sie, dass der Lieferant während des Onboardings zu einer Integrity Next-Bewertung eingeladen wird.​</em></strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

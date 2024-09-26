@@ -1,0 +1,20 @@
+[
+  {
+    "id": null,
+    "name": "Workflow zur Genehmigung von Lastschriften",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 2,
+    "name": "Lastschriftgenehmigung durch Global Treasury",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 3,
+    "name": "Lastschriftgenehmigung durch AP",
+    "type": null,
+    "description": null
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "--isRequiredField--": "{{field}} é um campo obrigatório",
+  "--title--": "Título",
+  "--regionCountryPartnerUsed--": "É utilizado o parceiro da região ou do país",
+  "--chooseRegionCountry--": "Selecionar região / país",
+  "--regionCountry--": "Região / país",
+  "--servicesOfferedByPartner--": "Serviços oferecidos pelo parceiro",
+  "--chooseServiceCategory--": "Selecionar serviço / categoria",
+  "--serviceCategory--": "Serviço / categoria",
+  "--businessEntity--": "Entidade empresarial",
+  "--chooseCompanyEntity--": "Escolher a entidade empresarial",
+  "--additionalSubsidiaries--": "Filiais adicionais",
+  "--chooseAdditionalCompanyEntities--": "Selecionar entidades adicionais da empresa",
+  "--user--": "Utilizador",
+  "--department--": "Departamento",
+  "--commentDetails--": "Comentário / Detalhes",
+  "--businessNeedProjectScopeDetails--": "Adicione detalhes sobre a necessidade comercial e o âmbito do projeto para este pedido de parceiro"
+}

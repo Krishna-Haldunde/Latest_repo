@@ -1,0 +1,50 @@
+[
+  {
+    "id": null,
+    "name": "Vendor Creation",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 12,
+    "name": "Handle Data Issues",
+    "type": null,
+    "description": "An error has been triggered in RPA"
+  },
+  {
+    "id": 15,
+    "name": "Vendor Update in Syniti",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 14,
+    "name": "Create Vendor in Syniti",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 6,
+    "name": "Extend Vendor in Syniti",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 19,
+    "name": "Vendor Update in SAP confirmation",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 18,
+    "name": "Vendor Update Successful! ",
+    "type": null,
+    "description": "Vendor Update Successful!"
+  },
+  {
+    "id": 13,
+    "name": "Vendor Update Successful! ",
+    "type": null,
+    "description": null
+  }
+]

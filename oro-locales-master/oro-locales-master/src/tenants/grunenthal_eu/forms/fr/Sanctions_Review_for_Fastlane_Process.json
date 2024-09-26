@@ -1,0 +1,225 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Examen des sanctions pour le processus accéléré",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 35,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 52,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 36,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 24,
+    "fieldName": "q24__p_Please_elaborate_the_reason",
+    "name": "<p>Veuillez préciser la raison pour laquelle les sanctions sont considérées comme des « vrais positifs »</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 29,
+    "fieldName": "null_1_",
+    "name": "invalide(1)",
+    "description": "\"<p>Le risque fournisseur est <strong style=\\\"color: rgb(255, 153, 0);\\\">moyen</strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 31,
+    "fieldName": "null_1__1_",
+    "name": "invalide(1)(1)",
+    "description": "\"<p>Le risque fournisseur est <strong style=\\\"color: rgb(0, 138, 0);\\\">faible</strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 27,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p>Le risque fournisseur est <strong style=\\\"color: rgb(230, 0, 0);\\\">élevé</strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "q4__p__span_style__color__rgb_62_",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Veuillez confirmer manuellement sur la base de la vérification des résultats concernant les sanctions.﻿</span></p><p><br></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "All the sanction hits found are 'false positives'.": "Toutes les résultats concernant les sanctions sont des 'faux positifs'.",
+      "One or more sanction hits found are 'true hits'.": "Un ou plusieurs résultats concernant les sanctions sont des 'vrais positifs'."
+    },
+    "type": "field"
+  },
+  {
+    "id": 16,
+    "fieldName": "q16__p__span_style__color__rgb_62_",
+    "name": "<p>Un ou plusieurs résultats concernant les sanctions sont validés comme étant légitimes.<span style=\"color: rgb(62, 68, 86);\"> (Masqué pour le calcul du risque)</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 13,
+    "fieldName": "IsSanctionRiskMedium",
+    "name": "<p>Tous les résultats concernant les sanctions sont validés comme étant des faux positifs.<span style=\"color: rgb(62, 68, 86);\"> (Masqué pour le calcul du risque)</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 34,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><span style=\\\"background-color: rgb(255, 255, 0); color: rgb(62, 68, 86);\\\">Remarque : </span><span style=\\\"color: rgb(62, 68, 86);\\\">Les formulaires ont été remplis par le demandeur.</span></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><span style=\\\"color: rgb(62, 68, 86);\\\">État des vérifications automatisées concernant les sanctions : </span><strong style=\\\"color: rgb(230, 0, 0);\\\">Des correspondances ont été trouvées.</strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 45,
+    "fieldName": "q45__p__span_style__color__rgb_62_",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Approuvez-vous la demande de procédure accélérée ?</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 48,
+    "fieldName": "q48__p__span_style__color__rgb_62_",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Veuillez fournir une justification pour l'approbation</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 51,
+    "fieldName": "q51__p__span_style__color__rgb_62_",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Veuillez indiquer la raison du refus</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 55,
+    "fieldName": "fastLaneProcess",
+    "name": "<p>Le processus pour une procédure accélérée (masqué)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 39,
+    "fieldName": "q39__p__span_style__background_col",
+    "name": "<p><span style=\"background-color: rgb(255, 255, 0);\">Remarque : </span>Veuillez cliquer sur le bouton \"Deny\" ci-dessous</p>",
+    "description": "\"<p><span style=\\\"background-color: rgb(255, 255, 0);\\\">Remarque : </span>Veuillez cliquer sur le bouton <strong>\"Deny\"</strong> ci-dessous</p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 22,
+    "fieldName": "q22__p_Please_elaborate_the_reason",
+    "name": "<p>Veuillez préciser la raison pour laquelle les sanctions sont considérées comme des « faux positifs »</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 42,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><span style=\\\"background-color: rgb(255, 255, 0);\\\">Remarque : </span>Ce service nécessitera que le fournisseur interagisse avec les autorités publiques, les fonctionnaires ou les professionnels de la santé !</p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 58,
+    "fieldName": "mediciPrescrip",
+    "name": null,
+    "description": "\"<p><span style=\\\"color: rgb(62, 68, 86); background-color: rgb(255, 255, 0);\\\">Remarque : </span><span style=\\\"color: rgb(62, 68, 86);\\\">Ce fournisseur a la capacité d'influencer la prescription de médicaments !</span></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

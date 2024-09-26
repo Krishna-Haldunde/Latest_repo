@@ -1,0 +1,42 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Details for Other Onboarding Process",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 4,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p>Please confirm that all the tasks have been completed for the <strong>Animal Welfare</strong> <span style=\\\"color: rgb(62, 68, 86);\\\">needed for a supplier </span>onboarding process.</p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 6,
+    "fieldName": "null_1_",
+    "name": "null(1)",
+    "description": "\"<p>Please confirm that all the tasks have been completed for <strong>Environment, Health and Safety</strong> needed for a supplier onboarding process.</p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

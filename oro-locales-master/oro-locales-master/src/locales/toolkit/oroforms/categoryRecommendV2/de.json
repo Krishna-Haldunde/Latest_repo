@@ -1,0 +1,14 @@
+{
+  "--category--": "Kategorie",
+  "--select--": "Auswählen",
+  "--failedToGenerateRecommendations--": "Anhand der aktuellen Beschreibung können wir keine Kategorien empfehlen. <linkbutton>Alle Optionen anzeigen</linkbutton>.",
+  "--viewAllOptions--": "Alle Optionen anzeigen",
+  "--recommendedOptions--": "Empfohlene Optionen",
+  "--pleaseSelectBestCategory--": "Bitte wählen Sie die beste Kategorie für Ihren Antrag",
+  "--requiredField--": "Dies ist ein Pflichtfeld",
+  "--notTheResultYouLooking--": "Nicht das gewünschte Ergebnis?",
+  "--hideRecommendations--": "Empfehlungen ausblenden",
+  "--viewAllRecommendations--": "Alle Empfehlungen anzeigen",
+  "--readMore--": "mehr lesen",
+  "--readLess--": "weniger lesen"
+}

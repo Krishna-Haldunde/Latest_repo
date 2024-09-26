@@ -1,0 +1,122 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "GRT_Reminder TPDD Renewal",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "emailSubject",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 2,
+    "fieldName": null,
+    "name": "emailBody",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 3,
+    "fieldName": null,
+    "name": "emailInstruction",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 4,
+    "fieldName": null,
+    "name": "emailFooter",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 16,
+    "fieldName": null,
+    "name": null,
+    "description": "Grünenthal: Reminder to complete Due Diligence process",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<h3>How to Access ORO</h3><p>When clicking on \\\"Get Started\\\" You will be redirect to ORO&nbsp;and an automatic email, containing a one-time password, will be sent to your inbox. Verify your email address to access the Grünenthal business partner collaboration hub. </p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 10,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<h3>Fill &amp; Submit the forms</h3><p>You will find a list of forms that need to be completed. Provide the necessary information and submit them. If needed, you can invite other colleagues from ${supplierName} to fill out the forms on your behalf.</p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 19,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<h3>Support Required?</h3><p>In case you need support filling in the forms, you will be able to request it directly in the tool via the button “request information”. Alternatively, you can reach out to us via email at&nbsp;<a href=\\\"http://suppliermanagement@procurement.grunenthal.com\\\" rel=\\\"noopener noreferrer\\\" target=\\\"_blank\\\" style=\\\"background-color: rgb(255, 255, 255);\\\">suppliermanagement@procurement.grunenthal.com</a>&nbsp;for further help.</p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 22,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p>Thank you for your collaboration!</p><p><br></p><p>Best Regards,</p><p>${requester}</p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 28,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><span style=\\\"color: rgb(255, 255, 255);\\\">Grünenthal Invitation:</span></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 31,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p>Dear ${supplierContactName},</p><p><br></p><p>We would like to remind you of the pending Grünenthal Third-Party Due Diligence process for ${supplierName}. Your participation is essential to maintain the integrity and compliance of our business relationship.</p><p><br></p><p>To complete the necessary steps, please fill out our online Due Diligence questionnaire form at your earliest convenience. This process is crucial for reviewing any potential ethical or reputational risks and ensuring adherence to all relevant regulations.</p><p><br></p><p>Grünenthal employs&nbsp;ORO, a secure technology by ORO Labs, for conducting the Third-Party Due Diligence. Your prompt response will greatly assist us in upholding the high standards we set for our collaborations.</p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

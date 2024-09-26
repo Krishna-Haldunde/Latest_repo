@@ -1,0 +1,225 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Überprüfung der Sanktionen für das Schnellverfahren",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 35,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 52,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 36,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 24,
+    "fieldName": "q24__p_Please_elaborate_the_reason",
+    "name": "<p>Bitte erläutern Sie die Gründe für die Kennzeichnung der Sanktionen als „richtiger Treffer“</p>.",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 29,
+    "fieldName": "null_1_",
+    "name": "null(1)",
+    "description": "<p>Anbieterrisiko ist <strong style=\\\"color: rgb(255, 153, 0);\\\">Mittel</strong></p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 31,
+    "fieldName": "null_1__1_",
+    "name": "null(1)(1)",
+    "description": "<p>Anbieterrisiko ist <strong style=\\\"color: rgb(0, 138, 0);\\\">Niedrig</strong></p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 27,
+    "fieldName": null,
+    "name": null,
+    "description": "<p>Anbieterrisiko ist <strong style=\\\"color: rgb(230, 0, 0);\\\">Hoch</strong></p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "q4__p__span_style__color__rgb_62_",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Bitte bestätigen Sie manuell anhand der Überprüfung der Sanktionstreffer.</span></p><p><br></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "All the sanction hits found are 'false positives'.": "Alle gefundenen Sanktionstreffer sind „falsch positive Treffer“.",
+      "One or more sanction hits found are 'true hits'.": "Mindestens ein Sanktionstreffer ist ein „richtiger Treffer“."
+    },
+    "type": "field"
+  },
+  {
+    "id": 16,
+    "fieldName": "q16__p__span_style__color__rgb_62_",
+    "name": "<p>Mindestens ein Sanktionstreffer wird als gerechtfertigt eingestuft.<span style=\"color: rgb(62, 68, 86);\"> (ausgeblendet für Risikoberechnung)</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 13,
+    "fieldName": "IsSanctionRiskMedium",
+    "name": "<p>Alle gefundenen Sanktionstreffer werden als falsch positive Treffer eingestuft.<span style=\"color: rgb(62, 68, 86);\"> (ausgeblendet für Risikoberechnung)</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 34,
+    "fieldName": null,
+    "name": null,
+    "description": "<p><span style=\\\"background-color: rgb(255, 255, 0); color: rgb(62, 68, 86);\\\">Hinweis: </span><span style=\\\"color: rgb(62, 68, 86);\\\">Die Formulare wurden vom Antragsteller ausgefüllt.</span></p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": null,
+    "name": null,
+    "description": "<p><span style=\\\"color: rgb(62, 68, 86);\\\">Status der automatischen Sanktionsprüfungen: </span><strong style=\\\"color: rgb(230, 0, 0);\\\">Es wurden Übereinstimmungen gefunden.</strong></p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 45,
+    "fieldName": "q45__p__span_style__color__rgb_62_",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Stimmen Sie der Bearbeitung des Antrags im Schnellverfahren zu?</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 48,
+    "fieldName": "q48__p__span_style__color__rgb_62_",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Bitte begründen Sie die Genehmigung</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 51,
+    "fieldName": "q51__p__span_style__color__rgb_62_",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Bitte geben Sie den Grund für die Ablehnung an</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 55,
+    "fieldName": "fastLaneProcess",
+    "name": "<p>Der Prozess des Schnellverfahrens (ausgeblendet)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 39,
+    "fieldName": "q39__p__span_style__background_col",
+    "name": "<p><span style=\"background-color: rgb(255, 255, 0);\">Hinweis: </span>Bitte klicken Sie unten auf die Schaltfläche „Ablehnen“</p>",
+    "description": "<p><span style=\\\"background-color: rgb(255, 255, 0);\\\">Hinweis : </span>Bitte klicken Sie auf die Schaltfläche <strong>„Ablehnen“</strong> weiter unten</p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 22,
+    "fieldName": "q22__p_Please_elaborate_the_reason",
+    "name": "<p>Bitte erläutern Sie die Gründe für die Kennzeichnung der Sanktionen als „falsch positiv“.</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 42,
+    "fieldName": null,
+    "name": null,
+    "description": "<p><span style=\\\"background-color: rgb(255, 255, 0);\\\">Hinweis : </span>Für diesen Dienst muss der Anbieter mit Behörden, Beamten oder Fachleuten im Gesundheitswesen zusammenarbeiten!</p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 58,
+    "fieldName": "mediciPrescrip",
+    "name": null,
+    "description": "<p><span style=\\\"color: rgb(62, 68, 86); background-color: rgb(255, 255, 0);\\\">Hinweis : </span><span style=\\\"color: rgb(62, 68, 86);\\\">Dieser Anbieter hat die Möglichkeit, die Verschreibung von Medikamenten zu beeinflussen!</span></p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

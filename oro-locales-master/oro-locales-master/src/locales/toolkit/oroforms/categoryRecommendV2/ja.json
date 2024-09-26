@@ -1,0 +1,14 @@
+{
+  "--category--": "カテゴリー",
+  "--select--": "選択",
+  "--failedToGenerateRecommendations--": "現在の説明に基づいて、カテゴリーをお勧めすることはできません。<linkbutton>すべてのオプションを表示します</linkbutton>。",
+  "--viewAllOptions--": "すべてのオプションを見る",
+  "--recommendedOptions--": "推奨オプション",
+  "--pleaseSelectBestCategory--": "ご希望のカテゴリーをお選びください",
+  "--requiredField--": "これは必須フィールドです",
+  "--notTheResultYouLooking--": "お探しの結果ではありませんか？",
+  "--hideRecommendations--": "推奨を非表示",
+  "--viewAllRecommendations--": "すべての推奨を表示",
+  "--readMore--": "続きを読む",
+  "--readLess--": "表示内容を減らす"
+}

@@ -1,0 +1,11 @@
+{
+  "--selectOptions--": "What updates would you like to make",
+  "--otherUpdates--": "Please describe the other details you want to update",
+  "--updateReason--": "Update reason",
+  "--attachments--": "Attachments",
+  "--startType--": "Start typing...",
+  "--selectedOption--": "Selected options for update",
+  "--paymentDetails--": "Payment details",
+  "--paymentTerms--": "Payment terms",
+  "--otherDetails--": "Other details"
+}

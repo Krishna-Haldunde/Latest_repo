@@ -1,0 +1,136 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Formular Präliminäre Qualitätssicherungsprüfung – Supply-Chain-Partner",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Zusammenfassung der Präliminären QA-Überprüfung",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 25,
+    "fieldName": "proceedOnboarding",
+    "name": "<p>Kann Onboarding des Lieferanten erfolgen?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 33,
+    "fieldName": "isClientQualifiedSupplier",
+    "name": "<p>Ist kundenqualifizierter Lieferant</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 30,
+    "fieldName": "selectedClass",
+    "name": "<p><strong>Ausgewählte Klasse von Material/Dienstleistungen/Geräten</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 36,
+    "fieldName": "clientQualifiedHelpText",
+    "name": null,
+    "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>Das von Ihnen ausgewählte Bewertungsergebnis stimmt nicht mit GROUP-99350 überein. Der Antragsteller hat „kundenqualifiziert“ ausgewählt und Sie wählen einen anderen Qualifizierungstyp. Überprüfen Sie dies, bevor Sie fortfahren.</em></strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 38,
+    "fieldName": "globalQualificationHelpText",
+    "name": "null(1)",
+    "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>Das von Ihnen ausgewählte Bewertungsergebnis stimmt nicht mit GROUP-99350 überein. Der Antragsteller hat eine Klasse innerhalb von M01-M06, M20, M50, M51, S01-S06, S50, S51, E03-E06 ausgewählt,</em></strong><strong style=\\\"color: rgb(230, 0, 0);\\\"><em> die für die globale Lieferantenqualifizierung gilt. Überprüfen Sie dies, bevor Sie fortfahren.</em></strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 42,
+    "fieldName": "helpTextForNoQualification",
+    "name": "null(1)",
+    "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>Das von Ihnen ausgewählte Bewertungsergebnis stimmt nicht mit GROUP-99350 überein. Der Antragsteller hat eine Klasse innerhalb von M07, M99, S07, S99, E07 ausgewählt, die für die lokale Lieferantenqualifizierung oder keine Qualifizierung gilt. Überprüfen Sie dies, bevor Sie fortfahren.</em></strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 22,
+    "fieldName": "localSupQAForms",
+    "name": "<p><strong>Hochladen der Formulare zur lokalen Lieferantenqualifizierung</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 48,
+    "fieldName": "SSPARRequestNo",
+    "name": "<p><strong>Bitte geben Sie die SSPAR-Nummer ein:</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 45,
+    "fieldName": "isQualificationRequired",
+    "name": "<p><strong>Ist vor dem Erstellen des Supply-Chain-Partners in SAP eine Qualifizierung erforderlich?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 51,
+    "fieldName": "vcnAttachment",
+    "name": "<p><strong>Bitte fügen Sie diesem Antrag eine VCN oder ein anderes unterstützendes Dokument bei.</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 19,
+    "fieldName": "qualificationType",
+    "name": "<p><strong>Wählen Sie die Art der Qualifizierung</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Local Supplier Qualification": "Lokale Lieferantenqualifizierung",
+      "Supplier Qualification in scope of GROUP-6173": "Lieferantenqualifizierung im Rahmen von GROUP-6173",
+      "Client Supplier Qualification": "Kunden-Lieferanten-Qualifizierung"
+    },
+    "type": "field"
+  }
+]

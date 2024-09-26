@@ -1,0 +1,92 @@
+[
+  {
+    "id": null,
+    "name": "Supplier Extension Process",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 21,
+    "name": "Fetch Scope",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 8,
+    "name": "Default Extension Data",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 2,
+    "name": "Update Data by Requestor",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 14,
+    "name": "Early Site QA Review",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 15,
+    "name": "Wave 1 Qualification Flow",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 11,
+    "name": "Payment Term Approval by Global P2P",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 12,
+    "name": "Direct Debit Approval by Global Treasury",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 13,
+    "name": "Direct Debit Approval by AP",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 7,
+    "name": "Fix Data Errors",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 5,
+    "name": "Extend Vendor",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 20,
+    "name": "Scope Update",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 18,
+    "name": "Payment term rejected notification",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 19,
+    "name": "Direct debit rejection notification",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 17,
+    "name": "Extension rejection notification to the requestor",
+    "type": null,
+    "description": null
+  }
+]

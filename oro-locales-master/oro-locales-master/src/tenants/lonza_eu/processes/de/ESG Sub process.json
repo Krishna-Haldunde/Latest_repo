@@ -1,0 +1,74 @@
+[
+  {
+    "id": null,
+    "name": "ESG-Unterprozess",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 4,
+    "name": "ESG-Informationsanfrage an den Lieferanten",
+    "type": null,
+    "description": "Geben Sie bitte die erforderlichen ESG-Daten ein, um mit Ihrem Onboarding fortzufahren."
+  },
+  {
+    "id": 14,
+    "name": "Formular ESG Lieferant",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 21,
+    "name": "Manuelle ESG-Rating Prüfung",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 38,
+    "name": "Aktualisierung der EcoVadis-Bewertung",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 32,
+    "name": "D&B-Rating Prüfung",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 49,
+    "name": "Integrity Next-Rating Prüfung",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 33,
+    "name": "Integrity Next-Einladung",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 45,
+    "name": "Wartezeit für Integrity Next-Ergebnisse",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 9,
+    "name": "Überprüfung der verantwortungsvollen Beschaffung",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 44,
+    "name": "ESG-Screening-Ergebnis",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 37,
+    "name": "Benachrichtigung über das ESG-Screening-Ergebnis an Antragsteller",
+    "type": null,
+    "description": null
+  }
+]

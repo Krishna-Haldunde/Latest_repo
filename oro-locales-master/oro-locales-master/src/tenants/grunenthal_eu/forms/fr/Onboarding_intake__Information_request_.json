@@ -1,0 +1,65 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Intégration (Demande d'information)",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "C'est parti !",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 7,
+    "fieldName": "_p_Supplier_is_Company__p_",
+    "name": "<p>Le fournisseur est une entreprise</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 10,
+    "fieldName": "_p_Supplier_is_Individual__p_",
+    "name": "<p>Le fournisseur est un particulier</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 20,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "_p__br___p_",
+    "name": "<p>Cherchez-vous à intégrer un individu ou une entreprise ?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Company": "Entreprise",
+      "Individual": "Individuel"
+    },
+    "type": "field"
+  }
+]

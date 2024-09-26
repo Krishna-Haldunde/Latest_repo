@@ -1,0 +1,21 @@
+{
+  "--department--": "Departamento:",
+  "--companyEntity--": "Entidade Empresarial:",
+  "--startDate--": "Data de início:",
+  "--endDate--": "Data de fim:",
+  "--poTotal--": "PO Total:",
+  "--expenseItem--": "Itens de despesas",
+  "--requiredField--": "{{field}} é um campo obrigatório.",
+  "--purchaseOrder--": "Nota de Encomenda (PO)",
+  "--selectPurchaseOrder--": "Selecionar Nota de Encomenda (PO)",
+  "--reasonForAmendment--": "Motivo da alteração",
+  "--whatDoYouWantToChange--": "O que pretende mudar?",
+  "--extendTimeline--": "Prolongar o prazo",
+  "--currentTimeline--": "Prazo atual:",
+  "--additionalAmount--": "Valor adicional",
+  "--updateTimeline--": "Atualizar o prazo",
+  "--currentPoTotal--": "Total atual da PO:",
+  "--attachments--": "Anexos",
+  "--addAmountUpdateTimelines--": "Adicionar valor / atualizar prazos",
+  "--editPoLineItems--": "Editar itens da PO (Nota de Encomenda)"
+}

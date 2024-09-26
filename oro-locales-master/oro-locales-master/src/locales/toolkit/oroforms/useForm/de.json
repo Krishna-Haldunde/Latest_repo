@@ -1,0 +1,16 @@
+{
+  "--requiredField--": "{{field}} ist ein Pflichtfeld.",
+  "--title--": "Titel",
+  "--regionCountrySupplierUsed--": "Region oder Land, in dem der Lieferant verwendet wird",
+  "--chooseRegionCountry--": "Region/Land wählen",
+  "--servicesOfferedBySupplier--": "Vom Anbieter angebotene Dienstleistungen",
+  "--chooseServiceCategory--": "Dienstleistung / Kategorie wählen",
+  "--primaryBusinessEntity--": "Primäre Geschäftseinheit",
+  "--chooseBusinessEntity--": "Geschäftseinheit wählen",
+  "--additionalBusinessEntity--": "Zusätzliche Geschäftseinheit",
+  "--chooseAdditionalBusinessEntities--": "Wählen Sie weitere Unternehmenseinheiten",
+  "--user--": "Benutzer",
+  "--department--": "Abteilung",
+  "--commentDetails--": "Kommentar / Details",
+  "--addDetailsAboutBusinessNeed--": "Fügen Sie Details über den Geschäftsbedarf und den Projektumfang für diese Lieferantenanfrage hinzu"
+}

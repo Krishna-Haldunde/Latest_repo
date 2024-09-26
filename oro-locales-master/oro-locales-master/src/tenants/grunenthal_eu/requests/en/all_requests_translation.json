@@ -1,0 +1,211 @@
+[
+  {
+    "id": "Supplier Extension Workflow",
+    "requestName": "Supplier Extension",
+    "shortDescription": "Enable an existing GRT supplier to additional GRT company codes",
+    "stepTitles": {
+      "Procurement": "Procurement",
+      "Need": "Need",
+      "Details": "Details",
+      "Compliance": "Compliance",
+      "Quality": "Quality",
+      "Legal": "Legal",
+      "Review Process": "Review Process",
+      "Supplier": "Supplier",
+      "IT": "IT"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Supplier data update",
+    "requestName": "Supplier Update",
+    "shortDescription": "Change data of existing suppliers (bank data, contacts, payment terms, address, or company name)",
+    "stepTitles": {
+      "Procurement": "Procurement",
+      "Details": "Details",
+      "Applicable Updates": "Applicable Updates",
+      "Compliance": "Compliance",
+      "Quality": "Quality",
+      "Legal": "Legal",
+      "Review Process": "Review Process",
+      "Supplier": "Supplier",
+      "IT": "IT"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Fast Lane Onboarding",
+    "requestName": "Fast Lane Onboarding",
+    "shortDescription": "Used for direct material team only\nBusiness critical suppliers with SLA of 24h - test add",
+    "stepTitles": {
+      "Need": "Need",
+      "Details": "Details",
+      "Quality": "Quality",
+      "Legal": "Legal",
+      "Review Process": "Review Process",
+      "Choose Category": "Choose Category",
+      "Summary": "Summary",
+      "Supplier": "Supplier",
+      "Review": "Review"
+    },
+    "engagementAttributes": {
+      "priority": "priority"
+    }
+  },
+  {
+    "id": "Supplier Onboarding Workflow",
+    "requestName": "New supplier onboarding",
+    "shortDescription": "Create a new vendor with or without a TPDD",
+    "stepTitles": {
+      "Additional Categories": "Additional Categories",
+      "Need": "Need",
+      "Details": "Details",
+      "Quality": "Quality",
+      "Review Process": "Review Process",
+      "Choose Category": "Choose Category",
+      "Summary": "Summary",
+      "Supplier": "Supplier",
+      "IT": "IT"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Test category suggestion",
+    "requestName": "Test category suggestion",
+    "shortDescription": "Test category suggestion (Test Add)",
+    "stepTitles": {
+      "Procurement": "Procurement",
+      "Choose category": "Choose category",
+      "Compliance": "Compliance",
+      "Quality": "Quality",
+      "Documents": "Documents",
+      "Legal": "Legal",
+      "Review Process": "Review Process",
+      "Onboarding details": "Onboarding details",
+      "IT": "IT"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "TPDD Renewal",
+    "requestName": "TPDD Renewal",
+    "shortDescription": "Renew or conduct a TPDD for an existing supplier",
+    "stepTitles": {
+      "Details": "Details",
+      "Compliance": "Compliance",
+      "Review Process": "Review Process",
+      "Info": "Info"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Sanction and Adverse Media Check",
+    "requestName": "Sanction and Adverse Media Check",
+    "shortDescription": "Sanction and Adverse Media Check through lexisnexis",
+    "stepTitles": {
+      "Compliance": "Compliance",
+      "Documents": "Documents",
+      "Review Process": "Review Process",
+      "Info": "Info"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Test supplier notification",
+    "requestName": "Test supplier notification",
+    "shortDescription": "test supplier notification email content",
+    "stepTitles": {
+      "Procurement": "Procurement",
+      "Compliance": "Compliance",
+      "Quality": "Quality",
+      "Documents": "Documents",
+      "Legal": "Legal",
+      "Review Process": "Review Process",
+      "Supplier": "Supplier",
+      "Onboarding details": "Onboarding details",
+      "IT": "IT"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Test TPDD form",
+    "requestName": "Test TPDD form",
+    "shortDescription": "",
+    "stepTitles": {
+      "Procurement": "Procurement",
+      "Compliance": "Compliance",
+      "Quality": "Quality",
+      "Documents": "Documents",
+      "Legal": "Legal",
+      "Review Process": "Review Process",
+      "Supplier": "Supplier",
+      "Onboarding details": "Onboarding details",
+      "IT": "IT"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Test SIv2",
+    "requestName": "Test SIv2",
+    "shortDescription": "test supplier id v2",
+    "stepTitles": {
+      "Procurement": "Procurement",
+      "Compliance": "Compliance",
+      "Quality": "Quality",
+      "Documents": "Documents",
+      "Legal": "Legal",
+      "Review Process": "Review Process",
+      "Supplier": "Supplier",
+      "Onboarding details": "Onboarding details",
+      "IT": "IT"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Supplier onboarding request",
+    "requestName": "Supplier request",
+    "shortDescription": "For new and existing suppliers (extension)",
+    "stepTitles": {
+      "Guidance": "Guidance",
+      "Procurement": "Procurement",
+      "Basic": "Basic",
+      "Compliance": "Compliance",
+      "Individual": "Individual",
+      "Old": "Old",
+      "Quality": "Quality",
+      "Legal": "Legal",
+      "Supplier": "Supplier",
+      "IT": "IT"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Supplier Data Maintenance",
+    "requestName": "Supplier Data Maintenance",
+    "shortDescription": "Supplier Data Maintenance",
+    "stepTitles": {
+      "Details": "Details",
+      "Review Process": "Review Process",
+      "Type of Update": "Type of Update",
+      "Supplier": "Supplier"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Supplier Updates",
+    "requestName": "Update Supplier Info",
+    "shortDescription": "Supplier Updates",
+    "stepTitles": {
+      "Procurement": "Procurement",
+      "Compliance": "Compliance",
+      "Quality": "Quality",
+      "Documents": "Documents",
+      "Legal": "Legal",
+      "Review Process": "Review Process",
+      "Supplier": "Supplier",
+      "Onboarding details": "Onboarding details",
+      "IT": "IT"
+    },
+    "engagementAttributes": null
+  }
+]

@@ -1,0 +1,125 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Supplier Extension Contact Details",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 97,
+    "fieldName": null,
+    "name": "Existing Contact Details",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 74,
+    "fieldName": null,
+    "name": "Contact Details for Vendor Extension",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 93,
+    "fieldName": "MainContact",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Please add below </span>General Contact/s</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "General Contact",
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 82,
+    "fieldName": "addContactNeeded",
+    "name": "<p>Would you like to provide additional contacts?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 104,
+    "fieldName": "apContact",
+    "name": "<p><strong>﻿Account Receivable (AR) Team Contacts&nbsp;</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "Contact",
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 106,
+    "fieldName": "odContact",
+    "name": "<p><strong>Order Delivery Team (OD) Contact</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "Contact",
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 100,
+    "fieldName": "mainContact",
+    "name": "<p><strong>Primary Contact Person</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "Contact",
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 118,
+    "fieldName": "companyEntitiesEnabled",
+    "name": "<p>Requesting Company entities already enabled?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 87,
+    "fieldName": "q87__p_Which_of_the_below_contact_",
+    "name": "<p>Which of the below contact type would you like to add: </p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Business Entity/s Specific Contact/s": "Business Entity/s Specific Contact/s",
+      "General Contact/s": "General Contact/s"
+    },
+    "type": "field"
+  },
+  {
+    "id": 116,
+    "fieldName": "enabledCompanyEntitiesExist",
+    "name": "<p>Enabled Company entities exist?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 120,
+    "fieldName": "accountPayableContactList",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Please add below Business Entity Specific Contact/s</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

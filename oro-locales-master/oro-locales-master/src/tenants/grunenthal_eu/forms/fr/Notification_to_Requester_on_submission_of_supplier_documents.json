@@ -1,0 +1,72 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Notification au demandeur concernant la soumission des documents du fournisseur",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Objet du courriel",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 2,
+    "fieldName": null,
+    "name": "Corps du courriel",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 3,
+    "fieldName": null,
+    "name": "Instruction du courriel",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 4,
+    "fieldName": null,
+    "name": "Pied de page du courriel",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 10,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p>Cher collègue, </p><p><br></p><p>Nous avons le plaisir de vous informer que <strong><u>${supplierName}</u></strong> <strong>a terminé la soumission des formulaires requis dans ORO.</strong></p><p><br></p><p>Pour connaître les prochaines étapes, veuillez cliquer sur \"View details\" ci-dessous.</p><p>Pour un aperçu détaillé des réponses du fournisseur aux formulaires, vous pouvez accéder à la section \"Forms\" de votre demande.</p><p><br></p><p>Nous vous remercions de l'attention que vous portez à cette question.</p><p><br></p><p>Cordialement,</p><p>Gestion des fournisseurs Grünenthal</p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": null,
+    "name": null,
+    "description": "{supplierName} a correctement soumis les documents du fournisseur dans ORO",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

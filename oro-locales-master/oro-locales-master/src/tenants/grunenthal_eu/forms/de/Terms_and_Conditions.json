@@ -1,0 +1,114 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Datenschutzerklärung",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 25,
+    "fieldName": "q25__h5_Thank_you_for_completing_t",
+    "name": "<h5>Vielen Dank, dass Sie den Fragebogen ausgefüllt haben. Ihre Antworten werden nun vom Grünenthal-Team geprüft.</h5>",
+    "description": "<p><strong style=\\\"color: rgb(62, 68, 86);\\\"><em>Vielen Dank, dass Sie den Fragebogen ausgefüllt haben. Ihre Antworten werden nun vom Grünenthal-Team geprüft.</em></strong></p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 37,
+    "fieldName": null,
+    "name": null,
+    "description": "<p><a href=\\\"https://www.grunenthal.com/en/footer-links/privacy-statement-for-third-parties\\\" rel=\\\"noopener noreferrer\\\" target=\\\"_blank\\\" style=\\\"color: rgb(5, 99, 193);\\\">Datenschutzerklärung für Geschäftspartner, Lieferanten und sonstige Dritte | Grünenthal (</a><a href=\\\"http://grunenthal.com\\\" rel=\\\"noopener noreferrer\\\" target=\\\"_blank\\\" style=\\\"color: rgb(5, 99, 193);\\\">grunenthal.com</a><a href=\\\"https://www.grunenthal.com/en/footer-links/privacy-statement-for-third-parties\\\" rel=\\\"noopener noreferrer\\\" target=\\\"_blank\\\" style=\\\"color: rgb(5, 99, 193);\\\">)</a></p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 40,
+    "fieldName": null,
+    "name": null,
+    "description": "<p>Mit dem Absenden dieses Formulars bestätige ich, dass alle Angaben korrekt sind. Ich verpflichte mich, Grünenthal während der Dauer der Geschäftsbeziehung unverzüglich über jede wesentliche Änderung der in diesem Fragebogen gemachten Angaben zu informieren.</p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "_p__br___p_",
+    "name": "<p class=\"ql-align-justify\"><br></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "I have read and understood the Privacy Notice to be found in this document (see separate sheet) and herewith confirm that I am entitled to provide to Grünenthal the information contained in this questionnaire. If applicable, I will inform the data subjects the information in this questionnaire relates to about their data privacy rights according to Art. 13, 14 of the EU General Data Protection Regulation (“GDPR”), e.g. by forwarding the privacy notice to them.": "Ich habe den Datenschutzhinweis in diesem Dokument (siehe separates Blatt) gelesen und verstanden, und bestätige hiermit, dass ich berechtigt bin, Grünenthal die in diesem Fragebogen enthaltenen Informationen zur Verfügung zu stellen. Falls zutreffend, werde ich die betroffenen Personen, auf die sich die Informationen in diesem Fragebogen beziehen, über ihre Datenschutzrechte gemäß Art. 13, 14 der EU-Datenschutzgrundverordnung („DSGVO“) informieren, z. B. durch Weiterleitung des Datenschutzhinweises an sie."
+    },
+    "type": "field"
+  },
+  {
+    "id": 46,
+    "fieldName": "q46__p__span_style__color__rgb_62_",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Erklärung zum Datenschutz</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 13,
+    "fieldName": "q13__p_Would_you_like_to_provide_y",
+    "name": "<p>Möchten Sie die in Ihrem Unternehmen verwendeten <strong>Geschäftsbedingungen</strong> zur Verfügung stellen?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 16,
+    "fieldName": "q16__p_Please_upload_Terms__amp__C",
+    "name": "<p>Bitte laden Sie die <strong>Geschäftsbedingungen</strong> Ihres Unternehmens hoch</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 19,
+    "fieldName": "_p_Please_provide_a_reason__p_",
+    "name": "<p>Bitte geben Sie einen Grund an</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 10,
+    "fieldName": "q10__p_I_acknowledge_that_I_had_re",
+    "name": "<p>Ich bestätige, dass ich die oben genannten Richtlinien gelesen habe und ihnen zustimme</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

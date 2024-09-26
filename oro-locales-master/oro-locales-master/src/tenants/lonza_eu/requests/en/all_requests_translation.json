@@ -1,0 +1,233 @@
+[
+  {
+    "id": "Test process",
+    "requestName": "Test process",
+    "shortDescription": "Test process",
+    "stepTitles": {
+      "Procurement": "Procurement",
+      "Address": "Address",
+      "Compliance": "Compliance",
+      "Quality": "Quality",
+      "Legal": "Legal",
+      "Review Process": "Review Process",
+      "Supplier": "Supplier",
+      "Onboarding details": "Onboarding details",
+      "IT": "IT"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Supplier Onboarding Process",
+    "requestName": "Supplier Onboarding",
+    "shortDescription": "Wave 1",
+    "stepTitles": {
+      "Procurement": "Procurement",
+      "Business Need": "Business Need",
+      "Accounting data": "Accounting data",
+      "Quality": "Quality",
+      "Legal": "Legal",
+      "Review Process": "Review Process",
+      "Supplier": "Supplier",
+      "IT": "IT",
+      "Supplier Qualification Data": "Supplier Qualification Data"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Supplier Off-boarding Workflow",
+    "requestName": "Supplier Block/Unblock/Deactivate/Reactivate",
+    "shortDescription": "Wave 1",
+    "stepTitles": {
+      "Procurement": "Procurement",
+      "Request Details": "Request Details",
+      "Quality": "Quality",
+      "Legal": "Legal",
+      "Supplier": "Supplier",
+      "Review": "Review",
+      "Error info": "Error info"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Supplier Change Process",
+    "requestName": "Supplier Change",
+    "shortDescription": "Wave 1",
+    "stepTitles": {
+      "Procurement": "Procurement",
+      "Request Details": "Request Details",
+      "Payment Details": "Payment Details",
+      "Quality": "Quality",
+      "Review Process": "Review Process",
+      "Tax information": "Tax information",
+      "Classification data": "Classification data",
+      "Supplier": "Supplier",
+      "Onboarding details": "Onboarding details"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Supply Chain Partner Onboarding",
+    "requestName": "Supply Chain Partner Onboarding",
+    "shortDescription": "Wave 1",
+    "stepTitles": {
+      "Procurement": "Procurement",
+      "Business Need": "Business Need",
+      "Supplier qualification data": "Supplier qualification data",
+      "Quality": "Quality",
+      "Legal": "Legal",
+      "Review Process": "Review Process",
+      "Supplier": "Supplier",
+      "Error Info": "Error Info",
+      "Company information": "Company information"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "New Supplier Onboarding process",
+    "requestName": "Supplier Onboarding Request",
+    "shortDescription": "Wave 2",
+    "stepTitles": {
+      "Procurement": "Procurement",
+      "Business Need": "Business Need",
+      "Requester": "Requester",
+      "Quality": "Quality",
+      "Legal": "Legal",
+      "Review Process": "Review Process",
+      "Supplier": "Supplier",
+      "Accounting Information": "Accounting Information",
+      "Supplier Qualification Data": "Supplier Qualification Data"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Supplier Extension Process",
+    "requestName": "Supplier Extension",
+    "shortDescription": "Wave 1",
+    "stepTitles": {
+      "Procurement": "Procurement",
+      "Business Need": "Business Need",
+      "Compliance": "Compliance",
+      "Quality": "Quality",
+      "Legal": "Legal",
+      "Review Process": "Review Process",
+      "Onboarding details": "Onboarding details",
+      "Supplier Selection": "Supplier Selection",
+      "IT": "IT"
+    },
+    "engagementAttributes": {
+      "VendorID": "VendorID"
+    }
+  },
+  {
+    "id": "Supplier Light Screening Assessment",
+    "requestName": "Potential supplier screening",
+    "shortDescription": "Potential supplier screening",
+    "stepTitles": {
+      "Matching Supplier(s)": "Matching Supplier(s)",
+      "Business Justification": "Business Justification",
+      "Review Process": "Review Process",
+      "Supplier": "Supplier"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Supplier Bank verification Lonza",
+    "requestName": "Supplier Bank verification",
+    "shortDescription": "Supplier Bank verification",
+    "stepTitles": {
+      "Procurement": "Procurement",
+      "Compliance": "Compliance",
+      "Quality": "Quality",
+      "Documents": "Documents",
+      "Legal": "Legal",
+      "Review Process": "Review Process",
+      "Supplier": "Supplier",
+      "Onboarding details": "Onboarding details",
+      "IT": "IT"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Supplier Change Workflow for QA",
+    "requestName": "Supplier Change Workflow for QA",
+    "shortDescription": "Supplier Change Workflow for QA",
+    "stepTitles": {
+      "Procurement": "Procurement",
+      "Compliance": "Compliance",
+      "Quality": "Quality",
+      "Legal": "Legal",
+      "Review Process": "Review Process",
+      "Supplier": "Supplier",
+      "Onboarding details": "Onboarding details",
+      "IT": "IT",
+      "Change Details": "Change Details"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "DUNS API summary",
+    "requestName": "DUNS API summary",
+    "shortDescription": "DUNS API summary",
+    "stepTitles": {
+      "Procurement": "Procurement",
+      "Basic": "Basic",
+      "Details": "Details",
+      "Compliance": "Compliance",
+      "Quality": "Quality",
+      "Documents": "Documents",
+      "Legal": "Legal",
+      "Supplier": "Supplier",
+      "Budget": "Budget",
+      "IT": "IT"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Supplier Profile Update",
+    "requestName": "Supplier Profile Update",
+    "shortDescription": "Supplier Profile Update",
+    "stepTitles": {
+      "Procurement": "Procurement",
+      "Details": "Details",
+      "Compliance": "Compliance",
+      "Quality": "Quality",
+      "Legal": "Legal",
+      "IT": "IT"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Quality Test Process",
+    "requestName": "Quality Test Process",
+    "shortDescription": "Quality Test Process",
+    "stepTitles": {
+      "Procurement": "Procurement",
+      "Compliance": "Compliance",
+      "Quality": "Quality",
+      "Documents": "Documents",
+      "Legal": "Legal",
+      "Review Process": "Review Process",
+      "Supplier": "Supplier",
+      "Onboarding details": "Onboarding details",
+      "IT": "IT"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "New Supply Chain Partner Onboarding",
+    "requestName": "New Supply Chain Partner Onboarding",
+    "shortDescription": "New Supply Chain Partner Onboarding",
+    "stepTitles": {
+      "Supplier Qualification data": "Supplier Qualification data",
+      "Procurement": "Procurement",
+      "Business Need": "Business Need",
+      "Compliance": "Compliance",
+      "Quality": "Quality",
+      "Legal": "Legal",
+      "Review Process": "Review Process",
+      "Supplier": "Supplier",
+      "IT": "IT"
+    },
+    "engagementAttributes": null
+  }
+]

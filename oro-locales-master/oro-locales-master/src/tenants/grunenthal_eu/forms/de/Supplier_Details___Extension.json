@@ -1,0 +1,112 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Lieferantendetails",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Sonstige Details",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 26,
+    "fieldName": null,
+    "name": "Bankverbindung",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 19,
+    "fieldName": "primaryCategory",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Kategorie der vom Anbieter angebotenen Dienstleistung (vorausgefüllt)</span></p>",
+    "description": null,
+    "helpText": "<p><span style=\"color: rgb(68, 68, 68);\">Kategorie mit den voraussichtlich höchsten jährlichen Ausgaben an den Lieferanten</span></p>",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 39,
+    "fieldName": null,
+    "name": null,
+    "description": "<p><strong style=\\\"background-color: rgb(255, 255, 0);\\\">Hinweis:</strong><strong> </strong>Dem Lieferanten werden die Formulare zur Aktualisierung der Bankdaten zugesandt.</p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 81,
+    "fieldName": null,
+    "name": null,
+    "description": "<p><strong style=\\\"background-color: rgb(255, 255, 102);\\\">Hinweis:</strong> Nachdem sie den Antrag eingereicht haben,wird lhnen eine entsprechende Aufgabe zur Aktualisierung der Kontaktdaten zugeteilt.</p>",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 67,
+    "fieldName": "tpddExpired",
+    "name": "<p>Due Diligence für Geschäftspartner abgelaufen</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "isBankDetailsFromRequestor",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Müssen die Bankdaten des Anbieters aktualisiert werden?</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 69,
+    "fieldName": "tpddExpirationDate",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Ablaufdatum der Due Diligence für den Lieferanten</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 44,
+    "fieldName": "currency",
+    "name": "<p>Wählen Sie die Währung</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 78,
+    "fieldName": "q78__p_Would_you_like_to_review_up",
+    "name": "<p>Möchten Sie die Kontaktdaten des Anbieters überprüfen/aktualisieren?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

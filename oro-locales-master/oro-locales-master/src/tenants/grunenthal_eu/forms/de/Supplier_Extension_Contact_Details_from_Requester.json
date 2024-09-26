@@ -1,0 +1,125 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Kontaktdetails Lieferantenverlängerung",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 97,
+    "fieldName": null,
+    "name": "Bestehende Kontaktdetails",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 74,
+    "fieldName": null,
+    "name": "Kontaktdetails für Lieferantenverlängerung",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 93,
+    "fieldName": "MainContact",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Fügen Sie unten</span> allgemeine Ansprechpartner</p> hinzu",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "Allgemeiner Ansprechpartner",
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 82,
+    "fieldName": "addContactNeeded",
+    "name": "<p>Möchten Sie weitere Kontakte angeben?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 104,
+    "fieldName": "apContact",
+    "name": "<p><strong>Kontakt Debitorenbuchhaltung&nbsp;</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "Kontakt",
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 106,
+    "fieldName": "odContact",
+    "name": "<p><strong>Kontakt Versand Team (OD)</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "Kontakt",
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 100,
+    "fieldName": "mainContact",
+    "name": "<p><strong>Primärer Ansprechpartner</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "Kontakt",
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 118,
+    "fieldName": "companyEntitiesEnabled",
+    "name": "<p>Anfordernde Geschäftseinheiten bereits aktiviert?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 87,
+    "fieldName": "q87__p_Which_of_the_below_contact_",
+    "name": "<p>Welche der folgenden Kontaktarten möchten Sie hinzufügen:</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Business Entity/s Specific Contact/s": "Bestimmter Kontakt für Geschäftseinheit(en)",
+      "General Contact/s": "Allgemeiner Kontakt"
+    },
+    "type": "field"
+  },
+  {
+    "id": 116,
+    "fieldName": "enabledCompanyEntitiesExist",
+    "name": "<p>Die aktivierten Geschäftseinheiten existieren?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 120,
+    "fieldName": "accountPayableContactList",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Fügen Sie unten Ansprechpartner der Geschäftseinheit hinzu</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

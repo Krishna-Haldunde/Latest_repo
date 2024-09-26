@@ -1,0 +1,50 @@
+[
+  {
+    "id": null,
+    "name": "Onboarding Supply-Chain-Partner",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 2,
+    "name": "Präliminäre Standort-QA-Überprüfung",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 6,
+    "name": "Qualitätsworkflow für das Onboarding von Supply-Chain-Partnern",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 8,
+    "name": "Lieferantenstatus aktualisieren",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 7,
+    "name": "Datenfehler bei der Erstellung der Lieferkette beheben",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 3,
+    "name": "Supply Chain Partner anlegen",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 10,
+    "name": "Update-Umfang",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 9,
+    "name": "Benachrichtigung über Ablehnung des Lieferanten an den Antragsteller",
+    "type": null,
+    "description": "Die Anlegung des Lieferanten wird von der Standort-QA abgelehnt."
+  }
+]

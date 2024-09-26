@@ -1,0 +1,122 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Approbation du responsable de l'approvisionnement.",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 32,
+    "fieldName": null,
+    "name": "Besoin opérationnel",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Entités commerciales",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 22,
+    "fieldName": null,
+    "name": "Catégorie",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 38,
+    "fieldName": "q38__p__span_style__color__rgb_62_",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Brève description du produit / service fourni à Grünenthal</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 17,
+    "fieldName": "_p_Company_entity___p_",
+    "name": "<p>Entité commerciale Grünenthal principale pour la demande</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 41,
+    "fieldName": "q41__p__span_style__color__rgb_87_",
+    "name": "Estimation des dépenses annuelles totales avec le<p><span style=\"color: rgb(87, 95, 112);\"> </span>fournisseur</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 35,
+    "fieldName": "_p_Supplier_name__p_",
+    "name": "<p>Nom du fournisseur</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 28,
+    "fieldName": "q28__p__span_style__color__rgb_62_",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Catégories supplémentaires du service proposé par le </span>fournisseur<span style=\"color: rgb(62, 68, 86);\">, le cas échéant.</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 25,
+    "fieldName": "q25__p_Category_for_the_request__p",
+    "name": "<p>Catégorie de la demande</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": "q7__p_Please_select_the_applicabl",
+    "name": "<p>Veuillez ajouter d'autres <span style=\"color: rgb(62, 68, 86);\">entités commerciales si nécessaire</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 47,
+    "fieldName": "_p_Is_IT_demand__Hidden___p_",
+    "name": "<p>Y a-t-il une exigence en matière de demande informatique ? (masqué)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

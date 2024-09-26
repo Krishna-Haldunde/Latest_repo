@@ -1,0 +1,242 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Vendor Details from Requestor",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 197,
+    "fieldName": null,
+    "name": "Currency",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Compliance",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 84,
+    "fieldName": null,
+    "name": "Animal Welfare",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 77,
+    "fieldName": null,
+    "name": "Environment, Health & Safety",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 145,
+    "fieldName": null,
+    "name": "GxP Compliance",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 149,
+    "fieldName": null,
+    "name": "Information Technology",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 87,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><span style=\\\"color: rgb(62, 68, 86); background-color: rgb(255, 255, 0);\\\">Note:</span><span style=\\\"color: rgb(62, 68, 86);\\\"> Responding \\\"</span><strong style=\\\"color: rgb(62, 68, 86);\\\">Yes</strong><span style=\\\"color: rgb(62, 68, 86);\\\">\\\" to this question will trigger an action for completion of the Animal Welfare onboarding process</span></p>\"",
+    "helpText": "<p><strong style=\"color: rgb(62, 68, 86);\">Note for requester: </strong>You are required to complete the Animal Welfare questionnaire&nbsp; before the vendor can be created. This process is to be done outside of ORO. For more information please contact Animal Welfare Group - <a href=\"http://AWWG@grunenthal.com\" rel=\"noopener noreferrer\" target=\"_blank\">AWWG@grunenthal.com</a></p>",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 83,
+    "fieldName": "q83__p__strong_style__background_c",
+    "name": "<p><strong style=\"background-color: rgb(255, 255, 0);\">Note:</strong> Responding \"yes\" to this question will trigger an action for completion of the EHS onboarding process</p>",
+    "description": "\"<p><span style=\\\"color: rgb(62, 68, 86); background-color: rgb(255, 255, 0);\\\">Note:</span><span style=\\\"color: rgb(62, 68, 86);\\\"> </span>Responding \\\"<strong>Yes</strong>\\\" to this question will trigger an action for completion of the Environment, Health &amp; Safety onboarding process</p>\"",
+    "helpText": "<p><strong>Note for requester</strong>: You are required to complete the EHS onboarding questionnaire&nbsp; before the vendor can be created. This process is to be done outside of ORO. For more information please contact the Job Supervisor/Job Owner who has been trained in this process</p>",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 144,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><span style=\\\"background-color: rgb(255, 255, 0);\\\">Note : </span>Please trigger <span style=\\\"color: rgb(68, 68, 68);\\\">DPA process in eContract.</span></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 148,
+    "fieldName": "_p_BD__p_",
+    "name": "<p>Is the <span style=\"color: rgb(62, 68, 86);\">vendor</span> GxP relevant?</p>",
+    "description": null,
+    "helpText": "<p>GxP relevant <span style=\"color: rgb(62, 68, 86);\">vendor</span> usually supply products/materials that come into direct contact with the product or products/services that are used in the cleanroom or are used for the production of pharmaceuticals.</p>",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 22,
+    "fieldName": "q22__p_Are_the_studies_performed_b",
+    "name": "<p>Are the studies performed by the vendor including animal tissues?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 80,
+    "fieldName": "q80__p__span_style__color__rgb_31_",
+    "name": "<p>Is the vendor going to perform an activity in the Grünenthal facilities?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 200,
+    "fieldName": "q200__p_Please_select_the_currency_",
+    "name": "<p>Please select the currency of the supplier </p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 13,
+    "fieldName": "q13__p_Will_personal_data_be_proce",
+    "name": "<p>﻿Will personal data be processed by the third party on behalf of Grünenthal?</p>",
+    "description": null,
+    "helpText": "<p>i - ‘Personal data’ means any information relating to an identified or identifiable natural person (‘data subject’); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.'</p><p><br></p><p>ii - '<span style=\"color: rgb(87, 95, 112);\">The term processing is very broad and does not only encompass the storage of personal data, but also the collection, recording, structuring, alteration, consultation, usage, dissemination or destruction of personal data. This means that, in practice, all activities performed on personal data may involve the processing of personal data'</span></p><p><br></p>",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": "q7__p_Does_the_vendor_require_an_",
+    "name": "<p>Does the vendor require an advance payment?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 152,
+    "fieldName": "q152__p_Are_the_goods_services_you_",
+    "name": "<p>Are the goods/services you are planning to buy related to any type of Information Technology solution and/or Information Technology related services?</p>",
+    "description": null,
+    "helpText": "<p>An IT service could be software, software as a Service (SaaS), IT consulting / support, but also Business Process Outsourcing that is supported by an IT solution or a SaaS. SaaS may include external web hosting services (e.g. IaaS, PaaS or any kind of managed service).</p>",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 186,
+    "fieldName": "q186__p__span_style__color__rgb_62_",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">IT Demand #</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 194,
+    "fieldName": "itBusinessPartner",
+    "name": "<p>Select IT Business Partner team / IT local Business Partner</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 155,
+    "fieldName": "q155__p_Is_there_an_IT_demand_relat",
+    "name": "<p>Is there an IT demand related to this?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 203,
+    "fieldName": "primaryCategory",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Primary category of the service offered by the vendor</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 206,
+    "fieldName": "applicableNaceCode",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Applicable NACE Code</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 50,
+    "fieldName": "q50__p__span_style__color__rgb_31_",
+    "name": "<p>Will this service require the vendor to interact with public authorities, public officials, or health care professionals on Grünenthal’s behalf?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 177,
+    "fieldName": "q177__p__em_Does_the_vendor_have_th",
+    "name": "<p>Does the vendor have the capacity to influence the prescription of medicines?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

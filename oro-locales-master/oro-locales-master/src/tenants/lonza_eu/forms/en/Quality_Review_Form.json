@@ -1,0 +1,158 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Site QA Review For Requested Vendor",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 25,
+    "fieldName": "dmsDocumentID",
+    "name": "<p><strong>Please add Lonza DMS Document ID:</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "isClientQualificationCompleted",
+    "name": "<p><strong>Is the supplier client qualification successfully completed?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 8,
+    "fieldName": "isChangeNotification",
+    "name": "<p><strong>Change notifications will be provided by the supplier?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 10,
+    "fieldName": "isSCDReviewComplete",
+    "name": "<p><strong>Has SCD (or equivalent supplier documentation) been reviewed and is considered complete and accurate?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 6,
+    "fieldName": "q6_isLocalSupplierQualificationCo",
+    "name": "<p><strong>Is qualification per local procedure successfully completed?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 42,
+    "fieldName": "errorInstruction",
+    "name": null,
+    "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>You cannot proceed without accurate and complete SCD.</em></strong></p><p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>Please go back to the supplier to provide the correct information.</em></strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 16,
+    "fieldName": "q16_isServiceProviderAssessmentReq",
+    "name": "<p><strong>Is Supplier/Service Provider Assessment Request required (new, re-assessment or update)?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 19,
+    "fieldName": "isServiceProvideQAARequired",
+    "name": "<p><strong>Is Supplier/Service Provider QAA/SCL required (new, re-assessment or update)?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 33,
+    "fieldName": "complianceCategory",
+    "name": "<p><strong>Select compliance classification per GROUP-125419:</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "N/A": "N/A",
+      "Distributor Level 1": "Distributor Level 1",
+      "Distributor Level 2": "Distributor Level 2",
+      "Service Provider to Lonza": "Service Provider to Lonza",
+      "Legal Manufacturer": "Legal Manufacturer"
+    },
+    "type": "field"
+  },
+  {
+    "id": 22,
+    "fieldName": "sclExists",
+    "name": "<p><strong>Does any type of QAA or SCL exist for the Company / site, its holding/parent company to the best of your knowledge?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 31,
+    "fieldName": "activity",
+    "name": "<p><strong>Select activity of Requested Vendor per SDC, according to GROUP-125419:</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Distribution Center": "Distribution Center",
+      "Agent": "Agent",
+      "N/A": "N/A",
+      "Original Manufacturer": "Original Manufacturer",
+      "Software Development": "Software Development",
+      "Sales Office": "Sales Office",
+      "Equipment Assembly": "Equipment Assembly",
+      "Material Sterilizer": "Material Sterilizer",
+      "Packer / Re-packer": "Packer / Re-packer"
+    },
+    "type": "field"
+  },
+  {
+    "id": 36,
+    "fieldName": "trackwiseSMR",
+    "name": "<p><strong>If TrackWise SMR exists, please add SMR number:</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

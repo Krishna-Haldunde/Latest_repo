@@ -1,0 +1,18 @@
+{
+  "--howToCreateVendorRecord--": "如何创建供应商记录？",
+  "--vendorRecordInfo--": "供应商记录信息",
+  "--primaryBusinessEntity--": "主要业务实体",
+  "--choose--": "选择",
+  "--additionalBusinessEntity--": "附加商业实体",
+  "--eligible--": "1099 税表适用",
+  "--no--": "否",
+  "--yes--": "是",
+  "--syncToProcurify--": "同步到 Procurify",
+  "--paymentTerms--": "付款条件",
+  "--primaryCurrency--": "主要货币",
+  "--defaultExpenseAccount--": "默认支出账户",
+  "--supplierClassification--": "供应商分类",
+  "--vendorID--": "供应商 ID",
+  "--requiredField--": "{{name}}是必填项。",
+  "--apReviewOutcome--": "AP 审查结果"
+}

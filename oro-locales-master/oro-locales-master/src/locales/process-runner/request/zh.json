@@ -1,0 +1,13 @@
+{
+  "--requestedOn--": "请求日期",
+  "--estimatedCompletion--": "预计完成",
+  "--completedOn--": "完成日期",
+  "--deniedOn--": "拒绝日期",
+  "--cancelledOn--": "取消日期",
+  "--cardView--": "卡片视图",
+  "--listView--": "列表视图",
+  "--listIsEmpty--": "没有要显示的请求",
+  "--addToList--": "添加到列表",
+  "--deleteList--": "删除列表",
+  "--areYouSureYouWantToPermanentlyDeleteThisList--": "您确定要永久删除此列表吗？"
+}

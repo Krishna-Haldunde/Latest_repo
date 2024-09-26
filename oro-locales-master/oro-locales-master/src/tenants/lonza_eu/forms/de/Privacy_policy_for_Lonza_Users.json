@@ -1,0 +1,32 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Datenschutzrichtlinie für Lonza-Benutzer",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 4,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><strong style=\\\"color: black;\\\"><em>Wenn Sie das System verwenden, beispielsweise für das Onboarden eines neuen Lieferanten, werden Ihr Name und Ihre E-Mail-Adresse möglicherweise an diesen Lieferanten weitergegeben, damit dieser mit Ihnen kommunizieren kann, um zusätzliche Informationen anzufordern oder Fragen zu klären.</em></strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

@@ -1,0 +1,153 @@
+{
+  "--oroAI--": "ORO 人工智能",
+  "--guidingYouToRightChannels--": "获取针对您业务需求的指导帮助",
+  "--describeYourBusinessNeed--": "描述您的业务需求...",
+  "--describeYourNeed--": "描述您的需求",
+  "--startNewRequest--": "开始新请求",
+  "--enrichYourDescription--": "用预计支出和供应商（如有）等详细信息丰富您的描述。",
+  "--generating--": "正在生成",
+  "--searching--": "正在搜索",
+  "--capturingResponse--": "正在捕获您的回复",
+  "--close--": "退出",
+  "--describeYourBusinessNeedAi--": "我们开始吧！请描述您的业务需求，包括预算、规格和时间表。（提供越多详细信息，建议就越精准）",
+  "--uploadProposal--": "上传提案",
+  "--uploadDocumentAi--": "已有提案了吗？上传以提取所有详细信息，繁重的工作交给人工智能",
+  "--uploadDocument--": "上传文件以提取值",
+  "--attach--": "附加",
+  "--skipQuestion--": "跳过问题",
+  "--notSure--": "不确定如何回答？",
+  "--comingSoon--": {
+    "--comingSoon--": "即将推出！",
+    "--primaryMessage--": "我们目前正在处理此请求，以便为您提供最佳体验。",
+    "--secondaryMessage--": "如果情况紧急，请联系专家。"
+  },
+  "--tips--": {
+    "--hereAreExamples--": "以下是一些为您准备的入门示例",
+    "--tip1--": "购买 3D 打印机，用于制作研发药物样本，预算约为 20,000 美元",
+    "--tip2--": "为会议活动购买 1000 件定制 T 恤；预算 10,000 美元",
+    "--tip3--": "与 Moving Brands 合作创建 125,000 美元的订单，以开展秋季活动的创意工作"
+  },
+  "--category--": {
+    "--classifyingYourNeed--": "已选类别",
+     "--classifyYouNeedSoWeCanGuide--": "选择最适合您需求的类别，以便快速找到适合您的解决方案。"
+  },
+  "--supplier--": {
+    "--showMore--": "显示更多",
+    "--showLess--": "显示更少",
+    "--supplier--": "供应商",
+    "--duns--": "DUNS 编码：",
+    "--select--": "选择",
+    "--selectedSupplier--": "选定的供应商",
+    "--skipSupplierSelection--": "暂时跳过供应商遴选",
+    "--selectSupplier--": "需要供应商遴选",
+    "--foundSomeSuppliers--": "此处为符合您业务需求的首选供应商推荐。使用它们将加快您的订单。",
+    "--recentlyUsedFor--": "最近用于：",
+    "--productUsedBy--": "{{user}}（{{department}}）使用了{{product}}",
+    "--preferredFor--": "首选情况：",
+    "--multiple--": "多个",
+    "--enterSupplierName--": "输入供应商名称",
+    "--weFoundMatches--": "我们找到了“{{name}}”的一些匹配项 - 请选择一项",
+    "--looksLikeNewSupplier--": "看起来您正在与一家新供应商合作。",
+    "--shareSupplierDetails--": "请分享以下供应商详细信息",
+    "--supplierName--": "供应商名称",
+    "--enterName--": "输入名称",
+    "--nameIsRequired--": "名称为必填项",
+    "--supplierContact--": "供应商联系人",
+    "--contractRequired--": "需要提供联系人",
+    "--enterEmail--": "输入电子邮箱 ID",
+    "--continue--": "继续",
+    "--searchSupplier--": "您希望与哪家供应商合作？",
+    "--searchAnotherSupplier--": "搜索其他供应商",
+    "--skipSelection--": "跳过供应商选择",
+    "--skipSuggestions--": "跳过建议",
+    "--viewRecommendations--": "查看推荐",
+    "--pleaseCompleteDetails--": "请填写详细信息",
+    "--youAreWorkingWith--": "看起来您正在与一家<1>新供应商</1>合作。",
+    "--recentTransaction--": "近期交易",
+    "--vendorId--": "ID：",
+    "--wouldYouConsider--": "您是否愿意考虑在此次合作中使用首选供应商？",
+    "--usingThemSaveTime--": "使用首选供应商将节省您的时间和金钱。",
+    "--skippedSupplierSelection--": "- 跳过供应商遴选 -",
+    "--haveAnotherSupplier--": "您有心仪的供应商吗？",
+    "--search--": "搜索"
+  },
+  "--estimate--": {
+    "--estimateSpend--": "您的预计支出",
+    "--pleaseConfirmEstimateSpend--": "请确认您的预计支出。这有助于我们找到适合您预算的解决方案。",
+    "--continue--": "继续"
+  },
+  "--buyingChannel--": {
+    "--basedOnNeedYouCanStartWith--": "就快完成了！根据您的需求，我们建议您采取以下后续步骤",
+    "--select--": "选择"
+  },
+  "--buyingChannelForm--": {
+    "--close--": "关闭",
+    "--cancel--": "取消",
+    "--submit--": "提交",
+    "--home--":"首页",
+    "--somethingWentWrong--": "出错了...",
+    "--notAbleToSubmit--": "目前无法提交请求。您可以手动尝试：",
+    "--clickHereToStart--": "单击此处开始请求",
+    "--submittedSuccessfully--": "您的请求已提交。",
+    "--submittingYourRequest--": "正在提交您的请求。请稍候...",
+    "--loading--": "正在加载。请稍候...",
+    "--keepYouUpdated--": "我们将持续向您通报后续进展。"
+  },
+  "--punchout--": {
+    "--basedOnNeedYouCanStartWith--": "根据您的需要，您可以首先开始",
+    "--continueExploring--": "继续探索",
+    "--notTheResultYouLooking--": "不是您正在寻找的结果？"
+  },
+  "--compliance--": {
+    "--continue--": "继续",
+    "--ComplianceQuestionnaire--": "合规调查问卷"
+  },
+  "--transactions--": {
+    "--details--": "详细信息",
+    "--requester--": "请求者",
+    "--date--": "日期",
+    "--spend--": "支出"
+  },
+  "--catalog--": {
+    "--weFoundSomeRecommendations--": "就快完成了！根据您的需求，我们建议您采取以下后续步骤",
+    "--spendLimit--": "支出限额：",
+    "--foundMatchingItems--": "找到匹配项目",
+    "--couldNotFindMatchingItems--": "未找到匹配项目",
+    "--noImageAvailable--": "没有可用的图像",
+    "--seeMore--": "查看更多",
+    "--inMarketplace--": "在 {{marketplaceName}}",
+    "--notTheResultYouLooking--": "不是您正在寻找的结果？",
+    "--notApplicableContinueExploring--": "继续探索",
+    "--searchingForMatching--": "正在搜索匹配项目",
+    "--goTo--": "转到 {{name}}"
+  },
+  "--proposal--": {
+    "--capturedDetails--": "从附件中提取的详细信息：",
+    "--reviewAndConfirmExtractedDetail--": "上传报价后，检查并确认所提取详细信息的准确性。",
+    "--title--": "标题",
+    "--description--": "描述",
+    "--agreementType--": "协议类型：",
+    "--contact--": "联系人",
+    "--region--": "地区",
+    "--paymentTerms--": "付款条件",
+    "--amount--": "金额",
+    "--supplier--": "供应商",
+    "--continue--": "继续",
+    "--unableToExtractDetails--":"我们目前无法提取该文件的内容。",
+    "--continueToProceed--":"请点击“继续”"
+  },
+  "--po--": {
+    "--purchaseOrder--": "采购订单",
+    "--supplier--": "供应商",
+    "--requestor--": "请求者",
+    "--status--": "状态",
+    "--created--": "已创建：",
+    "--viewAll--": "查看全部",
+    "--overview--": "以下是采购订单的概述",
+    "--foundList--": "以下是我们发现的采购订单清单"
+  },
+  "--generalchat--": {
+    "--note--": "专业提示",
+    "--tip--": "包括有关供应商/物料编号/框架协议编号的详细信息以获得更准确的结果"
+  }
+}
