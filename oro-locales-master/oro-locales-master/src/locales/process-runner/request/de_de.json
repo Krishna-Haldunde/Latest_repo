@@ -1,0 +1,13 @@
+{
+  "--requestedOn--": "øøøøøøøøø øø",
+  "--estimatedCompletion--": "øøøøøøøøø øøøøøøøøøø",
+  "--completedOn--": "øøøøøøøøø øø",
+  "--deniedOn--": "øøøøøø øø",
+  "--cancelledOn--": "øøøøøøøøø øø",
+  "--cardView--": "øøøø øøøø",
+  "--listView--": "øøøø øøøø",
+  "--listIsEmpty--": "øø øøøøøøøø øø øøøøøøø",
+  "--addToList--": "øøø øø øøøø",
+  "--deleteList--": "øøøøøø øøøø",
+  "--areYouSureYouWantToPermanentlyDeleteThisList--": "øøø øøø øøøø øøø øøøø øø øøøøøøøøøøø øøøøøø øøøø øøøø?"
+}
