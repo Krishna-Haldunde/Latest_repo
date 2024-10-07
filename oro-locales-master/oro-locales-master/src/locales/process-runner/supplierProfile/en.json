@@ -1,8 +1,8 @@
 {
   "--tab--": {
-    "--home--": "Home",
-    "--spend--": "Spend",
-    "--erpDetails--": "ERP Details",
+    "--home--": "Home_Testing",
+    "--spend--": "Spend_Testing",
+    "--erpDetails--": "ERP Details_Testing",
     "--documents--": "Documents",
     "--contact--": "Contact",
     "--notes--": "Notes"
